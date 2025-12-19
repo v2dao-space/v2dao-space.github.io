@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D/无码】BinaryGloves大佬公开作品合集"}],["$","p",null,{"children":"前些天在P站看到的一位作者 当时说在申请patreon 现在已经OK了P站作品介绍里的mega盘链接属于是公开部分 包括场景数据（比视频还大）  视频不长 也没有配音 开场就干 有终结动画 而且也算是新作者 还是期待一手现有的几个视频看下来 算是非常符合我XP了 百合+足 还有美少女扶她除了有一个花火的可能是早期作品是骑兵之外 别的都是步兵了  非公开的我就按照惯例的每月合集那样打包吧作者PIXIV主页：https://www.pixiv.net/users/27270994patreon主页："}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/c1ba8da49b94fa2561a15dfc6262015e","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

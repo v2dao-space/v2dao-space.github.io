@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无码】Tower of Megami Descents"}],["$","p",null,{"children":"本作的目标是要盖出一座高高的昇天塔 除了尝试获得更高的分数以外 让女神获得「快感」也是游戏的主要目标 女神获得快感之后将会依照分数赠与玩家「女神币」 在选择技能时、游戏结束时、达到高空时，都能看到女神的不同样貌 游戏玩法 每当「棒」叠加10层就会弹出技能选择界面 选择界面中将会从6种女神技能中随机出"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/jdmuYCUezEma","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

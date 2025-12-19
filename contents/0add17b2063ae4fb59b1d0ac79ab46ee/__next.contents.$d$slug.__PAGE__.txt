@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/AI汉化】悪夢 絶望～青い果実の散花～Twin Pack Edition"}],["$","p",null,{"children":"社团名StudioMebius贩卖日2009-04-24年龄指定18禁作品类型冒险 有声音 有音乐支持的语言日文分类悪夢：眼镜 萝莉 制服 学校/学园 羞辱 限制自由 放尿/小便 肛交 巨乳/爆乳 处女絶望：萝莉 女教师 制服 女仆 侍女 死库水/校园 学校/学园 羞辱 限制自由 造孽 处女绝望是噩梦的续作。复制的dlsite上的HDワイドスクリーン版的简介和图片：悪夢 ～青い果実の散花～：◆ゲーム概要「聖エクセレント学園」のヒロイン23名のうち10名を主人公「紳一」が陵○し、残る13名を部下3"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/0add17b2063ae4fb59b1d0ac79ab46ee","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

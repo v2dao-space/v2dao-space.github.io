@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【未汉化/SLG】アミちゃんといっしょ ～性処理係と一つ屋根の下で～"}],["$","p",null,{"children":"story山奥にある田舎に久しぶりに帰省した主人公。そこで出会った少女――アミに主人公は一目惚れをする。「この子は村の性処理係なんだよ」ある日、主人公は村の男に迫られているアミを見つける。両親のいないアミは村人に養ってもらうために、村中の男たちの性処理係をしていた。その状況に憤慨した主人公は、アミを引き取ることを決意する。「これからは俺一人でアミちゃんを養ってやる――だから、俺だけの性処理係になれ」「お兄さん専用の性処理係になります――どうせ私には拒否権なんてありませんから」少し歪な二人きりの同"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/773953","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

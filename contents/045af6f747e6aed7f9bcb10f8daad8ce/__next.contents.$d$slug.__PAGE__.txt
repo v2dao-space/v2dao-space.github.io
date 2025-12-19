@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【MMD/有码】fux合集【77V/13G】"}],["$","p",null,{"children":"https://fantia.jp/fanclubs/24336神仙作者，除了有几部是商品，其它作品都是免费的。但自从2024年3月之后就没活动了。有配音有音效，都是第一人称视角，不过镜头有点太近了，大部分时候只看得到脸( ﾟ∀。)然后这是作者的解释：道理我都懂，但为什么鸽子那么大。唯一一部vr的视频看起来观感要好多了，还有两部ASMR的视频也很不错。部分纯音乐的视频是发布在YouTube上的，算是穿衣差分了吧。然而没加配音和音效还是被ban了。另外卖的那几部，就差一个“【主観】ゆさぶられるしま"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/045af6f747e6aed7f9bcb10f8daad8ce","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

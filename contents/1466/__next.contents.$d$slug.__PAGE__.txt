@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG/汉化]绿帽骑士琳恩的赎罪之旅 云翻汉化[安卓][550M]"}],["$","p",null,{"children":"\n\n\n\n绿帽骑士琳恩的赎罪之旅 云翻汉化（寝取られ騎士リーンの償いの旅 ）\n\n\n\n游戏介绍：为了保护恋人，被冤枉的骑士琳恩恢复原来生活的条件只有一个。成为罪人士兵与魔物战斗，获得许多免罪点。\n\n\n\n罪人士兵没有信任，等待他们的是孤独而残酷的日子。找帮手、准备工具都很辛苦能用的东西都得用。即使那是自己的身体…\n\n\n\n\n\n\n\n部分魔物在战斗中可使用“引诱”指令通过伸出身体，魔物变成贤者状态，力量大幅削"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1466","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

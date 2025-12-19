@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG] 官方中文+更新  妈妈NTR训练  Ep. 7  Mother NTR Training Ep. 7"}],["$","p",null,{"children":"你扮演詹姆斯，一名 18 岁的高中生，童年时期经历了可怕的创伤，在一次有预谋的抢劫中亲眼目睹了父亲的死亡。从那时起，你一直被朋友欺负，因为你看起来软弱和脆弱。\n你亲爱的母亲露西在与父亲一起担任秘书之前曾是健身教练。不过，即使是你的妈妈也无法对你的欺负者做任何事情，因为殴打青少年将被视为刑事犯罪。\n这迫使你和你妈妈不断搬到不同的地方为你寻找更好的学校，但不幸的是，这使你妈妈无法工作，现在负债累累。\n幸运的是，你父亲的老朋友罗恩为你提供了解决方案。你去他的私立高中，并和他的孩子成为朋友，他会确保你和你妈妈有一个温暖的住所。这对你是最好的交易。这就像是一箭双雕。\n但现在，你的母亲露西又得找新的工作了。\n你妈妈会选择什么样的工作呢？她将遇到什么样的人？选择权都在你手中！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/0AprFLdBDg5M","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

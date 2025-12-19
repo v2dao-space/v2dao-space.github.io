@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行】[左藤空気] Corrupted party～堕ちた乙女達～Corrupted Party～沉淪的少女們～ [中国翻訳] [DL版]"}],["$","p",null,{"children":"  \n  \n  \n  \n歡迎來到痴狂女孩們充滿魅惑的NTR悖德盛宴──左藤空気老師，充滿衝撃性的最新NTR單行本終於發行中文版！\n以漫畫誌《comicアンスリウム》大受歡迎的插畫連載企劃〈詩乃頻道〉為首，單行本收錄了人氣超絕的同人社團「Vパン’sエクスタシー」所創作的8本NTR同人誌！尺寸為與雜誌相"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/EynRX9m-Ql85","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【PC/安卓模拟/RPG】街头猎艳 东京篇（街ヤリ 東京編 〜この街で何か始まる〜）汉化版+探索动态RPG游戏+1.31G"}],["$","p",null,{"children":"街头猎艳 东京篇（街ヤリ 東京編 〜この街で何か始まる〜）汉化版+探索动态RPG游戏+1.31G    游戏简介： 本作以东京都市为实验室，通过社会行为观察视角，记录现代人际交往中 的信任建立过程。玩家将以社会学研究者身份，分析1\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/s03JQ02SBCunr7yu","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

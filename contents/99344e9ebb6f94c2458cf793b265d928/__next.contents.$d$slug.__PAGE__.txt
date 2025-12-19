@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中】伟大命运与永恒少女V1.02"}],["$","p",null,{"children":"继续补失效资源，补档接力。依旧是Steam资源，还请谅解。マグナ・フォルトゥナ～偉大なる運命と永遠の少女～社团名DOPPELGESICHT贩卖日2017年11月18日更新信息2018年08月18日作者おちんさま剧情おちんさま插画おちんさま年龄指定18禁作品类型角色扮演有音乐文件形式软件支持的语言日文分类女性视角 制服 过膝袜 羞辱 黑发 处女文件容量1.33GB购买地址：steam：https://store.steampowered.com/app/1122730/Magna_Fortuna/"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/99344e9ebb6f94c2458cf793b265d928","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

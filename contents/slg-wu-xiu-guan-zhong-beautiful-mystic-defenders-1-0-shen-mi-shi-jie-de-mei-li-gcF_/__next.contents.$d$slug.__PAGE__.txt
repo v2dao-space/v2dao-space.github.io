@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/无修/官中】 Beautiful Mystic Defenders 1.0 / 神秘世界的美丽俏女神 1.0【百度/1G】"}],["$","p",null,{"children":"https://store.steampowered.com/app/1667130/Beautiful_Mystic_Defenders/?l=tchinese 王国保卫战色色版  风灵月影宗-柒年 神秘俏女神是一款深度的塔防遊戲。你將成為神秘國度的救世主並協助她們抵禦成群結隊的魔物，並沉浸在擁有"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/slg-wu-xiu-guan-zhong-beautiful-mystic-defenders-1-0-shen-mi-shi-jie-de-mei-li-gcF_","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

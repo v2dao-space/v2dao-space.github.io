@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/机翻汉化】Naughty Store Manager v0.94"}],["$","p",null,{"children":"入正 Naughty Store Manager by eroverse_st 《不正经的店长》是一款模拟经营游戏，你将接手父亲去世后遗留的便利店，同时继承了他欠黑道成员的高额债务。唯一出路就是升级店铺并偿还贷款。幸运的是，你有一群出色的员工相助！这段旅程将通向何方？在游戏中亲自揭晓答案吧！ 【角色"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Q6tuhGHRWMg0","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

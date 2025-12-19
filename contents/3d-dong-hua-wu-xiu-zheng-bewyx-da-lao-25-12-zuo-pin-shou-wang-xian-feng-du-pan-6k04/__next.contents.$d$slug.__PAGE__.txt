@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D动画/无修正】Bewyx 大佬 25.12 作品 守望先锋【度盘/389M】"}],["$","p",null,{"children":"作者：#Bewyx 期数：2025.12.17 角色：#雾子 #守望先锋 文件大小：都是77M 说明：5个视频同一个动作，区别是角度及运镜不同"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/3d-dong-hua-wu-xiu-zheng-bewyx-da-lao-25-12-zuo-pin-shou-wang-xian-feng-du-pan-6k04","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

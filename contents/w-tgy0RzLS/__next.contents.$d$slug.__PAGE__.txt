@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[拔作ADV/纯爱] 甜蜜女友3 アマカノ３ 汉化版 正式版+全CG存档 [10G]"}],["$","p",null,{"children":"[拔作ADV/纯爱] 甜蜜女友3 アマカノ３ 汉化版 正式版+全CG存档 [10G] 游戏介绍 恋上梦想，梦见热恋—— 「我来迎接您了」 某个平凡无奇的寻常日子，登门造访的女仆『斯卡蕾特・斑鸠・薇斯塔利娅』告诉我，她是祖母的养女。 祖母经营\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/w-tgy0RzLS","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

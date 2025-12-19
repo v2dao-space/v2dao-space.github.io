@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/GAL】恋春アドレセンス（个人汉化）"}],["$","p",null,{"children":"前言昨天发布的バニー似乎很成功，大伙似乎很喜欢由于昨天发布游戏的特殊性（需要给バニー、屈辱1、夜這い2）一些时间（人气缓冲时间）本次分享一部萌系但又不是废萌，剧情质量也是相当不错的一部作品（看cv表就知道）本作品也由1位大佬经过多次汉化修改，最后完成上传于2DFan游戏内附汉化补丁+汉化者声明+游戏使用说明（我写的，建议看看）近期将准备第三部萌幻专享作，敬请期待！个人汉化（华大人英俊）汉化补丁最终版：修复了上个补丁的字体问题汉化感言：大家好，这里是华大人英俊，恋春正式版算是完成了。这作其实真的相"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/770521","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

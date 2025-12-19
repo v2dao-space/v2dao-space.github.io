@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无码】Summer For You v 0.1 DEMO"}],["$","p",null,{"children":"《Summer For You》是一种结合了不同类型的互动体验，让人们探索情感故事并与各种角色互动。作为视觉小说，它强调故事性，参与者做出的决定决定冒险的结果。该项目包括约会模拟器和角色扮演游戏的元素，让观众有机会与主要角色交流并与他们建立关系，包括浪漫的关系。在这个生机勃勃的世界里，参与者可以选择不同的道路，试图赢得不同英雄的心。选择会影响关系，导致多种结局，从而提高可重玩性。每一次互动都旨在增强画布的情感深度，吸引用户进入爱和联系的复杂性中。手绘视觉效果与引人入胜的文字故事相得益彰，让用户沉"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2c6d0e1b","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

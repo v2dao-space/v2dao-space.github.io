@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻/双端】堕落的罗泽与支配魔法/堕落のローゼと支配の魔法【422MB】"}],["$","p",null,{"children":"社团名 ワンドワンド 关注 5,615贩卖日2024年07月26日年龄指定R18作品类型角色扮演有音乐文件形式软件支持的语言日文分类着衣/穿衣 女主人公 换装 风俗/泡泡浴 幻想 被NTR 精神支配 巨乳/爆乳文件容量237.67MBDL:https://www.dlsite.com/maniax/work/=/product_id/RJ01196045.html（小熊移植作品）  游戏介绍即将结婚的冒险者罗泽和菲，她们因一次任务失败而被吸血鬼抓住，在菲的帮助下，罗泽成功逃脱，但她的身体却被施加"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1afe687302d5e0a3bb65d8e9d73318c5","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

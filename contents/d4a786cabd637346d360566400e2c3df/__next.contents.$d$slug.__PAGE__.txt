@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"地味めな侍女さんのお仕事セックス～お嬢様に代わってお相手します～"}],["$","p",null,{"children":"故事介绍（来自2dfan）：「不会在婚前进行任何性行为哦。我希望结婚迎来初夜前，保持住纯洁的身体」成为名家千金「悠姫琴羽」未婚夫的「藤宮安里」。原本认为可以跟未婚妻过上没羞没臊的生活，但因为名家出身，很理所当然的被拒绝。「当然，既然成为了我的未婚夫，跟其他女性发生关系也是禁止的」被如此郑重的警告后，同时又提出匪夷所思的提案。「我也能理解你们男性的生理烦恼。所以当有需求的时候，请使用侍女東風的身体来解决吧」在陷入混乱之中的“藤宮安里”背后，说出「失礼了」的侍女東風小百合，开始传出脱去身上衣物的声响"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/d4a786cabd637346d360566400e2c3df","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【音声】【RJ01099183】Lv.100の勇者はLv.5のサキュバスにエナジードレインされ続けて最後はLv.1の赤ちゃんになりました"}],["$","p",null,{"children":"你的音声比较松弛但是呢，你的插图弥补了这一部分如果要做用AI绘画把插图用AI制作的话可能会显得你的音声比较敷衍可能会有一些漏看漏听的情况   WAV和MP3还有插图都在里面，不需要担心  ■故事  ●故事你是英雄。也是在打倒魔王回来的路上。你不幸遇到了 5 级扎科魅魔。你拔出剑想要制伏它，于是你走到了魅魔的背后，将剑架在了它的脖子上。然后魅魔在你耳边低语。确实，我是恶魔，但我并不是一个坏恶魔。无论如何，怪物就是怪物。当你试图扔掉破碎的心时，她会告诉你这些。　“你不觉得100级英雄像5级恶魔一样拔"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/754963","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

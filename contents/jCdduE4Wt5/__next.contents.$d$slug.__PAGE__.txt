@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"龙战士"}],["$","p",null,{"children":"《龙战士传说》是半只青蛙写的玄幻小说，小说主要讲述了帝国少年达克秀耐达身为第七代暗黑龙的龙战士，在光明与黑暗中摇摆不定，最终走向黑暗。经过无数次血腥的人体试验之后，十贤者创造出了风之大陆上最强的新人类——龙战士，以能让人拥有无限潜力（神的强大根本）的哈姆巴石和龙的力量。然而凡事都有代价，成为最强新人类——龙战士的代价就是，己身以及子孙后代都要承受神的诅咒：万神血咒。这是神为了阻止人类达到他们的境界，以神血为引，以自然界所有冤死生灵的怨念为媒所下的咒。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/jCdduE4Wt5","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

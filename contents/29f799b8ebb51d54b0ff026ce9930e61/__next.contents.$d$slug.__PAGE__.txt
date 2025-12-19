@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/ADV】館 ～官能奇譚～（重置版）"}],["$","p",null,{"children":"2024.7.3统一对已发布的馆系作品进行补档处理  Story愛欲に溺れる姉妹・快楽に喘ぐ母……官能にまみれた母娘の嬌声が館に響く――主人公・大神 彰は闇組織に属する手練れの性奴調教師。組織の依頼を受け、女を快楽の虜へと堕落させることを生業としている。彼は、腕は確かだが強い野心を抱いており、組織の意向よりも自分の意志を優先するアウトロー。組織からは厄介者として目を付けられており、自身も今の地位のままで終わるつもりはなかった。そんな男の元に、新たな依頼が舞い込んでくる。仕事場である館にやってきた"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/29f799b8ebb51d54b0ff026ce9930e61","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

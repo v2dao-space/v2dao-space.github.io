@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】TOKAI Girl -Block Breaking RPG-"}],["$","p",null,{"children":"\n本游戏是一款现代风格的分块游戏。\n它是一款益智 RPG 游戏，包含 RPG 战斗元素和成长系统。\n打破块来获得技能点，花费技能点来强化您的能力，强化您的盔甲，让您变得更强！\n彻底破坏脸皮厚的 TOKAI Girl’s 的服装 (衣服)，解锁最棒的浪漫场景！\n使用块击破拼图的新战斗感\n利用命令选择的"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/YlcEbZz_Kej_","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

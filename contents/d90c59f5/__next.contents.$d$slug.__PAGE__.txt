@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【未汉化/ACT】CrackleCradle + MOD两作 合集 【度盘/244MB】"}],["$","p",null,{"children":"这是一个受虐向 重口 无H 的难度极高的游戏，请确认您能接受内容TAG后再下拉查看。这是什么游戏？【CrackleCradle 奈奈 无伤+全灭通关】bilibili.com/video/BV1Ls41127Nf那么这个合集有什么捏？CrackleCradle210208官方原版，永不过时。CrackleCradle：α版增加更多怪物和全新地图的船新版本。cracklecradle魔改测试0.40一个难度极高的版本，仅建议有自虐倾向的人玩。MouseRyonage一个殴打主角的微游戏。sakif"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/d90c59f5","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

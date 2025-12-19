@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG/汉化/动态]左手魔法Ep.4 汉化版[安卓][1.2G]"}],["$","p",null,{"children":"左手魔法Ep.4 汉化版\n\n\n\n剧情介绍：\n\n\n\n一个才华横溢的战斗法师，在一个 不再需要战斗魔法的后工业（Magitek/Magic Punk）世界中，您正在努力寻找适合您类型魔法的工作。公平地说，你被警告过这一点。你的父母，你的朋友，甚至你在大学里的导师都指出，战斗魔法这个曾经是所有领域中最重要的领域，早已失去了意义。怪物都死了或被提升为文明。地牢早已被发现、掠夺和摧毁。甚至战争现在也被魔导战"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/675","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

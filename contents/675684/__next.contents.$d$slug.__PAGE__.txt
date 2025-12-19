@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/动态/官中】 特工17 V0.20【PC+安卓】"}],["$","p",null,{"children":"作品介绍 某年某月某日，你在车祸现场捡到了一部手机。当你打算卖掉它赚点零花钱的时候，突然接到了一个电话。 对方自称代号17号，是一位特工，几乎无所不能。但是貌似脑袋不太灵光，把你认作她的顶头上司。 那么你会让他做些什么呢，教训欺负你的小太妹？调查你女神的隐私？或者别的什么？ v0.20.0 更新内容 主内容 -樱花（延期） -红玫瑰（延期） -克洛伊（新） -糖果 -珍珠 子内容 -红宝石 -Dana公司 -Saphire公司 小游戏 -无压力游戏 用户界面 -地图按钮重新设计 （在地图按钮上显"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/675684","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

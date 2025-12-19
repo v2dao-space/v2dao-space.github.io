@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/官中】Yusha Prototype -原型勇者-【500M/百度】"}],["$","p",null,{"children":"\n\n  \n\n《原型勇者》是一款横向卷轴动作游戏，玩家要扮演代号勇者的主角，进入地下城搜寻任务目标。玩家需要击败地下城中各式各样阻挡着玩家的怪物来取得经验值和各种道具。玩家也需要不断提升自己的实力，才能在地下城中探索更深处。\n \n游戏中你将要要扮演代号「勇者」的战斗员，进入地下城搜寻任务目标。用你精湛"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4itYLbDiO4OK","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI挂载翻译/PC】恶逆无道的徒花（悪逆無道の徒花よ）(RJ392859)"}],["$","p",null,{"children":"一个帮找资源时顺便跑的一个mtool挂载AI翻译（挂载的比较方便）游戏名悪逆無道の徒花よ（恶逆无道的徒花） 入正地址：https://www.dlsite.com/maniax/work/=/product_id/RJ392859.html 版本：2.01 社团名Lizard 关注1,476支援社团也可以使用DL点数进行支援贩卖日2022年07月03日更新信息2023年12月24日 更新信息插画おいぬ年龄指定R18作品类型角色扮演有音乐文件形式软件支持的语言日文分类男主人公 幻想 言语刺激 反向"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/474feb1e","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

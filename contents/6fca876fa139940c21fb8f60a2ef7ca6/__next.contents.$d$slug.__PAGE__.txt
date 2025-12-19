@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"退魔圣姬莉莉之被咒刻所沉溺的少女 1.0"}],["$","p",null,{"children":"简介：由于魔族的侵略正在毁灭的世界。在人族居住的最后一片土地的尽头，住着一位少女。少女的名字叫莉莉。是和嫂子莎朗一起生活的修女。两人生活的小修道院，有一天，遭到魔族的袭击。高级魔族不断创造出魔物，袭击了莉莉和莎朗。莎朗被囚禁，莉莉终于…就在这时。莉莉从莎朗手中接过圣石，变成了退魔圣姬。虽然变身击退了魔物，莉莉却受到了海卡捷的强烈凌辱，更受到了无数淫荡的诅咒。但是，还有希望。只要打倒赫卡捷，被囚禁的沙龙就会回来。为了找回作为唯一的家人和心灵寄托的莎朗，莉莉决定以退魔圣姬的身份行动。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/6fca876fa139940c21fb8f60a2ef7ca6","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

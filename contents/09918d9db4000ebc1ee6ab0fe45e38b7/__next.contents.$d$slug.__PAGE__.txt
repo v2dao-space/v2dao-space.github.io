@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/ADV】なつくもゆるる（特典追加）"}],["$","p",null,{"children":"萌えゲーアワード2013 シナリオ賞 金賞受賞 ——DMM拿铁铲的紫穂可爱捏2024.7.18本次更新追加3个特典追加补丁なつくもゆるる＿Ｈシーン追加ディスク＿姫佳なつくもゆるる＿Ｈシーン追加ディスク＿紫穂なつくもゆるる タノウマベイに消ゆ注意：如果打不开特典，需要重新下载安装游戏，并将特典路径指向新下载安装的游戏上述特典情况适用于（姫佳&紫穂追加补丁），另一个特典无影响  Storyヒッポカムポス機能不全およびBDNF発達障害。通称、自殺病。簡単に言ってしまえば自殺する可能性が高くなる病気。壁"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/09918d9db4000ebc1ee6ab0fe45e38b7","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

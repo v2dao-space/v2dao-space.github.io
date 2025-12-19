@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【GAL/汉化】なまいき純情不良少女【170MB】"}],["$","p",null,{"children":"游戏类型制作公司：ピーキー 发售日期：2015年09月25日汉化日期：2019年01月10日汉化小组：心愿屋汉化组游戏类型：师生、复仇游戏原名：なまいき純情不良少女游戏别名：傲慢的纯情不良少女原画: 岩本鮪剧本: こごめさくら剧情介绍年少时，被不良学生欺负导致拒绝上学的主人公，因某个契机而决心任职教师。为了保护弱小的学生的人生开始了启程。某日，平素因衣冠不整和懒散而被贴上行为不良标签的某个女生，流出了她似乎在做援交的传言。为了让其家人敦促而把母亲叫到学校，然而在主人公面前出现的是……过去，曾经欺"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/69bc4734cd038d6c0e9d2b5f474606cf","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

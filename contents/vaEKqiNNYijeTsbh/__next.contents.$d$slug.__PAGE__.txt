@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG/PC][リーフジオメトリ] SEQUEL系列 中文版 v1.20"}],["$","p",null,{"children":"这是一个[リーフジオメトリ]制作精良，设定宏大的大型日式RPG游戏系列,有着完全原创的宏伟世界观，沉浸式体验满分好玩\n剧情丰富，整体游戏包含了超过50小时的绝妙内容: 每一作的H事件都在50个以上，良心到爆炸！\n而且全系列都是【大后宫】玩法，每一作的女主角都有10名以上) 技能学习，素材收集，羁绊培养，エロ攻略，玩法更是丰富的一批最有特点的还属它的画风：绝妙肉感中带着浓浓的背德元素，真的好用！无敌好的用！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/vaEKqiNNYijeTsbh","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

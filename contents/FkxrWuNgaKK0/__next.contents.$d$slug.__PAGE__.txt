@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/官中】神の血：The Blood of Yidhra Ver 0.3"}],["$","p",null,{"children":"作者地址 WhitePeachプロフィール – Ci-en（シエン） 《神之血：The Blood of Yidhra》2025年2月进度测试 感谢您一直以来的支持。 本次更新内容如下： 新增了与怪物对应的H动画CG、场景及场景内的NPC。 初始设置中，R18-G相关资源的显示和互动已关闭。 （请在"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/FkxrWuNgaKK0","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

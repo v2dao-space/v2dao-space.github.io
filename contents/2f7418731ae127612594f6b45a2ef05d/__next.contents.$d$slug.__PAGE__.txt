@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC-RPG游戏] 【RPG/官中/无码】来自异世界的女勇者法拉"}],["$","p",null,{"children":"身为勇者佛兹的女儿的“法拉”被国王任命前往讨伐魔王…于是与伙伴们踏上旅程，但就在旅途中误闯能够进入魔界的传送门…意外穿越到到一座名为“委索町”的现代小镇，而且这个小镇的人们都用奇怪的眼神看着她…究竟法拉能否找到回去的办法呢？"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2f7418731ae127612594f6b45a2ef05d","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

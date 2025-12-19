@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[3D同人/无修正]Akt大佬25年3月作品（9V/1.37G）"}],["$","p",null,{"children":"本月DLC+遐蝶长篇、伊芙琳&耀嘉音 G series里面的少前2包，Fans pack里面的免费耀嘉音口角 还剩一个没做完的流萤，今年的第一季度包就完成了 去年年底的文件名字优化了，强迫症可以重新参照改个文件名 预览图"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ya_xeJWrj_mlxi0I","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

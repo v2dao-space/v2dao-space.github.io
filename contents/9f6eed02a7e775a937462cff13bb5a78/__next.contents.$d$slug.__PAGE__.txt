@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【GAL/生肉】シークレットラブ（仮）【度盘/6.43G】"}],["$","p",null,{"children":"24/07/26  作品内容Getchu界面：点击游戏官网：点击作品紹介STORY――あなたにひそかに想いを寄せている人が近くにいたら、どうしますか？春は突然やってくる。ある日、下駄箱を開けると……差出人不明のラブレターが入っていた！生まれて初めてもらったラブレター。俺が幸せを噛みしめているのも束の間、なんと！それを口火に続々と俺を好きだと言う女子が現れる。これが生まれて初めてのモテ期……！？学校の色んな場所で、抜け駆けをするようにこっそりアプローチを掛けてくる女子たち。みんなそれぞれ、ふたりき"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/9f6eed02a7e775a937462cff13bb5a78","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

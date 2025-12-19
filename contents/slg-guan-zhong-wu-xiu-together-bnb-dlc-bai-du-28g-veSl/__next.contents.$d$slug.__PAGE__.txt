@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中/无修】TOGETHER BnB + DLC【百度/28G】"}],["$","p",null,{"children":"https://store.steampowered.com/app/1239020/TOGETHER_BnB/ 已做大做强，推出DLC了 风灵月影宗-柒年    透过情节的发展，在游戏中逐步与女房客们培养感情博得信任感，进而渐渐发展出愈来愈深入的亲密浪漫关系，但隐藏在背后的危机也随着剧情，慢慢的浮"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/slg-guan-zhong-wu-xiu-together-bnb-dlc-bai-du-28g-veSl","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

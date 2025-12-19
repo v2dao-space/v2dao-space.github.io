@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/生肉】宝可梦h同人Lolimon【度盘/1GB】"}],["$","p",null,{"children":"首先，我不是管人，其次也不需要人管。 接受不了邪门的就不要点进来了 我找到的都是生肉，别问有没有中文了，小圈子游戏是这样的     看见有人说之前那个没cg觉得一般，那我就把之前小号没过审的重新发一遍。这个我建议是没空玩的直接进根目录看cg就好了，这个混合了好几代真的玩着太多了。喜欢福瑞的可以看看 "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/-uO1lPghORb42uKJ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

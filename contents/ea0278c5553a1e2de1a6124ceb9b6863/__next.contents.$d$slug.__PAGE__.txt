@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"金髪ギャルJKがふたなり部族の子を産んで母乳で育てるRPG - 萌百ACG"}],["$","p",null,{"children":"让我们生孩子，养孩子，增加人数！一个金发碧眼的女孩JK Rino来到了某个岛屿。岛上唯一的人是无情的futanari部落。即使你建造了一艘船并试图逃跑，也没有足够的人......如果你没有，你别无选择，只能生下并增加它！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ea0278c5553a1e2de1a6124ceb9b6863","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

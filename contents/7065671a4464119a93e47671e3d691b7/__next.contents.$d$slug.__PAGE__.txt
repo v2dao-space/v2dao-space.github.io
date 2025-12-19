@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/PC/安卓]公共性生活 调教大师/PublicSexLifeH-v0.81"}],["$","p",null,{"children":"想建立一个充满美丽女孩的私人妓院吗？选择妓女路线将为您提供一种方法，让他们为您工作！想要更个性化、更亲密、更浪漫的体验吗？选择后宫路线会让你与女孩们有更亲密的联系！这是一款建模画风非常不错的沙盒多女主后宫游戏，画风上面偏亚洲风格，整体质量非常不错！游戏已经更新了50次版本！CG数量10000+，动态超过5000+！你没看错，这个游戏的上垒场景大量使用了动态CG，数量超级丰富！本作的动态CG比很多完结版本的游戏的动态都要多几倍！游戏至少包含了后宫路线和堕落路线，沙盒模式，分支丰富，可玩性非常不错~"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/7065671a4464119a93e47671e3d691b7","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

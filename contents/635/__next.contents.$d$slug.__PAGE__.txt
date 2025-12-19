@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[神级RPG/中文/步兵]欲望之尾 V0.7.5 官方中文版[更新/1.5G]"}],["$","p",null,{"children":"这是一款由[BLUE BONE]制作组出品的日式rpg游戏\n\n\n\n游戏质量极高，全程2D手绘真心赞到爆炸~\n\n\n\n全程主打绝赞开大车玩法，画风劲爆CG超赞！\n\n\n\n而且还有官方中文+步兵CG，绝对是你难以欲绝的超赞作品！\n\n\n\n现在已经更新到了V0.77版本，22年3月25日更新\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n这是一款制作极其精良的日式rpg游戏\n\n\n\n画风偏向美式，但是肉感十足，精细无比"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/635","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

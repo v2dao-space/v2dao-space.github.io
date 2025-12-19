@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"Queenボンジョルの！～女王は制服を脱いだ～"}],["$","p",null,{"children":"Queenボンジョルの！～女王は制服を脱いだ～ 分享一部老作品~ 剧情介绍： 那份初恋，从未得到满足，一直存在于她的心中—— 帝国的公主朱丽叶（ジュリエット），时至今日在思念着当年萍水相逢的那个人。 我们的故事，就从公主即位成为“女王”开始"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/30c0d8b4e6b019c7cd18ce7de5a09953","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

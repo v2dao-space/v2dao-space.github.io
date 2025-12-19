@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中/DLC/PC】欢乐生活/Joy Life Build.11919126"}],["$","p",null,{"children":"所发布资源不得用于商业盈利，否则产生的一切后果将由您自己承担！置顶前往新作:Joy Life 2制作介绍  名称: Joy Life发行日期: 2020年8月11日类型:休闲STEAM链接:点击这里游戏介绍■简介■  百分酒店的地下一层是上流社会的聚集地，名人们尽情享受派对，在其中喝酒玩乐。今夜，号称最为亮眼的新人——Joy驻场，她已经迫不及待得想找人共舞了。  先生小姐们，想和今夜的迷人女嘉宾——joy愉快共舞吗？当然可以！只要解开她出的难题，即可解锁各种不同的舞蹈姿势！  ■游戏玩法■游戏中"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/722264","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

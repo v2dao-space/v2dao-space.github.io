@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/官中/r18g】CYANBRAIN_DEMO 8.1【度盘/135MB】"}],["$","p",null,{"children":"社团 NEKOUJICi-en：https://ci-en.dlsite.com/creator/23364闲来无事，逛推特发现了这个游戏，画风戳我，现在还没什么内容      有点难度，但不多，但存档是魂系的"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/6234e07671d3dc18f9a63cea1c42f03a","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

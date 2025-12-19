@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"天堂之路"}],["$","p",null,{"children":"一个不经意的打赌，促使石头用了两天的时间就泡到了一个美女，而且过上了同居的生活，真的是走了桃花运？其中又有什么隐情？\n女友儿时玩伴的到来，使二人世界变成了三人同居，又有什么样的香艳事件发生？\n原本平静幸福的生活被打破，女友的背叛将会导致什么样的结局？\n消沉的日子出现了一个小萝莉，石头会不会因此改变？\n生日聚会的狂欢，让石头在醉酒之下与身边的女孩发生了关系，却发现对方并不是自己一直深爱的人，而是……"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/BxJ-5uZ9tP","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

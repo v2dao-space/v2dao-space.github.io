@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC-SLG游戏] 【SLG/AI智能翻译】受験性活～欲しいのはあなたの合格通知～"}],["$","p",null,{"children":"高考生的表妹×令人心跳不已的同居模拟冒险游戏！由Yosuga Soft推出的培养模拟冒险游戏！让表妹成为女主角，一起学习努力，争取大学录取！然而，表妹是一个拥有超诱惑身材的JK少女…你可以认真追求大学录取，或者陷入颓废的生活，一切取决于你。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/3b129f680b3ad1166774d9708173a9d4","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/汉化/动态/安卓】我的第二次机会（My New Second Chance）Ep9【1.8G】"}],["$","p",null,{"children":"游戏介绍你扮演的 “主持人 “一生都在为生存而努力直到有一天，一件神秘的事情发生了，让你有机会回到过去弥补你过去犯下的所有错误。在这段新的旅程中，等待你的是什么？在旅途中与老朋友重逢，结交新朋友。一切取决于你的决定。          变更日志第 9 集编辑手机图片以移除覆盖对话的贴纸。添加了新的性爱音效。修复了英文翻译中的一些错误。2,881 个单词293 个渲染31 个视频性能问题已修复创建了 Mac 版本。当然是故事进展。只要我可以添加音频和音乐。文件都是测试过的，出错的重下或者换解压"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/504e19ac49757f312d41aec5ff43d31f","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【slg】淫魔再誕-20240901a"}],["$","p",null,{"children":"  \n  \n \nver20240629a\n●新規カード\n・『夢魔の霊玉』：3コスト 守護者 災厄、夢魔・『迷信の夜魔』：2コスト 守護者 災厄、夜魔・『豊穣の指輪』：1コスト 設置型 創造物、指輪\n\n\n\n一部のカードをマウスオーバーすると効果対象をマークするように\n\n\n\nver20240711p2修"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ZiUc87Rr9BF1","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

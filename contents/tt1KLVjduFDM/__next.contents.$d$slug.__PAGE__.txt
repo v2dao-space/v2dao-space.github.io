@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】極限改変・魔法少女ミスティックルーン Ver.0.7.0β"}],["$","p",null,{"children":"\n部分支持中文 / Partial English Support\n※本游戏支持 Windows 7、10 的 64 位版本运行。\n※由于环境问题，游戏可能无法正确显示，建议首次加入付费计划的用户先通过全员版文章《【全员】魔法少女〇〇(暂定)ver.0.1.0β》确认游戏是否能够正常启动。\n※此作品"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/tt1KLVjduFDM","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

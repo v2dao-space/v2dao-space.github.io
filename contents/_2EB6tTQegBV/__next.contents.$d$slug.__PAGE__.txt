@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中无码】The Soldier and the Golden Princess Ver1.01"}],["$","p",null,{"children":"\n公主露库蕾琪雅因能力与美貌而备受国民喜爱，但哈特巴恩城堡内的局势不容乐观——懒散且广受厌恶的阿波尔将军常常逃避职责，迫使公主骑士替他训练士兵。\n随着露库蕾琪雅不断为阿波尔开脱，谣言很快开始在军中流传。\n在动荡的局势下，孤独的士兵决定揭开真相。\n而当怪物威胁王国，神灵从中干预，在众目共睹之下，尘埃落"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/_2EB6tTQegBV","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无修】Sakura Hime 5"}],["$","p",null,{"children":"成为勇者，与樱之森的少女们展开甜蜜的冒险！精灵、魔女、女仆、猫娘……一路攻略各色少女，壮大你的豪华后宫！ 剧情概述 传说在樱之森中生活着一群掌握魔法的神秘少女，但邪恶的魔王夺走了大家的魔力，让这个世界陷入危机！你被选中成为勇者，而你体内特殊的魔力也成了少女们渴求争夺的目标！ 游戏特色 单手模式 CG"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2c6g83OzxFgm","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

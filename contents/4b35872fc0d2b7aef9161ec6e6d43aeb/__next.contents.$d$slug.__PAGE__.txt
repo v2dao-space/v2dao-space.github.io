@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"迷醉唇旅总编为我退高烧"}],["$","p",null,{"children":"• 品牌：#SukeraSomero• 发售日期：2024/02/22• 类型：ADV / #官方中文• 原画：#千種みのり• 剧本：#オグリアヤ▼ 故事简介：在这个世界存在着三种不同于性别的属性——Alpha、Beta、Omega。Beta是普通的大多数。Alpha和Omega都是社会上的特殊人群。Alpha占据社会的顶点，他们拥有姣好容貌与优秀能力。Omega是社会的底端，他们每隔一定周期就会发情（称之为热潮期），对Alpha有着强烈的吸引力。Omega新人「妹熊凛乃」，Alpha总编「清津"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4b35872fc0d2b7aef9161ec6e6d43aeb","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

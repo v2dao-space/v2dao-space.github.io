@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[瑞氏] 恋心が芽生える時 戀心萌芽之時[中国翻訳] [無修正] [DL版]"}],["$","p",null,{"children":"有什麼關係、只要可愛就行了♡ 透明感滿溢而出、性感純愛少女的大膽誘惑 本土新銳漫畫家瑞氏首部商業單行本 由日本逆輸入的中文版登場!!! 白辣妹的戀愛方程式 被錢買下的女僕與主人的曖昧甜蜜關係 這個表妹雖然笨拙卻令我受益匪淺 青春可愛同居人 逃家的同居者 寄宿的大姊姊不打算離開我身邊 pubu：点我 "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/han-hua-dan-hang-ben-rui-shi-lian-xin-ga-ya-sheng-eru-shi-lian-xin-meng-ya-zhi-hSFx","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

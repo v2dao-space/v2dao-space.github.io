@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[秋月伊槻] 催眠暗示で「必ず淫靡なる」用催眠暗示「讓她變得淫蕩」 [中国翻訳][無修正][DL版]"}],["$","p",null,{"children":"「催眠」是一種有學術根據的技術。由於不相信我的催眠術，只好讓愛欺負我的辣妹同學體驗一下。讓她做著各種A漫裡色色的事，最後求著我內射她……給愛欺負人的辣妹、不配合的女老師、傲慢的妹妹下達暗示，讓她們沉溺在催眠SEX初體驗裡的全三篇漫畫。除此之外，還收錄了四篇單篇作品！秋月伊槻老師的無修正作品pubu：点我有爱自取"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/757072","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

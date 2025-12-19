@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【2D动画/自购/有码/えるふ茶園】3.7Gちゅうにゅう触手洞窟【動画版】"}],["$","p",null,{"children":"虽然是有码，但是比起原本的游戏版的圣光还是好了不止一点，而且画质也有提升。买回来给大家看看  一个女孩被囚禁在怪物的巢穴里……在旅途中，冒险家女孩蒂亚被触手怪物捕获并带到了它们的巢穴。随着蒂亚的四肢被陌生的墙壁束缚，全身都被擦上了可疑的液体，蒂亚的身体逐渐开始泛红。 ■使用Live2D享受粘糊糊的触手游戏和2D 动画。■全场景配备全语音（CV：兔由纪）■配备被触手缠住并继续遭受猥亵折磨的她的“心声”声音。■视频长度：11分55秒（mp4） 包括11个奖励循环视频。■分辨率：1280×720*本视"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/758445","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

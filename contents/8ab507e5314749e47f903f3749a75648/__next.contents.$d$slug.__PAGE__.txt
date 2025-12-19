@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【日系SLG-中文-动态】被傻小子绿了v0.8.0 官方中文步兵版"}],["$","p",null,{"children":"游戏概述：《被傻小子绿了》是一部妙趣横生的视觉小说，讲述了一个娇妻一不小心红杏出墙的故事！朋友过世后，克里斯邀请他的笨儿子到家中暂住。为了让这个少年待得舒心，克里斯的妻子娜塔莎使出浑身解数表示友好，结果却发生了一出又一出尴尬（却香艳）的意外。本游戏又名“意外的艳福”（货真价实）！一个月前，克里斯的好友兼上司去世，留下一子杰夫无家可归，无人照管。出于好意，克里斯邀请即将上大学的杰夫到家中暂住两个星期。杰夫搬入的前夜，克里斯决定提醒妻子娜塔莎她即将面临的危险：杰夫是一个异常笨拙的少年。精彩特点：多线"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/8ab507e5314749e47f903f3749a75648","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

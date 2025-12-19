@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D/无码】原神雷电将军、闲云、星穹铁道卡芙卡、托帕、花火【Th3Dude】至今作品合集【21V/2.48G】"}],["$","p",null,{"children":"色色预览！作者链接（点人家嘛）新作者，但是技术力非同一般不论是画面还是动作都很有东西有朝一日必是3D界的一员猛将人家每次都强调有问题看人家简介为什么总有杂鱼大叔不听！生气！笨蛋大叔！弱弱大叔！杂鱼大叔！离不开人家的废柴大叔！最讨厌你啦！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/748796","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

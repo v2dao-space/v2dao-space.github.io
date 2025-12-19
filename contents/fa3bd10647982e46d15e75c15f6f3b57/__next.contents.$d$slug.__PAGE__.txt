@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D游戏/生肉】Delivery Of Cream  【度盘/1G】"}],["$","p",null,{"children":"作者：D5  游戏官网：https://www.dlsite.com/maniax/work/=/product_id/RJ01038540.html☆游戏简介：  下班回家的你有一天，突然被传送到另一个世界…那里是所有的女人都成为淫魔，从男人那里榨取能量(精液)成为理所当然的世界…作为另一个世界的人，你可以用Delivery of Cream(通称:Delivery)我被迫工作了。被淫魔们和霍汶克鲁斯、克隆人一味榨取的日子开始了…■游戏内容·几乎H场景都是女性上位+正式演出。有一部分饮尿表现"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/fa3bd10647982e46d15e75c15f6f3b57","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

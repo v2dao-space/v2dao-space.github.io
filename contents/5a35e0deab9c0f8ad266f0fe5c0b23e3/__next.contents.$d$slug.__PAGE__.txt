@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【2D动画】はれ大佬8月新作-星野（2V/396MB）"}],["$","p",null,{"children":"往期合集：https://www.moe-acg.com/788797.html赞助地址：https://harechippai.fanbox.cc/作者更新得真快啊，这个月都更新3部了，以下是8月11日与8月18日更新的星野动画。预览图改后缀为zip或者7z用bandzip或winrar解压即可。手机端应该是无法解压的呢（据咱所知）。然后，有时间而且没玩黑神话的来看看亚托利第6集吧，这集是名场面的复刻哦。随便一提Pikpak盘，因为咱的Pikpak之前白嫖的天数快用完了，所以创了个新号（咱真是"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/5a35e0deab9c0f8ad266f0fe5c0b23e3","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

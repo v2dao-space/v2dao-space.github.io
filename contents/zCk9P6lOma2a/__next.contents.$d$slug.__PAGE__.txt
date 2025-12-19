@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【PC/策略/战棋】法利恩战记 3(Furion Chronicles 3) 官方中文版+策略战棋游戏+1.11G"}],["$","p",null,{"children":"法利恩战记 3(Furion Chronicles 3) STEAM官方中文版+策略战棋游戏+1.11G    游戏介绍： 法利恩战记3是一款回合制的策略角色扮演冒险游戏, 在游戏中我们将跟随少女冒险者希格玛的视角, 和游历途中的\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/zCk9P6lOma2a","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

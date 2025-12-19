@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC/RPG]刀剑 SAO~气息遮断魔法的陷阱~ PART II 官方步兵中文版 V0.32"}],["$","p",null,{"children":"这是一款SAO同人题材的究极绿帽RPG角色扮演游戏。戏内容涉及的女角色有亚丝娜为主的一干刀剑神域女主。男主永远只有的听有的看没得吃，天天看别人H，自己像个傻子一样…基本上各种帐篷，电话，门缝，树林，睡意朦胧的隐歼玩到飞起~本作探索自由度比之前的作品大很多，开场还可选隐歼度体验不同感觉。所有场景的都带CV语音和全动态动画进行，十分社保~本次新增了10个以上的H事件"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/35df9055eeb8097a1188ae94b2acfba5","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

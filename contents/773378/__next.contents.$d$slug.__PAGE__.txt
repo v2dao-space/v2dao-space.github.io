@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/GAL】ソーサレス＊アライヴ！〜the World’s End Fallen Star〜"}],["$","p",null,{"children":"前言昨天开始感觉站内冷清了几分（大伙是不是都在高考）特殊期间特殊处理，补档作品本作品是我很喜欢的一部作品之一（有私心成分在内要补这部）ソーサレス篇过渡到アライヴ篇可谓一大反转（当时推的时候惊讶到我了，不知不觉就喜欢上这部作品了）本游戏的画风、剧情把控、声优选择上花了很大功夫但对于True End的处理感觉挺遗憾的（有争议），不如角色End实在（本人勉强能接受TE，算是勉强）PS：强烈建议官方出个TE的FD补个HE本人是ミア&ユズリハ党本作是纯爱作！！虽说女主很多，但是纯爱作！！萌えゲーアワード2"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/773378","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"朱颜血"}],["$","p",null,{"children":"《朱颜血》是许多年前罗森以浮萍居主这个名字开创的一个系列H小说，属于重口味的H文，虽然其中包涵了乱伦、鬼畜、虐待、调教以及更加重的肢解和秀色之类元素，但它稳坐黑暗系第一把交椅的原因还是黑暗压抑的整体风格，正义、友情、爱情、亲情等被反复讴歌的情感纷纷在仇恨、嫉妒、欲望面前被一一轰炸，然后结局之前通常会把最为微弱的希望之光也给泯灭，“简直黑暗的透不过气来”。 第一篇洁梅在99年发表之后就十分轰动，随后几作其他作者的参与也进一步扩大了这个系列的影响力。虽然第五篇紫枚之后很长一段时间没有新作，但是风月的2006征文有三篇以朱颜血为题，也算是重出江湖了。题材方面也许不是每个人都喜欢，但是这个系列在H文里的确是一个无法无视的作品。\n朱颜血·洁梅 作者：浮萍居主 是第一部。\n朱颜血·夜莲 作者：浮萍居主 是第二部。\n朱颜血·芙蓉 作者：浮萍居主 是第三部。\n朱颜血·红棉 作者：RKING 是第四部。\n朱颜血·紫玫 作者：紫狂、浮萍居主 是第五部。\n朱颜血·苍兰 作者：小悴 是第六部。\n朱颜血·雪芍 作者：紫狂、浮萍居主 是第七部。\n朱颜血·海棠 作者：寒江 是第八部。\n朱颜血·丹杏 作者：紫狂 是第九部。\n朱颜血·百合 作者：白纸 是第十部。\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/yr3sqn5t","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

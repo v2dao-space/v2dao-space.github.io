@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】魔法少女がいる学校に転校してNPCを○すヤツ【400M/百度】"}],["$","p",null,{"children":"  \n\n■概要■主人公是与邪恶组织战斗的魔法少女！！……为题材的动画的一人路人角色。与动画角色完全无关的突然的有一天、突然觉醒有了自己意识的主人公发现其他的角色们都是些没有自己意志的「NPC」。对这些无论做什么都绝对不会做出反应的NPC、主人公他……。■游戏系统■・绝不存在麻烦的战斗、只需寻找能引发"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/DTB0tTGUvzp7","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

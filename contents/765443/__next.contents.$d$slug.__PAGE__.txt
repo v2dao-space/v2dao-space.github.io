@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/ADV】母娘乱館"}],["$","p",null,{"children":"前言之前大佬发的都炸了，重新补档拔作四部曲—最终曲 母娘乱館（到此拔作四部曲结束）本作包含NTR元素注意身体，减少冲锋由于本作的汉化补丁来自2DFan，同时榨干了我全部积分，之后作品可能需要大伙自己去2DFan付费找机翻补丁  Story人里離人里離れた山奥で、ひっそりと暮らす神代家。あなたは、ここの使用人となって、屋敷で暮らす美しい住人たちのお世話をすることになります。実の母のように可愛がってくれる夫人。姉として溺愛する長女。妹のように慕ってくる次女。皆が、あなたのことを慕ってくれますが、彼女"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/765443","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/官中/PC】ANONYMOUS;CODE/匿名代码【度盘/6.85GB】"}],["$","p",null,{"children":"作品信息原名：Anonymous;Code汉化名：匿名代码发行日期：2022-07-28品牌：MAGES. GAME游戏类型：メタ科学アドベンチャーSTAFF其他：北原 史尋 (Art director)松原 達也 (Producer)林 直孝 (Scenario supervision)志倉 千代丸 (Planning, original concept)导演/监督：梶岡 俊彦音乐：阿保 剛村上 純 (Sound producer)Steam页面：https://store.steampowe"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/712781","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【未汉化/ADV】大催眠ERE"}],["$","p",null,{"children":"前言liquid校奴最后一篇，本作的冲度很高本作剧情是少有的主线+支线混合的大催眠有机翻补丁，太贵了（30积分），等便宜再搞  主线主人公、羽村涼太は拗くれた性格と抑え難い性欲を持て余した変態性欲者である。世界を支配し、女を片っ端から凌○し辱めるという妄想に取り憑かれた彼は、学園で界隈で視姦と露出自慰を繰り返す。もちろんそんな彼を女たちは軽蔑し、見下していた。だがしかし。彼は密に嗤う。妄想の翼を広げ、欲望のままに生きる、これが人間本来の生き方なのだ、と。そんなスレスレの日常を送っていたある日、自"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/766604","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[日式RPG] 恶魔之咒 Anthesis Ver1.12 DL官方中文版 [300M]"}],["$","p",null,{"children":"恶魔之咒 Anthesis Ver1.12 DL官方中文版这是一款由[しもばしら工房]制作出品的日式rpg游戏\n\n\n\n现在游戏已更新到了Ver1.12版本，并且搭载官方中文\n\n\n\n游戏画风非常不错，女主人设非常给力，清纯学生妹的造型\n\n\n\n剧情在学生妹造型衬托下社保无比\n\n\n\n有着100+社保H事件，多结局可玩性非常高\n\n\n\n清纯女主慢慢堕落至人尽可夫，推荐体验\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[游"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1315","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

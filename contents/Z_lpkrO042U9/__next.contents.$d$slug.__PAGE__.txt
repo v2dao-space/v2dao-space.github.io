@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/机翻]真实情欲-我的真实愿望 My Real Desire Ch.4 Ep1 Part2 PC+安卓[6G/百度] "}],["$","p",null,{"children":"[SLG/机翻]真实情欲-我的真实愿望 My Real Desire Ch.4 Ep1 Part2 PC+安卓[6G/百度] \n游戏介绍：\n刚刚大学毕业的你，应聘到一家游戏公司当开发人员（就是社畜了，或者说程序猿。。。）因为囊中羞涩，你只得和别人合租一间公寓，幸运的是同居的居然有很多美女！公司里面也"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Z_lpkrO042U9","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

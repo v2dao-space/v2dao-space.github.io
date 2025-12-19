@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"红楼遗秘"}],["$","p",null,{"children":"这是一部着重描写云雨的古典佳作，《红楼遗秘》与之前的四大名著所改写的色文不同，其笔锋稳健、文气通畅，作者对原著吃的很透，加之其精深的古文学素养和娴熟的小说写作技巧，整篇文章写的气象万千，是古典色文题材中不可多见的精品。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/t7Fhx3flIQ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

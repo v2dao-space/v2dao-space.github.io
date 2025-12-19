@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/机翻】秘湯ガール"}],["$","p",null,{"children":"社团名みなづき茶房贩卖日2024年04月05日更新信息2024年05月10日更新信息年龄指定18禁作品类型模拟有音乐文件形式软件支持的语言日文分类治愈 男主人公 像素 室外 野外/野战 通奸/和奸 巨乳/爆乳文件容量405MB游戏内容：温泉场景特化×四分之一视点H动画！！本作是温泉场景特化的四分之一视点模拟游戏。和在秘汤遇到的女孩子一边巡游各地的温泉一边做H的事。游戏部分几乎没有工夫，通过收集简单的实绩（秘汤硬币）主要活动顺利进行，是一款简单的游戏。主要活动攻略后，可以从回忆和自由模式中享受自由"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/766100","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

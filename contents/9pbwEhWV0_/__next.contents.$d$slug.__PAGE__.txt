@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"屌男复仇计"}],["$","p",null,{"children":"书名：重生诡情之D男复仇计（屌男复仇计）\n青华是个普通的军人，高中毕业就参了军，后来考了军校。本以为自己的前途就此光明起来，但在特战兵团信息大队的选拨中，成绩优异，综合素质过硬的青华却落选了。后来青华才知道，那名额早就给了某位“前途光明”的衙内，所谓选拨只不过是掩人耳目的遮羞布。气不过的青华与领导吵了嘴，结果就被部队除名了。 看透了部队黑暗的青华收拾了行装，坐火车回到了家乡。然而回家听到的却是一个噩耗，他最亲爱的姐姐跳楼自杀了，青华听到这个消息，犹如晴天霹雳……\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/9pbwEhWV0_","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

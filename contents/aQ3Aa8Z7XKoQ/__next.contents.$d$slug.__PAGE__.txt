@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/汉化】GoodbyeEternity-0.10.1 [PC/安卓双端]"}],["$","p",null,{"children":"你即将与小百合共度一段真正令人愉悦的时光！ 新场景、紧密的情感联系时刻，还有一些小小的戏剧性情节——毕竟，没有这些可能会让你感到无聊。 在故事的某些部分，特定角色的引入曾显得不够连贯。现在，这些问题已经修复！与木持的初次见面将在游戏开始时通过一个全新的事件展开，而与朝美的相遇以及斋藤在餐馆的招募情节"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/aQ3Aa8Z7XKoQ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

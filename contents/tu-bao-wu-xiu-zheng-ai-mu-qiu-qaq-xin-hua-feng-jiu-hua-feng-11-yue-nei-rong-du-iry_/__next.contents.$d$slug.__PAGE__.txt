@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【图包/无修正/AI】 凩秋QaQ 新画风+旧画风 11月内容 【度盘/25G】"}],["$","p",null,{"children":"啊…嗯…你知道的，我已经懒成那啥了，所以总之……嗯，略。 已包含作者的新版风格和旧版风格两组，对应发布账号的pid分别是 老号：凩秋QaQ (112349563)和新号：凩秋 (72143697)简单的说就是用了不同提示词生成了画风有微妙区别的两套图，比如上面第一张是旧画风，第二张是新画风。 预览图"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/tu-bao-wu-xiu-zheng-ai-mu-qiu-qaq-xin-hua-feng-jiu-hua-feng-11-yue-nei-rong-du-iry_","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

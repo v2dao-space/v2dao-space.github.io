@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/官中/步兵】【3647400】Femtazio v1.0.9 【度盘/1.25G】"}],["$","p",null,{"children":"楼主发现这个游戏19号更新1.09版本了，（出个小差，弄完直接跑回家就是爽捏）发给大家尝尝咸淡，不知道更新了啥，因为steam上还没有出1.09的更新公告 鉴于直白的winrar压缩幻影坦克已经炸链几次了为了我的网盘安全，我换压缩软件的方式了，现在坦克里面的文件是分卷压缩的，如果带来不便，我很抱歉 "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ldunO-ClwL","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

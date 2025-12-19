@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】虚魂剣ラムダネロスR【5G/百度】"}],["$","p",null,{"children":"  \n游戏简介：主人公利姆亚在因公会的任务而到访的地方听到不可思议的声音。被声音吸引，沿着洞窟前进，那里有一把剑。拿起剑，从那里出现了自称&ldquo;尼罗&rdquo;的灵魂！凶暴化的魔物们，在王都暗中活动的影子，虚魂剑的真实。还有威胁世界的邪恶存在&hellip;&hellip;莉姆亚被卷入围绕"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4J6eGRwHMPH4","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

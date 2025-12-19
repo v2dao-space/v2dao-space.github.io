@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"忍者枫叶丸的秘章"}],["$","p",null,{"children":"游戏简介：你将扮演枫叶丸，一位被狐狸诅咒，长有狐狸耳朵和尾巴的精英萝莉忍者。运用她的潜行和暗杀技巧来完成重任。此时此刻，院王的军队正在追杀你的家人，你必须智取、勇斗并超越敌人。在有限的时间和资源下，你需要避免被发现，必要时精准致命地出击。无论你选择不留痕迹，还是杀出一条血路，任务的命运都由你的选择决"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/C1EukgRmz-OL","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

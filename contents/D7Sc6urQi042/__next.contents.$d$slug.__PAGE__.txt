@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】勇者大战魔物娘RPG/もんむす・くえすと! ぱらどっくすRPG終章【6.82G/度盘】"}],["$","p",null,{"children":" \n\n \n\n  \n介绍：\n在三十年之前，人与魔物是可以共存，并且在一起生活的。然而，就在三十年前，离魔王城最近的莱米纳城竟然发生了虐杀事件，魔物群突袭城市，全城化为废墟，无人生还。从此，人类魔物不共戴天，全面战争由此展开。当然，这世界上仍有少数共存的情况。而伊莉娅丝村的平凡少年、我们的主人公，鲁卡，"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/D7Sc6urQi042","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/部分无码/汉化】監獄アカデミア 【3.8G】"}],["$","p",null,{"children":"社团名Lilith [リリス] 贩卖日2017年09月01日剧情飯田和彦插画Sian声优中野志乃 / 北板利亜年龄指定R18作品类型冒险 有声音 有音乐 有动画分类被NTR 教育 拘束 羞耻/耻辱 限制自由 精神支配故事简介： 人类开始开拓宇宙的时代。 太阳系内出现了众多被地球化(Terraforming)的行星，人类的版图扩展到整个太阳系。  人类有史以来第一个统一的政体——宇宙联邦由此成立，一幅在地球上未曾出现过的和平蓝图在宇宙中描绘开来。  不过，失望很快就降临了。 出生在地球以外的殖民行"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/c2b9cd52a26aaea613c2e360f912e128","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【PRG/合集/自整理】5个社团合集㉗-㉚[20GB][谷歌盘]"}],["$","p",null,{"children":"此贴纪念galgame终点论坛20GB、7分卷挂梯子获取外链使用idm或迅雷下载堂堂复活！之后如果更新，还是在这里带着逆天打码，爷又回来了，这几个合集都是之前攒下没发的，是网友的求物。发完这些不知道啥时候还回来，且用且珍惜。有爱自取，标红的都是汉化。随便转载随便分流，就是你妈的被抓了别说是我就行。有不全的可以私信我或者评论看看少哪个。目录[男爵領] ドラゴンワームリング!  Ver1.109[男爵領] 夜之猎魔少女 官方中文版 V1.01[男爵領] 穿越奥雷库塔沙漠 官方中文版 V1.01[男爵"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/f7ed649f8f9407de7a94623816d3040a","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

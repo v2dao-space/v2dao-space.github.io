@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【互动SLG/官中/纯爱/动态/换装/PC/动态/步兵】调酒大师 Bartending Master Ver1.5.6.4 - 萌百ACG"}],["$","p",null,{"children":"因前女友的背叛而背上三百万巨额高利贷的男主角瑞安，意外于讨债的黑帮分子手中得到了一份条件极其宽厚的还款契约——前往名为“夜兰”的酒吧担任调酒师。带着满腹的疑问，瑞安于次日晚如约前往了约定的地点，并在那里邂逅了风姿绰约的老板娘艾琳娜。在之后的一个月时间，他将和数名与他命运相连的女孩相遇，并逐渐发掘出前女友背叛事件的真相……"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/99ee6c2d7c42a8f58289b78e3f1c9020","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

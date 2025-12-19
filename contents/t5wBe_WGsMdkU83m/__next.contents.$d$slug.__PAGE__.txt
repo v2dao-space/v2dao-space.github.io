@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【2D动画/AI汉化】[くすりゆび] 中出し透明人間【度盘/621.2MB】"}],["$","p",null,{"children":"自从上次AI汉化过后，对于找好片来冲的范围就更广，这次从xx网站带来的动画个人认为还是很不错的。我看上次那个字幕有点不爽，又花了两小时自学字幕初级编辑，还把字幕给校对了一遍，但是还是会有缺漏，我真的没办法了，燃尽了。 （碎碎念：我嘞个骚刚。ocr识别8分钟，翻译2分钟，个人ocr字幕校对3小时，字幕"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/t5wBe_WGsMdkU83m","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

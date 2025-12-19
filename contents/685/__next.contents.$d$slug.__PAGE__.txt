@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG/汉化/FGO同人] Fake~Labyrinth完整汉化版 [安卓] [2G]"}],["$","p",null,{"children":"Fake~Labyrinth【安卓】完整汉化版【FGO同人】\n\n\n\nPS：礼包码：28443176\n\n\n\nPSS：安卓版部分机型可能会出现闪退\n\n\n\n这是一款由[ネロンソフト]社团制作的FGO同人游戏虽然写着fake，但是应该读什么各位心里想必都有数~\n\n\n\n这是一款FGO同人游戏。画风出色，H事件社保出场人物极多，而且都是FGO系列本子的常客（？）整体剧情控制的相当棒，游戏性高，战斗系统做的非常"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/685","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

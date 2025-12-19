@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】宿屋の店主と亜人奴○～安宿の収入では暮らせないのでダンジョンでも稼ぐことにした～【800M/百度】"}],["$","p",null,{"children":"  \n故事因品行不端被逐出家门的原贵族主人公，卢克（可更改名字）决定在边远之地经营一家旅店。宿屋里有三个亚人奴○，与卢克一起经营着这家旅店。精灵的塞拉是旅馆的前台接待，也负责整理文件等工作。猫系兽人拉皮负责接待和跑腿等杂务。牛系兽人薇薇安负责烹饪，并承担食材采购等工作。宿屋附近有一座地牢，由于常有怪"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/TZaQDoag62wH","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

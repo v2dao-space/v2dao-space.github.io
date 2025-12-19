@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【SLG/个人AI嵌翻】むすめいと【度盘/1.05G】"}],["$","p",null,{"children":"本游戏由月兰酱个人ai内嵌翻译 由羁绊龙剑士艾拉自购提供游戏本体 入正地址:已被作者下架了，就放个ci-en吧 ci-en:ねここや@フリゲ部         作品介绍 活泼女儿&傲娇侄女！运用Flash触摸系统和After Effects动画技术，打造两位娇小身材女孩的互动体验！鼠标点击式动画冒险"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/zi-gou-slg-ge-ren-ai-qian-fan-musumeito-du-pan-1-05g-78hd","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

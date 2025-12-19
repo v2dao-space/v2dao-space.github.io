@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【日系SLG/汉化/动态】天堂的麻烦 Trouble in Paradise v1.1 Part 2 汉化版【安卓/700M】"}],["$","p",null,{"children":"天堂的麻烦 Trouble in Paradise v1.1 Part 2【PC+安卓】\n\n\n\n游戏介绍：\n\n\n\n你和你姐姐要搬到天堂城接受高等教育。\n\n\n\n当你终于一起搬出去时，你和你姐姐都非常兴奋。\n\n\n\n学校很棒，人们很友好（女孩们很热！），一切似乎都很顺利，直到你在学校发现了一些永远改变你生活的东西！\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2608","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

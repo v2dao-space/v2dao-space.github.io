@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG/汉化/动态]罪恶的快感v0.21 汉化版[安卓][1.1G]"}],["$","p",null,{"children":"罪恶的快感v0.21 汉化版剧情介绍：游戏从一个普通的早晨开始，在这个早晨，你接到了你最好的朋友的电话，他希望你帮助计划高中毕业派对。你没想到的是，这个小小的聚会会唤醒你的新感觉，以及现在离你最近的人。这些感觉将对您的生活和家庭动态产生深远的影响，因为你们两个开始将您关心的人拉入您新发现的罪恶快乐中。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2327","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

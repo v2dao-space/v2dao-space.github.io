@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/官中】Castelo da Vania"}],["$","p",null,{"children":"入侵强大的吸血鬼瓦妮娅的城堡，面对各种艰难、刺激和感官挑战，终结这个恐怖与淫乱的统治。 一款色情风格的经典恶魔城游戏，讲述了吸血鬼猎人西蒙妮·贝尔蒂茨的故事，她决心结束由强大吸血鬼瓦尼娅领导的恐怖和淫乱统治！！！ 探索城堡，从入口到顶层的王座室。 你挥舞着家族的传说武器——“欲望杀手”，一把准备好摧"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/tDS9vSc2QSzB83Id","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

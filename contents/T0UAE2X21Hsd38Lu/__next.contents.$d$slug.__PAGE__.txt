@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】月装战姬葵 月装戦姫アオイ 【度盘/578M】"}],["$","p",null,{"children":"◆游戏玩法◆玩家需前往城市各处的地下城“月光兽之巢”，击败最深处潜伏的“月光兽本体”，以此推进故事剧情。 ◆规格◆  事件基础CG：48张+异常状态6张（不含差分、对话及普通战斗立绘等）  H场景：80个以上（部分为凌辱系事件，但无流血或血腥描写）超过30种的敌人“月光兽”均为全新原创设计！主角葵的"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/T0UAE2X21Hsd38Lu","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

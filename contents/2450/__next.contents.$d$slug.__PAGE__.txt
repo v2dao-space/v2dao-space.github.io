@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[大型欧美SLG/汉化/动态]腐蚀（腐化）Final精修汉化完结作弊版[完坑][安卓][11G]"}],["$","p",null,{"children":"腐蚀（腐化）Final 精修汉化完结作弊版[完坑]这款追了六年，换了十几个汉化组的史诗级SLG终于终于终于彻底完坑了~内容包括PC版+安卓手机版+作弊，可分开下载。游戏介绍：这款欧美神作SLG的最终完结版本次由[山有木兮]完成汉化版了。本次是22年7月的最新更新完结版，汉化版包括安卓。这款顶级大作游戏历经六年，历经70多个版本，终于彻底完坑了！增加[文字无法表达的海量新内容]而且自带作弊选项，开局"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2450","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

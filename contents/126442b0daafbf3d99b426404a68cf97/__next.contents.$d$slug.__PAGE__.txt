@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/汉化/安卓】欲望与权力0.66/Lust and Power [v0.66 Regular]【1.68G】"}],["$","p",null,{"children":"作者主页https://www.patreon.com/lurkinghedgehog  （海阁汉化作品）游戏故事：在这个游戏中，你扮演一个年轻人，他的家人从一个远房亲戚那里继承了一座豪宅。在那里，你将揭示一些奥秘，并获得一些黑暗力量。你将不得不面对恶魔的攻击，遇到一些奇怪的人，保护你的家人（妈妈和姐姐），并利用他们的感激之情来控制他们，让他们成为你的性奴。    变更日志v0.66– 在秘密恶魔猎手基地增加了 6 个地点（基地入口处、主厅、吧台、走廊、储藏室、竞技场）。– 增加了 3 个角色（"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/126442b0daafbf3d99b426404a68cf97","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

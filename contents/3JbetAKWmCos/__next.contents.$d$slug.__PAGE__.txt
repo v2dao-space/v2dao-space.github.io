@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D/AI汉化】 远程操控-美咲与淫欲的遥控跳蛋- えんかく!-ミサと淫欲のリモコンバイブ-【Live2D×3D】 【2.5G/度盘】"}],["$","p",null,{"children":"游戏系统  【3D×Live2D动画】的实时遥控振动游戏！  玩家可以观察校园生活中的女主角，并在喜欢的时机操作遥控振动器的电源按钮来恶作剧！！ ◇游戏是实时进行的动作游戏！！◇  准备了各种恶作剧的场景  例如：  　・在走廊和朋友聊天时…  　・在课堂上当众发言时…  　・即使在上厕所时也不能放"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/3JbetAKWmCos","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/生肉/PC】[RJ365188]『夏のサカり』体験版第2弾!　&#8211;　カスタム+エッチ編　&#8211;"}],["$","p",null,{"children":"第一次发帖，请多多包涵。游戏可以在DL直接下载：https://www.dlsite.com/maniax/announce/=/product_id/RJ365188.html相较于两年前的体验版添加了四个H场景、捏人以及部分开头剧情。简介『夏のサカり』体験版第2弾!　–　カスタム+エッチ編　–前回のカスタム体験版に加えエッチ・ADVを追加!“蒸せ返る密室での秘め事・・・”少女たちが雌になる姿を雰囲気・没入感を重視した体験版でお試しください!☆ストーリー―――それが始まるのは、夏が一番の盛りを"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/733f78b14a1077effb359aceb0365917","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

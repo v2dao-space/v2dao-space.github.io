@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无码】妖谈：百鬼夜行V2.5.2 附通关存档"}],["$","p",null,{"children":"入正：  开发商: Secret Labo 发行商: Secret Labo 地址: Yokai Art 故事 你无意中打破了你家储藏间那本神秘书的封印。这本神话书有一股巨大的魔力，辅助使用者可以打败任何妖怪，并记录下他们的名字，从而控制他们。这种神圣的力量太强大了，惊动了所有附近的妖怪。在他们攻打"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/C9B4-ZCPNtEF","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

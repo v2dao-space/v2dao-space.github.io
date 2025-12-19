@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【步兵RPG/安卓模拟+PC】在末日中堕落的女友 V2.01 官方中文步兵版+存档【大更新/1.5G】"}],["$","p",null,{"children":"在末日中堕落的女友 V2.01 官方中文步兵版+存档 （末日の中で彼女が堕落した） 游戏介绍： 事件爆发两周后，一个隔离安全区建立了起来。 你将和女主角一起努力寻找生存的方式。 在这个生命时刻受到威胁的处境中，能否守护住你深爱的她？ 隔离区\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2hqORBJ-xysGP_Fs","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

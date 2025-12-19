@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/个人AI内嵌/PC】扶她的射精管理～治好就太浪费啦！~(ふたなり射精管理～それを治すなんてもったいない!～)（RJ01096054）"}],["$","p",null,{"children":"此汉化版本由叶酱原创发布， 由本人进行了AI汉化、测试。 警告：该游戏可能不适合所有人，请酌情观看  游戏名：扶她的射精管理～治好就太浪费啦！~(ふたなり射精管理～それを治すなんてもったいない!～) 入正地址：https://www.dlsite.com/maniax/work/=/product_"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1O9W-yhCyhsTKc8c","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

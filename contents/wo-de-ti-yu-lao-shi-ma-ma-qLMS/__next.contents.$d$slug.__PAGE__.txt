@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"我的体育老师妈妈"}],["$","p",null,{"children":"入口处，我的母上大人林婉晴正忙着给陆续归还器材的同学进行登记，她穿着几乎万年不变的运动套装，扎着同样几乎万年不变的单马尾，端坐在桌子后面，神情严肃一丝不苟。\n　　我一直认为妈妈长得很漂亮，瓜子脸刀环耳，柳眉大眼琼鼻檀口，身高足有1 米68，作为国家一级运动员，身形更是挺拔匀称，尤其那双大长腿，几乎占了整个身高的三分之二。\n　　按理说这样的老师在学校应该非常受同学喜爱，可惜，妈妈性格传统古板，认为当老师必须得有师德师威，平素里从来不施粉黛，反而整日板着脸，教学风格也极其严厉，跟她柔柔弱弱的名字完全不搭。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/wo-de-ti-yu-lao-shi-ma-ma-qLMS","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/生肉】[PC+安卓joi]Succubus&Magic"}],["$","p",null,{"children":"所发布资源不得用于商业盈利，否则产生的一切后果将由您自己承担！制作介绍（#F135）  社团名たにし 贩卖日2024年07月05日 0点剧情たにし插画さざんか声优睦月新汰 / 雪白いろは / 麦咲輪紫葵年龄指定18禁作品类型角色扮演有声音有音乐有动画文件形式软件其他有猎奇描写支持的语言日文分类无逆转 色诱 SM文件容量2.49GBDL链接https://www.dlsite.com/maniax/work/=/product_id/RJ01200916.html游戏介绍概要◆概要・基本CG数70"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/8a0613db1a1ff97e4c2edf0348ff4547","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

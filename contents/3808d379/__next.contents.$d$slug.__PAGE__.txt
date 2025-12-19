@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【图集】CrackleCradle Pixiv图集 【度盘/106MB】"}],["$","p",null,{"children":"关键词 轻度重口  触手 虫子 史莱姆 以及一些动物   丸吞 包裹 黏液 束缚 窒息  至少我觉得很轻度了（此版本绝对不包含血腥的学姐内容，也没有任何角色伤亡；因为重度重口的未过审所以我非常贴心的删减了亿些不和谐的要素，成功从250MB变成了70MB，清淡无比）确保能接受后再浏览下文…（不用了，因为我已经删掉了难以接受的部分）《CrackleCradle》是一款由 FoxTail 开发的动作猎奇游戏；这是一个CrackleCradle游戏的同人图合集的删减版，包含奈奈 凉子 由纪 的同人图图集"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/3808d379","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

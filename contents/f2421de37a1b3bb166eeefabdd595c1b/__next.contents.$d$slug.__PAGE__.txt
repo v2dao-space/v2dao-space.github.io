@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【音声】【RJ01187167】「今宵もオナ姉(ねえ)なさいますか」あなたを溺愛する事務的異母姉との叱られ×甘々性欲処理生活"}],["$","p",null,{"children":"あなたは明治時代から続く名門財閥一族「菱倉家」の嫡男。巨大企業グループの次期総裁となるべく、幼少期から峻烈な教育を施されてきた。さらに代々受け継がれてきた数十箇条にも及ぶ家訓に従って行動を制限され、息の詰まる日々を過ごしている。そんなあなたにとって唯一の心の拠り所となっているのが年の離れた異母姉、純香(すみか)の存在である。早逝した実母に代わって世継ぎである自身の世話係を務めてきた純香は、あなたにとって唯一心を開くことのできる相手…あなたは、厳格でありながらも常に慈しみをもって接してくれる彼女を"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/f2421de37a1b3bb166eeefabdd595c1b","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

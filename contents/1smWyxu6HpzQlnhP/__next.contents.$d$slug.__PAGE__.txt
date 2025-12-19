@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【PC/安卓/步兵SLG】恋与经纪人1 官方中文步兵版+全CV语音+互动养成类游戏+日系+1.8G"}],["$","p",null,{"children":"  今天给给为带来一款超好玩的中文SLG游戏 恋与经纪人1 官方中文步兵版+全CV语音+安卓+PC+互动养成类游戏+日系&补+1.8G     游戏介绍： 着是【树懒叫工作室】在2022年3月23日发布的一款SL\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1smWyxu6HpzQlnhP","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

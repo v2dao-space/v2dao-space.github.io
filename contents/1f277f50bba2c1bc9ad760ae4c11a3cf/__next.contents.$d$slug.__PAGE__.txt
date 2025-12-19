@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[みちきんぐ] シオンコネクト 紫音戀結[中国翻訳] [無修正] [DL版]"}],["$","p",null,{"children":"『快樂天』頂端──米奇王（みちきんぐ）筆下超人氣No.1的傲嬌毒舌女僕紫音小姐以全彩漫畫《紫音戀結 米奇王作品集》繁中版絕美回歸──!!! d/art於2023年9月將推出米奇王全彩繁中版作品集《紫音戀結 米奇王作品集》超人氣角色No.1的紫音小姐爆滿著絕讚獨特魅力的FANBOOK終於亮相登場！毫無保留地獻給全部主人們的極上作品集❤ bookwalker：点我有爱自取"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1f277f50bba2c1bc9ad760ae4c11a3cf","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

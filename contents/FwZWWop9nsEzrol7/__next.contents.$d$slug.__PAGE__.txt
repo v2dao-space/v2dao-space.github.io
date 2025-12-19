@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D动画/AI机翻】[VR Dream Studio] パパの目の前で催眠おっさんに妻や娘をネトラレた話 2D版【度盘/1.03GB】"}],["$","p",null,{"children":"这个建模怎么说呢？? 有种很怪再看一遍的感觉，好不好冲感觉因人而异了。 剧情在催眠的基础上还加了点小创新矛盾点，感觉还可以。 字幕方面，男性有官方的字幕，ocr识别加上自己一小时校对准确率95%。 女性由于是说话没有字幕，渣渣电脑不太行，用的经典potplay快速语音识别模型，女性说话字幕会有缺漏，"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/FwZWWop9nsEzrol7","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/ADV/拔作】天翼のアスクレイン + 天翼のアスクレイン NIGHTMARE CURSE + 八特典【度盘/4.94G】"}],["$","p",null,{"children":"随缘补档。PS：将文件名后缀.wdnmd.1改为.7z.001解压，依此类推。（本补丁不确定是否为机翻，因为很别扭但是语句很通顺。且因此爆发过冲突，请自行决定是否使用）提取码：q392转载汉化发布原址：https://www.bilibili.com/video/BV1vS4y137pV?spm_id_from=333.337.search-card.all.click&vd_source=cb0c4eb413a1f0d690a866203e184183【天翼のアスクレイン】Getchu界面：跳"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/7888d47fcf7e5171a125ac79cb74ad8b","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

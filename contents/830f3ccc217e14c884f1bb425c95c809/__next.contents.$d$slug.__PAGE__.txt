@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/汉化/动态/安卓】零之终结（Zero End）0.2.4d汉化版【900M】"}],["$","p",null,{"children":"作者主页https://www.patreon.com/blackeyeports  游戏介绍Zero(0) End》是一部故事驱动的成人视觉小说，采用互动小说机制、如状态进展系统、一种等级系统和分支叙事。其他战斗和解谜机制将在未来版本中推出。你将扮演一位非传统的魔术师凯勒布-沃森（Caleb Watson）、他有一个无法抑制的愿望，那就是不惜一切代价查明真相。但是，当时机成熟时，你能付出这样的代价吗？是一部超自然悬疑小说，灵感来源于《地狱之刃》、《黑暗世界》、《Divi-Dead》等作品、黑暗"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/830f3ccc217e14c884f1bb425c95c809","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

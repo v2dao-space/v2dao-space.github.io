@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】30代がはじめて作った『バニーガールが主人公のえちえちゲーム。』 [800M][百度盘]"}],["$","p",null,{"children":"金杰是一个兔女郎，偶然在赌场工作。 让我们控制她在赌场的日常生活并克服有时会发生的意外，这是一个非常有趣和令人兴奋的游戏。 这是一款简单的游戏，你可以通过清除游戏过程中发生的小游戏来推进故事，如果你失败了小游戏，你可以观看色情场景。 没有战斗元素。 H场景基本CG：8张 变化总数：122张（激烈性爱场景4个、小淫事件场景4个、惩罚教育性爱、公众视野下多人性爱、妓院甜蜜性爱等）社团名しずかなみぎわ  入正：https://www.dlsite.com/maniax/work/=/product_i"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2ff86f9e","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

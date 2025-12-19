@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/无码/GAL】ぜったい最胸☆おっぱい戦争!!"}],["$","p",null,{"children":"2024.7.2整理补档&替换网盘心愿屋汉化组（已解散）心愿屋汉化组『金盆洗手』通告：继上次心愿屋商城所有汉化补丁都解除加密认证公开放流后，今天正式宣布『心愿屋商城』停止运营，不再接受『任何人』以『任何形式』进行的委托汉化。—-2021.6.1  Story【我要成为胸部的救世主！】胸部，那是奇迹的膨胀。贫乳，那是有着无限可能性的希望。这里是[バスチェスト大陆]。存在着巨乳族的公主。エストレア所统治的『パイクォーツ王国』和贫乳族的女王。ティアラ所统治的『サーペッタン王国』这2个王国。但是，这个2"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/5babe6168852bfa27dc416c2c29da063","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

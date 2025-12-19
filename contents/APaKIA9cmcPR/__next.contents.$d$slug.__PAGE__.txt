@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【ADV/生肉】【Whisp】 爱上火车 Last Run!! ＆ Vocal Complete Album【含DLsite限定特典】【百度/IPFS/103G】"}],["$","p",null,{"children":"【内容简介】   Introduction 《爱上火车》（日语：まいてつ）是由Lose(已解散)开发的恋爱冒险类电子游戏，并有系列衍生漫画、摄影APP、动画等。2020年10月发售新增剧情的《爱上火车 Last Run!!》，新增原有线路的后日谈及新线路，并重写了总集线，与原版《爱上火车 Pure "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/APaKIA9cmcPR","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

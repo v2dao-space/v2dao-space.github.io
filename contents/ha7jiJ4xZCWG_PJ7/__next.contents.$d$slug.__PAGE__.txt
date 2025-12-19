@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ARPG/个人汉化/无码】ルーザーメーカー(RJ01399063) Ver1.0.0作弊版【度盘/3.26G】"}],["$","p",null,{"children":"萌幻之乡bitterboy个人汉化,禁止商用!!! 另谢，外网f95zone.to论坛(需翻墙)的DocRipper提供去码作弊换B整合包  介绍 汉化可能有部分遗漏，或润色不到位，请多包涵。 设置中有一个一直试不出来有什么作用。原文和机翻都放上去了。 ダメージエフェクト(ピンク・ホワイト)を表示 "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ha7jiJ4xZCWG_PJ7","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"少妇之心"}],["$","p",null,{"children":"一本手抄本《少女之心》（曼娜回忆录）曾风靡大江南北，激发了一代人心中那蕴藏已久的情欲。后来的曼娜怎样了，从一个豆蒄年华的少女变成一个风韵绝色的少妇，她的生活又是怎样的精彩，她的身边又有那些样的男人？江小媚续写的《少妇之心》（曼娜的少妇岁月）就是曼娜少妇岁月中的故事。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/kzjOmYGOQC","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

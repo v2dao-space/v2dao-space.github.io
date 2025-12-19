@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"监狱岛的女看守 Island of Penance v1.01"}],["$","p",null,{"children":"游戏简介：布莱恩博士，重新发现刻印魔法的天才科学家，死于一场神秘事故。多年后，博士唯一的女儿，伊尔米娜努力成为狱警踏上监狱岛，以调查父亲死亡的真相。只有能适应魔法的人才能成为狱警，而至今为止所有匹配的特异者都是男性。但令人震惊的奇迹出现了，伊尔米娜也表现出了对魔法的适应性，这让她成为了全国第一位女狱警。然而作为全是男人的岛上唯一的女性，伊尔米娜此后的处境只会越发艰难。狱警肆无忌惮地控制着整个岛，他们的话就是法律……伊尔米娜能否解开自己追寻的谜团？而这会让她付出什么样的代价？入正地址 (https"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/73587d172a7957d18fe6c8ca7b1351a8","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

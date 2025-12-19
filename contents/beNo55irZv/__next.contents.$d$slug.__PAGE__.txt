@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【同人音声/繁中】【RJ01457328】姐姐正太公会～新手冒险者的我和色情狂爆乳剑士姐姐×2的造娃授孕奶子任务♪【度盘/7.8G】"}],["$","p",null,{"children":"DL官网： https://www.dlsite.com/maniax/work/=/product_id/RJ01445622.html マヨタマ  ☛点击试听PV☚       社团名 マヨタマ  关注10,179              支援社团也可以使用DL点数进行支援        发售"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/beNo55irZv","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

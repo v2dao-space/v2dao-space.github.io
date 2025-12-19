@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【画集】いみぎむる ART WORKS fruits [DL版]-作者: いみぎむる 出版社: KADOKAWA-度盘"}],["$","p",null,{"children":"『この美術部には問題がある!』のいみぎむる、初画集!TVアニメ化もされたコミック『この美術部には問題がある!』を手がける漫画家・いみぎむるの数々の美麗イラストを一挙収録!『この美』のコミックス関連イラスト、貴重な特典・宣伝イラストをはじめ、『Fate/Grand Order』の公式イラスト&ファンアート、『キミに幸アレ!!』『サイトーくんは超能力者らしい』のカラーイラスト、そのほか、いみぎむるが担当した人気ゲーム・アニメの版権イラストも網羅した、総収録イラスト170点以上のファン必携の1冊です。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/766865","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

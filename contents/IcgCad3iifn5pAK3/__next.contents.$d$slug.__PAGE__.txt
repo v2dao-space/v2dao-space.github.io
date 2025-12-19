@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【PC/浏览器/HTML】豪宅(The Mansion) Ver1.05 浏览器汉化完结版+真人HTML游戏+3.25G"}],["$","p",null,{"children":"分享一款HTML游戏大作，嘿嘿： 豪宅(The Mansion) Ver1.05 浏览器汉化完结版+真人HTML游戏+3.25G  推荐使用Edge浏览器的中文翻译功能进行游戏， EDGE比较稳定，玩HTML游戏很不错 ！   游\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/IcgCad3iifn5pAK3","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

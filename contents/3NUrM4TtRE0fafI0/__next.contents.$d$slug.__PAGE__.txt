@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【PC/RPG】Demons Roots 恶魔之根 官方中文步兵版+全cg存档 v1.2.1"}],["$","p",null,{"children":"在魔王被人类击败之后，魔族的残余势力很快便逃往了暗黑领域之中。\n千年的时光转瞬即逝，而人丁稀少的魔族也来到了灭族的边缘。\n为了生存与发展，魔族们决定再次进攻人类世界，试图尽全族之力放手一搏。\n然而来到人类世界的魔族们却发现，这里与他们逃进暗黑领域时的人类世界相比，简直是天壤之别。\n一部分人类傲慢地统治着剩下的大部分人类，残忍地将他们当做工具一般使唤。\n一些受尽欺压与蹂躏的奴隶们在机缘巧合之下，竟意外与千年前掀起腥风血雨的魔族们结成了同盟。\n目标相同的两股势力拧成了一条绳子，誓要成为消灭那高高在上的统治者的绞索，\n并赢得属于自己的家园和宝贵的自由。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/3NUrM4TtRE0fafI0","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

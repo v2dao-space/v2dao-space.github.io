@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[ACT/PC] 疯狂岛 Mad Island 正式版+DLC"}],["$","p",null,{"children":"这是由[E-made+]推出的一款类型ACT游戏,这是一款自由度超高的开放世界沙盒ACT+SLG结合的荒岛生存游戏。完全可媲美少女卷轴甚至超越的2D大作，游戏更新后精简容量到1G左右！内容已十分丰富，在荒岛上的男女主可随时选择替换操作，自带H全回想。选女主被岛上原住民OX，选男主去OX岛上的女原住民，貌似更新人鱼了~，在岛上拾取各种材料搭建和生产，捕获RBQ等奇妙玩法！偌大岛不够还可下海去探索，不但有人鱼美眉，还有鲨鱼...想干啥就干啥,男女主2D沙盒生存游戏！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/d2e4442111f068bbbf7e2255af1982f7","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

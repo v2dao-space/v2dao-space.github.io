@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/ADV】性狂育 ～モンスターペアレントの理不尽な要求～"}],["$","p",null,{"children":"前言拔作4部曲—第三曲 性狂育 ～モンスターペアレントの理不尽な要求～本作为Clockup偏冷的一部作品，本作品包含NTR元素定时发表文章真好玩注意身体，远离盲目冲锋  Story早瀬理彩の教師生活が2年目の秋を迎える時、担任を受け持つクラスで事件が起こった。とある男子が、とある女子に乱暴しようとしたのである。理彩がたまたま通りかかったため事なきを得たが、それは誰が見ても立派な○○○未遂事件。だが、学園は未遂だったということで、この件を公表しないことに決めたのだった。事件から間もないある日、担任"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/765433","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

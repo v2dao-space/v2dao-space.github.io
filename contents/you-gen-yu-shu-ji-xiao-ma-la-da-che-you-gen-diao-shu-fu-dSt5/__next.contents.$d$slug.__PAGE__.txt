@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"幼根御熟记（小马拉大车，幼根屌熟妇）"}],["$","p",null,{"children":"1、本人新作，准备写成短篇或中篇。都市后宫无绿，女主不会太多，10个以内。依然ntl人妻熟妇为主，也可以说绿别人。不限豪门，有寻常百姓，含少女。\n2、以肉为主，全程玩花样，剧情简单推进，不考虑精雕细琢。尝试写一个年幼少年的成长，为校园血亲题材小马拉大车练笔。血亲文将另开一篇，同为练笔。\n3、由于本人处女作写地太久太累，且反响平平，被很多人传为手枪文（的确以肉为主，但中后期转型后剧情绝对不少，场面越来越大），因此更新到100章就暂时搁置。休息休息，写一写不费脑子的纯肉题材，干脆坐实我手枪文写手的名号。\n4、随缘更新，一般在周六或周日。若是有人喜欢，可以加快速度。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/you-gen-yu-shu-ji-xiao-ma-la-da-che-you-gen-diao-shu-fu-dSt5","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

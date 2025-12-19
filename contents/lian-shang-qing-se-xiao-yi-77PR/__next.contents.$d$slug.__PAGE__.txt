@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"恋上青涩小姨"}],["$","p",null,{"children":"“小玖，我要喝可乐。”\n许玖眉头轻佻，有些气恼，“小玖也是你叫的？要叫小姨。”\n“小玖，小玖，小玖……”\n像是要故意气她一样，徐松又是连着叫了好几声。然而许玖也不是记仇的人，有仇一般都是当场就报，一个闪身，直接扑到徐松的身上，两只白嫩的小手掐住他的脸颊就往外拉。\n“窝颈告离快哄吼！卜染窝揪………”\n因为脸被拉扯，徐松的话有些含煳不清，但是许玖还是听懂了。我警告你快松手，不然我就………\n不过许玖才不会轻易放手，反而拉的更加用力了。眼看自己的帅脸都快变形了，徐松心里暗骂，死丫头，是你逼我。\n两只打手攀上其纤细的腰肢，开始用力的挠了起来。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/lian-shang-qing-se-xiao-yi-77PR","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】瘴気と聖印【双端/1.2G/百度】"}],["$","p",null,{"children":"  \n◆隶属于纯土骑士团的骑士少女塞蒂。塞蒂和姐夫兼恋人的约瑟虽然想在旅行中度过第一个夜晚，但是在附近的废酒店出现了魔物。出动了，那天晚上就寄放了。魔物也很弱，本来任务应该很快就会结束里有瘴气。两人因本应简单结束的任务而分离。塞蒂一点一点地被瘴气侵犯了身体在这种情况下，同伴们被魔照射，甚至变成了瞄准"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/5heNAKLpGLQA","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

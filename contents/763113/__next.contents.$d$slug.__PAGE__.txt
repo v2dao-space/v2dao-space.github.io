@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/中文】暗黑地牢+ns版mod"}],["$","p",null,{"children":"发行日期:2016 年 1 月 19 日开发商:Red Hook Studios发行商:Red Hook Studios回合制战斗黑暗奇幻迷宫探索类 Rogue《Darkest Dungeon》是一个极具挑战性的哥特式类 Rogue 回合制 RPG，聚焦冒险的心理压力。招募、训练和领导一队有缺点的英雄，穿行扭曲的森林、被遗忘的巢穴、毁坏的地窟等地。你不仅将与不可想象的敌人作战，而且还要面对压力、饥荒、疾病和不断侵蚀的黑暗。揭开奇怪的神秘事件，在创新的战略回合制战斗系统中，让英雄与一群可怕的怪物作"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/763113","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"江山云罗"}],["$","p",null,{"children":"结束了别扭又沉重的《风雨情缘》，准备充分的《江山云罗》终于开篇。欢迎书友们来这里吹吹B。\n先行申明，本书还是有虐无绿。我本身对绿毫无快感可言，强行写也写不好。\n在创作《风雨情缘》的过程中同时准备《江山云罗》，大纲，支线，人物关系，设定加起来超过8万字。\n开篇之后果然感觉全面的准备对写书有百利而无一害，目前越写越有信心。也非常庆幸坚持将《风雨情缘》完本，磨难给了我足够的经验教训，避免《江山云罗》重蹈覆辙。自我感觉本书许多设定都有新意，只想好好写，不辜负这个不错的题材。\n有什么宝贵意见，都请提出来吧，有什么不满，也请吐槽。感谢书友们的支持。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/jiang-shan-yun-luo-uWLJ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

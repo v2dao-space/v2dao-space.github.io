@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【互动SLG/中文/PC+安卓/全动态】用崔眠APP高傲大小姐"}],["$","p",null,{"children":"带来这款正式完全中文版的崔眠互动SLG的最新版本： 用崔眠APP高傲的大小姐 Ver1.20 官方中文步兵版   最新更新Ver1.20版本，新增安卓手机版，还附带全CG存档。 内容包括：PC版+安卓手机版+全CG存档，已整合在一起。 游戏"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/7cd5076f707a07ef82044aa65a845957","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

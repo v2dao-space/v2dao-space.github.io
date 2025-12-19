@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中】恶女豪宅逃走中 / Honey Trap Escape ~ Family of Villains and the Cage ~"}],["$","p",null,{"children":"◼︎剧情大纲 我一出生就非常幸运，豪华的宅邸中有许多女僕。 优秀的专属执事克萝埃、总是陪我玩的温柔保母。 虽然任性但是和我很要好的妹妹米勒，还有贤淑温柔的我最喜欢的妈妈。 我的人生一帆风顺，什麽也不缺……直到那天之前，我一直是这麽想的。 某一天，主角得知自己居住的宅邸，其实是坏蛋家族的豪宅。 原本认"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/_lnnHA4gya","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

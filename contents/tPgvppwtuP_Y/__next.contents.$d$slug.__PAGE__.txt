@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D动画/无码】CBX-CJW大佬12月新作（6V/3.49GB）"}],["$","p",null,{"children":"CBX-CJW大佬的12月新作品。（怎么说呢，只是感觉虽然可以用一个合集贴更新到底的策略，但越更新放的预览图就会越多，文章的预览图久会越来越长，不太美观，后面就以月份的形式更新，但链接是合集的发帖方式进行发帖吧(反正都是单压的不影响)，若本月作者有其他更新，那么就更新月贴了）\n合集贴：https:/"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/tPgvppwtuP_Y","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

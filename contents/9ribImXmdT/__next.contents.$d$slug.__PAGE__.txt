@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"导火线"}],["$","p",null,{"children":"一个商业间谍无意中发现自己的老婆红杏出墙，但是旋即被卷入一起神秘的谋杀案，而这一切由于他窃取的商业情报有着莫大的关联，外国神秘组织、内地黑暗势力、警方都在追捕他，而他已经神秘失踪的老婆似乎和这一切都有千丝万缕的联系，怎么样才能逃出生天，怎样才能洗刷冤情？\n宋斌与张宁和王珂的邂逅让人感觉清新愉快，就像熟悉得不能再熟悉的都市情感剧，让人在一天繁重的工作中体味一种可能过去无法体味但总在头脑中萦绕的场景。读到这里你是否准备欣赏接下来即将出现的轻松愉快的都市爱恋呢？\n错了，这一切都是阴谋。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/9ribImXmdT","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

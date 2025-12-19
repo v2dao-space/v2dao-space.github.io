@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】 勇者查拉奥的冒险 勇者チャラオの冒険 Ver1.4.1 【1.4G/度盘】"}],["$","p",null,{"children":"剧情概要千年前的战斗中，勇者查拉奥将魔王米雷娜逼入了绝境。然而，魔王倾尽最后的力气，与勇者一同封印了自己。此后，千年时光流逝——然后……既轻浮又喜欢女孩子的勇者查拉奥从封印中解放了！千年后的人类社会，由于摆脱了魔族的压迫，比查拉奥生活的时代更加繁荣发展，而生活在那里的女孩子们也都是可爱的小家伙！查拉"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/rzfvomMGfAUcc57Y","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

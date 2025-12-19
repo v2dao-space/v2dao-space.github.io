@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"奇侠斗女"}],["$","p",null,{"children":"青年高手洪全宝，挟比武大会第一之名，横空出世，因朋友之故卷入江湖纷争，最终对上有天下第一高手之称的阴阳教主。幸得奇人相助，秘法激发潜力，背水一战。而奇人兄弟之间又有不可与外人道的恩怨情仇，诡异的行径，善恶莫辨之后隐藏的杀机，这一切，都将在《奇侠斗女》中一一展现……\n文是名家之文，既有武侠之风，又有艳丽之情，只是不知何人冒名，颇见功力。通常对于武侠小说来讲，除了那种单纯的感官文章，一般不会让占据相当篇幅的女角（不是主角）在与男主角发生关系以后，最后因为种种原因与同一阵营的其他人在一起，由此可以窥见本文绝非一般剪辑文章可比。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/KnVT2CTkAX","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

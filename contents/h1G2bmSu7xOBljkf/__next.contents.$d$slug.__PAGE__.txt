@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【安卓/PC/RPG】附身少女的幸福体验 精翻汉化版 PC+安卓+华为版 TSRPG游戏+1.2G"}],["$","p",null,{"children":"  这是幻想岛汉化组新移植的日本RPG作品。 附身少女的幸福体验 精翻汉化版 PC+安卓+华为版 TSRPG游戏+1.2G  游戏画风很好。 女主非常多，包括非常多的剧情 游戏包含电脑+安卓+华为版双版本   游戏介绍：\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/h1G2bmSu7xOBljkf","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

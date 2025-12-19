@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG/汉化/动态]欲望学院2 V1.7.1d 汉化版[安卓][2.8G]"}],["$","p",null,{"children":"欲望学院2 V1.7.1d 汉化版游戏介绍：因为你的父母早早去世了，你一直在你的姨妈家里长大。到了你成年的那一天，你竟然收到了一封来自柯代尔魔法学院的入学邀请信！原来你的父母都曾经是出色的巫师，但是不幸的早早去世。然而你的血脉里流淌着魔法师的力量之源！在去学院的特快列车上，你结识了美丽的海莉。学院里还有各色的美女出没，而你居然还领悟了强大的读心术！在轻松通过入学考试之后，你将会被分到狮，蛇，鹰，獾"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2505","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

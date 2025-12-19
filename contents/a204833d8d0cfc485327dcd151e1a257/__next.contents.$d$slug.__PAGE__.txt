@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/汉化] 梦幻约会 幻想约会 Fantasy Date-v0.10 PC+安卓汉化版"}],["$","p",null,{"children":"动漫人物约会模拟器。通过对话探索有意义的关系，通过正确回答问题获得积分，解锁浪漫时刻。满足你的幻想，深入亲密体验，创造难忘回忆。加深你们之间的联系，将约会提升到更特别的层次。准备好与您最喜爱的动漫角色一起开始浪漫冒险了吗？将一些卡片归功于 Evaan。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/a204833d8d0cfc485327dcd151e1a257","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

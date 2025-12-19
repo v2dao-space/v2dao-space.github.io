@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【亚洲/SLG/步兵】超能力重制版v0.62赞助 汉化版【PC+安卓/2.08G】"}],["$","p",null,{"children":"【亚洲/SLG/步兵】超能力重制版v0.62赞助 汉化版【PC+安卓/2.08G】 游戏介绍： 恶魔玛丽亚赋予了你影响他人认知的能力，即“超能力”。与此同时，由于工作原因，你开始与硅基生命体共同生活。在这座新城市中，你遇到了几位迷人的女性…\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ya-zhou-slg-bu-bing-chao-neng-li-zhong-zhi-ban-v0-62-zan-zhu-han-hua-ban-pc-an-h1Jm","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

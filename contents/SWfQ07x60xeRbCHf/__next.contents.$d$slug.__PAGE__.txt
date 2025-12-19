@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【PC/安卓/SLG】北极光:开始 Ver0.25 汉化版+动态SLG游戏+4.93G"}],["$","p",null,{"children":"特工题材SLG《北极光:开始 》Ver0.25汉化版发布！化身精英特工Leo， 带领跨国小队执行460+动态渲染的机密任务！PC安卓双端畅享多线叙事， 新增Hana/Irene专属行动线！ 北极光:开始 Ver0.25 汉化版+PC+安卓+\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/SWfQ07x60xeRbCHf","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

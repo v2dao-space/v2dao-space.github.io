@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【PC安卓＋joi机翻RPG】魔女的护送人/魔女の護送人（AI翻译）"}],["$","p",null,{"children":"为了执行魔女的处刑，前往血之教会的RPG游戏◇ 故事简介魔女——她们天生就拥有魔力，同时也是被忌惮厌弃的存在。因此，一旦被发现，她们就会按照光明教会的惯例，在血之教会接受处刑。然而，前往血之教会的路途上充满了魔兽，需要护送者看管魔女并击退这些魔兽。于是，主人公被指定为护送魔女的重要角色。为了护送魔女"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1oVIJjk7OAQA","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

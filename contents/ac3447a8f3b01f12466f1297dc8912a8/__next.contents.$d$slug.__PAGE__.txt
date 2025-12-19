@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"超潜视界 Real Dive World"}],["$","p",null,{"children":"故事发生在距今不久的未来……假想空间“超潜视界”已成为人类娱乐不可或缺的基础设施。因为某些原因，主人公“新田 光”被卷入了恶意使用系统的阴谋中，人生也因此陷入了危机……本游戏为回合制战斗，并以探索为主的RPG游戏。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ac3447a8f3b01f12466f1297dc8912a8","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

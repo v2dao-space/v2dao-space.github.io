@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【完结漫画】[吉富昭仁] 脑洞天兵萌大姐/へんなねえさん-太田出版-1卷完-度盘"}],["$","p",null,{"children":"「いやー、吉富さんがこんなにアホな人だとは思いませんでした（笑）」by鬼頭莫宏あしたのあたしと触れ合う摩亜夜。女体を快楽に陥れる装置を発明するハナコ博士。突然姉ができて喜ぶ裕一。すこしふしぎでＨな日常を送る彼らの知らないところで、かなりふしぎな生命体が……!?奇想天外！美少女いっぱい！抱腹絶倒！馬鹿ばっかり！このたくらみを君は見破ることができるか――！?あらゆる予想の斜め上をゆく、吉富昭仁のＳＦ×美少女最新作        想了想，今天毕竟生日，发个怪的给大家开开眼……不过放心，不是伊藤润二那种"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/727762","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

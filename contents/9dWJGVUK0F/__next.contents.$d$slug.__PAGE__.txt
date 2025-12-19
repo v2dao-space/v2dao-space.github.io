@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本【[ろうか] あの、もう1回しませんか…？｜請問、再來1次應該可以吧…？ [中国翻訳] [DL版]"}],["$","p",null,{"children":"我們姊妹、都沒能過癮… 做到爽之前不准停…♥ 5篇FANZA熱銷系列+24P加筆+彩繪畫集＝ 268P超弩級完全作品集 壓倒性高人氣作家ろうか 首部成人向商業漫畫在此爆誕★ 與幹勁十足的波霸巨乳美少女姊妹盡情中出S○X享樂♥ 大葛格可以盡情噗咻噗咻唷♥ pubu：点我 有爱自取 提取码："}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/9dWJGVUK0F","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【经营SLG/官中/动态】冰雹独裁者 Hail Dicktator V0.49.1 官方云汉化版【安卓/4G】"}],["$","p",null,{"children":"今天给各位带来一款欧美经营类SLG游戏的官方云汉化版本\n\n\n\n冰雹独裁者  V0.49.1 官方云汉化版 【安卓】\n\n\n\nHail Dicktator [v0.49.1] [Hachigames]\n\n\n\n这次发布的版本，安卓分3个章节有3个安装文件。\n\n\n\n这是一款经营类的SLG游戏，U3D的引擎制作！\n\n\n\n游戏自带云翻译，可以在主页选择中文选项（官方自带的云翻版，凑合能看）\n\n\n\n并且自带任务"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2712","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

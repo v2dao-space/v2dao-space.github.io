@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【SLGR/生肉】远星都市27λ【度盘/557MB】"}],["$","p",null,{"children":"贩卖日2024年07月30日 0点年龄指定18禁作品类型模拟有声音有音乐有动画文件形式软件支持的语言中文(简体字)中文(繁体字)韩语日文英文分类战斗H 科幻 被NTR 怀孕 羞耻/耻辱 触手 机械X 异种X文件容量556.87MB◆充满混乱的太空殖民时代宇宙保安局是维护宇宙治安的官方机构。其中的调查员——幽姿，为了争取小队业绩、帮助自己的队长男友，独自远离地球、执行危险的任务。◆丰富的战斗内容与战斗H演出龙蛇杂处的太空殖民地里，有着三大类敌人：人类、触手，以及机械。 36种敌人皆有专属的战斗H表"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/fc1f1173d83ce2b87d4c2ed4824b914f","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

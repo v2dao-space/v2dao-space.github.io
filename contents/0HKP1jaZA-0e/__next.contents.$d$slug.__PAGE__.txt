@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/机翻] 没有更多钱 No More Money v3.6.0 全画廊 PC+安卓[7G/百度]"}],["$","p",null,{"children":"[SLG/机翻] 没有更多钱 No More Money v3.6.0 全画廊 PC+安卓[7G/百度]\n游戏介绍：一切都始于我父亲失去公司，每个人都被迫搬到不同的城市。在这里，我们必须从一个只有两间卧室的小公寓开始，所以“不幸的是”你必须和你的妹妹共用一个房间。由于你已经20岁了，是时候尽你所能帮"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/0HKP1jaZA-0e","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

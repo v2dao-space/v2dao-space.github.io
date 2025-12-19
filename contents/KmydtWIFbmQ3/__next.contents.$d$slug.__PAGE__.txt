@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】駆け出し冒険者シルフィ【800M/百度】"}],["$","p",null,{"children":"  \n游戏概述\n以地方都市为中心展开的传统命令选择式 RPG。故事通过在冒险者公会接受委托来推进。战斗是主人公希尔菲加上可任意加入的伙伴，最多 3 人组成的队伍战斗！在色情行为交换中，强大的伙伴加入或获得巨额金钱。是努力提升等级，还是献身以利于冒险，全凭你决定！\n●预计游戏时间　　约 4～5 小时●"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/KmydtWIFbmQ3","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

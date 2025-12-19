@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中】炼金术师艾玛的债务偿还故事/錬金術師エマの借金返済物語"}],["$","p",null,{"children":"2024/12/14 官中\n炼金术师艾玛的还债故事\n  \n入正链接：点击访问\n作品内容\n住在涩涩小镇的年轻炼金术师艾玛原本过着平静而美好的生活。然而某一天，她的母亲突然神秘失踪。而在消失前，母亲似乎在涩涩小镇的领主乌姆尔处欠下了一笔高达100万金币的巨额债务……\n冒险者公会有发布许多高额赏金的任务，"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/9GOZdTjjoT2p","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

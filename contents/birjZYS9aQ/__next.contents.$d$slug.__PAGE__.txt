@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"附体记"}],["$","p",null,{"children":"南宋末年，全真教崛起于北方中国，与南方道教众多符箓派展开势力争夺，龙虎宗旁支修道羽士李丹因师门遭袭，重伤逃亡，附入中毒亡身的南宋丞相贾似道的庶出大公子身内，以全新身份周旋于贾府、东府、官场、商贾以及真武教、茅山宗、东华派等佛门道派之间，先后与贾府众女、道教女冠、皇宫妃子等结缘，奇功初成后，成为道教南北之争的关键人物。\n后又重逢师姐、师嫂，一场道教南北之争、佛道之争拉开帷幕，期间杂夹明教、日本剑道的势力参与角逐，五行遁术、搬运术、腾挪术、陆地飞腾术、仙剑术、采补术、符咒术、掌心雷、佛门幻术等纷纷登场。演绎一段宋末佛道争流的传奇故事。本文主要以中国古代式的仙道幻术为主，加入宫闱秘事、商贾风云、武侠情节的描写。\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/birjZYS9aQ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

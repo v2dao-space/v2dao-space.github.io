@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"龙宠"}],["$","p",null,{"children":"读者：罗克从蛋里蹦出来？神马？身为男主角的罗克竟然是从蛋里蹦出来？\n萧九：这不是一颗普通的蛋，是一颗龙蛋。\n读者：神马？还变成了宠物？\n萧九：不是普通的宠物，而是龙宠。\n读者：神马？这学院木有男淫？\n萧九：罗克是唯一滴男淫。\n（读者喷鼻血中……\n在卡纳女子学院中，从龙蛋中出现的罗克是唯一的男性，他因被认为是龙人而享受特殊待遇，想要龙种而勾引罗克的女学生、想要确认罗克身分而自愿献身的女医生……\n罗克成了众美女们眼中的上等诱惑！ 在这所女子学院中有刁蛮的萝莉公主、性感的美女医生、奔放的女学生、持枪的萝莉修女、暧昧的女老师……\n吊儿郎当的罗克只想坐拥美女，却不知道自己的真实身分是……"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/tuBUsBtrZC","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

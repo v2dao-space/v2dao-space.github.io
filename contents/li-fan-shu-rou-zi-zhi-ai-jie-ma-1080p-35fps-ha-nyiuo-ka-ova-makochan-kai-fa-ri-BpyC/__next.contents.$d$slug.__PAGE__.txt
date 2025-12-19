@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【里番/熟肉/自制ai解码/1080p/35fps】【ばにぃうぉ～か～】OVA まこちゃん開発日記#1-4【度盘/1.58GB】"}],["$","p",null,{"children":"这个是开发日记第二个女主，短紫发妹子，讲道理我第一眼看这个番封面的时候还认为是假小子展开（毕竟短发），结果还是个软妹子有点可惜捏，这女主系列是被自己哥哥拱了，第四集那和龟龟隔一个门给那NTR冲刺冲刺的场面相当顶捏，配合雷火剑精致的画风是顶的发给大家尝尝咸淡（明天要发的我觉得是开发日记里最顶的，而且和"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/li-fan-shu-rou-zi-zhi-ai-jie-ma-1080p-35fps-ha-nyiuo-ka-ova-makochan-kai-fa-ri-BpyC","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

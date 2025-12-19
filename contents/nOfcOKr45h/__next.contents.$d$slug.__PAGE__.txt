@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"男人"}],["$","p",null,{"children":"本书写的是一个男人的情欲历程。不说情爱，是因为主人公张楚有时和女人上床只是性，和爱无关。表面看，张楚极有桃花运，多个漂亮女子与他恩恩爱爱，甚至连自己的小姨子也爱上了他，他还有过老婆和小姨子情人同居一室这样让天下男人眼红地流鼻血的好事。不过，张楚是周旋在自己的老婆、小姨子、女同事之间的风流浪子，也是围在这些女人以爱怜和欲望织成的网中间的一件有魅力的宝物。他被四个女人以各种名义争来夺取，他的时间、精力、感情被分割地肢零破碎，甚至到最后连自己的身体也同样的毫不留情遭到了分割。张楚象一盘新鲜出炉的蛋糕，被围坐在餐桌前的女人迅速地分而食之了。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/nOfcOKr45h","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

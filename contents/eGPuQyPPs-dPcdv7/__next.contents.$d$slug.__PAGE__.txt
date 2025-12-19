@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/草草个人汉化/双端】《萝莉诱拐》绑架恶作剧模拟器（《ロリ誘拐》連れ去り悪戯シミュレーション★おさわりゲーム型オナサポASMRアプリ～ワゴン車に少女を監禁して島内を逃げ回れ！）【bug修复+优化+UI汉化】（RJ01407563）"}],["$","p",null,{"children":"此汉化版由草草原创并修复bug和优化 叶酱进行地图UI等图片的嵌字镶图与安卓文本移植 游戏名：《萝莉诱拐》绑架恶作剧模拟器 （《ロリ誘拐》連れ去り悪戯シミュレーション★おさわりゲーム型オナサポASMRアプリ～ワゴン車に少女を監禁して島内を逃げ回れ！） 此版本：25.07.19 （发售版本） 入正地址"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/eGPuQyPPs-dPcdv7","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

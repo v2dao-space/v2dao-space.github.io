@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【PC/RPG】金庸群侠传5:爱与死 Ver1.21.3 中文版整合仙狐MOD+RPG游戏+5.84G"}],["$","p",null,{"children":"金庸群侠传5:爱与死 Ver1.21.3 中文版整合仙狐MOD+RPG游戏&更新+5.84G   游戏介绍： 金庸群侠传5爱与死的2024年最新更新版本！ 该版本为独立版本，基于金庸群侠传5上制作，在此感谢金5制作组全体成\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Ui0KqZdATwnI","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

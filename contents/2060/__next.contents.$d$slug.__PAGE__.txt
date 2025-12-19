@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[爆款RPG/汉化/双端] 妻獲り迷宮：雪拉莉德的异种终身刑 汉化作弊版 [PC+安卓/1.3G]"}],["$","p",null,{"children":"妻獲り迷宮：雪拉莉德的异种终身刑 Ver1.03 汉化作弊版（妻獲り迷宮~シェラリィドの異種O終身刑~）这款游戏为什么如此受欢迎？因为它的剧本是由日本顶尖18X小说家写的！\n\n\n\n绝非一般拔作拿几张CG敷衍了事，是一款值得深刻体验，细品的上乘佳作。\n\n\n\n内容包括PC版+安卓手机版\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[游戏概述] ：这是由 [I’m moralist] 社团在DL发布的一款超级"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2060","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

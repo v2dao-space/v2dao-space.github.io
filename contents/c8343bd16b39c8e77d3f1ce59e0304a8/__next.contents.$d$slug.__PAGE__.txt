@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/日系]霜影 / Frostshade v0.6"}],["$","p",null,{"children":"进入“霜影”的反乌托邦世界，刺客赞恩以死神的身份在分裂的社会中航行。当他拯救一个无辜的女孩时，他被卷入了穿越后世界末日荒原的危险旅程。体验救赎、牺牲和意想不到的纽带等主题，赞恩在《霜影编年史》的原始黑色电影中面对他的过去。在鲜明的对比和黑色幽默中，踏上挑战他所知道的一切的奥德赛之旅。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/c8343bd16b39c8e77d3f1ce59e0304a8","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

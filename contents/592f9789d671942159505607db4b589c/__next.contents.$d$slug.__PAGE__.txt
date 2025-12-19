@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化同人本/新汉化】2024.6.22 22本"}],["$","p",null,{"children":"(C86) [カオス少女の店 (いまっち)] コイノヤマイニクスリナシ (アイドルマスター シンデレラガールズ)[中国翻译](C90) [風道屋 (まもウィリアムズ)] 軽蔑ックス (艦隊これくしょん -艦これ-)[中国翻译](C92) [AIR BOX (YU-TA)] 艶情ヨーソロー (ラブライブ! サンシャイン!!)[中国翻译](C95) [トロトロトロッコ (ジョニ)] キズナリングXXX (ゼノブレイド2)[中国翻译](C96) [五月雨組屯所。 (夏也雲長)] たまにはご褒美が欲しい"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/592f9789d671942159505607db4b589c","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/ADV】シンソウノイズ 〜受信探偵の事件簿〜"}],["$","p",null,{"children":"前言DMM自购作品，DMM：JUMP继（女系2）和（あくまで）之后，本次分享萌幻第三部专享作品Azurite首作也是最巅峰的一部作品（PS：第二部あくまで真的是可惜了）本作品获 萌えゲーアワード2016 ゲームデザイン賞 受賞  —-DMM本作品可是由DMM x シルキーズプラス x Liar Soft 三家协力制作出的优秀作品本游戏下载也可是一绝难度，DMM自购–DMMPlayer（地区限制，花钱请人下载完转）–自己玩–打补丁分享内附使用说明（要看的，问题都在里面！）注意：本游戏资源稀缺，禁止"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/770913","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

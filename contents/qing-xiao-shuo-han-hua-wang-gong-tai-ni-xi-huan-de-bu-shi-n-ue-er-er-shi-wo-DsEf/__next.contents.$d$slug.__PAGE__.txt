@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【轻小说/汉化】【望公太】你喜欢的不是女儿而是我！？/娘じゃなくて私（ママ）が好きなの!? -epub- 01~07【简】【完结】"}],["$","p",null,{"children":"第一卷内容简介 「我来收养这孩子。」 我，歌枕绫子，3×岁。时光飞逝，收养已故姊姊夫妇的女儿已经十年了。升上高中的女儿，最近和青梅竹马的男生左泽巧之间气氛不错，两人之后说不定会交往？因为阿巧是个很好的孩子，对此我非常赞成。 咦？他说有话要跟我谈，该不会是想说「请把女儿交给我」之类的吧？哎呀讨厌啦，这"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/qing-xiao-shuo-han-hua-wang-gong-tai-ni-xi-huan-de-bu-shi-n-ue-er-er-shi-wo-DsEf","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

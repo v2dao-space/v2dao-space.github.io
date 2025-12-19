@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【同人图集】【ザンクロー】【fantia】2018-2024年合集(不全)【11.09GB】【百度网盘】"}],["$","p",null,{"children":"我说几个点啊： 0.除了fantia的内容其实还有dl，pixiv，twitter的内容，不想要的可以删掉。 1.fanbox早期作品这缺那缺，所以这份合集以fantia的内容为主。 2.合集里220327缺失。 3.作者的fantia和fanbox双方都各有作品缺失。比如fanbox的一些草图，f"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/fyNryX-dI1df","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

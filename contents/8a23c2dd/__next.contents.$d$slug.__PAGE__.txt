@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中】異世界出身の私が歌舞伎町で闇バイト始めました【1.7G/百度】"}],["$","p",null,{"children":"游戏简介：曾经，戴亚是一名生活在异世界的冒险者。她在打妖怪的途中被凶恶的妖怪袭击了。尝试使用传送魔法返回城镇，但由于魔物的干扰，不慎被传送到了“异世界”。那里是日本——钻石和魔物转移到了闪烁着霓虹灯的歌舞伎町。她遇见的是一位自称为科贝尼的非法滞留的中国女孩。她被邀请到科贝尼的家，并开始在歌舞伎町生活。在繫華街中消灭潜伏的魔物，究竟能否回到原来的世界呢？舞台是 90 年代的东京。国籍不拘的非法滞留者满街，黑社会势力开始加剧。其中心的歌舞伎町成为治安恶劣的象征地。魔力不存在。但在这个充满欲望的城市中"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/8a23c2dd","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

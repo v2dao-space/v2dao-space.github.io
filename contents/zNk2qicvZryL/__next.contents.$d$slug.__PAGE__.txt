@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】 夏空三角恋-NTR- 夏空トライアングル-NTR- 【1.6G/度盘】"}],["$","p",null,{"children":"  \n♦剧情概要♦  第二学期的期末考试结束，暑假即将来临，教室里弥漫着浮躁的气氛。与此同时，为了筹备九月的文化祭，学校开始招募执行委员。  平时，主人公绝对不会主动报名参加这种活动。  但他有一个与他极不相称却依然愿意和他交往的女朋友——绘真理（ひまり）。为了成为配得上她的男人，主人公一直强烈地想"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/zNk2qicvZryL","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

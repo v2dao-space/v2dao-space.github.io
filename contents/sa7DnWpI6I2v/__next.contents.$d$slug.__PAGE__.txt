@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【LIVE2D/有修正】 survive:みんなのゴブリンひろば〜ゆい先生はボク達のお漏らし遊具〜 【1V/度盘/UC/1G】"}],["$","p",null,{"children":"[-][有修正][有CV][39min][-]\nみんなのゴブリンひろば〜ゆい先生はボク達のお漏らし遊具〜 モーションコミック版（前編）\n正：https://www.dmm.co.jp/dc/doujin/-/detail/=/cid=d_261611\n\n修改后缀png为7z/RAR/ZIP即可解压。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/sa7DnWpI6I2v","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

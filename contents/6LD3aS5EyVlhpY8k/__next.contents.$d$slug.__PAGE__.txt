@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【MMD/有码】さいごのかいらく【シスターに懺悔を】"}],["$","p",null,{"children":"又到了我最爱的史莱姆环节了！ 好久没更 这回写了很长 而且确实很顶    今天爷不知为何出现在教堂 看美少女图片的时候被修女姐姐发现了    修女姐姐表示这是不对的 让我进小房间忏悔自己的涩欲    进了房间的修女姐姐变成了两个美少女 难道说 净化涩欲的方式是…    啊 这不就是我刚刚看的吗 原来"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/6LD3aS5EyVlhpY8k","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

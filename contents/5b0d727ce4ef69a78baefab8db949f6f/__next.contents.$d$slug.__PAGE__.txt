@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"洗脑触手R Brainwashing with Tentacles R"}],["$","p",null,{"children":"有一天，上司的女魔族给了属于魔王军团的触手怪物『鲁斯』一个新任务，就是捕捉一名在保护村庄的女战士。鲁斯拥有通过强奸女性就能给她们洗脑的特殊能力。虽然只对女性有效，但这是一种强大无匹且压倒性的能力！然而，鲁斯有一个弱点......其实它是一个毫无战斗力的小怪物！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/5b0d727ce4ef69a78baefab8db949f6f","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

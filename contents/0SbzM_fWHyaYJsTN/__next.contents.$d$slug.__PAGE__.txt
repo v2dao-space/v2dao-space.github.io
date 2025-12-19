@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【PC/安卓/SLG】淘气店长(Naughty Store Manager) Ver0.94 汉化版+经营SLG游戏+983M"}],["$","p",null,{"children":"淘气店长(Naughty Store Manager) Ver0.94 汉化版+PC+安卓+经营SLG游戏+983M    游戏介绍： 淘气店长是一款模拟经营游戏，继承父亲遗留的便利店后， 你同时背负了父亲欠下黑道成员的巨额债务。\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/0SbzM_fWHyaYJsTN","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

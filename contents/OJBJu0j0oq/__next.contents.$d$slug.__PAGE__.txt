@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"荒唐大帝"}],["$","p",null,{"children":"怀有身孕的年轻少妇，从尸堆里捡回了一个两岁的男孩，取名尼克。\n十年过去，尼克长成了少年，无论他走到哪里，身边总是跟着一名秀丽且天赋异禀的小女孩艾米，直到一名神秘女人的出现，打破了平静的生活，艾米被带走了。\n从此之后，他与养母相依为命。\n六年后，尼克成了种子城堡的卫士，而且是其中最受瞩目的新秀。他渐渐成为众多贵妇、淑女关注的对象，即使在养母眼里，尼克也是亦儿亦夫，奇妙的情愫在两人之间滋长……\n随着身价的提高，尼克的欲望也随之膨胀，野心使尼克走上主宰世界的英雄之路，而他的种子同时也就成为了各大势力的目标。一次偶然的机会，身为莱诺公司第二把交椅的凯琳看上了尼克，要求他直接把他的种子植入她的体内。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/OJBJu0j0oq","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

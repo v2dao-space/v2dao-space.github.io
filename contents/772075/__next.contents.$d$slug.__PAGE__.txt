@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/ADV】少女教育"}],["$","p",null,{"children":"前言一夜物语第4弹本作的机翻算是求出来了本作登场角色均成年（大概吧）  Story日々の業務に追われ、出会いもなく30歳を過ぎた主人公。もはや「結婚」なんて淡い夢さえ見ることもなくなり、無事学校から生徒たちを送り出すことが生きがいになっていた。そんな折、少子化の影響もあってか学区再編の影響で、教師である主人公は新たな学校への移動が命じられる。新しい学校で、またかわいい生徒達との平凡な毎日が始まる……なんてことを考えていた主人公。しかし、主人公のクラスにはクラス名簿に載っていない少女が一人。ある日"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/772075","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

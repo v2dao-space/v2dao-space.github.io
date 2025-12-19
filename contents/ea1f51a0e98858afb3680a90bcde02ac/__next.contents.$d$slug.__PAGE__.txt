@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无修】NTR office V20240818 bug fixed 02"}],["$","p",null,{"children":"游戏简介这是一个目前在开发中的苦主视角NTR黄油计划，一个纯剧情向的游戏，主要H演出是隐奸、调教、拍摄、迷奸、媚药、AV拍摄，除了剧情以外没有多余的奇怪小游戏，游戏一共准备了三种结局，请大家全力享受剧情吧！剧情这是一个黑心的制药公司，蛮不讲理的经理天天找你的麻烦，不但老是把自己的工作塞给你，还天天让你加班加点的给公司卖命。但幸运的是，每次当你面对经理的不合理要求时，部门的女组长总是站在你这边、替你据理力争，同时她也是你的女朋友。除此之外，你还有一个做为天才女博士的青梅竹马，每次公司研发出的最新药"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ea1f51a0e98858afb3680a90bcde02ac","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

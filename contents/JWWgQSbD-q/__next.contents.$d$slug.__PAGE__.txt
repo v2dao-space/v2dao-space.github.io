@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"邪器"}],["$","p",null,{"children":"风光时追风逐月，落魄时走马观花，一生愿醉不愿醒！\n竟然有人把法器之魂吞下去了？\n从来只有法器吸人，何曾见过人吸法器，这傢伙绝对是古往今来第一人！\n万欲宫得罪正邪两道，被正道十山灭门，万欲妖女以元神发下毒咒，必将重回人世，杀尽天下负心人！\n现代少年张阳穿越异界，转世成为正国公府四少爷，生为“阴人”被紫雷山师徒设计，用来炼灵丹妙药，因而落入玄灵鼎，却又死裡逃生，且把上古法器的器魂吸进了体内，成了独一无二的—邪器。\n正邪两道都盯上了他，背后势力最强大的一元玉女逼迫张阳，协助抓捕妖女元神，正道十山联手训练张阳成为天下第一淫贼，更不惜一切代价，协助他的泡妞行动。\n邪门六道一部分要杀死张阳，期待万欲妖女重生，一部分暗助张阳，一部分袖手旁观。\n邪器、邪器，就此成为整个修真界的焦点！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/JWWgQSbD-q","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

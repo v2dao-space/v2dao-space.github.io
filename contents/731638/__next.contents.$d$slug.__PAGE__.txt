@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/生肉】聖光閃姫ポニーセレス"}],["$","p",null,{"children":"[スキヤキング] 聖光閃姫ポニーセレス [RJ439573] 入正链接https://www.dlsite.com/maniax/work/=/product_id/RJ439573.html作品信息社团名スキヤキング 关注1,461 贩卖日2024年01月01日 0点系列名閃姫シリーズ作者大鷲のゲン剧情大鷲のゲン / assault插画zizio声优綾音まこ年龄指定18禁作品类型角色扮演有声音有音乐文件形式软件支持的语言日文分类变身女主 魔法少女 被NTR 凌辱 痴汉 强奸 触手 异种奸文件容"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/731638","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

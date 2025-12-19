@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【GAL/生肉】妹Friend！【度盘/5.4G】"}],["$","p",null,{"children":"24/08/30  作品内容Getchu界面：点击游戏官网：点击作品紹介STORY俺には、両親の離婚で中学以来、別々に暮らしている妹がいる。俺は父と暮らし、妹は母と暮らしている。…が、今年の夏、何を血迷ったのか、父が「自宅を建て替える！」などと言い出した結果、俺は……急遽、妹の住む母の家に、転がり込むこととなった。妹とは、この正月にも会ったばかりで…感動の再会なんて要素は微塵もない……筈なのたが…いざ、久々に一緒に暮らすとなると妙にドキドキしている俺（汗しかも！この俺が居候する期間母は仕事で留守"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/d065a214c61428b7ddb38704302ec243","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

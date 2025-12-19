@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】ミカのしあわせのクスリ【1G/百度】"}],["$","p",null,{"children":"  \n「幸福之药」让人心怀幸福的暖心 「米卡的幸福药剂」是一款以双性族少女米卡（玩家角色）为主角，通过「幸福药剂」将人类世界搞得一团糟的经营模拟风格冒险游戏。※请注意，主视觉图中两位双性族人的色情场景几乎不存在。\n注意事项※双性人族的两位角色“美香”和“拉法”几乎没有色情场景。最终主角仍然是人类。※"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/y-EGNSds0Mba","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[互动SLG/抚摸触摸/动态] 轮回痴汉电车 ぐるぐる痴漢電車 Ver1.11 精翻汉化去码版+存档 [PC+安卓2.40G]"}],["$","p",null,{"children":"轮回痴汉电车 ぐるぐる痴漢電車 Ver1.11 PC+安卓 精翻汉化去码版+存档 【游戏语言】：中文 【游戏大小】：1G 游戏提示： 女主角的私处无码，但男主角的有 前期不要做过激的事（比如掀衣服） 别让左上角的眼睛突然变紫，变成紫色很危险\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/hu-dong-slg-fu-mo-chu-mo-dong-tai-lun-hui-chi-han-dian-che-guruguru-chi-han-dian-oEJR","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】寝取られ♂リベンジャー【371.41MB/百度】"}],["$","p",null,{"children":"游戏介绍：在即将到来的情人节前的冬日清晨。主人公酔毟来宵意外地收到了毫无交集的隔壁班级文学少女，仲田诗夜送的巧克力。终于，来宵的春天到来了。原本应该是过着与文静可爱、对自己的兴趣爱好充满热情的清纯系美少女共度校园生活的日子，这样的生活将会改变来宵的人生…理应如此。——-但这只不过是绝望的序章罢了。“竟然会!! 变得这么令人讨厌的自己!! 我应该早点死了算了!!”有三个截然不同的结局分支……他们将如何走向各自的末路，敬请期待。请享受这个充满NTR和纯爱交织的过山车式故事吧！社团名ルミナストア入正："}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/c337835","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

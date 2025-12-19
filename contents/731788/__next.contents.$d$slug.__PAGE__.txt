@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【音声】【RJ01067327】寄宿舎エステサロン 蜜月の灯り-宵坂月乃コース-"}],["$","p",null,{"children":"社团名御化たまて 关注86 贩卖日2023年06月23日系列名寄宿舎エステサロン 蜜月の灯り作者御化たまて剧情御化たまて插画まとけち声优みもりあいの年龄指定R-15作品类型音声・ASMR文件形式WAV支持的语言日文分类女性视角 女主人公 环绕音 萝莉 内衣 袜带 掏耳 百合文件容量820.59MB□収録内容本編音源ファイル(wav) 計1時間31分サムネイル3点ロゴなし高画質イラスト(購入特典)□シチュエーション□キャラクター□トラックリストプロローグ4:30肩とうなじのマッサージ13:49ネイ"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/731788","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

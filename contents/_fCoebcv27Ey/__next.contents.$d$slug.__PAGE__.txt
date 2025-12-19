@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D/生肉】 ようこそ!!マタヨシ町へ ～パパ活地雷系女子達の裏事情～ 【1.2G/度盘】"}],["$","p",null,{"children":"故事：又吉町…虽然不为人所知，但在行内却是一个有名的城镇，被称为“站街女的圣地”。一到傍晚，到处都是等待“爸爸”的女孩。主人公听说了这个城镇的故事，便只身一人搬到了又吉町。他原本兴致勃勃地想要和这里风气不正的女孩们卿卿我我，结果却发现搬家费之类的开销已经掏空了他的钱包，不禁感到绝望。没有钱就去赚。主"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/_fCoebcv27Ey","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

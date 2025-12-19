@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[皐月芋網] ツマフェス～兄嫁ネトラセ公認種つけ～ [中国翻訳] [無修正] [DL版]"}],["$","p",null,{"children":"作品内容:(下面内容为机翻) 一名 25 岁的已婚妇女应丈夫的要求与她的兄弟们生了一个孩子！！这位无辜的妻子经历了充满爱意的戴绿帽性行为……她的淫荡一面被唤醒了。一场不道德的淫秽语言风暴一定会让你嫉妒！ 这是登上过『COMIC失楽天』封面的著名作家・皐月芋網的激烈的第二部作品。 与其与你爱的人发生性"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/DmDdOO4qivZXHDux","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

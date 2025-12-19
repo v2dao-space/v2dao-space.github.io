@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"渔港春夜"}],["$","p",null,{"children":"告别了繁华的都市生活，张文收拾起行李带上养父的愧疚回到了与世隔绝的渔村，这一切的一切都是那么的陌生和熟悉——一个远离繁华喧哗，传统而又落后的地方。\n民风虽然算不上淳朴，但绝对是封建。寂落的海潮，潮湿的海风在这里吹过。\n从大城市回归的张文能适应这里的生活吗？\n一个没有交通号志，交通不便的海湾小渔村；一个个美丽而又性格各异的美人，娇艳性感的少妇，天真可爱的萝莉，还有自己至爱的亲人。\n当尝试到了男女之欢的快感时，张文不可避免的堕落了……"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/xEv8T1cynt","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

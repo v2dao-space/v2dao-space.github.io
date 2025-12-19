@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无修】苦主救助中心 Ⅳ  Demo"}],["$","p",null,{"children":"这是一个恶搞剧情解谜游戏，点击对话推进剧情，游戏中设置许多解谜关卡，可以通过探索寻找道具，根据游戏提示物品解开谜题。 游戏延续苦主救助中心3的游戏设定和玩法。 新游戏的故事讲述主角张吉继续未委托人寻找关键道具手机的故事。 游戏具有多条主线，而所有的主线都汇聚于手机这条主线上线， 接下来所有的角色又会"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/SM_AmgPy-2bHf8y-","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】Lovely Sex with Childhood Friend -An innocent girl becomes addicted to lewd play-"}],["$","p",null,{"children":"\n关于\n这是一款使用 Live2D 进行流畅操作的性爱模拟游戏。\n“我想要一个青梅竹马的朋友”\n“我想和一起长大的女孩做女朋友”\n“我想和青梅竹马的朋友尽情做爱”\n请尽情享受这些幻想吧。\n您可以分三个阶段体验青梅竹马的状态。\n状态 1 – 处男\n第一次与青梅竹马发生性关系。\n一开始会很疼，但渐渐地你"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/wpgCM-OLtZtK","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

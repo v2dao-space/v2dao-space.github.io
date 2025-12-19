@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/生肉】乙女の剣と秘めごとコンチェルト【度盘/4.43G】"}],["$","p",null,{"children":"23/07/28 搜索引擎不是摆设，看不懂crack也请别乱叫。 作品内容 Getchu界面：点击 游戏官网：点击 作品紹介 STORY 西洋剣術を学ぶため留学していた「空木日向」は1年ぶりに帰国した日本の空港で「ニナ・クリオーネ」という女性に出迎えられる。ニナの案内で、とある学園へとやってきた日向は、そこで繰り広げられていた光景に目を奪われる。 美麗な鎧に身を包み、剣戟で火花を散らす乙女たち。 「あれは『舞闘：カデンツァ』。騎士同士の勝負よ」 息を呑む日向にそう告げたニナこそ、その学園――銀蘭"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/708016","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

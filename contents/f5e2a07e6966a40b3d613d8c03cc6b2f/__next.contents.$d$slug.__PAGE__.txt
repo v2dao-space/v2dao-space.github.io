@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无修】Lust Shot"}],["$","p",null,{"children":"故事主角圭介在自己的家中醒来，准备去上大学。但当他被一辆卡车撞倒并发现自己身处一个陌生的房间时，他正常的一天被缩短了。在那里，他遇到了一位名叫绿的可爱女导游，她告诉他他已经进入了炼狱。为了进入异世界，圭介需要赢得三轮俄罗斯轮盘赌，而且还需要额外的牌。每赢一场比赛，Midori 就会以特殊的方式奖励他。然而，事实上，这个世界背后却隐藏着一些秘密，需要圭介去揭开。 你能找出真相并摆脱这场危险的游戏吗？独特元素独特的情节：让自己沉浸在一个充满神秘和阴谋的世界中，你赢得的每一次胜利都让你更接近揭开真正的"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/f5e2a07e6966a40b3d613d8c03cc6b2f","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

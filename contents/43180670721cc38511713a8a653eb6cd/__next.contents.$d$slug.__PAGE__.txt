@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【大型ACT/中文/全动态】纯白女神与亡者之都2 v31d 最新中文版"}],["$","p",null,{"children":"给大家带来这一款非常赞的新作ACT游戏 Guilty Hell2-纯白女神与亡者之都II V31D 最新中文版 （Guilty Hell2） PS:游戏自带中文但不多，但要去设置里设置，而且中文是测试版可能会出错，出错换回日语就行了 这是一"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/43180670721cc38511713a8a653eb6cd","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

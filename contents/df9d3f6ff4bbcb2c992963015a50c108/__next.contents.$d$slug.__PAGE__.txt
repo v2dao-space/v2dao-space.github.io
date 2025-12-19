@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/PUZ/三消] 纯朴RIRI Naive Riri"}],["$","p",null,{"children":"Naive Riri 是一款“三合一”游戏。您必须完成许多有趣的关卡，打破力量水晶，从邪恶中拯救女孩！环游世界：参观酒馆，在外星洞穴中醒来，参观精灵森林！您需要在每个位置打破水晶并把它们组合起来，收集一定数量的心脏来唤醒一个熟睡的女孩！Naive Riri 是一个有着动人的音乐，各类难度且具有动漫风格的冒险游戏。在Naive Riri 中您会遇到许多相当复杂的关卡，您要通过这些关卡来把女孩从邪恶势力中拯救出来！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/df9d3f6ff4bbcb2c992963015a50c108","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

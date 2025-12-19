@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【百合小说】Stellar step 第一卷[EPUB]  作者：林星悟"}],["$","p",null,{"children":"简介世界因陨石灾难而荒废。被暴力地替换为战争的〈道具〉，被迫战斗的少女们被称为「偶像」。但这不过是徒有其名。她们的舞台之上没有笑容绽放。在这样的世界，内心已死的最强少女·莲与心中充满感情的少女哈娜相遇了。哈娜以传递给大家闪闪发光为梦想，面带笑容地歌唱，跳舞。在这一天尝到了首败的莲心里，产生了迄今为止都没有感到过的感情。为了实现哈娜的梦想，莲决定两人一起扭转这个世界。但她的命运残酷而冰冷——。生于没有色彩的世界中的，少女们的牵绊与爱的故事。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/0a1018aef8be41f6b7f851b7618e0824","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

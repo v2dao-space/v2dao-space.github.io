@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无修】Horny Suika: Wet Watermelon"}],["$","p",null,{"children":"《惹火的苏卡 – 湿西瓜》是一款可爱和有趣的游戏，需要把“水果”放入一个容器，并且稍微进行扭转。现已推出新功能和不同的游戏模式。将小“水果”组合在一起，使它们变大，形成大“西瓜”，而不会溢出容器，希望您获得高价值的“奖励”。大，更大，最大让它变得更大，前所未有的大！！奇怪的是，用手把东西变大会让人上瘾。只要确保它们不会从容器里洒出来，否则清理起来会很痛苦。创新方法现在推出新颖而有趣的方法，包括使用道具来解决困难情况，摇动容器，以及多种游戏模式，例如速度模式，救援模式……你将可以通过多种方法来享受"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/c1246b7a6897ce992f3fa78f78b58112","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

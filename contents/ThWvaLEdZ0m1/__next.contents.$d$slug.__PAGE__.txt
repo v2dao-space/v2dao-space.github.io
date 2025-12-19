@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/机翻】[たかぴこ]キルシュヴァ‐チ/KIRSCH VIRCH DEMO Ver1.2/三笠的口活训练事件Ver1.2全事件汉化【度盘/夸克/1.28G】"}],["$","p",null,{"children":"全动态\n游戏原名：KIRSCH VIRCH\n这是一款由[たかぴこ]社团制作的日式SLG游戏\n已有[王二狗]大佬制作汉化版本。\n这个版本更新了新的剧情，现在已经可以玩到第18天\n增加很多新的分支事件，新的恶堕内容\n并且，最重要的是，加入了三笠的全程配音\n咋说呢：\n本来就是画风神还原，加入语音简直了，尤"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ThWvaLEdZ0m1","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

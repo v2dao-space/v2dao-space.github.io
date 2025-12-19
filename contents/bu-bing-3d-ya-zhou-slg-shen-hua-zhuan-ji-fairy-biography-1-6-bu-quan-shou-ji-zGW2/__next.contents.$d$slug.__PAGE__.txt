@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【步兵3D/亚洲SLG】神话传记 (Fairy Biography) 1-6部全收集 官方中文步兵版+3D亚洲SLG游戏+11.89G"}],["$","p",null,{"children":"《神话传记》1-6部全收集官方中文版正式发布！一次体验完整的奇幻史诗，深入吸血鬼、 狼人、魅魔等多种族共存的魔法大陆。见证权力更迭、王朝兴衰，在战火与和平的交替中 把握命运脉络。完整收录系列全部内容，带您领略波澜壮阔的奇幻世界！ 神话传记 \n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/bu-bing-3d-ya-zhou-slg-shen-hua-zhuan-ji-fairy-biography-1-6-bu-quan-shou-ji-zGW2","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

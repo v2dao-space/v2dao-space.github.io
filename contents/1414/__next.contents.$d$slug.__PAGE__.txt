@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[探索RPG/中文]深渊探索者：向着更深处的黑暗 STEAM官方中文步兵版[新作/CV/1.5G]"}],["$","p",null,{"children":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[游戏概述]：\n\n\n\n这是一款由[ふらいんぐパンジャンドラム]制作的精品rpg游戏。\n\n\n\n现于6月5日上架STEAM平台，包含全部DLC内容，并搭载官方中文\n\n\n\n由[神乐游戏]翻译的官方中文，全程高质量精翻，而且还是步兵版！\n\n\n\n游戏画风非常社保，多个女主都是大欧派，全部独立CV语音。\n\n\n\n并且系统非常精细，装备物品种类超过1000种以上！\n\n\n\n还有各种任"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1414","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

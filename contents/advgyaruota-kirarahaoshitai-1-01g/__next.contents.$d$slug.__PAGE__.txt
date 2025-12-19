@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/生肉】ギャル×オタ ～織川きららはお世話したい～【度盘/1.01G】"}],["$","p",null,{"children":"23/08/25  作品内容Getchu界面：点击游戏官网：点击作品紹介STORYオタクに優しいギャルなんて存在しない。その証拠に昔は仲よく遊んでいた隣の家の幼馴染、織川きららはギャルになってから俺と話さなくなった。ギャルは俺みたいなオタクに興味なんかないのだ。──そう思っていたけど。交通事故に遭いそうになったきららを助けて怪我をしてしまったのをきっかけに、激しく急接近することになって……。ギャルはオタクに優しいだけじゃなくてデレデレでとってもエッチだった。STAFF开发: コンフィチュールソフ"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/advgyaruota-kirarahaoshitai-1-01g","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中无修】菈菲卡与封印之楔"}],["$","p",null,{"children":"▌故事大纲 由圣女统治的圣都「菈菲卡」，为了继承父亲遗志而当上骑士的主角，由于一次任务而陷入困境。 藉由魔法之力逃出生天的主角，被信仰旧女神的教会所拯救，在那里得知真相之后，下定决心要打倒圣女。 这是被圣女设计陷害的主角，为了挽回名誉并找出真相而奋斗不懈的故事…… ▌游戏内容            "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/d8aT0TC42bc5-xGd","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

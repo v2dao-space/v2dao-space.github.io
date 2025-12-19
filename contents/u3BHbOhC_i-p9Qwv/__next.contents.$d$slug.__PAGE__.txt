@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【PC/安卓/RPG】狐狸灯笼马凯岛的秘密故事 Ver1.0 汉化版+经营模拟游戏+1.53G"}],["$","p",null,{"children":"开启岛屿餐厅奇遇！《狐灯物语：马凯岛奇谭》Ver1.0 汉化完结版双端（PC+安卓）温馨上线。 经营你的特色饭店，通过简单点击管理日常， 赚取收益。深入探索马凯岛的奇妙世界， 解锁一连串轻松有趣的神秘故事与剧情。汉化版体验完整， 优化纯净，\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/u3BHbOhC_i-p9Qwv","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

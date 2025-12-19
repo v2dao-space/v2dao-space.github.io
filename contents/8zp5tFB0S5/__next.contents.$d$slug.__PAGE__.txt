@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"银行的少妇们"}],["$","p",null,{"children":"老姚坐在新落成的大楼里，那是刚刚在寸土如金的市中心拔地而起的一幢蓝色玻璃幕墙的大厦，为他设计办公室的是欧洲有名设计师，他还请来了香港的风水师，将那真皮的转椅位置规测了一遍，还听从那大师的劝告，在座位的后面摆放了巨大的玻璃缸，养着几条金龙鱼。这时他在能打乒乓的办公桌翻弄着一叠挡案卷。\n许娜 — 37 岁，丈夫陈家明：市司法局离职干部。\n赵莺 — 40 岁，丈夫郭忠：政府办接待处处长。\n周小燕 — 32 岁，离异。\n张丽珊 — 29 岁，丈夫唐萌：公安局政治处科长。\n老姚的眼睛不看别的，只对着她们的年龄和家庭这一拦，这几人都是从总行调来的。老姚的镜片后面掠过一丝不易察觉到的窃喜，他用内线电话吩咐他的秘书，晚上在怡乐宫宴请她们。张丽珊的那里已是泛滥一片，爱液沾湿了她的绒毛，顺着屁股沟渗漏到了她还没褪了的黑色丝袜上，那湿润使他的挺刺很是滑腻，可以像火花一样激厉着他，并使他们紧密的接触更趋于完美。\n许娜是离去了，就算她跟男人的故事销声匿迹了，但中心行的男女之间的故事依旧上演，充斥其中的就是情欲，围绕着这些展开惊心动魄、伤筋动骨、林林总总、五花八门的场面……"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/8zp5tFB0S5","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

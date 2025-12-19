@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/汉化/安卓】恋爱课程/Lessons in Love v0.35【移动盘/4G】"}],["$","p",null,{"children":"[Selebusl]众筹作品 主页由SSTM的[Brai]大佬个人汉化并移植  游戏介绍接任二十名高中生的老师，帮助他们寻找人生的出路。在虚构的公文市中管理并发展与他们每个人的关系。选择如何度过放学后和周末的时间，以最适合您想要走的路。无论是拜访正在做兼职的女孩，试图说服她们让你进入她们的宿舍，还是只是在当地酒吧的有钟表的房间里闲逛。  游戏玩法从很多方面来说，《爱情的教训》都是一部传统的视觉小说。大多数情况下，它需要玩家的输入最少，只需要玩家阅读屏幕下半部分显示的对话和文本。此外，在整个故事中"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/763489","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

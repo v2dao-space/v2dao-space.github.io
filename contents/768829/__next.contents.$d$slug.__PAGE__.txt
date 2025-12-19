@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"(同人CG集) [ろくまる荘 (さんろく丸)] 魔物の贄2 ～異種の仔を孕んだ冒険者達～"}],["$","p",null,{"children":"近隣の村娘を連れ去ったという魔物退治の依頼を受けた新米冒険者たちこれまで数件の簡単な依頼をこなしただけで過剰に自信をつけてしまい準備を怠り魔物の巣に向かってしまう。すでに狡猾な魔物の罠に嵌っていることも知らず巣の奥に到達したところでパーティは総崩れになり夢を持った若く美しい冒険者達は醜く凶悪な魔物共に汚れのない身体を徹底的に貪られ、辱められ、犯●れ希望に満ちた冒険者から彼らの繁殖雌として飼われる生活に一変する―机翻简介：新来的冒险者们接受了除掉带走附近村庄姑娘的魔物的委托。到现在为止只做了几件简"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/768829","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

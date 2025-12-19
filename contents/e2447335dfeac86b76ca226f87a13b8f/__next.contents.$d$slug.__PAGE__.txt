@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/GAL】ないしょのないしょ！（ver1.1）"}],["$","p",null,{"children":"2024.8.13对原来V1.0进行升级，且全部打包安装好了下载完成直接运行汉化版本点击主界面按钮，会有小变化本作登场女角色均为成年人，游戏启动界面就这么说的  Story銭湯が立ち並ぶ湯の街で絵本作家をしている主人公「水梳 聡里（みなすき さとり）」。ご近所が騒がしくなる夏休みの初めごろ、聡里の異母姉妹でハーフの双子、「恋（れん）」と「葉月（はづき）」が突如押しかけてくる。彼女たちの母「カレン」は英国人。かつて聡里の家にホームステイしていた女性だが、ステイ中にいつの間にやら父と電撃入籍。しばら"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/e2447335dfeac86b76ca226f87a13b8f","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

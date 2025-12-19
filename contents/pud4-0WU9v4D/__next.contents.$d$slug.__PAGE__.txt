@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC/SLG]優艶の花 続 淫縛の館 优艳之花 Yuen-Zoku 精翻步兵巴比伦汉化修复版"}],["$","p",null,{"children":"优艳之花搭载了[2560×1440]的巨大分辨率全程动态，所有的场景都是LIVE2D全动态制作！CV声线熟·女气息浓郁，搭载超级丰富，超级爽爆的各种【调教玩法】这款游戏的每个调教场景都有5种不同的分支，6种超エロ的奇妙道具可以自由组合，自由开关各种道具所有的场景都是2D/3D结合，每个互动内容在不同的堕落度下都有不同的表现方式汁液横飞，吐息汗液真实，而且玩法超级带劲"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/pud4-0WU9v4D","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

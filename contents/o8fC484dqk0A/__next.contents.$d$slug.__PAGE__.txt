@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】开始繁衍吧～精灵后宫与世界树的牧场/ハラマセノーカ～エルフハーレムと世界樹の牧場～【1.99G/度盘】"}],["$","p",null,{"children":"  \n概要：\n《与精灵女孩们尽情享受生育孩子的慢生活沟通游戏！》在你失去记忆后，你在祭奉世界之树的精灵村庄中醒来。在那里，只有女性的精灵们向你请求子嗣……。在没有时间压力的情况下，尽情享受悠闲生活与个性丰富的女孩们自由地进行生育乐趣吧！\nスローライフを楽しもう!\n\n\n畑で作物を育てたり家畜のお世話を"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/o8fC484dqk0A","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

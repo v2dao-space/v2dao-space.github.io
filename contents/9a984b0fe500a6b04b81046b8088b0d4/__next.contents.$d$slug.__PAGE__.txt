@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【2D汉化/ACT】AlienQuest-EVE/异形探索+全解锁(巴比伦遗产)"}],["$","p",null,{"children":"剧情简介远在外太空的考察船上，鹰派的将领们看着眼前的造物发出了狂笑！那是外星的生物，那是无限的可能。然而，对科技突破的渴望冲垮了理性的防线。急功近利的他们，忽视了那个大脑可能潜在的危险。随着警报嗡鸣作响，鲜艳的红色映照在将军的脸上，人类才发现我们似乎低估了外星的智慧。那扭曲的大脑，渐渐恢复了活性。一个代表着疯狂，代表着毁灭，也代表着一个文明的复苏的生物，他是天命之灭世者,万物的终结者,无可阻挡,无可违逆，而今天，他被重新唤醒了。看站里全爆了，随手补一下入正:点我请勿在线解压エイ○アン映画シリーズ"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/9a984b0fe500a6b04b81046b8088b0d4","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】淫欲未亡人がいる名宿～鄙びた旅館の豊満肉欲おもてなし～【双端/1.2G/百度】"}],["$","p",null,{"children":"  \n● 概要\n主角是一家破败旅馆的老板娘。主人公在丈夫突然去世后接手了旅馆的主人，试图重建旅馆，但丈夫的老朋友银行家却以性娱乐为贷款条件……\n●深山旅馆柊庄 柊庄是\n只有懂行的人才知道的深山旅馆。\n有着140年历史的老字号客栈，朴实无华，听起来不错，但由于周边城镇、村庄的人口不断减少，这家没有旅游"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/qbEgEo4jQuo7","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/机翻汉化】リンネのリビア V240811"}],["$","p",null,{"children":"作者地址テールソフトプロフィール – Ci-en（シエン） (dlsite.com)您好，我是来自”Tale Soft”社团的Ed。这次，我开始制作游戏”琳妮的莉薇亚”。虽然现在还处于摸索阶段，但从今往后我打算在ci-en上发布游戏制作的进展情况。可爱的女孩子冒险，被敌人打败后遭受凌辱，成为苗床或肉便器，或者被催眠和洗脑改变意志。经历各种结局，是保持纯洁，还是逐渐堕落成淫荡的样子…不知道会到达怎样的终点，对这种不确定的未来感到兴奋。我想制作这样一款动作游戏，所以开始了这个游戏的制作。我正在按自己"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/6ceddd7faf25289442568eff07d49a03","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

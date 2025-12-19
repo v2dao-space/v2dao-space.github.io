@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/GAL】お兄ちゃん、右手の使用を禁止します!（2部）"}],["$","p",null,{"children":"前言整理galette的2部妹作，直接打包分享已经嵌入汉化了，难得的一条龙服务再也不分享妹作和loli作了  右手1 Story所以说，我已经堕落成为萌拔的爪牙勒。最近似乎开启了火力全开模式，没错我就是新一届霸版狂魔。Naji君什么的……一定要踩在脚底！故事简介：「从今天开始，我们就是欧尼酱的右手（恋人）了」哥哥原本是独自一人生活的学生。某一天，为了妹妹而努力的哥哥的右手不小心受了伤。庆幸的是受的不过是点小伤，但却被妹妹们误解为重伤 !?总而言之，在右手康复以前都不得不休学了。进一步的是，妹妹们"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/765854","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

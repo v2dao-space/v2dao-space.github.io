@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】城壁都市ソフィアの女騎士【800M/百度】"}],["$","p",null,{"children":"  \n这是有城墙的城市索非亚。\n它位于大陆中心，素有交通枢纽之称。\n索非亚没有当地工业，因此它\n是一个依赖旅行者和贵族过路费的城市。\n由于通行费较高，\n经常给路人带来麻烦。\n问题逐渐变得越来越大，最后索菲亚卷入了一场大事件…… \n\n\n\n社团名\nまみや娯楽堂 \n\n\n\n入正：https://www.dl"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/sn8IiQP_LKZV","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

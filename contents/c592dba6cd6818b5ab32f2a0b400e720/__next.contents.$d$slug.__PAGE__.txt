@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中/安卓】淫欲地牢【Ero Dungeons】 v1.3 【更新/180M】"}],["$","p",null,{"children":"作者主页https://www.patreon.com/EroDungeons  游戏介绍您将在北方的荒原上建立一个新的冒险者公会。然而，贪得无厌的欲望的腐化瘴气仍然渗透着这片土地。派出您勇敢的冒险者去占领这些禁地。但要小心，好好领导和训练她们，以免她们的思想和灵魂被这些荒原上的堕落生物所腐蚀。他们会不择手段地绑架您勇敢的冒险者，并让他们遭受无法形容的恐怖。因此，扩大您刚刚起步的公会，战胜那些邪恶的欲望工具，并一路杀向最淫秽的地牢        更新日志机械师 Boss 地牢，梦想家 Boss "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/c592dba6cd6818b5ab32f2a0b400e720","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

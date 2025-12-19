@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/PC安卓】Futadom world v0.9.5"}],["$","p",null,{"children":"FutaDomWorld是一款另类历史约会模拟游戏，故事背景设定在一个受此标题 启发的色情和反乌托邦合作写作世界中 。迄今为止，该宇宙已催生了两千多个附加标题、三部色情小说，现在又推出了一款游戏。FDW 是科幻小说；在不久的将来，基因工程创造了一种具有生理成瘾性精液的入侵性人种。自然，这立即催生了色情反乌托邦。 作为帝国的男性公民，你处处受到压迫和物化。你的目标是从众多女主人中挑选一位，然后勾引她们……以免别人觉得你更适合做他们的荡妇奴隶。如果你喜欢权力游戏、坚强的女性角色和有严重缺陷的人，那么我们有一个好的开始。如果你也喜欢拥有巨大阴茎的霸道女性掠夺无辜男孩，那么你绝对应该去玩这个游戏。别再读这些描述，点击下载链接，当你回来时我们会在这里。 警告 - 游戏大量涉及女性统治、束缚、物化、性别角色、精神控制、反乌托邦和奴役等主题。游戏中还有大量关于臀部的内容 。可能会被这些内容冒犯的人最好还是放弃这个游戏吧，为了大家的利益。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/7dc15b975b4d6212411af8bdbb6fb530","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

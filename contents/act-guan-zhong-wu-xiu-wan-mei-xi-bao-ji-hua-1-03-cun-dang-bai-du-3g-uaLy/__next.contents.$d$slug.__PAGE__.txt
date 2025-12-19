@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/官中/无修】完美细胞计画 1.03 +存档【百度/3G】"}],["$","p",null,{"children":"他家还有一个作品叫扶她大师，也是触手题材，站里有。 https://store.steampowered.com/app/2688650/_/?l=schinese   玩家将扮演一个粉色生命体。 目标是在地下研究所向研究员进行复仇，并利用进化出的能力一步步突破封锁往出口前进。         发行"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/act-guan-zhong-wu-xiu-wan-mei-xi-bao-ji-hua-1-03-cun-dang-bai-du-3g-uaLy","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

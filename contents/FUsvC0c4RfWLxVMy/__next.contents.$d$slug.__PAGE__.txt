@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/AI汉化】NTR风俗店 NTRフーゾク【度盘/267M】"}],["$","p",null,{"children":"● 故事背景传闻在东京都某处存在一家“NTR风俗店”。对“NTR”感兴趣的“你”，与青梅竹马兼恋人的女主角一同前往这家店。  这家风俗店与众不同，顾客可以指定“第三者男性”而非“风俗娘”，是为“NTR”爱好者量身打造的场所。  请在特等席上，亲眼见证你深爱的女孩被他人玷污的过程。 游戏流程从三位“间"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/FUsvC0c4RfWLxVMy","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

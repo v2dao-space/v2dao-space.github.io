@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/机翻】彼の為に私が出来ること全回想【度盘/uc/2.23G】"}],["$","p",null,{"children":"名称V|、标签\n【ADV/机翻/虐待/稍微重口】彼の為に私が出来ること【全回想】\n简介：\n有一天，那个女孩亲眼目睹了自己的男友正在遭受虐待。\n她想要救他，于是她向那些施虐的男人们请求，希望他们能够停止。\n然而，男人们却说：“如果你愿意代替他，我们就停下来。”\n那个想要救自己男友的女孩，接受了男人们的"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/85tYS8a5ZtBQ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

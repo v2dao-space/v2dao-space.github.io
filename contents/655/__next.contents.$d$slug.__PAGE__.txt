@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG/汉化]不道德的故事 V1.4 精翻汉化版[老马拉小车][安卓][790M]"}],["$","p",null,{"children":"不道德的故事Immoral Stories-Ver1.4[老马拉小车][PC+安卓]\n\n\n\n这是一款老马小车的游戏，里面的男角色都是老年人，游戏是主角是一个高中生的少女，建模精良剧情也挺不错的，喜欢的可以下载玩玩。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/655","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

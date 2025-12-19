@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"聪明玲莉"}],["$","p",null,{"children":"这是一部女友类小说，主要讲述了两男两女的激情故事。什么温柔体贴，什么良善上进，男人即使给万千个借口来安慰自己，也终究没法给予女友被爽时的快乐。有些性能力不强的男人满足不了女友，总是说跟伴侣是以爱为先、欲望为后等种种解释。好吧，既然如此，那么你们就继续付钱供养你们的妻子女友，跟她们有着心灵上的满足，好好进行你们高尚的神交，至于性交这些没必要的事情，就交给书中的主人翁去代劳吧。该书共32章，另有一篇番外，计23万多字。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/psJle_zUyq","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

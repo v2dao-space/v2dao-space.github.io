@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【PC/安卓/SLG】爱情恐惧症(Love phobia) Ver0.65 汉化版+动态SLG游戏+1.81G"}],["$","p",null,{"children":"爱情恐惧症(Love phobia) Ver0.65 汉化版+PC+安卓+动态SLG游戏+1.81G   游戏简介 这款聚焦现代人际关系的SLG，讲述游子归乡后面对旧爱新欢的情感纠葛。 游戏以真实抉择系统为核心，每个选项都将微妙改\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/rKen--i8CINfsQTN","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

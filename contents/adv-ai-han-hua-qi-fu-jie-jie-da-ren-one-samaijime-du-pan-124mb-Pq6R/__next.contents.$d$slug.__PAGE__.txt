@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/AI汉化】欺负姐姐大人!!/おね～さまイジメ!!【度盘/124MB】"}],["$","p",null,{"children":"这是一个超级古董的百合ADV（发布于2009年，因此画风现在看来可能会不太习惯） 游玩前先安装特殊字体.otf！！！需要转区运行！！！有些地方没汉化是因为编码错误所以显示原文了，然后菜单和图片也没有汉化 DL链接：https://www.dlsite.com/maniax/work/=/produc"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/adv-ai-han-hua-qi-fu-jie-jie-da-ren-one-samaijime-du-pan-124mb-Pq6R","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

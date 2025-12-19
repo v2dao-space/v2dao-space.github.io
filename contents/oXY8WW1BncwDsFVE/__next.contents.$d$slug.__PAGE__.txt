@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/PC]异世界情趣用品店 Isekai Sex Boutique V1.2.5 官方中文步兵版"}],["$","p",null,{"children":"女神因为太过无聊把你召唤到异世界，想观察你挣扎求生的样子来取乐。\n然而，你决定不屈服于命运！\n身为情趣用品控的你将结合异世界的素材，打造出独特的情趣道具。\n与傲娇的大小姐、个性迥异的美少女店员们一起，使用情趣用品打造出自己的欲望王国吧。\n「异世界的性癖，就由你来启蒙！」\n身为情趣用品控的你将结合异世界的素材，打造出独特的情趣道具。\n与傲娇的大小姐、个性迥异的美少女店员们一起，使用情趣用品打造出自己的欲望王国吧。\n「异世界的性癖，就由你来启蒙！」"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/oXY8WW1BncwDsFVE","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【探索RPG/恶堕学院JK】特工天狼星V1.0 汉化中文【PC+安卓模拟器双端】"}],["$","p",null,{"children":"※故事担任侦探部部长的朱雀红，感受到学园里不稳定的空气。接二连三地发生不可思议的事件···淫靡不稳的事件无数···在秘密结社中担任经纪人的红知道他的真实身份。那是想用快乐洗脑支配人们的怪人的暗中活动。浮出水面的8名嫌疑人。在学园被怪人打掉之前，找出犯人阻止他的野心···!然后，红和搭档，也就是负责监视的白虎抚子一起开始了搜查!"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/b2d7a298af9fa500506391eed949c1bb","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

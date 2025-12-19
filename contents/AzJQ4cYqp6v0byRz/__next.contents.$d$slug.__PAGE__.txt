@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/ACT/生肉】異魚Ver1.1.0（RJ01411001）【度盘/47MB】"}],["$","p",null,{"children":"异鱼V1.1.0更新内容 增加4个区域 3个新角色 12种新动画 添加画廊 •更改按Esc键时的规格 互动时调整角色位置    サークル名 Sonken Games フォローする   販売日 2025年06月14日   更新情報 2025年08月08日 更新情報   年齢指定  R18    作品形"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/AzJQ4cYqp6v0byRz","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

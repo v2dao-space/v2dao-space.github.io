@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中/无修正】The Agnietta ~治愈使与受诅咒的地下城/治癒使と呪われたダンジョンv1.05【度盘/1.83 GB】"}],["$","p",null,{"children":"入正链接https://store.steampowered.com/app/2138450/_/  游戏截图      成人内容描述开发者对内容描述如下：所有角色都超過 20 歲。內容警告：“The Agnietta ~治癒使與受詛咒的地城~”包含拘束、催眠、異種姦、觸手、乳交、口交、露出和強迫性交。[故事背景]游戏内容描述身为神圣治癒使的女主角接受任务去淨化受诅咒的地城。途中可能会碰到各种魔物、下流的陷阱、友善或是不怀好意的NPC等待女主上门。  [游戏玩法]以俯瞰视角进行的动作RPG。游戏"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/f312cc28f834aab988db2c3ce88ee817","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

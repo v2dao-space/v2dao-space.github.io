@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[ADV/PC]被侵犯的勇者V～无论怎么提升等级，我的小鸡鸡还是会很快射精 犯され勇者V～ [黑猫汉化] [PC+安卓][2.1G]"}],["$","p",null,{"children":"那是由被魔物娘统治的10个宇宙连接而成的世界。生活在十连世界最底层世界树的你，虽然害怕魔物娘的威胁，但还是想要改变现状。就在这样的某一天。天使出现并告诉你，你被选中成为从魔物娘统治中拯救世界的救世主。在还没搞清状况的情况下，你被恶作剧的天使塑造成了勇者，为了获得庇护而遭受色情的责罚。你将穿越10个世界，与美丽但淫靡的魔物娘们展开激烈的战斗。如果败北，等待你的将是精液耗尽的逆强暴地狱。你能拯救所有的世界吗！？还是会被魔物娘榨干所有精液...！？"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/bcd208518e1d0ee122d052fdaea17817","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

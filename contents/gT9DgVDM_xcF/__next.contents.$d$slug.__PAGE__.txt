@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中】Imperial Knightess Wein’s Irregular Life"}],["$","p",null,{"children":"\n【故事剧情】\n——科苏特德尔王国。\n这是个位于大陆西方，自然景观丰沛的小国。\n主角薇茵身为王国近卫骑士团当中唯一的女性骑士，过着日夜鑽研剑术的生活。\n某天，近卫骑士团突然举办了一次强化集训。\n比起参加的数十名男性骑士团员，女性单单只有薇茵一人。\n从日常生活中无所不在的小小性骚扰，到男人们夸张的恶作"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/gT9DgVDM_xcF","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[井上よしひさ] 潜入!淫縛女捜査官｜潛入！淫縛女搜查官 [中国翻訳] [無修正] [DL版]"}],["$","p",null,{"children":"緊縛情色漫畫第一人 備受期待的最新力作!! 利用催眠APP讓女搜查官敗北雌墜♥ 眾多美女搜查官前仆後繼 潛入蒐集證據!!! 然而失敗的代價—— 卻是無盡的凌辱以及捆綁…… 甚至『人體實驗』!!!! 眾多美女搜查官們因為催眠APP的效果 成為淫亂的抖M婊子任人擺佈捆綁姦淫!! pubu：点我 有爱自取"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/NTMCv38Zsj","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC-RPG游戏] 【RPG/STEAM官中/新作】戴绿帽子的国一忍者"}],["$","p",null,{"children":"游戏简介：绫雨是一名朧流忍者，他们是一族知名刺客，他们受过训练，行动敏捷如闪电，为那些应当受审判的人带来制裁。她的最新任务对一名新婚忍者来说既危险又重要：如果她成功的话，她就可以光荣辞职并与她丈夫住在一起。她最后一项任务的目标是天草城堡，据说那里是一位参与奴隶贸易的大将军的家。 绫雨的任务是找出真相，她为了赢得天草大人的信任而充当雇佣兵。 她被迫听从他的命令当卧底，她的任务很快就变成了对她意志力的考验。 任务结束的当下，绫雨能否保持自我并回到丈夫身边，还是屈服于将军的追求，成为他的下一个臣妾？入"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/435208e37230e8ab1e981a67835f71a5","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

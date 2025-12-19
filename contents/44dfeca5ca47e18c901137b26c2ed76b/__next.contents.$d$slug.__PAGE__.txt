@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/无码/GAL】きまぐれテンプテーション"}],["$","p",null,{"children":"前言又一部高画质的无码作品，有爱自取，注意身体，别被掏空七色轮回&绯色怪奇谈后，又一部悬疑作品（本作是真正的纯爱作）本作有官中版本，但本次发布的是由汉化组汉化的版本（差别不大）本游戏已打无码补丁&汉化补丁&官方DLC修正补丁（这个补丁就是让hs变成动态的补丁）无码补丁从英文版直接扣出来的，所以容量会比较大，我在测试时貌似打上了全Savedata大伙游玩时记得删除Savedata，慢慢推（进入回想时每个小片段模块是有码的，点击去观看就是无码的）PS：英文版（steam版）可以切换R18版&全年龄版"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/44dfeca5ca47e18c901137b26c2ed76b","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

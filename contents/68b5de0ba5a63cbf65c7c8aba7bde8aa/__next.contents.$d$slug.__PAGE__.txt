@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV】星光咖啡馆与死神之蝶【PC/汉化】"}],["$","p",null,{"children":"【ADV】星光咖啡馆与死神之蝶【PC/汉化】 游戏介绍： 主人公高嶺昂晴过着风平浪静的学生生活。 然而某天，因意外事故丧生。 这时发生了始料未及的事情。 本该死去的高嶺昂晴，却苏醒了过来。 并且还在——死亡当天早上。 大惑不解之下，再次开始"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/68b5de0ba5a63cbf65c7c8aba7bde8aa","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

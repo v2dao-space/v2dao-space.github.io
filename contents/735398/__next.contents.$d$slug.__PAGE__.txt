@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中/步兵/PC】傲慢的怪兽公主与名侦探使魔 Ver1.04"}],["$","p",null,{"children":"所发布资源不得用于商业盈利，否则产生的一切后果将由您自己承担！制作介绍 名称: 傲慢的怪兽公主与名侦探使魔类型: 休闲, 独立, 角色扮演系列: Mango Party发行日期: 2023 年 12 月 21 日  成为怪兽公主的奴隶过着色色的同居生活！丰富有趣的时间管理恋爱养成游戏全部评测: 好评如潮 开发商: ARTcelerator, PantyParrot发行商: Mango Party该产品的热门用户自定义标签：色情内容 裸露 动漫色情 工作场所不宜 成人steam链接:点击这里游戏介"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/735398","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

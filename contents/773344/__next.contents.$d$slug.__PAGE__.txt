@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/安卓/AI汉化】家务（House Chores）0.18.1"}],["$","p",null,{"children":"【简介】僵尸生活作者【Siren’s Domain】（Twitter）作品。——-在家务这款游戏中，你将体验一位年轻人在暑假期间的故事。你一个热血方刚的小伙子，对母亲产生了别样的情感！更糟的是，姐姐和阿姨的突然造访，使这个混乱的夏天变得更加复杂！在暑假内你能搞定母亲和阿姨这些亲人吗？？== Beta 0.18.1          更新日志 == Beta 0.18 包含 Emily 个人故事情节的结局！有了新睡衣，Emily 的卧室就成了享受美好宁静夜晚的完美场所！只要那些梦境不要变得太疯狂 "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/773344","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

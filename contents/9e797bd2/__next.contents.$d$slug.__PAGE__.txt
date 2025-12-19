@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【2D/无码】[whisperingfornothing]-视频合集-截止至2024年7月【百度云 /815MB】"}],["$","p",null,{"children":"好久没来发资源了，今天搞了搞福瑞，以前经常被人发的是魅魔和派蒙的这两个视频，这次找来了这个大佬儿的全部视频 大多数儿都是福瑞，宝可梦什么的后缀经典解压格式当然这个作者还有其他的图集 只不过我没存以后看情况可能会发"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/9e797bd2","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

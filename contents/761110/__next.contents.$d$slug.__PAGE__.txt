@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/生肉】美少女万華鏡異聞 雪おんなVer1.01【度盘/7.33G】"}],["$","p",null,{"children":"24/04/26已更新1.01修正补丁。  作品内容Getchu界面：点击游戏官网：点击作品紹介STORY怪異、それは恐ろしくも美しいもの———武道一筋に生きてきた主人公・蓮佛 雪之進は、自身が通う道場の後継ぎとして嘱望されていたが、ライバルとの勝負に敗れてしまう。反省した主人公は俗世を離れ、修行のために山に籠もる。孤独な修行が中々捗らないうちに……いつしか山は冬を迎えていた。そんなある日、雪山で熊に襲われていた白い小動物を助けようとする主人公。単身熊に立ち向かうが、逆に熊に突進され、命の危機に"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/761110","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

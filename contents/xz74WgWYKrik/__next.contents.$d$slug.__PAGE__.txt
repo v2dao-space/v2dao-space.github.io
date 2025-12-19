@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【安卓】麻辣小媳妇.ver.1.0.1-安卓魔改版下载"}],["$","p",null,{"children":"【游戏名称】麻辣小媳妇 【游戏语言】中文 【游戏大小】103.76MB 【游戏版本】1.0.1 【游戏包名】com.sl.mlxxf 【开发代号】101 【系统版本】13 【特殊说明】 （！！！！遇到卡死的剧情请在进入剧情时点击左上角返回键\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/xz74WgWYKrik","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【同人音声/简中】【RJ01273251】老师,今天开始就任命你为魅魔的负责人啦! ~ 要是你的学生们发情了,只需向她们提供精子就行。很简单吧♪【Mega/Pikpak/4.8G】"}],["$","p",null,{"children":"含早期特典，这个社团WAV音频（30G）太大了，我就删除了WAV，其他都保留了\nDL官网：\nhttps://www.dlsite.com/maniax/work/=/product_id/RJ01273251.html\n  \n\n\n\n\n社团名\nWhisp \n关注37,575\n \n\n\n\n\n\n\n\n\n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ZvyloG2RgCHQ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

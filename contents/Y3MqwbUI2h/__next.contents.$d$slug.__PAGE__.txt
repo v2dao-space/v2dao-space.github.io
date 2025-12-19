@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【ACT/官中/无码】卢特拉利亚的封印/Lutellaria/ルテラリアの封印【度盘/67MB】"}],["$","p",null,{"children":"DL自购，已问过原作者但未提供步兵版本，目前没找到杀马方法 第二个链接为已通关存档，不想被折磨只想瑟瑟的可以下存档，存档文件位置请查看游戏主题的readme文件，需要先正式进入一次游戏并存档才可以更改存档，存档点为出生点擬牝台（这玩意没有动态我不认可） 前作为 セタリアの魔境 站内已有不再上传   "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Y3MqwbUI2h","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

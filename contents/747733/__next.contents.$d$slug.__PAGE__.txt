@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【RPG/生肉】[栗pick] マインド・リュダ"}],["$","p",null,{"children":"新作，应该是刚出的，看着还挺有意思就买了。就是可惜没有配音，至于内容，看这个作者名字应该懂得都懂  作品内容故事概要演习会议。这是“柳达古典学会”举办的选拔最强者的锦标赛。瑟吉为了拯救因无罪被鲁达抓获的丈夫尤亚，尽管身为女性，却穿上黑袍作战，通过参加活动，欺骗周围的人为“黑魔女”。演习，决定。为了以战士的身份参加这次演习，有一个条件。他的计划是服用鲁达的丹药来增强自己，然后参加比武大会。不过，这种以经会鲁大为名的名为‘心鲁大’的稀有药物，除了强化身体之外，还有另外一个功效。它是一种强烈的春药作用"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/747733","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

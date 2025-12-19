@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC][正常向][中文]初音ミク 不思議なホシと願いのかけら 初音未来：不思议星星与许愿碎片[多网盘][926MB]"}],["$","p",null,{"children":"说在前面的话：之前在B站看UP主玩过这个游戏，所以饶有兴致的想找个试玩，结果国内外都转了一圈也没找到这个游戏 orz 所以只能自购自破分享了，本作是个miku粉丝向的小游戏，比较冷门……大概……最早发布于NS平台于2023年发售有且仅有下载版，NS上只有日英两种语言，不过好在本作于2024年4月份登录了steam，这才有了简中和繁中……嘛……总之就是个小游戏集合，大家有兴趣可以下载试试看♪(^∇^*)~——————————————————————————————————————————————简"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/770884","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

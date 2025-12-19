@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/无码/GAL】スキとスキとでサンカク恋愛"}],["$","p",null,{"children":"前言这个社的无修正游戏似乎被我扒完了本作是这个社的最后分享的一部无修正游戏  Story在某个乡下城镇过着学园生活的主人公「宗介」，因为父亲再婚的原因，从度过幼年时期后开始，就和义妹「七瑠」、青梅竹马「真帆」等人一起，在学园中的OTAKU部（通称B研）里享受着愉快的宅生活。平稳的每一天……然而，暑假还有近一个月就要开始的某一天，突然发生了事件。「我一直都好想你……哥哥！！」在幼年时期一直住在一起，之后被母亲带走的亲妹妹「すず」竟然回来了！在学园、在家、在外面，静静地发挥着自己亲妹妹力量的亲妹妹。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ab1ae311420535afdc390b82415a202f","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

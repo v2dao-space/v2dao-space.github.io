@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/生肉】おさわりファンタジー 本好きエルフの知らない夜（RJ01277260）"}],["$","p",null,{"children":"\n\n\n\n\n社团名\nぷろおな \n\n\n\n\n\n\n\n贩卖日\n2024年11月27日 16点\n\n\n作者\n西音\n\n\n插画\n歩路地\n\n\n年龄指定\n\nR18\n\n\n\n作品类型\n\n模拟\n\n\n\n文件形式\n\n软件\n\n\n\n支持的语言\n\n日文\n\n\n\n分类\n\n着衣/穿衣 触摸/抚摸 精灵/妖精 内射/中出\n\n\n\n文件容量\n\n82"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/DPU99maew0Bz","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

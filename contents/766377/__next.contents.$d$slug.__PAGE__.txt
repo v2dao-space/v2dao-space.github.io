@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【未汉化/ADV】催眠乱交学園 ERE"}],["$","p",null,{"children":"前言本作为（催眠凌辱学園）的ERE版本游戏附催眠凌辱后夜祭（本篇的日后谈）  Story藤見俊和(主人公)は新たに学園に赴任してきたカウンセラーである。温厚そうでインテリな外見を持つ彼だが、その実、催○効果を生み出す薬を用いて女性の理性を崩壊させ、隠された性の本質を暴き、欲望に素直な牝奴○へと堕としていくことに快感を感じる“異常性癖”の持ち主だった。そんな彼にとって、悩みを持つ多感な少女が通く“学園”は格好の実験場——。「匂う、匂うぞ……僕の実験を待っている、牝たちの匂いが」今日もまた、催○凌○"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/766377","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

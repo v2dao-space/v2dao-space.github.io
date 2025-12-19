@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【完结漫画/汉化】这样算是僵尸吗？【8卷+6卷番外】"}],["$","p",null,{"children":"制作介绍罗马字Kore wa Zombi Desu ka?类型黑色幽默[1]、后宫[1]、超自然[2]作品原名これはゾンビですか？はい。魔法少女です正式译名 这样算是僵尸吗？魔装少女就是本少爷！常用译名这就是僵尸吗？这个是僵尸吗？原作木村心一小舞一、梦璃凛（人物原案）作画さっち出版社富士见书房 台湾角川其他出版社：首尔文化社连载杂志月刊Dragon Age丛书Dragon Comics Age Kadokawa Comics Boy Series连载期间2010年2月号—2013年12月号册数全"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/715d3ae706ffa694ebacfffab1176018","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

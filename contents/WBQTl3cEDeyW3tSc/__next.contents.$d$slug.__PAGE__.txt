@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[かみ田] 悪魔みたいにキミは立ってた[中国翻訳] [DL版] [無修正] [漢化整合版 & 个人机翻+润色]"}],["$","p",null,{"children":"作品内容:(下面内容为机翻) 一旦上瘾就会上瘾。少女的秘密，就是甜蜜的罪恶滋味。 一个能看透大人弱点的可爱恶魔（少女）占据了主导地位，不知不觉中，你就成了她的奴隶……一旦体验到这种快感，就无法忘怀，无法抑制内心的黑暗欲望，犯下了一个又一个的罪恶……不如加入我们，沉浸于只有和少女才能体验到的禁忌快感之"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/WBQTl3cEDeyW3tSc","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

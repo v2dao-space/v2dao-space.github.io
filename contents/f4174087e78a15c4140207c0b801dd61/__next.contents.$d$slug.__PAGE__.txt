@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[かるま龍狼] 菜穂ちゃんはオナホ屋さん菜穗是飛機杯店店員 [中国翻訳] [無修正] [DL版]"}],["$","p",null,{"children":"每天都超可愛的菜穗是店內的超人氣看板娘，看她一氣呵成地完成剁切、炸煮、瀝乾、添加保養液，因應客戶需求調整大小與封口，與爸爸一起經營成為在地銅板價的排隊名店！致力顛覆他人三觀的奇想成漫大師業龍狼（かるま龍狼）日版個人作品集推出第30本，也是畫業滿30週年特別以筆下最可愛迷人的飛機杯店店員菜穗作為女主角！d/art於2024年2月將推出業龍狼第三本繁中版作品集《菜穗是飛機杯店店員》躺著玩！坐著玩！趴著玩！還是飛機杯好玩！每天都超可愛的飛機杯店店員菜穗不僅販售飛機杯給客人偶爾也會偷偷當一下飛機杯就算被"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/f4174087e78a15c4140207c0b801dd61","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

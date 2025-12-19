@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG/官中] 生命之槛 Stema 官方中文版 + 全回想 [400M]"}],["$","p",null,{"children":"生命之槛 官方中文版（Trapped on Monster Island）生命之槛中文版是2019年神乐社发行的诸多游戏之一，定位是小品级的游戏，最大的特点就是游戏的探索要素十分丰富，\n\n\n\n战斗系统有创新，很好的结合了游戏薄弱的剧情，算是一个比较加分的项目。\n\n\n\n像素风格加上对话时精美的原画，还是有一点有玩的价值的。\n\n\n\n游戏自带全回想，可直接开冲！\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[游戏剧情"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1719","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

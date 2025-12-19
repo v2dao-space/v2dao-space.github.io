@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[ADV] AI汉化版  リアルエロゲシチュエーション！DT   云忆夕汉化-GPT3.5"}],["$","p",null,{"children":"故事失去童贞是一生一次的事件。这可能就是为什么想要你所爱的人保持童贞是人的本性。我‘奥永俊’有一种经常与异性发生冲突的倾向，自然而然就会不受异性的青睐。我的姐姐在一家色情游戏公司工作，她称我为“碎旗机”。因为这个体质，我才活到今天，没有爱上一个异性。虽然我就是这样，但我并不是对爱情不感兴趣……事实上，我很好奇。我会看着热恋中的情侣，心里想：“我也想拥有这样的关系。”有一天， 我收到了同学艾娜的令人震惊的告白：“我要你把你的童贞都给我！”！显然，她对我感兴趣很长时间了，当她听到我低声说：“我想谈恋"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/94e09f57e997bb1366aea38c01c5c19b","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

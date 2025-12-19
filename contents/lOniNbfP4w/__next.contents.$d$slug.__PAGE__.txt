@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无修】Coffee & Boobs"}],["$","p",null,{"children":"咖啡……多少奇妙的冒险始于一口提神的饮品！多少热辣的故事跟随着“来杯咖啡吧”的邀请而展开！如今已经很难想象没有它的世界会是什么样子。而我们主人公生活中的奇妙事件，也正是从咖啡开始的。 加入这位想成为历史上最伟大咖啡师学徒的年轻人吧。这家温馨咖啡厅的迷人员工立刻征服了主人公的心，并时常出现在他的春梦中"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/lOniNbfP4w","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

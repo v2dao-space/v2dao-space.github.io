@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[西沢みずき] 即ハメ!ハーレム 隨插即上！性愛後宮 [中国翻訳] [無修正] [DL版]"}],["$","p",null,{"children":"  \n  \n  \n西沢水木最初系列作「開朗的家庭性活」系列，年輕男女因父母再婚成為無血緣關係的家人，住在同一個屋簷下展開的青春物語……，猛烈抽插下，男人們化為女人自慰用的按摩棒！\n善於男子玩具化的成漫作家西沢水木(西沢みずき)廣受好評的「開朗的家庭性活」與「好色」系列強勢登台！d/art於2024年"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/npuZc_jYnVEs","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"Nope Nope Nurses Melee 病房轶事 FIGHTERS"}],["$","p",null,{"children":"一切始于送到护士站的那壶咖啡。护士们自从喝过咖啡后，态度变得极其恶劣，浑身都是攻击性。故事的主角立花，也是护士们中的一人。她没有察觉到周遭的异变，投身至热火朝天的斗争之中……！而另一方面，战斗虽能消解护士们的烦躁感，却无法填满她们内心的情欲缺口。于是她们将目标转向了山田……！？这一切的幕后黑手究竟为何人。谁干的啊啊啊！？"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/3f95a80df8128a8a79c3522d62e98eab","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

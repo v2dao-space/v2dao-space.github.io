@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】サキュバスカンパニー【1G/百度】"}],["$","p",null,{"children":"  \n■ 剧情简介\n——————————————————————————————————-\n魔族与其他种族签订永久和平条约已有数十年。\n魔界的大城市”查卡布”正饱受严重的粮食问题困扰。\n这是因为succubus们的食物 – 精液的价格大幅上涨。\n—– 我想拯救饱受饥饿煎熬的她们。\n主角建立了”维塔商"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ujPpJB5PnwIp","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

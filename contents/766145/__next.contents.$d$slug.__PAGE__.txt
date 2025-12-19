@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购/MMD/有码】美遊ちゃん4P（2D/VR）"}],["$","p",null,{"children":"看了眼商品和投稿 感觉差不多是为了给想补往期作品的人开的单视频商品然后也因为后期有些更新属于是之前作品的优化导致多版本一类的这么看来从后往前购买的计划得改一下了 这篇之后我就从最新的作品开始往后补往期作品好了技术力来说应该是越来越高 可别嫌由奢入俭难啊  一小段重复几回 显然是后期作品花样更多（温泉那部就是比较近期的）  作者主页：ちっぱいMMDファンクラブ (ちっぱいMMD)｜ファンティア[Fantia]度盘炸了随缘补"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/766145","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

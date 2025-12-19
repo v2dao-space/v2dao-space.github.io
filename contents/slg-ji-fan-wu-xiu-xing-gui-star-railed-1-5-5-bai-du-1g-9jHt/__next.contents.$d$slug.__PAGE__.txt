@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/机翻/无修】星轨 / Star Railed 1.5.5【百度/1G】"}],["$","p",null,{"children":"草，找好哥们要星穹铁道单机版结果发过了这个。有点谐 风灵月影宗-柒年 Join the Astral Express in amazing adventures across the cosmos! Play as the host of Nanook The Perversion and rizz"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/slg-ji-fan-wu-xiu-xing-gui-star-railed-1-5-5-bai-du-1g-9jHt","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

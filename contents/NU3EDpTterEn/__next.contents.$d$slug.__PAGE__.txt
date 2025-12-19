@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【STG/官中无码】Guns of Succubus 2"}],["$","p",null,{"children":"\n失去记忆的少年「凯因」， 遇见了能够化身为滑膛枪的梦魔女仆「葛蕾娜蒂娅」， 面对不断出现的魔物娘， 他需要操纵「葛蕾娜蒂娅」来击败她们，解决眼前的“危机”！\n名称: 梦魔之枪2\n开发商: RakuRai\n发行商: OTAKU Plan\n系列: OTAKU Plan\n发行日期: 2024 年 12 "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/NU3EDpTterEn","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

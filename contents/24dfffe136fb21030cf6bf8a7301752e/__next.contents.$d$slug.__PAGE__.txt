@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"VenusBlood AfterDays Episode:3 业火新娘"}],["$","p",null,{"children":"在赫尔维亚战争之后，莱恩哈德成功地统一了这片土地，并与完全觉醒的“新娘”茱莉亚·冯·亚克朗德一起在亚克朗德公国生活。现在的茱莉亚不再表现得像一头傲娇的龙，而是堕落成为一只粘人的猫咪，每时每刻都在纠缠丈夫，寻求他的关注。莱恩哈德对于现在的茱莉亚感到有些厌烦，他开始考虑一个“再教育”的计划来让她摆脱粘人的习惯。而帮助他实施的人选......谁能比茱莉亚心爱的妹妹莉瑟更适合呢？"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/24dfffe136fb21030cf6bf8a7301752e","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/生肉】俺の幼馴染がエロ配信をしていた件 ～地味な彼女の裏の顔はエロエロな配信者でした～【度盘/1.15G】"}],["$","p",null,{"children":"23/07/28 作品内容 Getchu界面：点击 游戏官网：点击 作品紹介 STORY 一言で言えば普通。そんな平和な学園生活を送っている主人公・太一には一つだけそんな日常を彩る楽しみがあった。 それはとある配信者のライブ配信。ゲーム実況を中心に、明るく楽しそうに、そしてちょっとエッチに配信する彼女を太一は日々の楽しみとしていた。 そんなある日。いつものように彼女の配信を見ている最中、小さな違和感を抱く。 「もしかしてこの女の子って……」 なにも知らなかった幼馴染みの衝撃的な裏の顔。そしてそれ"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/707916","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

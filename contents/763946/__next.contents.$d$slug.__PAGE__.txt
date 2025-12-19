@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【GAL/汉化】死に逝く君、館に芽吹く憎悪【OD/3.57G】"}],["$","p",null,{"children":"16/07/29《死に逝く君、館に芽吹く憎悪》为[バグシステム]于2016年7月29日发售的作品。该资源为【默示汉化组】汉化版本（就当半机翻看吧）。含猎奇内容，有忌讳的请慎重考虑后再决定是否下载。  作品内容Getchu界面：点击游戏官网：点击作品紹介STORYそれは、何の前触れもなく起こった――。平穏だった世界に、突如として現れた上位種族たち。彼らは一方的に人間を虐殺し、世界は混乱の渦へと飲み込まれていった。家族と買い物の途中だった美亜もまた、その○○に遭ってしまう。父、母、姉が殺害される中、"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/763946","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

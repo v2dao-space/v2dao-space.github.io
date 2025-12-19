@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/汉化/动态/安卓】天鹅兔子（Velvet Bunnies）0.1汉化版【200MB】"}],["$","p",null,{"children":"游戏介绍在成人视觉小说《天鹅兔子》中展开一段迷人的旅程让玩家沉浸在奢华、阴谋和家族传承的世界中。作为一个富裕家庭中最小的孩子，你一直生活在哥哥的阴影下哥哥在你父母遭遇不幸后继承了著名的酒吧 “天鹅绒兔子”。多年来，你四处漂泊，寻求冒险和刺激，将家族的责任抛在脑后。但是，当你得知哥哥突然去世的消息时，一切都瞬间改变了。作为 “天鹅绒兔子 “的唯一合法继承人你又被推回了你离开的那个世界被迫面对过去的幽灵和现在的挑战。        作者主页https://www.patreon.com/Zafiro"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/dcad907d8babebb4b9da750883513dc0","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

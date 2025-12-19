@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[ADV/汉化步兵][171124][WAFFLE]巨乳幻想3 if/巨乳ファンタジー3 if[CG存档/度盘/4.9G]"}],["$","p",null,{"children":"  \n\n喜欢请入正：\ngetchu：https://www.getchu.com/soft.phtml?id=967806&gc=gc\n官网：http://www.waffle1999.com/game/74kyonyu3if/\n还是WAFFLE，还是巨乳幻想系列，再次感谢汉化者的幸苦付出\n存档位置"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/B19YE8NYofSB","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

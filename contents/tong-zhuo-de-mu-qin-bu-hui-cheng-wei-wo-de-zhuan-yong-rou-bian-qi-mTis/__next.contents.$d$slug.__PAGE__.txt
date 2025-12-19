@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"同桌的母亲不会成为我的专用肉便器"}],["$","p",null,{"children":"午后的阳光透过百叶窗，在木地板上投下斑驳的光影，空气中弥漫着一股淡淡的茉莉香，那是阿姨身上独特的味道。被同桌拉到家里写作业的我坐在沙发上，心跳如鼓，目光紧紧锁住阿姨那双踩着高跟凉鞋的玉足。她刚从外面回来，凉鞋的细带勒出白皙的脚背，十只脚趾圆润饱满，指甲上涂着透明的亮油，在阳光下泛着诱人的光泽。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/tong-zhuo-de-mu-qin-bu-hui-cheng-wei-wo-de-zhuan-yong-rou-bian-qi-mTis","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/汉化/安卓】降世神通：四元素训练师/Four Elements Trainer [v1.0.9d]【750MB】"}],["$","p",null,{"children":"主页  游戏介绍四元素训练师是以《阿凡达：最后的气宗》和《科拉传奇》为背景的大型游戏将四个完整的游戏合而为一。在游戏过程中您将发现大量（可恶！）的角色、任务故事、战斗和谜团等着您去解开。        变更日志v1.0.9d在这个版本中，您终于可以加入 Katara 和 Korra 的治疗水疗程了。Jinora 会在那里，但您不能看她换衣服。您与 Korra 的训练将进一步进行Kya 会跪下来，展示一些帮助 Korra 的东西。她还会被要求通过给您手淫来与您一起进步。Korra 会加入手淫的乐趣"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/e00f4a599bf386a78687eb1a44e0ff34","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

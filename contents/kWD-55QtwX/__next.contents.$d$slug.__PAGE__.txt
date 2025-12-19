@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"极道风流传说"}],["$","p",null,{"children":"艾利奥斯．拉夫朗，从小被人赶出家门，成天以午夜赛马维生，过着有一餐没一餐的落魄生活，直到父亲死后，意外接掌了帝都两大黑帮之一，从此命运大逆转…… 在跨越禁忌与人伦的分界后，艾利奥斯终于以凌虐的激烈X爱与最心爱的妹妹灵肉合一，不料这竟是继母策划的卑鄙陷阱，呼风唤雨的黑道帮主当没几天立即转为阶下囚，潜藏着无数阴谋的法庭上，任他如何力挽狂澜，也难敌奸人所害……"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/kWD-55QtwX","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC-RPG]露露卡和大魔导士的色情陷阱地牢！～追寻古代的大秘宝～[Steam官方中文版]"}],["$","p",null,{"children":"「我将此宝赠予心灵真正纯洁的少女。」\n留下这句话后大魔导士便去世了。\n为了寻求他所留下的秘宝，露露卡开始了冒险。\n然而这一夜暴富的宝藏，却藏匿在了大魔导士自己设下的色情陷阱地牢中？！\n和怪物你追我逃，解开色情的谜题，必要的时候甚至会出卖身体……\n在这男性禁入的地牢中，一面遭遇种种色情事件，一面向最深处挺进的露露卡。\n她究竟能否漂亮地打穿这座地牢，解开大魔导士色胚龙财宝的谜团呢？！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/YBFS86x8Z4bz","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

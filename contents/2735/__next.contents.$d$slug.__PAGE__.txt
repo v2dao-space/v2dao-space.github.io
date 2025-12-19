@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【沙盒SLG/汉化/动态】已选择 Chosen v0.5.0 Beta 汉化版【安卓/2.3G】"}],["$","p",null,{"children":"今天给大家带来一款由【苦茶子社区】汉化的欧美SLG/游戏：\n\n\n\n已选择 Chosen v0.5.0 Beta 汉化版【安卓/2.3G】\n\n\n\n游戏介绍：\n\n\n\n被恶魔选中，你注定要在你慢慢消亡的世界里满足欲望……\n\n\n\n已选择 – 视觉小说/沙盒，具有高质量的动画场景，有很多可供选择。\n\n\n\n在醒来后看到神奇的景象，你的世界被颠倒了。\n\n\n\n不假思索地接受合同，迫使你陷入不可预见的情况，你需要控"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2735","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

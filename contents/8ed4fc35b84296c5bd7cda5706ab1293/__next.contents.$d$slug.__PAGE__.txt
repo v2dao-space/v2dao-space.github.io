@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【神作SLG/官中/动态CG】［PC+安卓］凤凰 Phoenixes Ver1.0+番外"}],["$","p",null,{"children":"所发布资源不得用于商业盈利，否则产生的一切后果将由您自己承担！更新内容看下方文章更新日志2424/6/26 更新番外What If Chapter 1- Talismans2024/4/10 更新V1.02024/1/18 更新V0.9.0.0如果你喜欢多多赞助作者吧!!!————————————游戏简介 原始名称：Phoenixes游戏类型：SLG游戏语言：官方中文游戏大小：3.5G游戏平台：PC+安卓游戏介绍  这是由[NoMeme3D]制作的一款玄幻类的SLG游戏也就是【美德】作者出的新作"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/8ed4fc35b84296c5bd7cda5706ab1293","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

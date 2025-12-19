@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【文字游戏/东方同人/PC/安卓】EraToho The World 画蛇添足版 4.910"}],["$","p",null,{"children":"游戏概要  本游戏也被简称为 eratw ，属于era类型游戏之一。era游戏的趣味性就在于只使用文字，但就能通过文字开冲十分上头（？，不过eratw人物有肖像、差分、透视图。但。。真要冲有点难吧？，不过上头是真的，笑~）。我个人认为，一般文字游戏普遍特点是剧情丰富，量大管饱，把游戏内各个人物的性格形象塑造得十分丰满，跃然纸上。然后真对一次元动之以情了。。。该版本属于整合版，由贴吧大佬 零度 整合。除此之外，还有各个口上、补丁、汉化作者的辛勤努力，使得这游戏能够演变为今天现在的样子。再此，感谢各"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/738295","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

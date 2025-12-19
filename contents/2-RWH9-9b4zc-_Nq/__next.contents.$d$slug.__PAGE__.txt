@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/生肉】冥界之花 Stygian Flowers v1.0.6.1【度盘/681MB】"}],["$","p",null,{"children":"入正链接：itch    状态 已发布   平台 Windows   作者 viroa   类型 冒险   标签 2D, 成人, 奇幻, 女性主角, JRPG, RPG Maker, 单机游戏   平均游戏时长 约两个小时半   语音 英语   操作方式 键盘, 鼠标   版本 1.0.6.1   "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2-RWH9-9b4zc-_Nq","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

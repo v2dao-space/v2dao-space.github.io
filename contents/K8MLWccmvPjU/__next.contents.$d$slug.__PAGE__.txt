@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[天馬ふぇみお] HG～色女 [中国翻訳] [DL版]"}],["$","p",null,{"children":"  \n  \n  \n  \n明明是處女，卻試圖誘惑喜歡的男人的女高中生、過去冤枉別人是色狼，使其遭到逮捕，結果遭到其同伴報復的女高中生、變裝為女僕，試圖竊取資料的女特務、誘惑附近學生並沉迷於放置ＰＬＡＹ的人妻……描寫此種女變態生態的變態漫畫家——天馬ふぇみ帶給人渾身快感的作品集！\npubu：点我\n有爱自"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/K8MLWccmvPjU","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[精品SLG官中像素动态] 管理员的窥视 Peeping Dorm Manager v1.0.9 官方中文步兵版+DLC"}],["$","p",null,{"children":"游戏简介：针孔！肉搜！偷窥！这些都是成为宿舍管理员的必要技能！当然你还是需要修修水电、打扫卫生、清理垃圾，但这都无法阻止你与可爱的女大学生的一起生活，从宿舍中获取有用的信息，攻略你的住户！{collapse-item label=\"CG\" close}{/collapse-item}\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCG"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/e19744dad48cea30a6dd885fce5fefee","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

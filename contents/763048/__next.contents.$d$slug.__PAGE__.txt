@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/机翻】現実が見えてきたので少女を愛するのを辞めました。"}],["$","p",null,{"children":"前言补档一份拔作，画师就是Tanuki Soft那位游戏附GPT机翻补丁+V1.02修正补丁—-感谢来自2DFan的大佬有彩蛋  Story「だから俺は少女を愛するのを辞めた」田中は限界に達した。田中はこれまでの人生を、年の離れた＜＜少女＞＞にばかり執着して生きてきた。現実の世界でも、二次元の世界でも、彼が愛したのは少女だった。だが、それもここまでだ。田中の魂がうめきをあげる。たったいま、生涯108回目の＜＜少女＞＞への告白は無惨に散った。一度も成功したことなどなかった。一度も性交できないまま、"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/763048","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

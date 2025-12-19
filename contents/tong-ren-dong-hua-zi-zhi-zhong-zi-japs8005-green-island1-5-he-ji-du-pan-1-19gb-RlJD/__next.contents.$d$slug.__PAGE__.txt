@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【同人动画/自制中字】【japs8005】Green island1-5合集【度盘/1.19GB】"}],["$","p",null,{"children":"这个是就japs8005大佬的Green island系列，一共五集我和在一起了，感觉还是可以(金发眼镜妹和绿皮哥布林有一说一虽然身材很顶，但是不是很戳我的xp)，给大家尝尝咸淡（感觉这大佬的作品里比较长的，我中字也做大半了，整完了到时候有空搞个合集，这大佬早期同人套壳我觉得比他自捏的人物好看）(话"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/tong-ren-dong-hua-zi-zhi-zhong-zi-japs8005-green-island1-5-he-ji-du-pan-1-19gb-RlJD","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

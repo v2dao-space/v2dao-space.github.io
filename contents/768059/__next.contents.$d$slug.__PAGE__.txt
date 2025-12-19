@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【游戏设定集】-方根书简/√Letter ルートレターPREMIUM ARTBOOK-人物设定: ミノ☆タロー(箕星太朗)-度盘"}],["$","p",null,{"children":"「我杀人了，必须偿还我的罪过，就此永别了。再见。」这是你收到的来自从高中时代的笔友文野亚弥的最后一封信，为了确认真相，根据和她来往的10封信件的内容，你来到了拥有得天独厚的美丽自然风光及悠久历史的岛根街头进行探访并去解开笼罩在你心中的疑团。通过回想起15年前往来的信件，在岛根去寻找知晓真相的7位同级生，并与特定的同级生不断地对峙15年前的真相，以此逐渐揭开笔友的真实身份。Discover through this printed behind-the-scene the world of Roo"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/768059","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

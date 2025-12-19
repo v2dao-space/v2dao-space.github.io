@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】おねショタダンジョンズ【400M/百度】"}],["$","p",null,{"children":"  \n故事：\n主人公“艾克斯”迎来了作为未来国家的支柱必须完成的“那一天”。\n他需要前往充满凶暴且性格奔放的怪物娘们的地牢深处，取得试炼的证明！\n游戏概述：\n这是一个逃避怪物娘并挑战地下50层的游戏。（试玩版只到10层）\n途中撞击岩石和金矿可以获得“金钱”。\n此外还有恢复道具，也有陷阱。\n当然，若被"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/SoX9tyQTl8Fo","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

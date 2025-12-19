@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"魔尊曲"}],["$","p",null,{"children":"纨绔子弟南宫修齐不学无术，整天在街上拈花惹草，惹事生非。这天南宫修齐又欺凌一名良家少女，不料遭人仗义相挺，蓝魔大法果然厉害。\n品香阁的花魁紫心，总是能把南宫修齐伺候的浮服贴贴，却因为与天统教的少主互抢紫心而争执了起来……\n邱一魔之死，让南宫修齐被陷害成杀人凶手，但也无意得到血灵召唤的秘笈……\n南宫修齐的下场将如何？魔门秘笈是否将使他的魔功更上一重？"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/NXsahurSfy","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

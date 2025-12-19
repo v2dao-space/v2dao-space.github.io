@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[爆款RPG/汉化/动态]卡琳·监狱长 Ver1.05FULL 魔改精翻步兵作弊版[更新/1.5G]"}],["$","p",null,{"children":"卡琳·监狱长 V1.0.5 FULL 魔改精翻步兵作弊版（KARRYN’S PRISON）这是3月份的最新Ver1.05版的CCMOD魔改作弊版本。\n\n\n\n同样精翻汉化，魔改增加了如身体属性图断面等内容。\n\n\n\n并且增加了大量新要素和修改，以及作弊功能，非常推荐！\n\n\n\n应该是作者最后一次更新的完全正式版了~游戏按数字[1]进入作弊\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n这是一款[さちなま＠Remtair"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1927","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

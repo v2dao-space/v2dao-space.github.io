@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【MMD/有修正】μ_MMD大佬作品 ブラックマジシャンガールで前後腰振りBass Knight（2D/VR/差分）"}],["$","p",null,{"children":"可算是把μ佬这个月带VR的补齐了 网页下载属实不太稳定没有新动作模组 还有一小部分无VR的就不是特别想下了最近还挺忙的 下回更应该就是月底惯例的两个足控合集了  依旧是脱衣VR差分以及近距离2D差分 黑魔导可爱捏  作者patreon主页：https://www.patreon.com/mu_mmd/posts作者fantia主页：μ（ミュー）のMMDファンクラブ (μ)｜ファンティア[Fantia]"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/7c30cab6ab7b44b163026984b34463b0","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

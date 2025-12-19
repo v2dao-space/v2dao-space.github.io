@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】異世界召喚された咲夜さんがスケベ爺に隷属奉仕するお話【800M/百度】"}],["$","p",null,{"children":"  \n故事梗概\n孤独而又天才的魔道具发明家利扎尔德(※名称可更改)终于创造出了终极发明品。\n面对这个据说可以实现任何愿望的发明品,他心潮澎湃,为了暂时平静心情,他沉浸于日常的自慰行为中。\n那天的自慰素材是”美丽又巨乳的女仆”。\n就在即将达到高潮的瞬间,他不经意间脱口而出:\n“啊,我也真心想要啊。\n【"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/qWJ94ogFlIJZ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

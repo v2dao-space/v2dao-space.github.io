@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】夏休み田舎生活～年下の男の子と農場で暮らすことになりました～ Ver1.1.1（RJ01217836）"}],["$","p",null,{"children":"社团名てるかラボ 贩卖日2024年09月13日更新信息2024年09月16日 更新信息系列名夏休み田舎生活年龄指定R18作品类型角色扮演有音乐文件形式软件支持的语言日文分类女主人公 姐姐×正太 正太×姐姐 露出 羞耻/耻辱 放尿/小便 阴毛/腋毛 粪便/排泄物文件容量1.46GB      【概要】暑假要在乡下的破农场度过的琉璃。采虫、钓鱼、扩建农场的同时，和在乡下遇到的比自己小的男孩子做些色情的事情……。这是一款能让你过上这种乡村生活的RPG。【音量】·体验版可以玩到第三天H场景57(体验版可"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/214882a3","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

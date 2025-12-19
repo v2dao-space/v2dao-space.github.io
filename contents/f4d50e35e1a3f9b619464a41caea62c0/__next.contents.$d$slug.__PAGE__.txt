@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/汉化/安卓】驱动事务/Driven Affairs v0.6【1.2G】"}],["$","p",null,{"children":"作者主页https://www.patreon.com/naughtyalgorithm  游戏概述：《驱动事务》是一部充满爱、欲望和冒险的视觉小说。​     更新日志：v0.6- 安娜和杰西卡故事的延续– 18 幅安娜和卡希娜的新艺术作品 + 变化、2 套新服装– 6 幅新艺术作品、2 套杰西卡的新服装– 2 个杰西卡的新动画、1 个卡希娜的新动画  出错的重下或者换解压"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/f4d50e35e1a3f9b619464a41caea62c0","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

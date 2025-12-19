@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/汉化】亨特里亚编年史3 The Peacekeepers V16"}],["$","p",null,{"children":"美系/黑卡蒂个人汉化\n写在开头：\n大家好，这回给大家带来的是由【N_taii】作者的高质量新作（未完结）–亨特里亚编年史第三部（版本16）的完全汉化。\n【除了一些完全没必要的地方】\n目前游戏最新版本为16，如果不烂尾的话，个人预计游戏的完结版本将会是22~24。\n在游戏文件夹内，我写了一个BUG的文"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/g31hCHtPTaXT","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

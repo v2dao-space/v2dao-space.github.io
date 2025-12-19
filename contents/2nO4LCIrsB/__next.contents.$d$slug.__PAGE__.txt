@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"修罗劫"}],["$","p",null,{"children":"辣手摧花，飞凤折翼！“辣手飞凤”柳青萍，遭逢群狼垂涎，落红缤散的凌辱，出现在她面前的，是邪缘？亦或魔恋？毒龙施暴，贞妇蒙尘。为报满门血恨，江都派掌门姚凤珠自甘堕落，修练邪功，化身淫欲魔女。隐藏在魔女战衣下的熟艳胴体，藏的是蛇蝎心？亦或贞妇泪？慈云血劫，阿鼻极乐。慈云庵中三百妙龄女尼，一夜之间同堕无间阿鼻，在横流肉欲、温香软玉的香艳尼庵中，卷土重来的修罗教，如何再起风云？天魔女、地煞女、淫欲神功，修罗教的邪云笼罩江湖，一场天地大变即将展开。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2nO4LCIrsB","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

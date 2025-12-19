@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC/安卓RPG游戏] 【RPG/官中/NTR】新婚妻子泽菲拉~被迫出轨的精灵少妇/新妻ゼフィラ ～寝取られたエルフ嫁～+全CG"}],["$","p",null,{"children":"由妄想エンデミック制作，SETAM上架的日式RPG游戏，游戏为官方中文，高清步兵，已打社保补丁！这是一款充满了各种原谅帽的神奇RPG游戏！画风实用，游戏内容非常丰富！搭载多套换装，自由度相当高，就算被绿都有多条不同的线路！整体流程4小时以上，各种H事件非常的给力！集多种NTR玩法于一身，被国际NTR协会誉为“NTR患者的福音”（并没有这个奇怪的协会）能够满足您对于NTR的一切幻想！游戏剧情主打NTR，内容非常丰富，包含各种超强刺激的被绿内容，而且搭载多套换装，多条被绿线路选择，搭载全CG存档，推荐大家体验，"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/3e7ce769987f18aaaa52bf8551ff9eb0","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

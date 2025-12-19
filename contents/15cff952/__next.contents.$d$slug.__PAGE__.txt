@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/AI汉化】女怪人VS女装戦士君2（RJ01102919）"}],["$","p",null,{"children":"社团名78 女怪人VS女装戦士君2 [78] | DLsite 同人 – R18贩卖日2024年08月31日 0点年龄指定R18作品类型动作有声音有音乐文件形式软件支持的语言日文分类像素 伪娘 人外娘/魔物娘 姐姐×正太 正太×姐姐 反向奸 男性受文件容量305.76MB    姐姐和正太、正太和姐姐情节为主的横版动作游戏！《故事简介》男扮女装的正太英雄对抗企图征服世界的邪恶组织“黑星团”！姐姐和正太、正太和姐姐情节为主的复古风2D像素动作游戏！《基本信息》・敌方角色：20人・敌方角色外貌：女性"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/15cff952","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[平間ひろかず] びっちいんえんじぇる Bitch in Angel [中国翻訳] [無修正] [DL版]"}],["$","p",null,{"children":"鈴鈴鈴～初夜舵手 平間宏和 引起話題之作！ 從靈開始的病房性生活「護士靈」系列來了♥護士靈小姐讓人慾罷不能的深夜巡房，宛如小惡魔般不檢點的天使們，還有收錄在各自篇章性豪放兩姊妹的番外篇♥ 「您身體狀況如何呢…？」──不請自來的護士靈小姐 「不是這樣…現在這個不是我…」──變得很奇怪的護理師姐姐 「今"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/0iP06t3Nc0ybswxG","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

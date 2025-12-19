@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[ACT/汉化] 亡灵女仆 MAID OF THE DEAD v1.0.5 官方中文无修"}],["$","p",null,{"children":"这是一款动作射击游戏，目标是操控装备重型武器的女仆消灭侵占城市的僵尸，夺回属于秋叶原的和平。灵活使用技能，消灭几乎快要溢出画面的僵尸吧！通过击倒袭来的僵尸提升Lv，可以随机获得某项技能。如发射导弹、无人机等等，技能多种多样！按照个人喜好强化技能并消灭僵尸吧！当含有疫苗的”使役弹“命中半僵尸化的女仆时，该女仆会成为己方伙伴一起战斗！成为伙伴的流浪女仆数量越多，流浪女仆也会越强喔！使用战斗中获得的分数，可交换能让流浪女仆成为伙伴的“使役弹”、强化女仆的道具以及附带各种效果的饰品等。灵活使用这些道具，培养出能战胜僵尸的最强女仆吧！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/LtwSexhIab9u","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

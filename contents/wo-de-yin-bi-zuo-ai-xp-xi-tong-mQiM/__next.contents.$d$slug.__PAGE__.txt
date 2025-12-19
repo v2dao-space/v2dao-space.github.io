@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"我的隐蔽做爱xp系统"}],["$","p",null,{"children":"“少年哟，从今天起为我工作吧。”\n看着突然出现眼前的洁白光球，我不由怀疑自己脑子出了问题。\n是熬夜学习太久了吗，竟然产生了幻觉…\n“少年，这不是你的幻觉。”，光球似乎读取了我的想法：“为了方便你理解，你可以称呼我为H主神。”\n“H主神？”\n“没错，我是比你更高维度的智慧个体。”\n确认不像是幻觉后，我好奇的问：“那么…H主神先生，您找我有什么事吗？”\n“我一直在寻找像你这样天赋异禀的员工。就像刚才说的，从今天起，我想聘请你为我工作。”\n“能为主神先生工作，我当然求之不得。只是…我可能无法胜任…”，老实说我不明白主神为什么会选择我。\n因为我既无一技之长，也没有聪明的头脑，更没有惊人的勇气。唯一的长处，可能就是肉棒比较长…\n但这个也派不上用场吧。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/wo-de-yin-bi-zuo-ai-xp-xi-tong-mQiM","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

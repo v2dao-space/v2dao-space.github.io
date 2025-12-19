@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/机翻]二次元老婆学院/Waifu Academy V0.12 全画廊 PC+安卓[8.1G/百度]"}],["$","p",null,{"children":"[SLG/机翻]二次元老婆学院/Waifu Academy V0.12 全画廊 PC+安卓[8.1G/百度]入正：Irphaeus | Creating Adult games | Patreon游戏故事：这是一个有关于复仇的故事。16年前，男主的父亲也是学校的校长，被诬告性侵，最后跳楼而死。母亲知慧随后改嫁，男主不得不跟奶奶生活了16年。16年后，男主来到了母亲的新家庭，多年过去了男主依旧没有释怀~发誓要将当年诬告父亲的人报复！一场巨大阴谋便从“老婆学园”展开…游戏介绍：画风超级精美的3D欧美"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2a696e006b215419d3650e8c23bc9667","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

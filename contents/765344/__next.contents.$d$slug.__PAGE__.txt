@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】雌性命运召唤：fate/grand mamma  [ver80]【2.4G】"}],["$","p",null,{"children":"线程更新: 2024-05-05发布日期: 2024-05-05开发者: Bitch牧場版本: ver80操作系统: Windows语言: 英语、日语支持作者：https://fantia.jp/fanclubs/2846?locale=zh-cn游戏概述：这是一款精品FGO同人的RPG新作游戏，目前公开Ver80版本。游戏分多路线进行，选择不同的女主可以开始完全不同的故事发展。碉堡的是英灵被召唤出来不但是仆人，还要扮演小主人的妈妈角色。女主们不但要帮助主人完成任务，战斗，还要解决[儿子]的H需"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/765344","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

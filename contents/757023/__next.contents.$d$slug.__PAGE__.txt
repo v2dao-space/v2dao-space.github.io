@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】[PC+安卓joi]NTRhou ~国民的妻子被共享~/NTRhou～国民の妻はシェアされる～"}],["$","p",null,{"children":"所发布资源不得用于商业盈利，否则产生的一切后果将由您自己承担！制作介绍（#F95）  社团名みるくせーき 贩卖日2024年04月05日 0点系列名寝取り・寝取られシリーズ作者みるくせーき剧情みるくせーき插画みるくせーき年龄指定18禁作品类型角色扮演 有声音 有音乐文件形式软件支持的语言日文分类人妻 办公室/职场 亲热/甜蜜 卖春/援交 被NTR NTR/寝取 内射/中出 怀孕文件容量698.33MBDL链接https://www.dlsite.com/maniax/work/=/product_"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/757023","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【日系RPG/动态/官中】源初之心V1.01官方中文版【安卓/5G】"}],["$","p",null,{"children":"今天给大家带来一款由【BKYSS】汉化的日系RPG/游戏：\n\n\n\n源初之心V1.01官方中文版【安卓】\n\n\n\n游戏说明：\n\n\n\n一款由DOPPELGESICHT社团制作的官方中文版RPG，\n\n\n\n游戏画风精美，还是动态，战斗系统还非常有趣，通过点角色衣服实现爆衣，\n\n\n\n游戏HCG有三种，一种剧情H事件，一种营地选角色调教H动态CG，一种爆衣。\n\n\n\n\n\n\n\n游戏介绍：\n\n\n\n在经历多年的云游生活"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2783","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

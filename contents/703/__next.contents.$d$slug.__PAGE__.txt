@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[精美SLG/汉化/动态] 奇异的圣地~圣屌降临 V27.0 汉化版+礼包码 [安卓] [8月更新/5.2G]"}],["$","p",null,{"children":"\n\n\n\n奇异的圣地~圣屌降临 Ver27【安卓+PC】汉化版（BizzareHolyLand）\n\n\n\n作弊码：JNGXHP123778\n\n\n\n这是一款[HMO]制作组出品的大型互动SLG游戏有着惊艳的2D精美画风+LIVE2D动画天使御姐顶级动态，现在游戏更新到了Ver27.0版本\n\n\n\n\n\n\n\n这是一款画风极其惊艳的互动SLG游戏控制穿越到天使伊甸园的男主，展开超爽的[后宫狩猎]全程都有着赞到爆"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/703","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

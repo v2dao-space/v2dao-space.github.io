@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/STEAM官中】地下城军团-献予魔王的少女们/ダンジョンズレギオン-魔王に捧ぐ乙女の肢体V1.32K+全DLC【百度/1.32G】"}],["$","p",null,{"children":"ダンジョンズレギオン-魔王に捧ぐ乙女の肢体    解压方法:解压工具在我简介里，把lz4解压文件下载后进行解压，把下载好的资源拖进lz4.exe文件当中即可 入正链接： https://store.steampowered.com/app/2287970/_/ 作品信息:     社团名 ルナソフト"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/yj-rBf-rLNptl_Qh","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

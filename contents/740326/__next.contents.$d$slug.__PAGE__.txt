@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【2D/有修正】Dikko至今视频合集"}],["$","p",null,{"children":"*由于部分倒狗和巨婴群体的不懈努力，我不会补档任何度盘中超过5G的大合集，所以失效一个没一个，快谢谢它们*笑*以后也不会或者很少发布大合集*因为樱盒批的流量还没到，所以会摸鱼（等了一个多月了）赛博少爷我啊，解压？不会，梯子？没有，只会去给倒狗爆米呢！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/740326","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

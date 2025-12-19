@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中/步兵】洛娜的世界 / LonaRPG 0.10.1 + mod【1G/百度】"}],["$","p",null,{"children":"二刺猿暗黑地牢，老游戏了。站里的版本停留在0.8了，有一些贴吧的mod 寒冷……严峻……无情……致命……这就是 LonaRPG 的世界。游戏讲述了一个名叫洛娜的年轻女子的故事，她必须在这个哥特式的残酷世界中生存下去。探索这个阴暗、扭曲、开放的世界，在这里，一个小小的错误就可能让洛娜失去生命……您能帮"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/0hy_VTtctwR11VDD","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【欧美SLG/汉化/动态】白俄 White Russian Ep.1-8 Part1 汉化版【安卓/1.5G】"}],["$","p",null,{"children":"白俄 White Russian Ep.1-8 Part1 汉化版【安卓】\n\n\n\n游戏介绍：\n\n\n\n你在一家小咖啡馆工作。你的老板出差后，她的两个女儿接管了商店。\n\n\n\n不幸的是，随着收入变得越来越微薄，您发现支付月租越来越困难。\n\n\n\n在故事的开头，一封神秘的信将你引向两个奇怪的牛奶罐，里面的东西在被你周围的一些女孩在不知不觉中食用后，\n\n\n\n引起了奇怪的症状。\n\n\n\n也许正是这些症状可以挽救咖"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2761","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

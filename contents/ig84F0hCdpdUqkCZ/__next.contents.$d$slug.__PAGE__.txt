@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【2D动画/无码】202507SP T3訂閱者H動圖獎勵- Citlali シトラリ 有聲SP ver【Yakin@ACG_EDIT】【Pixeldrain/1G/2V/24P/0.99G】"}],["$","p",null,{"children":"https://acgedit.fanbox.cc虽然之前说过这个月的不会弄，但因为下载途径很容易就顺手弄了。稍微品鉴了一下，这次的设定有点强迫的味道，意外的不错。  期待八月。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ig84F0hCdpdUqkCZ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

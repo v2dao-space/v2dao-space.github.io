@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG/汉化/动态]牛奶触觉 V22.0 汉化作弊完结版+全回想[安卓][4G]"}],["$","p",null,{"children":"这是一款画风超级赞的欧美精品大作，人设非常完美，全手绘写实油画风格的CG，精美无比。淑女穿上黑丝那令人完全抵挡不住的魅力，配合各种实用的剧情绝对是神作！汉化组对文本进行了重新润色，文本质量更上一层楼！这次更新更增加了新的动态CG，并且增加了女主角的配音！\n\n\n\n\n\n\n\n\n\n\n\n角色介绍：克劳迪娅：主角妈妈，总是细心照顾主角。她是为维克托父亲经营的一家航班工作的一名空姐，维克托就是主角的好友。\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/657","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

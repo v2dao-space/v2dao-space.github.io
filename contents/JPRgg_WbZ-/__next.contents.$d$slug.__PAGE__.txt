@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"大学刑法课"}],["$","p",null,{"children":"法律给人的感觉是正经八百又枯燥乏味的事，但在新生李逸平上了大学才发现，在年轻貌美却又心理变态的法学天才女教授赤裸裸的生动教学下，刑法课竟然可以那么香艳刺！\n惊世骇俗的上课方式，真让这位宅了二十年的纯情小处男招架不住。\n在阴错阳差之下，他竟然成为女老师关系最“亲密”的学生。\n不过竟然有人想要对他敬爱的老师不利，且看阿宅主角如何维护他心目中的女神？\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/JPRgg_WbZ-","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

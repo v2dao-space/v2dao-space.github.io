@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG/汉化]和赛尔贝莉亚的甜蜜生活 PC+安卓汉化版"}],["$","p",null,{"children":"大家分享繁星发布的一款非常不错的RPG游戏,和赛尔贝莉亚的甜蜜生活  最新汉化,因为甜蜜，所以才需要生活，这个游戏主打是CG，配音也很有感觉哦。繁星出品必属精品有木有游戏的画风比较的很附和我们当代人的口味！因为是日式游戏，所以在画质上那是非常让人惬意的！本作女主是御姐类型哦，给人的感觉就是，战场上如大姐姐一样冷静，非常有安全感！但是在私下，也就是你跟他在游戏的剧情里，又如邻家姐姐一样，有依靠的感觉，这时候凸显的就是你的气场！最主要的就是女主胸前有36D，什么概念？目测和实际体验不同哦。大家去游戏"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/7f27dd8a181770411d47523464b38cc7","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

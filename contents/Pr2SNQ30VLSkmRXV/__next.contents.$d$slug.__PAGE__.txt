@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中】魔術師エリシャのさいみん貸出奮闘記 Ver1.01"}],["$","p",null,{"children":"■ 故事概要 ■  一座古代迷宫的存在被证实后，边境小镇科梅斯突然成为瞩目的焦点。 生活在这个小镇的主人公【沃克（※可更改名字）】乘着空前的冒险者热潮，成为了一名摊贩商人。 然而摊位上陈列的尽是些随处可见的普通商品，每天向路过的冒险者搭话也总被无视。 虽然从可疑的术士那里高价进了一批『催○术师的魔杖"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Pr2SNQ30VLSkmRXV","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

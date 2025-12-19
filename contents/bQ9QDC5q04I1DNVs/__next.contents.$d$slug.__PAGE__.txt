@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[Croriin] ヤリこみクロニクル～異種族性交記～ [中国翻訳] [無修正] [DL版]"}],["$","p",null,{"children":"作品内容:(下面内容为机翻) 比人类还要棒的感觉——只有在异世界才能发生的光与暗的魔界物语♪目前以『異世快楽天』活跃于异次元的克罗里因的作品集第二弹！！ 数字版包含带有原始插图的设定材料集！ “你太客气了。你不是恶魔吗？　再猛烈一点……随你的便。让我看看你的全部。” 林檎被村子当作“恶魔的新娘”献祭"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/bQ9QDC5q04I1DNVs","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3d动画/无汉化/有码】【キンハゲMMD置き場 (キンハゲ)】fantia和iwara合集至2025年7月29日(不全)【百度网盘/42GB】"}],["$","p",null,{"children":"仍然有缺失，如果有相关作品的，一定要告诉我。 希望有人能找到缺失的资源，我会很感谢你。 缺失日期目录在度盘链接里。 作者链接↓ https://www.iwara.tv/profile/kinghagetalos https://fantia.jp/fanclubs/13249"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/871iTyvOCLY9dBnw","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

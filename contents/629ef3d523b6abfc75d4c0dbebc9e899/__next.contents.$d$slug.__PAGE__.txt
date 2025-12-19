@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/汉化/PC+安卓/动态/步兵】阳光湾恋人CH1 V1.0.0"}],["$","p",null,{"children":"▼游戏概要您扮演的主要角色发现自己必须在比赛开始前从家中到阳光湾。他去那里帮助他的妹妹经营一家位于阳光湾的住宿加早餐酒店。您的目标是帮助她在处于破产状态的旅馆中为自己经营酒店创造更多业务。您通常会在夏季繁忙的时候呆在那里，如果一切顺利的话，则要呆三个月。您还将获得帮助她在镇上招募其他人（或角色）以担任酒店特定职位任务。（例如，厨师，女佣，接待员以及其他工作！）。随着游戏的进行，您将更好地了解其中的一些或所有角色，并且您可以选择将其视为工作的同事，朋友甚至更多…"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/629ef3d523b6abfc75d4c0dbebc9e899","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

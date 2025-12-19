@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/汉化】悲鳴-地下室に囚われた11人- （VJ01002777）"}],["$","p",null,{"children":"\n\n\n\n\n商标名\nPOISON MOTION \n\n\n\n\n\n\n\n贩卖日\n2024年11月29日\n\n\n剧情\nORU\n\n\n插画\n八樹ひより\n\n\n声优\n花寺香蓮 / 白井すみれ / 手塚りょうこ / 葵時緒 / 南十字いっせい / 木崎彩音 / ひもりちさ / 柏木逢花 / 日向のと / 蒼乃むすび / 空"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/CVaZdNNkkPvJ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

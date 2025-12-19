@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】Forestia～小镇的牧场生活～ / ォレスティア～ちいさな町の牧場ライフ～ 体验版"}],["$","p",null,{"children":"\n照顾动物的农活,钓鱼,采集以及矿山探索\n通过牧场生活与个性多彩的角色们愉快地交流\n真正的模拟牧场生活游戏\n与关系好的女孩子成为恋人然后做爱…\n更加深入关系后也能够结婚噢?\n剧情简介\n搬到可可镇来的菲洛\n因为镇长的女儿比斯蒂的误会\n被误以为是为了重建牧场而移居此地\n本打算只当普通居民的菲洛\n虽然想更"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/BsEGItNJQ3j7","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

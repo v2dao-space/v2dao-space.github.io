@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"和我相恋10年的妻子竟然将自己宝贵的一切都献给了她的伪娘闺蜜，最后还要在情人节时夫目前出轨性爱，并将我调教成她们的绿帽奴"}],["$","p",null,{"children":"情人节是与爱人亲密的最完美的时光，相信全世界的人都非常清楚。自然，也包括我和我的妻子。\n我叫林晖，是一个再普通不过的普通人。\n我的妻子叫秦璎珞，是一个面容绝美的艳色人妻，她的秀艳五官与白皙玉腿已经绝配的情况下，一双傲人的玉峰更是大大的增加了回头率。从学生时代开始，到我们结婚3年，一直保持着处女的妻子无时无刻不散发着一股媚欲淫香。\n在这快10年的交往中，妻子一直都是用她的白丝美腿和娇嫩玉足给我的小肉棒进行的足交，都不要说接吻了，我们连一次手都没有牵过。按妻子的说法，牵手其实就意味着她已经做好了子宫被精液灌满的打算，而她一直还没有下好决定。\n而就是这么一个清纯而淫媚的妻子，今天一大早，竟然用压在我脸上的肥臀将我从梦境中拽出来。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/he-wo-xiang-lian-10-nian-de-qi-zi-jing-ran-jiang-zi-ji-bao-gui-de-yi-qie-dou-WWIl","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

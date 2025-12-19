@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/汉化】サメと生きる七日間【度盘/2.43G】"}],["$","p",null,{"children":"22/11/25 《サメと生きる七日間》为[CUBE]于2022年11月25日发布的作品。 23/07/30 已更新【英俊渣男汉化】版汉化补丁（粗略扫了眼，依旧和机翻不相上下，慎玩）。 作品内容 Getchu界面：点击 游戏官网：点击 作品紹介 STORY とある夜、深海恭平はふと気づくと見知らぬ浜辺に倒れていた。周囲を見渡せば、そこには広々とした海、そして砂浜…… 混乱に溺れる中、それとは別に、頭に妙な違和感を覚え、おそるおそる確認をしてみると── 「あぐ、あぐ」 どこかサメっぽい見た目をした"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/658666","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

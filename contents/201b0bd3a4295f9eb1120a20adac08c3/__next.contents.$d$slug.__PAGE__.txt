@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"傲慢的怪獸公主與名偵探使魔v1.05"}],["$","p",null,{"children":"前略，这是一个关于被外星人绑架，离乡背井来到异星球的故事－－－一名地球上普通的私家侦探，简称「名侦探」，遇到了前所未有的大委托。委托内容竟然是…到外星球担任谜之美少女「黛奴」的宠物！虽然外表是位金发美少女，然而实则刁蛮任性，视众生为蝼蚁，甚至拥有能召唤强大怪兽军团的神奇能力？！这位有着毁灭多颗星球前科的黛奴，便是在宇宙间凶名赫赫的「外星暴君」！伴君如伴虎，在她麾下，主角该如何利用智慧寻求一线生机？从观赏用宠物起步，要想提升地位的方式竟然是征服星球？！服侍黛奴、锻炼体魄、怪兽出击－！身为一名、弱小、可怜、无助，唯独能吃的地球人，若想在外星求生，需唯一谨记的求生法则：『牢牢抱紧「她」的大腿！』"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/201b0bd3a4295f9eb1120a20adac08c3","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

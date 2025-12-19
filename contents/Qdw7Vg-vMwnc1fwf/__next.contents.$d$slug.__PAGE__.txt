@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【经营SLG/PC】蘑菇岛的兼职日记 ～客房的秘密～ DL官中版【新作/1.5G】"}],["$","p",null,{"children":"给大家分享一款经营养成类日式SLG游戏 蘑菇岛的兼职日记 ～客房的秘密～ DL官中版 这是一款由[芝犬おにぎり]制作者在2号上架DL平台 咳咳，游戏玩法跟以前发的（情欲古式按摩店）差不多，但多了偷窥跟收集信息玩法 你需要做的就是赚钱提高自己\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Qdw7Vg-vMwnc1fwf","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

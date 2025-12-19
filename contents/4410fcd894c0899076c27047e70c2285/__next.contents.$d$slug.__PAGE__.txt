@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV】放学后的灰姑娘【PC/中文】"}],["$","p",null,{"children":"【ADV】放学后的灰姑娘【PC/中文】 游戏介绍： “哇，这是怎么回事？ ”数年前，从出生成长的城市搬家出去。 如今久别归来，家乡已是大变样，完全生不出怀念的感觉。 「好久不见，过得好吗」 跟我搭话的是已经辣妹化的青梅竹马，变化大到我差点问"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4410fcd894c0899076c27047e70c2285","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

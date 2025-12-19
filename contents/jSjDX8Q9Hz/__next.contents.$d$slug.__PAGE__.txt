@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"堕落天使咒"}],["$","p",null,{"children":"史加达从有记忆开始就跟一群鬼狼生活在一起，第三年他与母狼出外觅食时碰到一个女人──鲁茜，结果母狼被杀死，史加达则被鲁茜带回去过着人类的生活，最后被训练成一个专业的性奴隶。\n原来鲁茜是普罗丰帝国南洛城的大奴隶主，拥有不少性奴隶以及财产，因此引来南洛城城主──密仲卢的觊觎，于是设计鲁茜跳进陷阱中，而在这场黑吃黑的战局中，鲁茜他们是否能够逃出生天？"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/jSjDX8Q9Hz","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/像素】ジト目後輩ちゃんといちゃらぶ保健室"}],["$","p",null,{"children":"游戏类型  贩卖日2024年01月18日 0点剧情森田タカシ / monae插画monae年龄指定18禁作品类型模拟 有声音文件形式软件支持的语言日文分类萝莉 制服 学校/学园 亲热/甜蜜 内射/中出 口交 肛交 贫乳/微乳文件容量1.14MB游戏介绍“前辈~，你想和我做那种事吗，真让我大吃一惊呢~”秋末时节，在保健室内，外面正刮着寒风下着大雨……这是一款与有点傲慢的后辈进行エロ的模拟游戏，她非常喜欢”你”。除了鼠标以外，还可以使用键盘进行操作。–【游戏内容】接吻/口交/骑乘/肛交※每个场景都有"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/738352","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

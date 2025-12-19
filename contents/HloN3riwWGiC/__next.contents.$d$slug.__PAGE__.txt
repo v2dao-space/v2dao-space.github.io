@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[3D同人/无修正]EroChanFX大佬作品合集（72V/28.3G）"}],["$","p",null,{"children":"触手爱好者，正常向作品较少 近期作品差分是水上水下差分，23年作品是比基尼和果差分 24.07 吟霖4k的码率比1080还小，糊的一，所以择优存了1080 另外有4个英文字母的命名作品，这是作者和斐济杯厂家的合作广告视频，推销斐济杯的，还挺有意思 （尤其是大鸡巴斐济杯，大伙可以买一个试试，c累了可以"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/HloN3riwWGiC","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

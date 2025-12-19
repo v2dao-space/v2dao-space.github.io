@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【像素互动SLG/全动态】异世界觉醒[Ver1.102赞助版"}],["$","p",null,{"children":"<p>分享一款养成类RPG游戏新作： 异世界觉醒(Isekai Awakening) ver1.50 云翻汉化版 像素RPG游戏 游戏介绍： 异世界觉醒(Isekai Awakening)是一款非常实用的像素RPG游戏，讲述男主必须通过不断学习才</p>"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/701cad7e8ffda772b76aa0c6891a06fd","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

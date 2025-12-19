@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/汉化/安卓]揭开未知的面纱（Unveiling the Unknown）v1.1.0汉化版[400MB]"}],["$","p",null,{"children":"作者主页https://www.patreon.com/TwistedScarlett  游戏简介《揭开未知》改编自 mdf-an 的同人配音作品《扶他那里大人和她的女仆》。你扮演莉莉（futa/trans），整个庄园的忠诚女仆随时听候你的召唤，随时准备满足你的每一个需求，并提供大量成人内容！该游戏是一款视觉小说，具有可选的地下城潜水游戏玩法        更新日志1.1：Steam 徽章、卡片、背景和表情现已推出！+1 角色“Ember”和她的路线（+1 角色，+2 性爱场景，+5 HCG）+"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/773903","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

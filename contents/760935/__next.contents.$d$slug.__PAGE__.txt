@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】殖民地城市/Colony City 27λ [Final]"}],["$","p",null,{"children":"主题更新: 2024-03-26发布日期: 2024-03-26开发者: Bunny Eats Tiger 发行商: Playmeow 版本: 最终操作系统: Windows语言: 英语、日语、中文，韩语类型：2DCG、冒险、肛交、动画、中出、腐败、暴露狂、女主角、手淫、多个结局、多重渗透、口交、怀孕、强奸、角色扮演、科幻、性玩具、性骚扰、策略、触手、转身基于战斗，阴道性交入正：https://store.steampowered.com/agecheck/app/2442410/游戏概述：殖民"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/760935","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

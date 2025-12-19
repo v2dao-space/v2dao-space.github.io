@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[国产/RPG] 双重逆影完结版v8.1.7 汉化中文"}],["$","p",null,{"children":"故事发生在一个特定的时空维度中的一片大陆上，人们掌握着“土”、“水”、“火”、“风”四种魔法这里的文明曾一度达到了繁荣的巅峰。而我们的主角，安盖尔，正是一位具有国师级别才华的天才魔法师……在一场默无声息的文明碰撞之后……他幸存了下来却被传送到了一个全新的、同样遵循魔法规则，被誉为希望之眼的泰炎真域在这里也正面临着灾难……安盖尔被人们视为救世主……然而，安盖尔只想返回自己原来的时空，因为他有一种预感，他的时空正在遭受着苦难……但是，阻挡在他面前的是……怀着单纯想要回到原来时空的安盖尔别无选择，他唯一能做的，就是继续战斗。本游戏采用双主线剧情设计，开局时的选择将决定主角的道德倾向，进而影响到游戏的最终结局。玩家可以选择走纯爱路线或堕落路线，选择不同结局不同！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ff2e552ffba623924e182d3790215a98","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

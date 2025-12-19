@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"爱奴"}],["$","p",null,{"children":"在优美而华丽的生活背后，一桩家庭阴谋正暗自策画着。压抑的感情被释放了，但也显露了邪恶的本质。奥丽薇是一个漂亮有才气、事业有成的设计师，她却企图要她贞洁的堂姐珍妮坠入堕落的深渊。珍妮虽丧偶但年轻，富裕且迷人。她的情欲被奥莉薇的丈夫所点燃。其实奥莉薇正玩弄她于股掌中，一双复仇的手正将珍妮推向一个不可测知的花花世界。为何这一对堂姊妹纠缠在这场无休止的爱欲情仇中？而珍妮的告解神父及她那神秘教会又扮演什么角色？"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/LvR5zoNvTk","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

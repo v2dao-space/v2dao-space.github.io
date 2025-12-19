@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG/汉化/动态]我的性感表姐 Ver1.61 精修汉化完结版+CG[安卓/3.7G]"}],["$","p",null,{"children":"My Cute Roommate 我的性感表姐V1.61 EX精翻汉化作弊完结版[PC+安卓]（目录可看全CG）\n\n\n\n汉化组说明本来这个游戏1.60作者就说是完结了，但是最近又更新了一部分内容，汉化组借此机会，重新汉化了一次，这次没有使用旧的文本，是完全重新翻译，由G组最肝汉化大佬狡猾狐狸进行，文本质量更加出色！\n\n\n\n游戏有作弊器，可以修改属性\n\n\n\n这部作品，可以说是欧美视觉小说类型黄油的一"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2013","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/ai翻译】[TinkerBel]フィットしちゃお！ ～年上女性と汗だくレッスン初体験～+梢アナザーストーリー单人dlc官中+翻译补丁+全cg存档【百度网盘/夸克网盘/1.39G】"}],["$","p",null,{"children":"蛮喜欢这个画师的，但是他最新出的铃铛社作品太重口了，我这人还是喜欢清淡点的，这边加了那个黑皮的单人线dlc官中，本体要转区启动主人公是个立志成为体育教练的专科学生。 在快要进入暑假的一天，接到了健身房的兼职邀请。 联系主人公的人，是经营着健身房的表姐摩央。两人已经有数年没有联系了。 欣然接受后，主人公住进了表姐的公寓里，并开始了在健身房的兼职工作。 在来者不拒的过程中，不知不觉间就成了几位女性的专属教练！？ 貌似是表姐担心曾经受过心理创伤的主人公对女性应付不来，所以特地安排的…… 这些女性，尽是"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/c3011bdb","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

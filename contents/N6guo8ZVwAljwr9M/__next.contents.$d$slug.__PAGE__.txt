@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【欧美SLG/安卓】热带 tropicali 1.0 完结汉化版【完结/4G】"}],["$","p",null,{"children":"感谢[山有木兮]大佬分享的这款欧美SLG游戏的最新汉化版本： 热带 tropicali 1.0【安卓】完结汉化版 游戏介绍： 宝贝、金钱和权力。在热带天堂您还想要什么? 欢迎来到热带酒店!你所有的梦想都可以以牺牲其他人为代价来实现! 快来接\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/N6guo8ZVwAljwr9M","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

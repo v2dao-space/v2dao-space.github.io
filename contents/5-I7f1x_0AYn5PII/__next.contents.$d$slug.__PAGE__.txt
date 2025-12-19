@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中无修】レベッカと淫呪の剣"}],["$","p",null,{"children":"✤故事✤ 女战士蕾贝卡是这座边境小村内最强的战士。 蕾贝卡不只剑术强大，心地也十分善良，在村里担当着类似村庄守护者的角色，深受村民们信赖。 但某天，蕾贝卡的村庄被盗贼团袭击了。蕾贝卡虽然勇敢应战，但村民们还是几乎都被掳走了。 她的单相思对象竹藏也不例外。于是蕾贝卡踏上了旅程，誓言一定要打倒盗贼团，拯"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/5-I7f1x_0AYn5PII","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

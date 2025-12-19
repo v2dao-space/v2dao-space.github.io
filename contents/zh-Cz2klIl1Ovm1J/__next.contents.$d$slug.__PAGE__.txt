@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】 【同人CG集】[ひな丸中将] 恩人は獣耳の娘！？ [统筹局网盘]"}],["$","p",null,{"children":"作品コメント 基本CG14枚 文字なし、スク水日焼け後差分含め合計174枚 〜お話内容〜 普段と変わらない休日。 登山が趣味の僕はいつものように山に行き 休日を満喫していた。 運悪く足を滑らし、崖を転げ落ちると気を 失ってしまった… 気が付くと、獣耳の生えた女の子がのぞき込む。 どうやら、命を救って"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/zh-Cz2klIl1Ovm1J","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】郊区王子/郊野大嫖客/Prince of Suburbia v1.0 PC+安卓[5.6G/百度]"}],["$","p",null,{"children":"[SLG/官中]郊区王子/郊野大嫖客/Prince of Suburbia v1.0 PC+安卓[5.6G/百度]入正：Steam 上的 Prince of Suburbia – Part 1 (steampowered.com)PS：这次作者重构了游戏，将原来的Part1、Part2以及V1.0 Beta合并到了一起。游戏介绍：我是个那方面非常旺盛的年轻仔性格体贴，长相将就，唯一的特点就是那根堪比非洲鬼佬的棒棒~但是生活却一直没有想象中那么一帆风顺火辣风搔的姐姐总是时不时的挑逗我！前凸后翘的金"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/c32ec82d20b56a5056bb18e7fd2b2a8e","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

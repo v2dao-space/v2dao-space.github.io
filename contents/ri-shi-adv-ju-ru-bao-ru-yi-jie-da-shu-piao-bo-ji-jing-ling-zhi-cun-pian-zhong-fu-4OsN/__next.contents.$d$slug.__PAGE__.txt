@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[日式ADV/巨乳爆乳] 异界大叔漂泊记～精灵之村篇～ 種付けおじさん異世界へ ～孕ませ士種蒔権蔵、エルフの里へ流れ着く編～ Steam官方中文步兵版+全CG存档 [1.50G]"}],["$","p",null,{"children":"[日式ADV/巨乳爆乳] 异界大叔漂泊记～精灵之村篇～ 種付けおじさん異世界へ ～孕ませ士種蒔権蔵、エルフの里へ流れ着く編～ Steam官方中文步兵版+全CG存档 [1.50G] 关于此游戏 种莳权藏躺在某个岛国的病床上，身边环绕着来送别他\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ri-shi-adv-ju-ru-bao-ru-yi-jie-da-shu-piao-bo-ji-jing-ling-zhi-cun-pian-zhong-fu-4OsN","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/AI汉化】セタリアの魔境 Ver.1.2【度盘/150MB】"}],["$","p",null,{"children":"发现这个游戏到现在都没人搞个汉化出来，我就自己解包了看了看，文本量不是很多，汉化也不是很难，就写了个程序把文本搞出来后ai汉化了，因为是一个晚上搞出来的玩意，我没做细致的检查，我只能保证日文的文本被汉化了，英文的文本完全没有动，我自己测试貌似是没什么问题，如果有问题，我也在压缩包里留了游戏的原版文件"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/OTh6LkrTTl0HrnvD","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

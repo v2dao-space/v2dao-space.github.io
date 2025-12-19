@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无码】Lily’s Labyrinth of Lust"}],["$","p",null,{"children":"\n故事\n亲爱的，你舒适的阁楼生活即将发生转变 我将追捕你，跟踪你的一举一动，我的脑子里只有一件事……主宰。\nLily’s Labyrinth of Lust是一场令人心跳加速的猫鼠游戏。如果你能胜过我，也许你就能掌控一切，但如果被我抓住呢？好吧，这么说吧，你会发现自己到底能承受多少。\n你能承受我无情"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/58UVw1ULVAGh","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

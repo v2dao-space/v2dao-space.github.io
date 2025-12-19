@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/官中】【B-flat】La Vitalis : 永恆的欠損/La Vitalis : Immortal Loss Beta 0.21【度盘/3.6G】"}],["$","p",null,{"children":"作品简介     社团名 B-flat   版本 0.21   更新日期 2025.07.07      La Vitalis : 永恆的欠損 遊戲背景是在一個受到瘟疫摧殘的國度中，身為瘟疫醫生的女主角在調查的過程中會逐漸明白世界的真相，與途中各種魔物與人類赤裸且下流的惡意。  更新日志-0.21 "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/fXtXEF_B0O0meivu","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

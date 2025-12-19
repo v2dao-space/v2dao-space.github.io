@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【live2d动画/生肉】mignon アームズアーモリー【度盘/1.18G】"}],["$","p",null,{"children":"DMM游戏 アームズアーモリー Arms Armory R 的Live 2D，文件来源e站。导出视频，均10秒左右无声游戏内就是经典闪白屏切cg所以没有射晶动画切换        还要为啥Live2D和Live2Dviewer里预览的效果比导出看着效果差那么多，本来以为是导出问题但游戏里的播放效果和导出的一样左到右，游戏自录-l2d导出-l2d实时预览框-ai超分这游戏以mignon老师的人设为噱头，然而游戏本身太过逆天，现在根本没多少人玩，我就不吐槽"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ba098272b061d402ebd844925743030d","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

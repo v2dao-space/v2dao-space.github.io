@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[AVG/拔作]纯纯公主的唇唇 ~无瑕王女的快乐课程~ [母女]"}],["$","p",null,{"children":"当倒霉的金目俊夫被解雇后，他在夜晚的城市中徘徊，思考着以后该如何是好。\n一位名叫爱丽丝的美丽少女和她的机器人同伴布洛尼亚忽然出现在他面前，\n并提出了一个非常……突兀的请求。\n对方说俊夫可能是合适的候选人，只要通过考验就能登上王位，带领人民走向繁荣。\n心存疑虑的俊夫被带到了佩拉希姆王国。\n在那里他得知自己必须找回两个魔法神器，完成他前任们没能完成的事情，否则就很可能得到不太好的结局。\n一个被坚信的古老传说，一位性格难以捉摸的强硬女王，从异世界被召唤来的男人……\n这个魔法王国明显正处在一种诡异的状态中，而俊夫能否解决这些问题，逃离人身安全的威胁？\n他会被迫成为永恒的俘虏，还是得到更糟的待遇……？"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/wEGb6fdDuqUT","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

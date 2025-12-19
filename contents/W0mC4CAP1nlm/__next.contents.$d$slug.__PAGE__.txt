@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/机翻】 沦为变态玩具的她在呼喊我的名字时逐渐崩溃 鬼畜のオモチャにされた彼女は俺の名前を叫びながら壊れていく 【928M/度盘】"}],["$","p",null,{"children":"  \n故事\n温柔又开朗的青梅竹马女友。经过四年的交往，我终于成功向她求婚，并在心中决定要珍惜这份幸福，好好培育它。\n我珍惜她，她也珍惜我。本应过着平凡却无可替代的幸福生活。\n如果那天没有遇到那个恶魔般的男人，如果他没有盯上她……或许我就能过上那样的幸福生活了。\n\n\n\n\n社团名\n寝取られ家族 \n关注4"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/W0mC4CAP1nlm","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

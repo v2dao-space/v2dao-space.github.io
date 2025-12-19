@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无码】The Wife Next Door"}],["$","p",null,{"children":"\n玩家将扮演一名叫做迪克的鲁蛇，某日，发现隔壁竟然搬来一位姿容绝妙的人妻！ 让身为小小鲁蛇的你，从裤裆里隆起大大的梦！\n透过绝对没有法律责任的商店取得各种技能及道具， 一步步贴近隔壁人妻的生活，同时找寻机会满足她寂寞难耐的慾望！\n♡盗摄♡\n潜入人妻家中装设摄影机，并回家欣赏她不为人知的一面。\n♡偷窃"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/xp-Y9o-xPGwl","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

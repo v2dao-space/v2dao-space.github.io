@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/ADV】通心ぼ （FD追加）"}],["$","p",null,{"children":"2024.7.20更新FD追加内容，FD内容为一小段类似补充本篇剧情的内容FD也是机翻版本，里面有说明书  Story有名な都立の学校の教師になりたくて単身、都内へと移り住み、周辺の学校で下積みをして数年。待ちに待った転勤の知らせに思わず期待が高まった。――が、その辞令を見て愕然とする。場所はとある辺鄙な寒い北の方。一言で言えばドがつくほどの田舎である。とはいえ上からの命令、渋々と言った面持ちで新しい職場へと足を運ぶ。校舎もボロく、生徒も指折りしかおらず、挙句の果てには一部学年が合同で授業が行わ"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/133f1922e8690287166f7f7d011e05ad","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

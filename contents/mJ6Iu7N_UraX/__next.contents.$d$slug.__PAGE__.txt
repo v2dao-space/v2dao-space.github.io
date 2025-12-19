@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】 镜中魅魔与恶魔之种 鏡の淫魔と悪魔のタネ 【1.7G/度盘】"}],["$","p",null,{"children":"  \n  \n这个游戏的主要目标是与魅魔建立良好关系并发展繁荣的城镇。\n在这个以镜之世界为舞台的游戏中，将会出现超过50位拥有丰满胸部的魅魔。（可能也会有一些小魅魔。）与各种性格和外貌的魅魔结为伙伴，共同努力发展繁荣的城镇吧。\n\n\n\n\n社团名\nむに工房 \n关注7,780\n\n\n\n\n\n\n\n\n\n\n\n\n\n支援"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/mJ6Iu7N_UraX","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/官中无修】ARATAMAKAMI"}],["$","p",null,{"children":"◆故事概要 主人公八重垣杏児的名字听起来像是男孩的名字，但实际上她是一个拥有双性器的少女神官。 她凭借身上独特的力量协助国家组织灵安局，与隐藏在暗处的黑暗神性战斗。 某一天，八重垣杏児在一个陌生的街道上醒来，发现周围充满了敌人，并且她的战友和恋人们也被洗脑，成为敌人的手下。 “不要担心，你与那些人有"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/heo7us3e9bQowJA8","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

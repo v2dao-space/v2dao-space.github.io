@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/扶她】炼金术士特莉丝的欲念+全CG存档【PC/官中/无码】"}],["$","p",null,{"children":"【RPG/扶她】炼金术士特莉丝的欲念+全CG存档【PC/官中/无码】 游戏超过15名以上女主，超过50种以上奇妙场景，画风社保满载！ 游戏概述： 这是【kagurado】在STEAM于22年10月27日发布的一款RPG新作。 讲述炼金术士特"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/3ec0d807a2c2357d77fd11bfb480e7ec","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【PC/安卓/RPG】八重头异世闻奇谭:影山伦子的夏天 Ver1.5 +精翻汉化版 RPG游戏+5.6G"}],["$","p",null,{"children":"  分享一款自由度很高的爆款RPG游戏： 八重头异世闻奇谭:影山伦子的夏天 Ver1.5 PC+安卓+AI精翻汉化版 RPG游戏&补+5.6G   游戏概述： 这是【Azure Azurite】发布的高自由探索R\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/LgQez8-y5b_uLZbn","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

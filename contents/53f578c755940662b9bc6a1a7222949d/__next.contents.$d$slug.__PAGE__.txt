@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【DRPG/生肉】ダンジョン＆ブライド_2.11体験版"}],["$","p",null,{"children":"魔剑士莉奈作者的新作，目前还在制作当中– 1.22 更新了一些CG、职业及地图– 1.23 修复一些报错（估计是关于雪地和大洞窟与敌人战斗后或逃离战斗后报错的现象） – 1.24 修复战斗结束后无法行动的错误– 1.25 修复一些报错– 1.26 修正了吟游诗人装备和卷轴上魔法名称显示的问题，以及其它一些问题– 1.30 修正了一些游戏上问题与报错– 2.11 修正大部分運行的錯誤，不過在ランドン渓谷-谷底的地圖部分結束戰鬥后可能還是會有報錯情況，注意多存檔；– 2.11体验版新增+ 種族和職業"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/53f578c755940662b9bc6a1a7222949d","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

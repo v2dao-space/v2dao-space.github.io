@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"江山如此多娇"}],["$","p",null,{"children":"魔门和隐湖小筑一战后宣告解散，少林武当成为武林的仲裁。大江盟一统江南武林，和江北慕容世家、蜀中唐门一道挟庞大的资金，逐渐形成了三强鼎立的局面，大江盟盟主齐放的挚友、鹰爪门掌门况天被人暗杀于贺寿路上，拉开了武林大混战的帷幕。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/0kWVh6eBth","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

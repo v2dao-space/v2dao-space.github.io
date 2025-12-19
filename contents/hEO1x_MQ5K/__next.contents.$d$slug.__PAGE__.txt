@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无修】受孕之都欢迎您 / Breeding City Welcomes you"}],["$","p",null,{"children":"▌游戏简介 成为配种委员的你即将前往的地方是有着严重少子化问题的「种名市」。 在被冠上无种这汙名的都市里，为了要缓解人口少化的问题， 你勤奋地与住在都市里的受精希望者进行配种！ ▌游戏特色 ◆加深与住在都市里的女性们之间的关係 完全不需要催眠、洗脑、强迫等等的行为！ 你将透过体力、技术、包容力以及沟"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/hEO1x_MQ5K","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

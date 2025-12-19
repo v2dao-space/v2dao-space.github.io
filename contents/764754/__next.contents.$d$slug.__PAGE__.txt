@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【未汉化/GAL】夏めろ"}],["$","p",null,{"children":"前言本次主题是田园+恋爱+妹本游戏包含傲娇表妹、强硬亲妹（都可以推，妹控党狂喜）游戏附免认证补丁之前的度盘链接游戏全部见上帝了，正在全部搬家中  Story波乱万丈、だけど平和な毎日は、夏の陽射しのように眩しくて――。学園生活最後の夏休みも間近に迫った、7月の最初の日。雨上がりの午後、海沿いの小さな町の坂の上に建つ高村家へと俺は向かっていた。これから約9ヶ月間、母方の親戚である高村家の居候になるためだ。――事の発端は、父の仕事だった。普通なら父の単身赴任でも良かったのかもしれない。だけど俺もそろ"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/764754","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】苗床聖女ソフィア【双端/1G/百度】"}],["$","p",null,{"children":"  \n■剧情概要\n自豪而美丽的圣女Sophia。\n她辉煌的日子突然崩溃了！\n迷失在了神秘的地下城中，她失去力量，并遭受着怪物们残酷的折磨…。\n如果继续这样下去，她将成为怪物的孕袋\n决心逃脱的Sophia面前出现了自称天使的魔法生物Star-chan！\n虽然不太可信，但她是天使吗？她陪伴Sophia一"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/6BPTt_56LI-R","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

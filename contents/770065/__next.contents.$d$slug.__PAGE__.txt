@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化同人本/新汉化】2024.5.23 64本"}],["$","p",null,{"children":"(C101) [Rain＊drop (LOLIKAKU)] 真夜中のアクアリウム (ブルーアーカイブ) [アカリセンセイ个人汉化](C102) [ケモミミちゃん屋 (ーユがな)] すやすやスモモ ( ブルーアーカイブ) [欶澜汉化组](C103) [玩具家電 (紅花)] 好き勝手されるバニガ先輩 (青春ブタ野郎はバニーガール先輩の夢を見ない) [广告组汉化](C90) [wakamaker (ワカメさん)] 堕ちた姫君 -refrain- (グランブルーファンタジー) [广告组汉化](こみトレ3"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/770065","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[ADV/汉化] 缘契初情乃今家舍妹 PC+安卓模拟汉化版"}],["$","p",null,{"children":"青春什么的，我是无福消受，这是自幼就过得很辛苦，养成了有些排他的性格的主人公時谷一春的口头禅。这个世界便是一片荒野。要在这荒野求得生存，只能拼尽全力劳动。「我可没有像其它同学那样，享受游乐啊恋爱什么的事情的空闲啊」一春日复一日都抱着这样的想法努力劳动着。 在这样的他面前，突然出现了一位谜之少女。 穿着没见过的校服，似乎总是躲避着他人耳目的，连名字都不知道的老实少女。 如果是平时的一春可能管都不会管她，可不知为何一春就是在意得不得了。 然后，某一天她——突然变成了一春的妹妹。「为什么啊！？」 将困惑的一春和愉快（以及有些怪）的伙伴们卷进去的，“没有享受青春的机会的年轻人们的青春剧”即将开幕—"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/88329749af1f4844cd3b432be4367952","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

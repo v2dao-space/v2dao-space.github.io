@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/未汉化/步兵】 Survival サバイバルゲーム V20230826【1.09G/度盘】"}],["$","p",null,{"children":"作者CI-en的地址いーめいどぷらすプロフィール – Ci-en（シエン） (dlsite.com)8月的包如约而至！其中里面有几点需要注意！！！汉化密码是   YMCA1.跟上次不同的是这次因为第一时间就发布了贴吧的只上GOOGLE2大佬还没有做精翻！！！（8月的新内容应该是生肉）但是可以用那个软件进行机翻！！！（如有不会请B站搜这个软件名称自学十分简单！十分简单！因为这个软件很常见所以想让大家都了解下！请见谅！）等到贴吧大佬精翻出来我在补上，或者可以去Survival吧获取。2.不知道步兵补"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/slg-survival-sabaibarugmu-v-20230826-1-09-g","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

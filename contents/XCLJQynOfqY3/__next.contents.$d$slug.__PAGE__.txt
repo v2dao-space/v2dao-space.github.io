@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/PC][MHR研究所] ラボスイーパー～ドロシーの秘密研究記録～ / 实验室扫雷~多萝西的秘密研究记录~ 官方中文版 V1.08"}],["$","p",null,{"children":"许久没有扫雷类型的小黄油了，于是今天发个相关题材，一般来说⑨格扫雷这个类型游戏上下限较高，不过在黄油里熟练的绅士可以三小时左右扫雷通关，不熟练的绅士也可以光速送雷得CG，然后这游戏里面还新增了许多组合技能，没传统扫雷那种一击毙命+计时的玩法，而且还附带了全解锁功能，十分适合不同程度的绅士玩耍。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/XCLJQynOfqY3","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

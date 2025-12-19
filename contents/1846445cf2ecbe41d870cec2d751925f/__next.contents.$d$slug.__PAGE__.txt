@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG/汉化] 绯月仙行录 绯色修仙录 V0.515A PC+安卓官中无修版"}],["$","p",null,{"children":"这是一款由[蓝月虫]制作的RPG游戏这款游戏采用了非常少见的玄幻仙侠题材，十分与众不同全程采用了非常精细的2D手绘制作，女主的气质真的非常惊艳不仅如此，游戏性也是极高：修炼/法宝/NTR/双修/结胎等玩法十分丰富全程无修+高自由度玩法，十分值得收藏！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1846445cf2ecbe41d870cec2d751925f","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

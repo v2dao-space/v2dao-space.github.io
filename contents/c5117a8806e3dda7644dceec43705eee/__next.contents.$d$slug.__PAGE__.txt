@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【GAL/机翻】Re CATION ～Melty Healing～【2.8G】"}],["$","p",null,{"children":"游戏类型制作公司：hibiki works 发售日期：2020年07月22日汉化日期：2021年？汉化小组：机翻游戏类型：纯爱游戏原名：Re CATION　～Melty Healing～本: 水瀬拓未主题歌作曲: 西坂恭平 from STRIKERS主题歌作词: 西坂恭平 from STRIKERS主题歌演出: 新海雅代 from STRIKERS原画: おりょう剧情介绍春天，新生活开始的季节。成为社会人第二年的你（没错就是你），被调到地方城市的分公司工作，在匆忙的日子里，还是设法找了个房间完成"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/c5117a8806e3dda7644dceec43705eee","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

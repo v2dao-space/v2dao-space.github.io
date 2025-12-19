@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】Dirty～ミネルバと欲望の街～V1.0 【642.94MB/百度】"}],["$","p",null,{"children":"  \n【游戏概要】\n最初的目标是在城市举行的武斗大会中获得冠军（基本攻击即可结束简单战斗）。\n在此期间，你将在城市中漫游，了解自己不知道的世界。\n【序章】\n米莉娜出生于一家有传统的骑士家族。尽管是女性，她接受了严格的骑士训练。\n她拥有与异性不相上下的实力，并对自己的家族感到自豪。\n有一天，她的父亲告"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/G2_ImdyFXM1u","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

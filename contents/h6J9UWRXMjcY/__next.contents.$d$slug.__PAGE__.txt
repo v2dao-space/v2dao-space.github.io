@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D动画/无码/9V】Japs8005 2024年12月作品合集【度盘/4.46G】"}],["$","p",null,{"children":"久违了各位，本来12月月底时候我都已经下载整理好资源了，但是因为年底工作上事情一堆导致没空没心思上站，今天得闲就赶紧给大家补上。 12月的有4G多，但并不是因为作者的内容篇幅变长了，还是老样子时长，我估摸着可能画质更好了（？）所以体量变大。 PS：我现在基本是月底才会上来看看，下次见面估计是1月底或"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/h6J9UWRXMjcY","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

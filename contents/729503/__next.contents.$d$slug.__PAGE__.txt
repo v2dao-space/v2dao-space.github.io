@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【2D/白条】Tosaka养鸡场#102,103"}],["$","p",null,{"children":"搜JAPS合集看教程，文件损坏和密码错误都是你自己的原因，别来问我。          把我笑拥了，虽然我是没明确地直接命名那个文件夹是什么，但是你，一位分卷解压高手，就不会解压进去看看吗，此外基本上评论区里我都回答过一个关于这个问题的，更何况所有的文件我都只加了.png后缀，不知道是谁说胡话没有01，02，03，难不成宁是口述给别人打字的丈育？我还标注了好几次“这几天的OD文件”“都”放在这个樱盒压缩包里，阅读理解都不过关就想拿别人绑架我，乖乖，网络丐帮联合要讨伐我吗？但是对不起呀，不管用滴，"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/729503","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/机翻】欲望之夜 Lust Night💋【百度/夸克/782M】"}],["$","p",null,{"children":"《欲望之夜》邀请您进入一个神秘的世界，在这部引人入胜的成人视觉小说中，恐怖与浪漫元素交织在一起。一群朋友发现自己被困在一栋被诅咒的房子里，随后谋杀案发生，一场关乎他们性命的博弈就此展开！\n  \n入正：https://store.steampowered.com/app/3252740/Lust_Ni"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ra4978mPWx3B","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

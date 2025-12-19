@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3d动画/无汉化/有码】【ハリマオの動画倉庫 (ハリマオ)】合集至25年5月【百度网盘1个月/ipfs/34.8GB】"}],["$","p",null,{"children":"说下文件内容，0和200是fantia的档位内容，虽然没什么用，但还是保存了，一开始的两个帖子只有200档位，被我放到500里了。商品开头的文件就是作者fantia里的商品，里面有作者的过去作品合集，但很奇怪，这些过去作品和kemono里留档的fanbox文件大小是不一样的，我不太清楚怎么回事，所以"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/eKQIFDvI1p9QbR4t","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

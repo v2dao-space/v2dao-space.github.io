@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[ちろたた] ふたりのオモチャ[無修正漢化]"}],["$","p",null,{"children":"作品内容:(下面内容为机翻) 一个厚脸皮的女孩会为她做任何你想做的事，并随心所欲地射精♪她有一张天真的脸，但性欲却如恶魔般旺盛，而且还会发生很多不问原因的逆向强奸。这是一部针对受虐狂的作品集，他们想要跪在喜欢榨取精液的年轻女主角面前。 我希望她用鄙视的眼神看不起我并玩弄我的鸡巴！！我想要她在我耳边甜"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2TZHLL5By_Pdg3Y5","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

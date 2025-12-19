@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"采花行"}],["$","p",null,{"children":"武林之中千变万化，江湖之上更是诡异百出，尤其是新近出现的“采花教”，其神密怪异之处更深深震撼了整个江湖。“采花教”，顾名思义，是个专找女性麻烦的邪教。在最近的半年来，由于该教之中高手如云，已经打败无数的武林高手。更可恨的是，只要是女流之辈，必定连人一起劫走。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/nPAKyLEIx0","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

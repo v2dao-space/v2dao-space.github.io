@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"炼狱天使"}],["$","p",null,{"children":"这是蒙面奸魔“半只青蛙”的又一部“堕落”作品，从第15部开始作者又添加了“知乐”成为两人的合着。该书围绕一个天使化身为恶魔降世的故事展开。为了拯救世人，天主将天使降到人间，可是人们不相信天使，并将她钉在十字架上烧死。而后天使化身为恶魔成为堕落天使，将自己从前信奉的一切统统打倒和毁灭。背弃了天主的天使，在虎山豹穴里筑造起恶魔的巢穴。美丽的前女友与著名的女主持人成为恶魔的祭品。拥有神秘力量的女骑士由西方而至，谜一般的身世，谜一般的力量。东方势力的碰撞，揭开了多年前的一段秘密…… 这是一个有钱有势的人的世界，一个物欲横流的时代！众生茫茫，皆追名逐利。主为了拯救世人，将天使降到人间。天使对懵然众生道：“信我者，可得永生。” 然而众生不信，要将天使钉在十字架上烧死。于是天使褪去洁白的羽翼，化身为恶魔降世。诱惑众生道：“以汝之灵魂交换，可得永生。”众生趋之若鹜。故事讲述的就是一个堕落天使“救世”的故事……\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/VRNl-JGZmM","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

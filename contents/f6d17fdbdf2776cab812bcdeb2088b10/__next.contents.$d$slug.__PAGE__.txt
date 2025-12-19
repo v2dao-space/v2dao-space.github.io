@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/无码/ADV】超電激ストライカー"}],["$","p",null,{"children":"ゾンビのあふれた世界で俺だけが襲われない系列4部作品的无码补丁，我均上传在2dfan有需要的自行去拿，嫌卡建议使用魔法，资源处有覆盖说明还有一些免费发送的无码补丁，有需要者自行去拿，其作品不发文章，本体资源自行解决2011-06-24，電激ストライカー凭借着热血英雄战斗的高质量剧情，赢得了口碑为此官方于2012-07-27对原作进行了元素追加、效果演出加强，并追加攻略人物等一系列大改动本作在保留旧版高质量剧情的同时，将本社（OVERDRIVE）一贯拿手的音乐元素也一并融入其中此外，本作的2位剧本"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/f6d17fdbdf2776cab812bcdeb2088b10","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

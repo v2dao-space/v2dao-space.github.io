@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【养成SLG/巨乳/动态】童颜巨乳性服务修女V1.0 AI汉化+全CG【PC】"}],["$","p",null,{"children":"【养成SLG/巨乳/动态】童颜巨乳性服务修女V1.0 AI汉化+全CG【PC】 〇概要 在某个村庄的教堂工作的修女玛丽亚。 然而,这个教堂并不能说是很多人经常光顾的地方。 最后甚至传来了要拆掉教堂搬到热闹地方的消息。 〇角色 ・玛丽亚 本游"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/9a0be87afa9a9e354f9ed637157db8d1","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

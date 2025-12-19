@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/双端]Monster Tutor/怪物导师 v0.1.4 [安卓/PC]"}],["$","p",null,{"children":"游戏介绍:在《怪物导师》中，你扮演一位教授，意外地被派往幽冥学院任教，这是一所怪物女孩大学。从一开始，你的工作就绝非正常。第一天，你遇到了阿萨泽尔，一个制造麻烦的恶魔；Phanta一个害羞的鬼魂；乔萨是一个吸血鬼，他对人类老师的存在不太感兴趣。尽管你是冥界唯一的人但你有能力指导这些女孩并与她们建立联系吗？{collapse-item label=\"更新\" close}更新日志：v0.1.4 Patreon故事更新日志：乔萨 (吸血鬼) 的 3 个新活动阿撒兹勒 (恶魔) 的 2 个新活动Mari"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/897440119a0038bfe0d83c2e063f45dc","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

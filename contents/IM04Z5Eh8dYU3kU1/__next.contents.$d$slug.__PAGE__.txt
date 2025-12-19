@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/有码】[黄油合集]热门高质量黄油2025年个人整理合集（附全存档）【度盘/35G】"}],["$","p",null,{"children":"自己做的黄油合集，主观性较强，但要求必须登上过dlsite上的排行榜，不收录一直在火（我知道的，我的黄油储备大概在2023年前）但在2025还在大卖的游戏（点名魔女复仇之夜），并且我也考虑该游戏的“性价比”，即他的内存占用值不值得他的内容量 如果登上dlsite榜但我并未收录，最有可能是画风不行，不"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/IM04Z5Eh8dYU3kU1","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

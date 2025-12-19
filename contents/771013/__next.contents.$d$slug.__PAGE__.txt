@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【官中/无码/SLG】边境征服者（游戏宣传/附体验版）"}],["$","p",null,{"children":"前言本次介绍一部可玩性非常高的国产游戏（包含港澳台）由于游戏为国产游戏，根据站内规定，不允许分享完整版的游戏资源因此本文章下载链接只附DL与STEAM公开的体验版，分享给大伙大伙觉得本游戏有意思，认同本游戏的，可前去官方网站购买正版体验版（DL ver）：ver 1.76、有修正、403M体验版（STEAM ver）：ver 1.72、无修正、437MDL ver &  STEAM ver 两个体验版均附在下载链接里经测定体验版为完整版全部内容的1/3STEAM正版（无修）：JUMPDL正版（有"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/771013","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

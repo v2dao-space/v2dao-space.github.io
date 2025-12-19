@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"末日霸主系统"}],["$","p",null,{"children":"苏明，意外穿越到了一个平行世界，本来以为能够挽救从小相依为命姐姐的命运，结果发现竟然出现了末日……\n意外击杀了丧尸之后，苏明开启了末日霸主系统，这不是逼着他征服世界，开启自己的理想国度吗？\n于是，苏明一路高歌，从江城市开始，走上了一位末日霸主的道路，想要活下去？先叫声主人再说，无论你是高官贵妇，明星歌手，又或者是警花校花，还是名媛佳丽，在苏明这里，只是奴隶而已，想要活下去，乖乖做好女奴就行……"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/mo-ri-ba-zhu-xi-tong-VHLW","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

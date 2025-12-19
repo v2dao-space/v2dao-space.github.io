@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】浓厚！涅槃迷宫/つゆだく!ニルヴァーナの迷宮【3.2G/度盘】"}],["$","p",null,{"children":"  \n概要亲密的姐妹一起探索迷宫… 也与怪物亲密交谈吧！一举两得！令和最新版・可逆战斗色情动画RPG！\n\n\n\n\n社团名\nNazuna Software \n关注226\n\n\n\n\n\n\n\n\n\n\n\n\n\n支援社团也可以使用DL点数进行支援\n\n\n\n\n\n\n\n贩卖日\n2024年11月17日\n\n\n作者\nなｚな\n\n\n年龄"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/RRMxvV1sYZHf","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

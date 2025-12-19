@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG] 莫科科 X Mokoko X The First Date  STEAM官方中文【简+繁】"}],["$","p",null,{"children":"开始一个关卡后，您需要征服大部分的初始区域。当您在自己的区域中时，您在盾牌消耗完之前都可以安全地远离敌人。您通过绘制区域来征服新区域。但是，在绘制过程中，您的盾牌会失效，并将您暴露在敌人面前。您的盾牌会不断消耗。如果您不以特定的速率来征服，您的盾牌会被耗尽，而此时您在自己的区域中也不再安全。游戏中有3个困难度。困难度会影响敌人、您的盾牌和获得胜利所需征服区域的百分比。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/a961596e9fdb874e0ac3200edf16daf1","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

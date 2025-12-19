@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/AI汉化/步兵】[RJ01285811]ギャルズコレクター/GalsCollector/美少女收藏家_Ver1.05.2整合版【度盘/522M】"}],["$","p",null,{"children":"二次元风瑟瑟模拟器 好涩哦好喜欢🥰 入正链接：https://www.dlsite.com/maniax/work/=/product_id/RJ01285811.html     社团名 Studio Tris  关注1,868              支援社团也可以使用DL点数进行支援   "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/belhKBpsiBfm","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

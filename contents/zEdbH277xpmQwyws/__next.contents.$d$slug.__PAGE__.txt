@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】背德任务～在VR世界对外星NPC进行强制交配性爱调查 インモラルクエスト～VR世界で異星人NPCを強○種付けセックス調査～ 【度盘/766M】"}],["$","p",null,{"children":"序章你是一家运营VR世界的大公司的普通员工。某天，你管理的VR服务器发生了错误。尽管是休息日，你也不得不加班赶到公司……趁着休日出勤没人监视的机会，你突发奇想，想到了一种离谱的错误修复方法……那修复方法竟然是……将疫苗混入精液，直接注入身体！？ 主要角色  前台小姐  赏金猎人  调查员  眼镜女仆"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/zEdbH277xpmQwyws","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

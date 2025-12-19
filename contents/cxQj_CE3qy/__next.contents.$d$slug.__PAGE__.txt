@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"大丑风流记"}],["$","p",null,{"children":"牛大丑因中奖而改变命运，从此踏上创业与泡妞之路。\n人物简介\n牛大丑：因中奖而改变命运，从此踏上创业与泡妞之路。\n林小雅：大丑邻家女孩，大学美女，大丑第一个女人。\n铁春涵：人称“铁仙子”，是大丑与诸多男性的梦中情人。\n李倩辉：某大官儿媳，有名的美人，大丑的贴心情人。\n杨小君：大丑的服装城同事，人称“铿锵玫瑰”。\n唐小聪：某大学女生，大丑房客。见她瓜子脸，肤色稍黑，眉眼倒俊俏。\n金玉娇：某领导情人，与大丑有染。\n杨水华：春涵表嫂，熟妇。\n小菊：大丑以前对象。\n叶如莲：大丑学生时代的“校花”，现在工商局上班。\n班花：在银行上班，人妻。\n关锦绣：被拐女，河北人。\n李铁城：省城富翁，大丑救过他。\n李家驹：李铁城之子。\n赵宝贵：小聪老乡，大学生。\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/cxQj_CE3qy","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

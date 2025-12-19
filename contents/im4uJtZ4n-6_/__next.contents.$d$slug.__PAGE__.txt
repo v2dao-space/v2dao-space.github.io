@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/官中】Gray Haven : Witch’s Garden Ver2.01"}],["$","p",null,{"children":"\n化身失去记忆的少女，探索噩梦世界的百合动作 RPG。\n在村庄中与少女们分享爱意，或强化装备，为下一次冒险做好准备。\n凭借出色的打击感和流畅的操作，完美呈现您想象中的动作体验。\n为了帮助少女们找回记忆与自我，踏上探索噩梦的旅程。\n她们将全身心地为您奉献。\n聆听由专业声优录制的 300 多种甜美且丰富"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/im4uJtZ4n-6_","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/汉化/安卓】欢迎来到友谊俱乐部/Welcome to the Friendship Club!-0.6p2【0.8G】"}],["$","p",null,{"children":"作者主页https://www.patreon.com/zorniteb  （海阁汉化组作品）游戏介绍你将以金的视角进行游戏，他是一名新生被神秘地邀请到世界著名的卡诺伊学院（Kanoi Academy），这是一个神童至上的地方！当你被邀请负责 “友谊俱乐部”与那些世俗的天才们平起平坐时，这就更加令人困惑了！据说，在这里会发生胡闹、浪漫和放纵的悲伤。    变更日志v0.6p2新角色！Debbie Dratch 加入战斗！3 Debbie 事件2 Kanoi 事件3 Oriana 事件1 Haze"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/8652ad683dd66de171b2345226eec088","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"淫欲之罪/Lustful Sin v0.4.7"}],["$","p",null,{"children":"• 游戏介绍：曾经有一个强大的恶魔，可以控制别人的思想和行动，并随心所欲地利用它们。数千年来，恶魔在地球上游荡，所到之处散布恐惧和恐怖。它的魔力是如此微妙和有效，一旦你陷入它的网中，几乎不可能逃脱。最终，人们聚集在一起，将其封锁，一劳永逸地结束了它的恐怖统治。“这是他们对孩子们说的有关你的谎言。”更新日志：v0.4.7– 添加了新的主线任务！周六早上去艾的房间触发。为枫和爱丽丝添加了玩偶模式！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/18df2348da74fa248248038092c87523","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

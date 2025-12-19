@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PULLTOP LATTE] キミと恋するハッピーサマー"}],["$","p",null,{"children":"这是刚刚成为恋人的少年少女 略带羞涩，却又无比快乐共度夏日的青春爱情喜剧—— 初夏时分。 暑假前夕，主人公真木野祐和柊木希美正式成为了恋人。  每天一起走过上下学路，午休时享用她精心准备的便当，放学后的约会。 看似平凡的日常中，彼此交织的每句话语及笑容，都让两人的心渐渐、但确实地紧密相连。 而当暑假"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/pulltop-latte-kimito-lian-suruhappiisamaa-USOV","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

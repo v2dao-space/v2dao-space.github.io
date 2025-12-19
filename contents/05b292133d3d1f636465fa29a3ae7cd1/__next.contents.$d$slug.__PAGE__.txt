@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/无码/GAL】美少女万華鏡（6部合集）"}],["$","p",null,{"children":"前言炒个冷掉的残渣饭希望各位身体健康，冲就完事了第2部貌似没附cg包，其余都附上了无码补丁似乎由民间制作，除了5以外，其余均需要萌你妹汉化组版本才可使用无码补丁（5为官中版本）4打上了萌你妹&脸肿双汉化补丁3比较特殊，开启无码版本的cg&回想会有卡顿（无码制作者说的）无码质量1=2>2.5=3=4=5（PS有原画因素、画质开启等级、也有民间问题）5的官网链接：https://www.dlsite.com/pro/work/=/product_id/VJ013692.htmlhttps://sto"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/05b292133d3d1f636465fa29a3ae7cd1","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】 与君恋爱的学园性活 キミと恋スル学園性活 【1.2G/度盘】"}],["$","p",null,{"children":"  \n●剧情简介因父母工作原因转学到私立欲望学园的男主角（你）。与三位女主角成为好友发展恋爱关系，有时还会发生一些限制级的情节……●本游戏使用RPG Maker MV制作，但没有战斗系统。●主角名字可以自由命名。　使用自己的名字能提升代入感！●多结局系统！　根据主角的行动选择，最终牵手的女主角和结局"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/NDu5AF0u9lM6","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

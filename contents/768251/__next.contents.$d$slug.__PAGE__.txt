@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/ADV】女系家族～淫謀～"}],["$","p",null,{"children":"前言本作品为女系家族第二作本作品担任原画的那位，大伙都知道是哪位了本作画风和画质质量非常高，很难相信是一部近20年前的，上古文物游戏已嵌入免DVD&机翻补丁，另设备份补丁注意：1、游戏开场有段交待本作的故事背景，属于不可skip+强制日文2、不想看故事背景的，可从load1进入游戏，load1为游戏正篇开场（我存的档，难得的服务）！！！3、由于本作稀缺，除我本人以外，本作禁止外传，本站专享4、现成版有运行问题的，附备份磁力（ISO+女系番）5、网盘内附注册表问题解决方法，注意看使用说明6、使用说"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/768251","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

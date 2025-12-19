@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/汉化】[200327][Hending]火箭 ゆるすまぢ! そしらぬ笑顔と汚れた下着[度盘/957M]"}],["$","p",null,{"children":"喜欢请入正：https://www.getchu.com/soft.phtml?id=1080368NTR警告，感谢银髮汉化组汉化，补丁来自2Dfan，汉化组原址已不可考如果打不开试试英文路径ブランド：Hending（このブランドの作品一覧）定価：￥3,800 (税込￥4,180)発売日：2020/03/27メディア：DVD-ROM＋DLカードジャンル：浮気妻にざまぁwするADVJANコード：4560210742740原画：浅海朝美シナリオ：和泉万夜サブジャンル：アドベンチャー [一覧]カテゴリ"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/cb1a6fdadb62cf9ffc8ed22596fa8ad2","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

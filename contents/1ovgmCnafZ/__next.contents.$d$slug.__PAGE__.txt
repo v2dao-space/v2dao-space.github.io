@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"后宫学园"}],["$","p",null,{"children":"作者黑月以日式学园为背景，彻底挑战你印象中的校园形象，艳丽的教师，刁蛮的大小姐，正派的学员长，帅气的女刑警。曾经有过的幻想，曾经出现的欲望，在这座后宫学园中全部实现，什么是对？什么是错？什么是真实？什么是虚伪？都不再重要。而除了沉浸于横流的欲望深渊，由比良圭介还想要邀请您，一起来摸索，一同来探寻，如何去珍惜与珍爱，我们身边最重要的人。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1ovgmCnafZ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[拔作ADV/汉化] 喵妹与狗妹的咖啡屋 完结汉化版[PC+安卓]"}],["$","p",null,{"children":"（ Catgirl & Doggirl Cafe ）这是一款由[gg汉化组]汉化出品的欧美ADV游戏（看了一下文本，应该是用日式ADV的英文版进行翻译的）游戏已经完结，整体画风超赞，而且根目录可以看全CG！全程CV，真的是超赞！（日文CV）最重要的是，这玩意还是PC+安卓双版本，方便省事~游戏H事件社保，内容丰富！还是非常推荐大家体验的~毕竟，猫耳娘&狗耳娘的超赞组合~谁能忍得住呢~"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/61f10c1ed9bfe31cf23b4b76dd63f093","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[像素RPG/汉化/全动态] 魔王领主和守护骑士[魔王と守護騎士]完整精翻汉化版 [570M]"}],["$","p",null,{"children":"魔王领主和守护骑士 完整精翻汉化版（魔王と守護騎士）这是一款由[瀧音MELO]制作组出品的日式rpg汉化游戏\n\n\n\n（就是制作饮料女仆系列的那个制作组，画风非常的有特点）\n\n\n\n画风肉感，玩法有趣。是不可多得的佳作rpg\n\n\n\n现在已经由《巴比伦汉化组》译制了中文汉化版本\n\n\n\n[向日葵]老哥翻译，各项系统弄的十分用心\n\n\n\n在这里将游戏的完整精翻汉化版分享给大家~\n\n\n\n推荐大家尝试一番\n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1320","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

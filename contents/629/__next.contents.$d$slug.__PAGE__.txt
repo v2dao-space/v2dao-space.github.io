@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[亚洲风SLG/汉化/动态]腐败的魅魔0.3 汉化版[安卓][2.3G]"}],["$","p",null,{"children":"腐败的魅魔0.3 汉化版\n\n\n\n游戏简介：这个游戏具有一个开放世界，目前有8个主要角色（未来超过16个），有独特的故事和25个次要角色。专注于腐化妹子，从她们的对象那里偷走她们，和她们结婚以及……\n\n\n\n故事开始时，魅魔在你睡觉的时候x你(玩家)，试图引诱你，让你成为她的宠物，你反过来腐化了她。她背叛了她的同类，发誓永远为你服务，帮助你腐化你遇到的每一个妹子。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/629","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

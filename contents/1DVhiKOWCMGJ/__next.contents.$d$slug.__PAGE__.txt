@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【2D动画/无码】Chr大佬12月作品（6V/630MB）"}],["$","p",null,{"children":"Chr老师12月作品更新贴，此为无修版内容\n合集贴：https://www.moe-acg.com/798897.html\n更新内容：24.12.08 日奈 2（2v）；24.12.14 纳西妲 19（4V）\n压缩方式全为单个压缩，看看党，可以自行选择喜欢的角色下载观看。\n若是收集党，可合理使用叶酱"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1DVhiKOWCMGJ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

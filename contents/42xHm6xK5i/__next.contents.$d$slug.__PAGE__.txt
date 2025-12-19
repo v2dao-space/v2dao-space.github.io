@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"娘子军"}],["$","p",null,{"children":"虽然外银河文明已被大量发现，但这样的魔幻大陆，赵无恤还是第一次踏上，真不知该说是好运还是霉运，初降落就碰上一阵魔兽大乱斗，不过因此“捡”到两名大美人却是难有的机会。可是原本强悍的美人们却都身受重伤，失去行动力，他该如何把她们“抱”出这个危机四伏的危险森林？\n为了保护没有战斗能力的“冰火玫瑰”，异世界佣兵赵无恤只得扛起重任，与两位美人组成了“娘子军”佣兵团，踏上冒险旅途。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/42xHm6xK5i","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

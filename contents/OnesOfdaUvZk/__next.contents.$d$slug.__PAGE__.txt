@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/机翻/双端】猎艳逐影 Photo Hunt v0.17.1 【百度/夸克/7.9G】"}],["$","p",null,{"children":"入正：https://www.patreon.com/moochie_street\n  \n概述：\n故事围绕你的角色展开，你的角色被不情愿地送到了他的母亲家里。你以前熟悉的城市现在已经不一样了——发生了很多变化。最重要的是，仅仅一次错误之后，你就失去了兄弟姐妹的信任。没有钱，没有爱，只有你的新相机和颠"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/OnesOfdaUvZk","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

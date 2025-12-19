@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D游戏/未汉化】Night Shift: Secrets【度盘/3.62G】"}],["$","p",null,{"children":"概述： 寻找第一份工作的过程仿佛漫长得像一个世纪，最终，一家名为“GAZON”的公司向我抛出了橄榄枝：一份夜班保安的工作。起初，这份工作看起来毫不起眼；公司自称是一家通过其仓库运营的送货服务公司。至少表面上看起来是这样……然而， 与主管的初次会面却令人大跌眼镜。公司对可以带入和不可以带入的物品有着严"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/3d-you-xi-wei-han-hua-night-shift-secrets-du-pan-3-62g-S-7i","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

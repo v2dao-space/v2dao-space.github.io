@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【RPG/生肉】操心魔导具 v1.3.0（操心の魔導具 ～強く美しき冒険者の末路～）"}],["$","p",null,{"children":"碎碎念更新了1.3版本，新增了美男痔、记者的if场景，还有结局1的后日谈场景少有的BE线特化恶堕作品，就是画风有点难顶DL入正地址：https://www.dlsite.com/maniax/work/=/product_id/RJ01106593.htmlDL页面简介『操心の魔導具』をめぐる物語社团名：MC_TWORL●あらすじ　武器と魔法を巧みに操る人間が生態系の頂点に立つ、とある世界。　そこではカルタ・サリス・アリアの3人が、冒険者として共に旅をしていました。　そんなある日のこと、人を操る"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/e2558a57","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

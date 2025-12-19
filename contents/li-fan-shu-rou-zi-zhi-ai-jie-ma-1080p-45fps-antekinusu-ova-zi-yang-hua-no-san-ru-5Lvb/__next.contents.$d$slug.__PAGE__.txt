@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【里番/熟肉/自制ai解码/1080p/45fps】【あんてきぬすっ】OVA 紫陽花の散ル頃【度盘/353MB】"}],["$","p",null,{"children":"大家好啊，这个是紫阳花篇的解码版，如果说向日葵篇是经典的你也不想你老公失去工作吧，这个就是经典青梅足马被黄毛牛走的剧情，黄毛牛子带冰就是无敌啊，配上其有冲击力的动作，与其标志性的表情，实用度和向日葵篇一样是一等一的顶捏，发给大家尝尝咸淡 改后缀然后解压（将MP4改为zip，壳子那一定得改zip） 可"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/li-fan-shu-rou-zi-zhi-ai-jie-ma-1080p-45fps-antekinusu-ova-zi-yang-hua-no-san-ru-5Lvb","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

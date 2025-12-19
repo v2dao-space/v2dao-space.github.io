@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【图包/自购/未汉化】ci-en ガル7.20赞助图包"}],["$","p",null,{"children":"看到有新的洛琪希的图，怀着激动的心情去cien做了订阅，发现只能看当月且看前面的又要额外付费。去fanbox又发现自己卡绑不上去，paypel同理，只能去当冤种搞cien的订阅。目前是有三个月的量，后面更新也就差不多还是出了，看到了，有时间就来更新。哎，真成冤种了。没visa卡寸步难行啊。这次图包是真水啊。码是不会打的，之后打码可能都是这个图标了？附上自购证明和那个内容。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/edebf5aeb5597b3fa86cc34a385954e0","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

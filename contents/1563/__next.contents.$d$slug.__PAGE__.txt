@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[沙盒SLG/动态/高渲染]登峰造极RiseToTheTop-0.3.1精翻汉化版[安卓][3G]"}],["$","p",null,{"children":"\n\n\n\n登峰造极RiseToTheTop-0.3.1精翻汉化版\n\n\n\n游戏介绍：您是一位年轻有抱负的制作人和 DJ，正在音乐行业中航行。没有人说追逐梦想会很容易。然而，它可以是令人振奋的。冒着一切风险上升到国际明星和名望的最高高度。一路上，你会遇到历久弥新的浪漫、腐败、情欲和派对。你会选择浪漫还是情欲？或者你只是想要这一切？世界触手可及，您只需按下播放键并控制舞池。一路上要小心你信任的人；这个行业"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1563","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

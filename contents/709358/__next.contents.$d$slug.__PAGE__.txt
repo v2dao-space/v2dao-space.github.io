@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【GAL/汉化】あま恋シロップス～恥じらう恋心でシたくなる甘神様の恋祭り～/甘神大人的糖浆恋祭【度盘/秒传/2.87GB】"}],["$","p",null,{"children":"  《甘神大人的糖浆恋祭》（日语：あま恋シロップス～恥じらう恋心でシたくなる甘神様の恋祭り～）是游戏公司MintCUBE发售的一款Galgame。 出版信息 于2015年2月27日发售 STAFF 原画：ぱん、すいみゃ 剧本：仲田惠、夏森公彦 CAST 绵贯栗花落：奏雨 安娜斯特西亚·萝丝：榊るな 花鸟铃：百濑ぽこ 日下穗积：渡边凉子 [馒头大人]：遥そら 游戏简介 ——迎星主人公・花鸟幸和居住的星笼町，在每年农历七夕的日子，都会举行名为迎星的祭祀。初夏的某一天，幸和与青梅竹马绵贯つゆり，一同前"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/709358","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

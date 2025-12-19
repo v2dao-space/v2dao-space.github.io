@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"我的妹妹超级可爱"}],["$","p",null,{"children":"甜文向，温馨向，日常向。\nLOL虽然是主线，但是量不大，跳过并不影响日常部分的阅读。\n读者群在评论里，欢迎一起来聊天，玩耍。\n主线推妹，lol剧情可以随便跳过，不影响剧情。\n妹控文里质量较高，够甜的几本之一。此外，推荐泯冬的几本新书，也可以去看看，好口碑。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/wo-de-mei-mei-chao-ji-ke-ai-iCRu","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

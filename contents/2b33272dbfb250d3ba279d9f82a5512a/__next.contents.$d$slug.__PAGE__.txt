@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻/双端】崩壊NPC姦1.0版【PC+安卓/1.5G】"}],["$","p",null,{"children":"DL：https://www.dlsite.com/maniax/work/=/product_id/RJ01090778.html  社团名 シュトゥルモヴィーク 关注 695支援社团也可以使用DL点数进行支援贩卖日2024年06月22日年龄指定18禁作品类型角色扮演有声音有音乐文件形式软件其他部分使用AI支持的语言日文分类萝 军事 外射 内射/中出 路人奸 异种X 深喉口交（男主导） 巨乳/爆乳  NPCをひたすら犯しまくるポストアポカリプス✕RPG本作品は終末後の世界で仕事を請けながら探索"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2b33272dbfb250d3ba279d9f82a5512a","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

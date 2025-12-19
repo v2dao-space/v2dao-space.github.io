@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D动画/生肉】跳啪纯啪VTBMMD3D作品10期【度盘/10.2G】"}],["$","p",null,{"children":"vtb系列的第10期，33个视频，解压办法在下面。 解压办法：首先改后缀，把mp4改成zip，然后用winrar解压，解压之后是两个7z的分卷，分别是7z.001和7z.002，放在一起，要保证两个分卷文件的前缀文件名一致才能解压，如果出现文件大小对不上解压不了，或者解压文件输入密码后解压到一般弹密"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/rOjLK9exJo","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

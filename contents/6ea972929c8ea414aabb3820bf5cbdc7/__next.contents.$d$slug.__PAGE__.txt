@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化同人本/新汉化】2024.6.18 49本"}],["$","p",null,{"children":"(C103) [熊の穴 (シロクマA)] ユウカちゃん本当に寝ちゃったの？ (ブルーアーカイブ) [386歪汉化] [v2](C67) [あっかんBi～ (柳ひろひこ)] 零X 0x0003 (サムライスピリッツ) [中国翻訳] [無修正](C83) [ACIDSEA (遊馬臣)] LOVE GAME (ファイアーエムブレム 覚醒) [中国翻訳](C91) [せとらん (イトウせと、タンノらん)] 引きこもり系魔法使いのパコパコどすけべ撮影面談 (東方Project) [甜族星人x我不看本子个人"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/6ea972929c8ea414aabb3820bf5cbdc7","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

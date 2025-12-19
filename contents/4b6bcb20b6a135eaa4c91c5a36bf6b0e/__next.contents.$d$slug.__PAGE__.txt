@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【全彩/汉化/無修正】个人自整理合集 【度盘/0.7G】"}],["$","p",null,{"children":"懒得打码就放一张算了强烈推荐雪女奈子真棒吸哈  01 人付き合いが苦手な未亡人の雪女さんと呪いの指輪（不擅交際的未亡人雪女與詛咒戒指）1-2简介：男主在几个月前来到了继承了属于突然去世的父亲的位于僻静住宅小区里给妖怪专用的出租房。随之便遇到了丈夫早逝，非常凄美的寡妇雪女雪乃。男主更是在父亲的房间中发现了本不属于那里的，能够随意操控妖怪的魔戒。原本是为了给困苦的血脉带去生活上的帮助，却因为自己的欲望膨胀使得事态发展到了前所未有的方向。随着时间的推移，男主对魔戒的力量愈发痴迷，他逐渐放弃了最初的善良"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4b6bcb20b6a135eaa4c91c5a36bf6b0e","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化同人本/新汉化】2024.10.12 50本"}],["$","p",null,{"children":"  \n  \n  \n(C103) [シロブラウニー (せしろ)] Invite Falling (超次元ゲイム ネプテューヌ)(C104) [エソラnote (間島白幸)] キミデスミカチャージ (学園アイドルマスター)(C104) [夢先案内回覧版 (ひろひろき)] やっぱり緒山が悪い!!2 (お兄"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/KnPRpJ2uAXCr","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

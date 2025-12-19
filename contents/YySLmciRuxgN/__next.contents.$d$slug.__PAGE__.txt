@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【AI翻译/ADV】巫女舞～ただ一つの願い～"}],["$","p",null,{"children":"来自 etude 的一部泣系作品\n梦中出现的场景，以及每位角色end后出现的过去记忆，一步步将剧情高潮推向te\nte中所有记忆（包括梦境）都得到了完美的解释\n能否改变现在的命运以及过去的悲剧，取决于…\nPS\n本作于20年似乎有汉化组官宣汉化的，现在来看别抱有期待了，老实用翻译补丁吧\n再加上绿茶汉化组"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/YySLmciRuxgN","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

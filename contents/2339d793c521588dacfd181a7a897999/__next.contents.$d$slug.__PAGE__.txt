@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"妖精传记 5：恶魔 Fairy Biography5 : Demon"}],["$","p",null,{"children":"游戏简介：这是一片奇幻的大陆，狼人、吸血鬼、魅魔、人类共存于此。某一天，吸血鬼与魅魔联手导致无休止的战争爆发......人类在此付出了惨痛的代价，作为国王的你，疲惫不堪，决定签署休战协议！可从未想到，这才是阴谋的开始......狼人拒绝一切纷扰与站队，冷眼旁观；吸血鬼同意休战，但也有自己的条件；魅魔擅长诱惑，从中操控一切；人类另一位首领，努力维护人类社会的秩序和平......今日便是签署休战协议之日，作为国王的你会怎么做？"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2339d793c521588dacfd181a7a897999","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

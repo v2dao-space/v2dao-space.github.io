@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG/汉化/动态]持剑者v0.4 汉化版[安卓][3.6G]"}],["$","p",null,{"children":"持剑者v0.4 汉化版\n\n\n\n剧情介绍：你和你最好的朋友 Aren 和他的家人在一个名为 Riverfell 的宁静小镇长大。你和阿伦最近申请了首都的骑士公会 – 一个有声望的团体，甚至接受有能力的新手。当你挥动母亲留给你的剑时，你的生活就会改变。当您探索这个等待您的世界时，会遇到可爱的角色和美丽浪漫的女性。随着故事的进展，面对浮出水面的黑暗，揭开邪恶的阴谋。与您的战友一起进行可选任务，您可能必须"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2039","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

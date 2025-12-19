@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"炼金士玛莉"}],["$","p",null,{"children":"玛莉之所以不能毕业，不是因为她不爱好学业，而是因为……\n她是个旷古绝今，永不再世的，超级无敌霹雳好色女啊！啊啊啊啊……玛莉这五年都不读书，只是用功研读那无人能懂的古书，她知道那是远古的某位淫荡的女魔术士的道具和召换术的魔法书，记载了各种令人欢愉的道具，和神奇的生物，玛莉朝思暮想的，竟是让那些被遗忘的物品一个个的重现江湖啊。\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/XnOeRU9zzc","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

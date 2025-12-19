@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【MMD/无码/VR】mellona0821作品 银狼&神子&浅倉透"}],["$","p",null,{"children":"也是最近I站看到的一位作者 主页没有写其他平台\nI站主页简介还有作者用的插件 目前应该算是个分享作者\n  \n10月初才开始 目前一共五个视频\n我下的两个是有高画质mega盘链接的\n  \n前面三个简介都没有链接 应该就是I站原画是最高画质的下载了 就没弄\n然后我大致看了下第四个还不错 另外两个比较一般"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/vEdTuGn9-lG-","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

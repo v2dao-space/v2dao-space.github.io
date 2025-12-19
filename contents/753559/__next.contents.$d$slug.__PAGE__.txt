@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【2D/无码】Syahata&#8217;s Bad Day 分离画廊"}],["$","p",null,{"children":"其实作者在这次大更新之前做好了五个L2D，但就只实装了一个。就这还有人说效率低挤牙膏，真是闹麻了。看R34的时候发现有人做了正好下下来自用顺便上传只有史莱姆是自己录的其他的画质不保真，因为我懒捏。                                                                                                                                                        "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/753559","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

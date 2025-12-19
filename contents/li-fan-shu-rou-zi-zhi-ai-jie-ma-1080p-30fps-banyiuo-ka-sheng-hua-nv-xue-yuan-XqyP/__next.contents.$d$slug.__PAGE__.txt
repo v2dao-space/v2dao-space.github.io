@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【里番/熟肉/自制ai解码/1080p/30fps】【ばにぃうぉ～か～】聖華女学院公認竿おじさん#1-6【度盘/2.16GB】"}],["$","p",null,{"children":"今天带来的解码作品是之前很早有朋友求的聖華女学院公認竿おじさん系列，我其实跑过一次这个，由于效果不好所以没发，今天是周五且工作上没啥事，所以楼主耐着性子调参数，总算是大部分时间解码效果可以接受了（但是还是有小部分有些问题，我感觉是场景明暗对比度导致的），这个番在楼主xp排行榜能到t0，剧情是男主因为"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/li-fan-shu-rou-zi-zhi-ai-jie-ma-1080p-30fps-banyiuo-ka-sheng-hua-nv-xue-yuan-XqyP","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

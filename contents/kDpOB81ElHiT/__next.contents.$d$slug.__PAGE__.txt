@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】僕とお姉ちゃんの世界を観よ!【600M/百度】"}],["$","p",null,{"children":"  \n简介\n◆故事梗概\n今天是在亲戚家借宿的第一天。我和姐姐们开始了共同生活。\n…但当我醒来时，我的心似乎分裂成了两部分。\n游荡的我成功地回到了原本的身体之中，但却发现每和一位人交谈时都会被吸入对方的身体…!?\n在普通的姐弟日常中，我的心会在各种视角中游荡。\n你更享受姐姐视角还是弟弟视角的故事呢？\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/kDpOB81ElHiT","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

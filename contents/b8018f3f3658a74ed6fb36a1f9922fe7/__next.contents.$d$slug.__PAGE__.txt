@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[ADV/PC] 我跟上司老婆的二三事 官方中文版"}],["$","p",null,{"children":"《Wife of My Boss》是部视觉小说游戏，讲述普通公司的普通上班族的故事。主角不管是工作内容和岗位都很普通，唯一算得上不普通的，就是他的人渣老板。这老板就是个魔鬼，他把所有人的人生都给毁了！强迫员工加班，羞辱员工，哪怕哭了也要继续骂……这些恶行对他而言只是家常便饭。办公室里所有人都很讨厌他，除了一个人——他的新婚妻子，莉莉。她压根不知道自己丈夫在公司都干了什么。主角会慢慢影响她，让她的思想乃至人格都发生改变，最后把她从老板那抢走，成功毁了老板的人生，就像他毁掉手下人的人生一样。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/b8018f3f3658a74ed6fb36a1f9922fe7","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

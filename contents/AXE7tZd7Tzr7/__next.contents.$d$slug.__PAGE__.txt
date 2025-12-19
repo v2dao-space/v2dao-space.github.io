@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[広弥] ハニーテンプテーション + デジタル特装版♥限定特典 次はこうはいかないからな!後日談 甜蜜蜜女友的誘惑 特裝版[中国翻訳] [DL版]"}],["$","p",null,{"children":"  \n  \n  \n  \n你～喜～歡～被這樣對吧?\nCOMIC E×E—害羞心動LOVE^2漫畫職人為您帶來8+1部酸甜小故事!!\n無論是——生氣時嘟著臉、高興時的笑容、羞澀時的紅暈、全都如此可愛動人♥\n中文特裝版額外收錄16P混合加筆書名後日譚♥\n我的女友果然世界No.1[最可愛]—\n \nbookw"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/AXE7tZd7Tzr7","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

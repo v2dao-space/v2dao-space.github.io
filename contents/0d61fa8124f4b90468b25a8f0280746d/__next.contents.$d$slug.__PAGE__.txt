@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC/安卓RPG游戏] 【RPG/汉化/双端】NTR骑士物语：最爱的人被睡了我也要战斗！精翻汉化版+攻略"}],["$","p",null,{"children":"男主是一个国家的骑士，鹰郡潇洒非常有女人缘，但是有缘没（啪啪的）份...被从小一起长大的国王下命令，带领国家的军队在外面浴血奋战！家乡里自己喜欢的人（多位和男主有关的女人）却天天被国王XXOO...我在前线浴血奋战为你干敌人，你却在后宫里爽歪歪地PA我最爱的人...然而就算最爱的人被睡了，我也要...我也要继续战斗下去！这就是我身为绿帽王骑士可悲的宿命啊~（被动技能触发：NTR让我士气高涨，攻击力提升3倍！）我擦，太刺激了！一个绿帽骑士的故事，不用多介绍了吧？本作特色：人型嘴炮~一发直接社保！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/0d61fa8124f4b90468b25a8f0280746d","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

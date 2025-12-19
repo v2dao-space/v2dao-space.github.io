@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】女武神之剑/ヴァルキリーの剣【度盘/1.49G】"}],["$","p",null,{"children":"  \n概要：\n作为著名的女武神，丽塔在她缺席期间，故乡遭到兽人群体袭击。  \n村民们被兽人屠杀，唯一幸存的父母被兽人俘获。  \n兽人以丽塔为诱饵，换取她父母的生命，任意摆布丽塔。\n丽塔被用作怪物之间争斗的工具，甚至……被兽人们作为性欲的发泄对象，持续受到凌辱。  \n究竟丽塔能否解救她的父母……\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Zp4ex916ELlT","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

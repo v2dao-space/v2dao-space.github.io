@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/汉化】ナマイキユメちゃんはおにぃとメチャクチャHしたい！【OD/896MB】"}],["$","p",null,{"children":"23/03/31《ナマイキユメちゃんはおにぃとメチャクチャHしたい！》为【とこはな】于2023年3月31日发售的作品。24/04/11已更新【月之滨汉化组】版汉化补丁。  作品内容Getchu界面：点击游戏官网：点击作品紹介STORY数年ぶりに地元に帰ってきた主人公。彼は赴任先の学園で、従姉妹である日菜森ユメと再会する。「おにぃ、久しぶり～！」昔と変わらず、いや、前にも増して主人公を慕ってくるユメ。まるで○○の頃のようで、なんだか懐かしい……そのはずが。「距離感が……近い！！」今の2人は教師と教"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/688594","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"猎美淫术师"}],["$","p",null,{"children":"马龙是一个绰号淫术摄影师并自诩四大奸魔之一的人狼，拥有一颗能够游走全身的邪眼，还能透过邪眼将看到的影像念写在数码相机的记忆卡或是摄影机的光盘上，他专门奸淫各种制服美女，并将过程拍成片子出售。 某日马龙奸淫七个女明星的片子被贴在网络上，引来西海市刑警大队队长兼除妖课课长、役小角神社巫女──林影的不断追杀，马龙能够一再的逃出生天吗？"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/TWBoaRouPh","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

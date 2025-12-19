@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中】Lilia: The Fallen Flower in the Prison City"}],["$","p",null,{"children":"■简介  从欲望旋涡中的监狱都市逃出———。 继《魔导士蒂亚与不可思议的大图书馆》之后的あせろら&LATIA共同制作的作品第2弹 是通过使用Live2D带来了柔顺动画的色情动画的监狱逃脱动作类游戏！！ 由大岛组成的世界“格兰艾尔斯”。 以王都弗里吉亚为中心的这个世界上存在着“人类”和“魔族” 自古以"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1R6wSURii0gyCoUc","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

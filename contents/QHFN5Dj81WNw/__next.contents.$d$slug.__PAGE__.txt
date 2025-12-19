@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】 魔女的制作方法 魔女のつくりかた -How to create a witch- 【1.6G/度盘】"}],["$","p",null,{"children":"  \n  \n◆序章曾经作为魔术师活跃，有过拯救魔大陆历史的少女克劳迪娅。她为了寻找失散多年的妹妹，潜入了一个教团。然而，许多羞耻在等待着她，她的意识逐渐被洗脑……克劳迪娅能否成功找到她的妹妹呢。\n\n\n\n\n社团名\nくじらぼ。 \n关注4,681\n\n\n\n\n\n\n\n\n\n\n\n\n\n支援社团也可以使用DL点数进行支"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/QHFN5Dj81WNw","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

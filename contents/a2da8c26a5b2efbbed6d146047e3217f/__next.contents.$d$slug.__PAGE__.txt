@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"男公关的欺哄 Deceived by the Host v1.0.3.2"}],["$","p",null,{"children":"游戏简介：川田浩史正在享受着他忙碌且充实的大学生活。他住在自己的公寓里，打着散工，并且在试尽各种办法来讨好他的女朋友，宮坂七海。然而有一天，他们的感情迎来了考研。七海看见浩史和另一个女生在一起，让她觉得她的男朋友正在劈腿。伤心至极的她找了一位前辈来倾诉，而前辈邀请了她上夜店。浩史真的出轨了吗？在他背后到底发生了什么事，他们的故事还有个好的结果吗？答案将在 ”男公关的欺哄“中揭晓。入正地址 (https://store.steampowered.com/app/2417260/Deceived_b"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/a2da8c26a5b2efbbed6d146047e3217f","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

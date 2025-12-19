@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中】New Eromancer"}],["$","p",null,{"children":"在新群马市，快餐业巨头——手淫麦当当通过排挤所有竞争对手，牢牢控制了这座城市及其居民的生活。 女督察珍妮正在调查一起谋杀案时，邀请了私家侦探铃香协助。 然而，当手淫麦当当调整菜单引发全城暴乱时，事情迅速失控，许多贫困居民因无法负担食物而陷入绝境。 在这座城市中探索，收集信息、物品和补给，逐步向顶层进"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/MJKlJ-RrNznO","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/生肉】天使断罪"}],["$","p",null,{"children":"制作介绍サークル名ソルティヒップ フォローする42 販売日2024年07月13日 0時更新情報2024年07月14日 更新情報年齢指定18禁作品形式シミュレーション音楽ありファイル形式アプリケーションその他AI一部利用ジャンル鬱 おさわり 天使/悪魔 日常/生活 バイオレンス 純愛 中出し 処女ファイル容量377.05MB游戏介绍【H・セレクト・システム】  今作から、Hシーンをパワーアップさせました!H・セレクト・システムは体力がある限り、様々な体位やプレイを楽しむことができます♪中出しも好き"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/29c817e609de58a5d33ead157228c646","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

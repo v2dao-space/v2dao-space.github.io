@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【RPG/生肉】レジネッタの冒険クアッドコンボパック"}],["$","p",null,{"children":"经站友推荐买了这游戏，这是马头游戏，需要安装RPGツクールVX RTP  社团名KINOKO-ex 关注1,899 支援社团也可以使用DL点数进行支援贩卖日2022年04月07日系列名勇者と４人の賢者シリーズ年龄指定18禁作品类型角色扮演有音乐文件形式软件支持的语言日文分类换装 总集篇 萝 女王/公主 怀孕 羞辱 巨乳/爆乳 平胸/飞机场文件容量330.3MB配置要求RPGツクールVXランタイムパッケージこの商品はレジネッタの冒険シリーズ4本のセットパックになります。RJ173704「レジネッタ"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/eadea166e814d018998650383fccbf19","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

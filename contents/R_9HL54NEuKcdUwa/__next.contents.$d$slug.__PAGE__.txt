@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【MMD/4K/无修正】【Bran (ブラン)】8月1日作品 miku KUROMARU hacking2 キャラ差分【10G/5V】"}],["$","p",null,{"children":"依旧是那个节奏大师，BYD这miku跟要开超赛一样笑死我了。 喜欢的朋友有条件还请多多支持作者大佬。 作者红P：Bran 后缀改为zip即可，用新版bandzip或7zip解压，不行就换新版本。手机用rar。 三个视频文件解压出三个分卷文件，凑齐分卷后正常解压即可。 保存文件夹最外层的文件即可。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/R_9HL54NEuKcdUwa","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

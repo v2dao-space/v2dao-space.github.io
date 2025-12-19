@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【日系SLG/沙盒同人】精力旺盛的海贼（Lusty Buccaneers）v0.2 汉化中文【PC+安卓】"}],["$","p",null,{"children":"Lusty Buccaneers 是一款正在开发中的 NSFW 视觉小说游戏！在《好色的海盗》中，您将扮演一名年轻的海盗，与一小队性感的海盗一起启航寻找冒险。踏上一段充满挑战、敌人、谜团、战斗和性感美女的刺激旅程，你可以招募她们加入你的船队！体验以"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/e479604c926f8089ed5aedd9b4fbd184","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/ADV】空のつくりかた -under the same sky，over the rainbow-"}],["$","p",null,{"children":"角色攻略完后鉴赏模式的HS中有特典剧情（日后谈，有HS的日后谈）\n  \nStory\n——活着并没有特定的目标。这是，曾经拥有过（那个）目标的人才有权利述说的话语。而没有生活目标的人、则与这个城市格格不入。本物语的舞台，发生在某个地级都市——奈陵（ナオカ）天壤都市奈陵，有着诸多闻名在外的事物。直铺天际"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/h2-Ma-dZ_kfn","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

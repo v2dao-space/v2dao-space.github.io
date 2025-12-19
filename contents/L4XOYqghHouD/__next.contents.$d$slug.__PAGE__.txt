@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【2d动画/无汉化/有码】【梅澤企画 (梅澤一手)】2018-2024自整理合集（还有2024年8月到12月作品）【度盘/OD/8.39GB】"}],["$","p",null,{"children":"  \n  \n  \n8-12月是最近几个月的作品。百度网盘里面也有我自整理的合集，但不能保证全，比如作者的早期twitter内容我就懒得没下。\n没关注的老铁们点点关注熬，单击！↓↓↓\n作者链接：\nhttps://fantia.jp/fanclubs/6874\n我的所有帖子都可以搬运，但要告诉我要搬运到"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/L4XOYqghHouD","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

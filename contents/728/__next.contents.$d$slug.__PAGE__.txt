@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[日系ADV/汉化]水葬銀貨のイストリア 精翻汉化版+全回想存档[3.8G]"}],["$","p",null,{"children":"水葬銀貨のイストリア 精翻汉化版+全回想存档这是“ウグイスカグラ”于2017年3月24日发售的游戏\n\n\n\n本作中将讲述一段背负着心灵创伤的少年少女们的成长故事。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[剧情简介]\n\n\n\n水上都城 · アメマドイ。\n\n\n\n这座建于海上的人工岛是秀丽多姿的花锦之地。\n\n\n\n住在此处的我们——身负着种种烦恼。\n\n\n\n礼仪端正、心地善良的青梅竹马、煤ヶ谷小夜。\n\n\n\n异想"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/728","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

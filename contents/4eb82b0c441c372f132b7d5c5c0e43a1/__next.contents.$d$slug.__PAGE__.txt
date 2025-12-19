@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/管中】Dr Red’s Zombie Apocalypse （RJ01232671）"}],["$","p",null,{"children":"社团名GuroGameGuy 贩卖日2024年07月25日 0点年龄指定18禁作品类型动作有音乐文件形式软件支持的语言中文(简体字)日文英文分类巨乳/爆乳 血液/流血 虐待/ryona文件容量62.16MBDr Red’s Zombie Apocalypse [GuroGameGuy] | DLsite 同人 – R18游戏简介僵尸爆发！红博士能否阻止僵尸浪潮，拯救人类免遭毁灭？建造能量发生器和炮塔，组队消灭感染源！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4eb82b0c441c372f132b7d5c5c0e43a1","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

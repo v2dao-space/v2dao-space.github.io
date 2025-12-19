@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无修】Anomalous Coffee Machine 2 Ver1.0"}],["$","p",null,{"children":"《异常咖啡机 2》 是一款奇特的互动视觉小说与虚构模拟游戏。 你站在一位神秘少女和一台不起眼的咖啡自动售卖机前，这台机器能生产出你输入的任何东西——无论看起来多么不可能。 她不会告诉你自己是谁、为什么会在那里、或者这台咖啡机的来历。 她唯一的要求是：输入一个词——任何词——然后按下按钮。 机器会回应"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/slg-guan-zhong-wu-xiu-anomalous-coffee-machine-2-ver1-0-VRWd","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

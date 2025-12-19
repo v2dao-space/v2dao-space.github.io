@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/动态/汉化】Projert Sena / プロジェクトセナ ver.0.635"}],["$","p",null,{"children":"<游戏介绍>人类被一种不明病毒摧毁，人类开发了一种对病毒免疫的生物体，并开始反击。 操作说明：移动：键盘箭头键攻击：X键跳跃：C键枪械：Z键重装弹：R键后退步：A键技能1：S键技能2：D键技能3：F键更新日志：你好，HUuuUGe。我很高兴能向大家公开6月的定期版本文件。这次的版本更新内容较多，我将按类别进行说明。### 关卡– 在中Boss后增加了简单的过场动画– 增加了从中Boss到Boss关卡的地图– 增加了最终Boss的过场动画和战斗– 增加了新的关卡机制### 关卡设计– 重新调整了所"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/10044f1d6e56db90d907138841fdb9c8","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

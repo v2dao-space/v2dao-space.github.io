@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[AVG/PC] 圣天之泪：惨遭背刺的天使 Angel Tear v1.01"}],["$","p",null,{"children":"一个命运攸关的夜晚，舞岛优理被唤醒了体内的潜能，变身成为了女神天使圣天之泪。她和她的伙伴圣洁唇彩一同对抗邪恶魔神和他的眷属，以保护无辜的人们免于受害。但是，魔界的瘴气正日渐渗透人间，腐蚀着那些她应该保护的对象。更糟糕的是，黑暗中有人想要为了私欲利用圣天之泪，某种针对她们的阴谋，正在悄然展开。随着时间流逝，魔界的腐蚀日益严重，眼看着全人类即将屈服于魔神膝下。优理能掌握她的力量，保护自己真实身份的秘密，拯救世界吗？或者说她将落入邪恶之手？一切命运有待你的揭开！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/f63dfa6e4dc86defa893cbe68f954531","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

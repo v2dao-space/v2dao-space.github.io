@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG]SuccuBoss 我的上司是魅魔 官方中文版"}],["$","p",null,{"children":"<p>带来这款互动SLG游戏： 我的上司是魔官方中文版 游戏概述： 用“社头大战”征服魔老大！ 职场爱情喜剧，限时回合制策略战斗，限时选择完美话语， 守护企业诚信，解锁剧情点——完美通关并不容易。 下载地址： 城通网盘转百度下载链接（进入后点普通</p>"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/bb4c1ebf34ce4d2fde34f0d450720a5a","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【LIVE2/有修正】ReIA：今年6月至10月合集【度盘/4G】"}],["$","p",null,{"children":"入正：https://q3uqa2lh.fanbox.cc/\n\n\n\n解压用bandizip/7-ZIP。7-ZIP解压方法：1、修改图片后缀png为rar或者RAR。 2、鼠标右键点击压缩包，在弹出的右键菜单中找到7-zip的功能菜单然后选择解压功能。不要双击压缩包去解压，因为双击了会正常提示输入解"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/b1-qfu0TH75P","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

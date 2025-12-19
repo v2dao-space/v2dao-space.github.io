@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/SLG/日文】[7B]女怪人VS女装戦士君2"}],["$","p",null,{"children":"【梗概】女装正太英雄对抗企图征服世界的邪恶组织“黑明星团”！【基本信息】・敌人角色：20人・敌人角色的容貌：女怪人13人 女战斗员3人 正太2人 巨乳○莉1人 人妖1人・H的点动画数：40个场景・舞台数：23 中BOSS战：3  BOSS战：7【今后的更新中追加预定】・追加21张游戏结束时的H CG（主人公被打的M场景）・追加1个巨大化的敌人角色的H场景（主人公被打的M场景）【其他】・虽然是编号标题，但是因为几乎没有故事的联系，所以即使不玩前作也能安心玩。・本游戏的H场景中也包含了正太×人妖、正"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2ae89ea361e6af199aaea14ae9702862","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

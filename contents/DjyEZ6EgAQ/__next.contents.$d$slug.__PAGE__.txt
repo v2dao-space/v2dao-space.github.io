@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中】 【トラクトリ】 大センカ  2.0.5 + DLC 1.01【度盘/300M】"}],["$","p",null,{"children":"吸血鬼幸存者色色版，完结+dlc。这种题材还是耐玩，不知道旧版本存档能用吗，蹲一手 https://www.dlsite.com/maniax/work/=/product_id/RJ407819.html           社团名 トラクトリ  关注4,019              支援社团"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/DjyEZ6EgAQ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

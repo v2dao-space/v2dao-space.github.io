@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【里番/魔穗】茜ハ摘マレ染メラレル [合集1-2][2K/1080P/60FPS 修补][CUGAN超分/V2/V3/VSR++/GmfSs补帧]【PIKPAK/度盘】"}],["$","p",null,{"children":"サークル『真珠貝』原作のコミックをＯＶＡ化！「本当の恋人になるのは大会が終わってから」野球部のマネージャー『七尾茜』は、部員の『片瀬翔也』と相思相愛だった。しかし、恋愛禁止という部内の取り決めが２人を我慢させる。そんなある日、セクハラで有名な監督『東剛』に関係を知られてしまうのだった。翔也が必死に掴んだレギュラーという立場を守るため茜は持ち掛けられた”指導”を受けてしまう……      中文名: 被采摘污染的茜话数: 2       原作: 『茜ハ摘マレ染メラレル』真珠貝（武田弘光）   脚本:"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/bbca8e6ccd7edf80e8db8f8402ed5fb5","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

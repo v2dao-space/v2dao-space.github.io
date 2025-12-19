@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中/安卓】金发萝莉公主露蒂的色色冒险／金髪○リ姫ルーティのHな冒険【移动盘/500M】"}],["$","p",null,{"children":"社团名 魔法少女倶楽部 关注 3,008 贩卖日2021年04月09日年龄指定18禁作品类型角色扮演有音乐文件形式软件支持的语言中文(简体字)分类女主人公 萝 产卵 羞辱 拘束 强X 异种X 西瓜肚/孕妇文件容量588.76MBDL:https://www.dlsite.com/maniax/work/=/product_id/RJ322480.html作品内容【故事】露蒂亚王国的露蒂公主现在已经会帮忙国王处理政务。像男孩子般养育成人的露蒂公主懂得挥剑,但不幸地也因此身上也不缺伤疤。她真的能够胜"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/763473","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

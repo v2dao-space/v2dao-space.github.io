@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"疫情被困在小区的男生居然在为各位邻居美人免费贡献物资的同时成为泄欲工具"}],["$","p",null,{"children":"疫情封区时期，社区分发的物资根本不够，大二学生林庆意外把物资屯到了大学毕业的量，于是楼上的多汗体质的大学健美女体育生，一楼的离异的丰腴人妻，对门在家办公的职场黑丝OL都来到了林庆的家里。。。。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/yi-qing-bei-kun-zai-xiao-qu-de-nan-sheng-ju-ran-zai-wei-ge-wei-lin-ju-mei-ren-jFF4","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

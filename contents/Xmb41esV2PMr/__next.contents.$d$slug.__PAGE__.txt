@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/英文/安卓/PC】满盈的精灵/Max the Elf 【百度盘/5.7G】"}],["$","p",null,{"children":"\n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n \n  \n\n原名丨Max the Elf\n版本丨PC/5.03安卓/5.02\n日期丨14/8/2024\n语言丨英语\n社团丨T-Hoodie\n平台丨Windows、Android\n \n包含：2D游戏、2DCG、肛交、动画、艾斯爱慕、战斗、中"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Xmb41esV2PMr","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

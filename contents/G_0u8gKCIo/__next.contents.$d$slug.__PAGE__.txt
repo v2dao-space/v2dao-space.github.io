@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】【集中力ゴミ糞丸】Fate/Grand mamma Ver96 【百度/2G】"}],["$","p",null,{"children":"很深草的fate同人，我已经把能找到的介绍全塞进去了，没有对金钱的渴望全是好活！ https://x.com/kenzenbokujyou2 『游戏介绍』 一款非常不错的FGO同人RPG，多女主不同线路选择开展游戏！ 英灵们还要扮演MAMA的角色，为エロ的儿子们提供那啥服务~   游戏概述： 这是一"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/G_0u8gKCIo","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

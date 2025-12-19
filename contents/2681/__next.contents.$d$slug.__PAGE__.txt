@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG/汉化]空白画布v0.65 汉化版[安卓][730M]"}],["$","p",null,{"children":"空白画布v0.65 汉化版\n\n\n\n剧情介绍：你扮演一个陷入困境但成功的画家的角色。至少你是其中之一。虽然您早期与酒精的斗争使您浪费了早期的成功，但它似乎也激发了您的创造力。因为既然你清醒了，你所有的工作，如果你可以这么说的话，充其量只是衍生品。随着您的资金枯竭，您向埃琳娜寻求帮助。一家成功的当地艺术画廊的所有者，也是您的早期支持者之一。但随着她的侄女贝儿搬到城里上大学，她也面临着自己的问题。她能帮"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2681","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

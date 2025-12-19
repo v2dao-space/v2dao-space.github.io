@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【拔作ADV/中文/CV】NATURALCORDE-在欲望的渲染下绽放真实的自我 官方中文步兵版+自带全回想解放【新作/700M】"}],["$","p",null,{"children":"NATURALCORDE-在欲望的渲染下绽放真实的自我 官方中文步兵版+自带全回想解放 （NATURALCORDE -愛欲の色に染められて、私はあるがままの自分"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/oVchggfHUn","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

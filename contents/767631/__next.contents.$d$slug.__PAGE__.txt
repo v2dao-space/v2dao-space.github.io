@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"(同人CG集) [汁っけの多い柘榴] 俺との子作り実習で妊娠しないと卒業できません!"}],["$","p",null,{"children":"数年前、超少子化という危機的状況を迎えた政府は、「子作り実習」を全国の学校で実施!女子生徒は学校から指定された相手の子を孕まないと、卒業できないのだ!このマッチングは子作りの継続性を考慮し、身体の相性が最優先の条件に設定されていて、これまでの学校生活で蓄積されたデータから判定されるので相手を自由に選ぶ事は出来ない。そしてクラスで屈指の美少女三人(うち一人は俺の義妹)の相手に選ばれたのは、なんと女子感度最底辺の俺!俺……あの二人と義妹から、嫌われているような気がするんだけど…気のせいだよね?かくし"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/767631","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

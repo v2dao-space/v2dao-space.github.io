@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【个人汉化本】[やみなべ] お願い☆TSF 最終話 (少女組曲 31) （钒元素个人汉化）"}],["$","p",null,{"children":"我又带着自己汉化的本子回来了！看过我之前整理的やみなべ老师的合集的都应该知道，老师的萝莉银趴一直是顶级的，对于我这种比较心软的看不得NTR和监禁雷普的小萝莉双插爱好者来说，你情我愿的小萝莉银趴简直是最优选择。所以这次やみなべ老师的新本一上传我就火速占坑然后搞了汉化，也算是我自己汉化的第一个新本吧（之前那俩都是老本了）这个性转系列这是第四本了，女（？）主从性转之后就一直各种想色色，简直就是女主开银趴系RPG的剧情模板，等了四本终于等到双插了，还是我最喜欢的駅弁双插，至福（？双插套图组图什么的也还有"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/3ef7784a472a8e8295e77ff06b57ee07","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

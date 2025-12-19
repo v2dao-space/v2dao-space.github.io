@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG/中文] 埃那托斯：转世英雄与失忆少女 STEAM官方中文步兵版+全回想"}],["$","p",null,{"children":"讲述两名失去记忆的少男少女为了寻找真.相而游历世界的故事。游戏中有多名女主可那啥，每个角色都有不同的专属技能和能力。游戏里自带全CG回想水晶，方便大家直接开启社保模式，良心！以自我为中心，却让人讨厌不起来。十分依赖同样丧失了记忆的主人公。本故事亦是以她为中心而展开。很擅长照料他人而被艾娜卷入事件的一般冒险者。平日里情绪波动不大，表情变化很少。相当喜欢睡觉的少女。只要有空便会去睡觉。平日里照看失去记忆的艾娜，似乎知晓艾娜的秘密……。喜欢可爱事物的军人，平日里一副姐姐的姿态。因为喜欢捉弄其他女孩子，所以没少被茜露殴打。主人公苏醒之后，发现自己失去了之前的记忆。同样失去记忆的，还有一位名为艾娜的少女，为了找寻真.相，两人踏上了游历世界的旅途――。期间不断结识了性格各异的同伴，让这段旅途充满欢声笑语，以及乐此不疲的H片段。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/c0471313a5f8a0858d98397a9e5d7904","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

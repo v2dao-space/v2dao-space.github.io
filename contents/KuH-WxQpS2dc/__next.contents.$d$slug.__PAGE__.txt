@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI内嵌/PC&安卓】魔法使いニコラとスケベな街【度盘/600M】"}],["$","p",null,{"children":"\n \n\n \n  \n\n \n\n一款由绅士社区汉化的日系RPG，\n为了打倒马拉基恩，先在城镇中做准备。\n然而，新武器的价格很高，而且住宿费也需花费一些钱。\n钱可以通过打工或打败小怪物来获得。(说白了，光靠打工就能赚够钱)\n随着寻找马拉基恩的过程，不断有新的事件解锁，增强武器并推进剧情吧!\nH事件从性骚扰性"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/KuH-WxQpS2dc","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

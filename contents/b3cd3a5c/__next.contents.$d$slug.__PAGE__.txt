@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】人妻退魔巫女あおい～妖蟲に寝取られ孕む苗床胎～ [PC/3.6g][百度盘]"}],["$","p",null,{"children":"它们是以女性子宫为苗床繁殖的邪恶恶魔，喜欢吃人肉。 不过，那只不过是连普通人都能够杀死的弱小怪物而已。 不过，那个怪物也不容小觑。 继续生存和成长的怪物成为威胁。 一只300岁的魔虫，恐怕可以与给人间带来巨大灾难的【大魔虫】相提并论…… 驱魔武士：宫森小次郎和驱魔巫女：神白葵制服了在边疆制造事端的大魔虫。 由于他们的成就，两人被允许结婚，他们长久以来的爱情也被封印了。 尽管我正在用自己的手指安慰因短促早泄而未能满足的性欲…… 然而，大妖虫虽然被削弱了，但却幸存了下来。 宫森小次郎是一个寄生并被大"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/b3cd3a5c","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/汉化/安卓】生命的回报/Life’s Payback [v0.3.2]【1.3G】"}],["$","p",null,{"children":"作者主页https://www.patreon.com/Vinkawa  游戏简介《Life’s Payback》是一款复仇游戏。一切都很顺利，直到一场前所未有的经济危机颠覆了你的日常生活。你独自生活，但为了在学校取得优异成绩，你不得不违背自己的意愿回到家里，而这正是你家现在获得政府经济援助的条件。然而，考虑到你过去受到的待遇，你决定一切都是有代价的……       更新日志：v0.3.2（错误修复）在我笨的原因下，有些人无法在之前的版本中完成 Anna 的任务线。这个问题已经修复。  出错的重"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/a9a75ebe776ba68de601a70fc52c1567","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

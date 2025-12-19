@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG(ACT)/官中】魅魔系列/サキュバス+全cg"}],["$","p",null,{"children":"闲话三部曲剧情顺序是剑(2018)→塔(2016)→魔法(2017),发售顺序来看算是倒叙的叙述手法,塔和剑玩起来像”塞尔达“,魔法玩起来比较像”银河战士“.还有就是同社团的”悪魔城サキュバス“,类似于恶魔城的游戏,跳跃手感与关卡设计方面也是非常的还原早期的恶魔城(折磨人这一方面).喜欢的话,可以去支持一下.サキュバスの剣(官中):点我サキュバスの塔(官中):点我サキュバスと6つの魔法(没有汉化):点我游戏图请勿在线解压"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/51ce0757c6f8b1659de83f5a20ed9ea8","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

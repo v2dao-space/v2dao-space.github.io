@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[拔作ADV/汉化/动态CG] 我的女友~不可能是超H班主任 云汉化步兵版 [1G/新汉化]"}],["$","p",null,{"children":"\n\n\n\n\n\n\n\n\n\n\n\n我的女友~不可能是超H班主任！ 云汉化步兵版（ボクのカノジョはえっちな先生）这是一款由[monoceros＋]制作组出品的日式ADV游戏\n\n\n\n主打绝妙淑女风格，顶级小马拉大车\n\n\n\n画风肉感，CG社保，剧情刺激\n\n\n\n绝对是各位淑女控的必玩佳作！\n\n\n\n现在，已经由 [绅士回廊] 制作了云翻汉化版\n\n\n\n进行了较大程度的文本替换，读起来也比以前通顺很多\n\n\n\n而且，游戏还"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1610","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

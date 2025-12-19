@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC/ACT]淫魔てんぷてーしょん 淫魔诱惑  V2.0.0 官方中文版  "}],["$","p",null,{"children":"游戏简介：   游戏开始界面自带全CG开放选项.◆ R18要素全开放选择◆登场敌人角色数量(全部为女性型)◆cg 种类数 总共156种(包括挪用和压制类型的图形)◆攻击要害的角色 + 按住要害的角色的组合形成无限的图案组合◆玩法倾向主体是反向强奸系统，后宫系统和色诱系统◆反向 Ryona有些“危机事件”就是一边骂主人公一边攻击他失败后仍能不断进攻的规格◆Ryona 要素当你攻击敌人时，你会看到一个向后仰的动画，伴随着被击中的声音。当你消灭所有的敌人开启追击模式更新信息 内容追加新舞台，新角色3种"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/a86a3e9a989d0c1664426f4d130fea9b","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"绯色官途"}],["$","p",null,{"children":"为官之道，脸厚心黑！吴玉良只是一个小县城的副局长，却左拥右抱，夜夜笙箫，和他的小三们演绎着官场逍遥，稍有姿色的干警家属，也被他利用手中的职权潜规则着。大案队的王壮队长就是受害者之一，他开始报复，演绎了一场小人物咸鱼大翻身的绯色官场恩仇录……"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/pxwwKSvrqB","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

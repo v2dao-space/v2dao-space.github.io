@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无码】Love challenge"}],["$","p",null,{"children":"\n\n\n\n■你住在一位撒手人寰的富婆留下的雪山别墅中，某天三位上山滑雪的美少女突遇暴风雪，不得已来你家借宿，你趁此机会将3位美女收入囊中。\n*从剧情到回想均有动画和人物配音\n*完成一段剧情后可以开启自由模式\n*自由模式中可以调整人物身材发型，搭配服装，打造你心目中的女孩*\n回想中可以自由旋转相机，36"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/8XoKV1-C5duZ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

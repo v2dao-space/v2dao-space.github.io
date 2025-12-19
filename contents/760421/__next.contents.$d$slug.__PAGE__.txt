@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/熟肉/ALICESOFT】ランス５Ｄ －ひとりぼっちの女の子－/ 兰斯5D &#8211; 孤独的女孩子"}],["$","p",null,{"children":"哈尼喵汉化组汉化兰斯5D感觉算得上是兰斯系列UI的一个大的进化，这一作换成了织音作为画师了所以画风也比较优秀了，虽然很多人对这作的游戏的轮盘颇有微词，不过用个修改器加上攻略就能获得比较舒服的体验，而且这作的互动点还挺多的，例如轮盘里有很多特殊的事件以及要素，小细节也比较丰富，我还是非常推荐游玩的，你甚至可以用兰斯飞拳打老婆：而且科潘东老婆可爱捏  至于有些说这作的剧情比较鬼畜的，我倒是觉得还好，是故意不小心的，要是不鬼畜那还是兰斯嘛？有人觉得对于菲利斯干的事非常恶心人，说对不起菲利斯什么的，这我"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/760421","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

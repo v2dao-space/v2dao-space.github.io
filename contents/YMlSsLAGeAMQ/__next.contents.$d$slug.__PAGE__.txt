@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【MMD/有码/VR】翔鶴さんが足コキ"}],["$","p",null,{"children":"元旦礼包第二弹\n看封面你们也知道我为什么会下了吧 看到这篇更新于是上了一个月赞助\n我都快忘了啥时候关注的这个作者（可能以前搜VR顺带关注的）\n本来想看看后面有没有不错的当月度打包 结果接下来的几篇是纯舞甚至都是穿衣…\n  \n只有BGM 牛牛是涂黑的 不过到是有终结动画\n这篇是12.14的 然后还只有"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/YMlSsLAGeAMQ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

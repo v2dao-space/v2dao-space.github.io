@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[さじぺん] 欲しがりッ娘 [無修正] [中国翻訳]"}],["$","p",null,{"children":"作品内容:(下面内容为机翻) 男人利用她！流氓少女、富家小姐、失恋后辈、被多个男人玷污的精灵……女主角们性感释放的感官剧！ ■好评如潮！背叛“这只是乳液。但它里面有春药。”我才第一次见到视频编辑，我们在杀青派对上喝酒，那我为什么要在酒店房间里脱裤子呢？拥有许多空隙的直播女孩 Chocola-chan"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ua-gGIbHyWpE46th","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【互动触摸SLG汉化全动态】透明人间：对便利店女孩的恶作剧 个人精翻汉化版"}],["$","p",null,{"children":"这是【おもち工房】在2023年4月1日发布的一款互动触摸SLG。内容是男主作为透明人去对便利店里的双马尾妹子进行H恶作剧。循序渐进的玩法，从最开始的小触碰到最后的本垒一共8个阶段。全动态进行，有断面动态，全程CV语音，各种互动动画性社保。游戏可以自由选择各种阶段，当相遇开始就可以CG全开的玩法。一个透明人潜入了便利店里。他悄悄地来到了店员女孩的背后…点击右上角的【触摸区】选项，自由选择要恶作剧的行为。甚至可以透过衣服里面直接触摸到女孩的身体。如果行为过于大胆，可能会引起客人的注意…但貌似这样更有意思？！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/189ecde6611ba1fd21b29622d9108900","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/无码/GAL】鬼ごっこ！（2部）"}],["$","p",null,{"children":"前言第二部水作刚推完的作品，savedata没删alcot的作品似乎主打搞笑幽默，喜剧风味比较浓无码补丁也是我扒下来，上传到2dfan的PS：FD的封和本篇不是一个类型，前几天扒皮有点麻烦这游戏有彩蛋，白天玩、傍晚玩、晚上玩，界面会有变化（这个地方很喜欢）  Story这个岛上曾经住着 “鬼”，收集了数不胜数的宝物。但是，鬼被带着三位随从的“桃太郎”降服，最终桃太郎带宝归乡，过着幸福的生活。童话落下了完美的帷幕。这是，无人不知无人不晓的遥远“童话”——时光流转，如今已是现代。世间因为一个怪盗的活"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4bc228d6db7583c57c9b51833b90e6bb","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

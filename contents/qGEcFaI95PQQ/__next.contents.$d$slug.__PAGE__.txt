@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/PC/安卓]用洗脑APP肆意玩弄狂妄大小姐 v1.20"}],["$","p",null,{"children":"最大自由度！用洗脑APP让高傲的大小姐发狂，让她的身体和灵魂都屈服吧！最近在漫画和CG中经常看到的“催眠APP”，想不想实际体验一下？ 该游戏是利用催眠APP尽可能逼真地再现H触摸的模拟游戏！没有固定的游戏流程，你可以化身成为主角自由调教！女主角会根据PLAY内容做出各种不同的台词和动画的反应。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/qGEcFaI95PQQ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

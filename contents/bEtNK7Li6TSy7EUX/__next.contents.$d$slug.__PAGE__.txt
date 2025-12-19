@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/官中】Monster Girl Conquest Records Battle Orc"}],["$","p",null,{"children":"兽人部落在最近的战争中几近灭绝。 但在这款横版动作游戏中，一名孤独的兽人为种族的繁荣而战，与经典清版游戏风格的大胸魔物娘展开激斗！ 使用多样化的攻击招式击败魔物娘，建立你的后宫并征服这片土地！ 击败敌人可解锁色情场景，助你恢复生命值重返战场进行第二轮战斗！ 超过 50 种魔物娘，涵盖 13 个种族！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/bEtNK7Li6TSy7EUX","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

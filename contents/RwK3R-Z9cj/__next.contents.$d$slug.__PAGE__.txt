@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"不做淑女"}],["$","p",null,{"children":"三十岁的凯特，爱情、事业两面受挫，在百般无聊之季开始了她的浪漫之旅。\n她成了陌生人的人质，成为别人的性玩偶，以及在一连串的逃亡、寻金……\n经历各种惊心动魄的危险之后，她发现自己的本能完全的释放出来。\n经常处于生死边缘、危急关头的她，不再事弱不经风的淑女，而成了生命力顽强，不要隐瞒情欲，极有主见、浴火重生的凤凰。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/RwK3R-Z9cj","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

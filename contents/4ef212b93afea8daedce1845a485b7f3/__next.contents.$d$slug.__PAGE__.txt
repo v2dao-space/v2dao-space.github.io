@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/汉化】优艳之花·续 银缚之馆/優艶の花 続 淫縛の館 步兵版 PC[11G/百度]"}],["$","p",null,{"children":"[SLG/汉化]优艳之花·续 银缚之馆/優艶の花 続 淫縛の館 步兵版 PC[11G/百度]入正：優艶の花 続 淫縛の館 [Double Soft Cream] | DLsite 同人 – R18社团名Double Soft Cream   贩卖日2020年04月22日更新信息2020年05月08日 更新信息系列名優艶の花作者Makaroni插画梵天鴉声优長瀬ゆずは年龄指定18禁作品类型其他游戏有声音有音乐有动画文件形式软件支持的语言日文分类动画 3D作品 人妻 母乳 挤奶 羞辱 灌肠 放尿/小"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4ef212b93afea8daedce1845a485b7f3","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

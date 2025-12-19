@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【AI翻译/ADV】聖・ちゃくエロ学園"}],["$","p",null,{"children":"随便玩的游戏，结果这花式H还挺牛的\n重要的还是后宫拔作\n  \nStory\n拓海以后宫为目的，从今年开始进入了共学化的原大小姐学园。我还以为同样的目的还有很多男生呢……入学的男生竟然只有他一个人。到底为什么…连吃惊的时间都没有，被女孩子包围的学园生活开始了！而且问题不仅在于此…期待着男生进来的女孩子们"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1f6UMl8HrdyB","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

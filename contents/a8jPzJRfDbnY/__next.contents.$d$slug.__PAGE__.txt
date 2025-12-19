@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/个人汉化】用催眠枪为所欲为(所在意那个女孩的堕落记录)/催眠銃でヤリたい放題(気になるあの娘が堕ちた記録)"}],["$","p",null,{"children":"已更新为V2版，详情看下面。   制作社团：PAPER HEARTS 发售日：2016-03-27 购买链接：该游戏在DL已下架，没法提供链接了……   游戏内容： 注意！该游戏含有牛头人、男娘、孕肚、凌辱等要素，不好这口者慎玩！ 该游戏以双主角的方式进行。 第一主角（表篇）是个光棍大叔，偶然收到一"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/a8jPzJRfDbnY","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

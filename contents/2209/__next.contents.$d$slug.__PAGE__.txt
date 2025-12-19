@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[国人RPG/中文] 堕邪女神 V1.092 中文步兵修复版+存档+攻略 [1.5G/更新]"}],["$","p",null,{"children":"口味相当重的国人自制rpg游戏。\n\n\n\n因为是自己绘制CG，所以更新的比较慢！\n\n\n\n但是架不住制作人良心的一批！\n\n\n\n每次更新都有大量的新H事件和新CG！\n\n\n\n游戏是最新的V1.08V4版本，官方中文，无马版本，全程CV，超赞H事件！\n\n\n\n此外游戏附带了存档+CG包+攻略，非常方便，绝对省事！\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[游戏介绍] ：这游戏还要介绍？\n\n\n\n这不是家喻户晓的国民级游戏"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2209","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

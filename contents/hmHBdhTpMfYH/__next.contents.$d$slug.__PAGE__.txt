@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无码】Mother NTR Training Ep. 6+"}],["$","p",null,{"children":"\n你将扮演James，一个18岁的高中生，童年时曾经经历过可怕的创伤，看着自己的父亲在一次抢劫中当场去世。\n自那以后，你因为看起来软弱易欺负而不断被朋友们欺负。\n你慈爱的母亲Lucy曾是一名健身老师，后来改行成为你父亲的秘书。\n然而，即使是你的妈妈也无法对你的欺凌者采取行动，因为殴打青少年将构成刑事"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/hmHBdhTpMfYH","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

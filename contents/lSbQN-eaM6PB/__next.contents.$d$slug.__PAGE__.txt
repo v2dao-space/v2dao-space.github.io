@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】夢魔と禁書庫の物語【300M/百度】"}],["$","p",null,{"children":"  \n『游戏概述』\n方便享受的短篇冒险风格RPG\n※※※注意※※※\n– 本作品包含非人类造成的榨精死表现。请注意不喜欢的人。\n– 本作品是使用RPG Maker MV制作的。\n– 尽管是使用RPG Maker制作的游戏，但本作品没有升级元素。\n  它是一款冒险风格的RPG（更侧重于阅读）。\n– 本作"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/lSbQN-eaM6PB","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

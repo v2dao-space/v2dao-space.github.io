@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】兽耳☆训练 ～狂暴兽耳大小姐的养成～/ケモミミ☆トレーニング ～狂暴けもみみ令嬢調教トライアル【度盘/535M】"}],["$","p",null,{"children":"steam地址：https://store.steampowered.com/app/2939800/_/ サークル冥魅亭 故事 在某个宅邸工作的主人公。 在打破嗜钱如命的女主人宝贝的壶后，便被开除失去了工作。 背负着高额的负债，主人公便以「训练师」的身分开始还清自己的债务。 然而，训练的对象是大名"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/IDDl-k3c2Xw92LF2","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

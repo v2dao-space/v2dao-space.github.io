@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【2D动画】みこさけ老师10、11月动画作品（截至25.11.13）"}],["$","p",null,{"children":"みこさけ老师作品更新 整理目前截止至25.11的作品。 作者地址：https://www.pixiv.net/users/46785827 究竟警告！吃饭的时候不要看25.11！ 咱也是赞助完后才发现这不是刚交，是臭鼬的预备😭。被pixiv色气的预览给忽悠了……看的时候给咱笑喷了。   需要使用w"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2d-dong-hua-mikosake-lao-shi-10-11-yue-dong-hua-zuo-pin-jie-zhi-25-11-13-l_Yl","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

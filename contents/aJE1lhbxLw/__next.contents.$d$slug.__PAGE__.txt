@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"堕落之王"}],["$","p",null,{"children":"他的最终理想是占有从小到大遇到的所有美女！\n他是一个淫欲满身，好吃懒做的家伙；在求学失利又失去家庭依靠，工作场合一败涂地时，一场意外让他获得恶魔帮助他的契机。\n但恶魔的神通广大却让他感到惊惧：利用一个小细节就能改变整个事件，同时赔上数不清的人命！\n意图获得一百万元，便让他遇上中学时的校花，却又陷入另外的危机。环环相扣的事件发展，他所想要的荣华富贵以及最终理想，真的能化险为夷的全部获得吗？"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/aJE1lhbxLw","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

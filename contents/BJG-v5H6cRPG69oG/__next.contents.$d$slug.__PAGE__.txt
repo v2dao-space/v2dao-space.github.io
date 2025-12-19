@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中】少女怪盗赛丽安娜/性義の怪盗セリアーヌ～エロトラップダンジョンの先のお宝を奪え!～+全存档【度盘/2.6G】"}],["$","p",null,{"children":"闲话 五一了,时间过得真快啊,不知道大伙们准备在这几天的假期去做什么呢?这游戏(2018)是7年前的,算是有些年头了,之前去站里找只有秒传(?)的,这里就补一下,最后祝大伙们五一快乐. 喜欢的话,可以支持一下 社团名:あせろら（樱桃社） 入正:点我(steam) 游戏图   官方介绍： 世にはびこる"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/BJG-v5H6cRPG69oG","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

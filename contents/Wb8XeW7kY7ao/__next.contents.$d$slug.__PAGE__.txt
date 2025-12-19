@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[精品RPG/汉化]播种压榨机V1.05 内嵌AI汉化润色版+存档[新汉化][PC+安卓]"}],["$","p",null,{"children":"该翻译补丁由[叶酱]大佬联合Age135_CWY大佬进行文本的AI翻译与代码、文本修正并进行了进行了部分测试、ui镶图与安卓移植故事简介：传说中的偶像降临了，她的名字是透羽。然而，事务所遭遇袭击，她被神秘组织绑架。失去了工作、财富和伙伴的前经济人，在绝望的海洋中沉沦，此时，一位少女伸出了援手。那么，"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Wb8XeW7kY7ao","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"潜规则"}],["$","p",null,{"children":"本书主要讲述周艳与孙俏走向名模之路的过程中遭遇种种潜规则的故事。这个文章的题目叫“潜规则”，很容易让人一眼看去就想到娱乐圈，官场，艳照之类的，当然，文章的开头也是以一个娱乐圈的美女周艳的形式开篇的，但实际上，这篇文章和娱乐圈，或者说和潜规则的关系并不大。两个女主角，一个是浪荡权力场的女明星，后来和自已的保镖回归纯情，另一个是初经人世的纯洁女生，做着明星梦，却被官场和社会的欲望蚕食着，大悲大痛。\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/M3VSSjVp64","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[互动SLG/中文/新作/CV] 监禁女王 DL官方中文版★调X教 [800M]"}],["$","p",null,{"children":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[游戏概述] ：\n\n\n\n这是一款[BananaKing]制作组出品的调X教SLG游戏\n\n\n\n这个制作组曾经出品过<恶魔少女><女王的荣耀><负债千金>等极品大作\n\n\n\n<监禁女王>为女王的荣耀系列作，是一款结合监禁调教与中世纪风格的游戏。\n\n\n\n艾莉莎女王身故后数十年，强横的诺曼帝国侵略了凯特王国\n\n\n\n并且囚禁了凯特女王莎恩‧凯特。究竟莎恩的命运会变成怎么样呢…."}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1579","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

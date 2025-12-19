@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【动画设定集】-Angel Beats! オフィシャルガイドブック-出版社: アスキー・メディアワークス-度盘"}],["$","p",null,{"children":"『Angel Beats！』 ファン必読の全240ページ!!●ストーリー紹介／全14話徹底解説●声優＆スタッフインタビュー●イラストギャラリー／各種イラスト100点収録●背景＆プロップ設定集                    感觉比较像是动画的设定，很多分镜稿和详细的人物访谈之类的，不太推荐不熟悉日语的朋友观看，字太多了，门槛略高，当然你是真爱粉就当我没说吧，之前也有其他朋友发过游戏设定集和奏的画集，也很不错，推荐没看的找来看看总感觉画质不是很行，遗憾"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/767652","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

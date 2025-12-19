@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/GAL】恋するココロと魔法のコトバ +初回特典+说明书[3.37G]"}],["$","p",null,{"children":"游戏名称：恋するココロと魔法のコトバ游戏厂商：Hearts游戏类型：ADV发售日期：2018-05-25剧本: にっし～、仙道佳帆、風間ぼなんざ、 若瀬諒音乐: ALVINE 、サウンドテラ原画: 白もち桜D原画: ぺろ春ハル  CV: 榎木実佳一片風祢  CV: 松山紗香 二葉好奏  CV: あさみほとり 星詠ましろ CV: みたかりん バステト  CV: 清水美紗アウシュリー  CV: 尾崎未來セシリア  CV: 平井まみ已补充【破琵琶生产公社】版汉化补丁【汉化发布】【破琵琶生产公社】【He"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ed4d11dfb7ce40e31b13b3ccefbe08b8","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

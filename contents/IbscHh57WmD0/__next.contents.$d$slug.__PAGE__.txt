@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/内置AI汉化】巨大的黑猫夺走了妈妈的生命（大きな黒猫がママを殺した）V1.0 【636.44MB/百度】"}],["$","p",null,{"children":"  \n与母亲被杀的女孩一起在山间小屋度过了 9 天的生活。\n◇剧情简介\n主角在雨山中迷路，最后来到了山间小屋。\n当我进去时，我看到一个女孩靠在一个浑身是血的女人身上。\n“大黑猫……杀了我妈妈……”\n他花了很短的时间拥抱苏米，一个母亲被黑猫杀死的女孩。\n须美逐渐向她敞开心扉，主角也试图回报她。\n但 –"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/IbscHh57WmD0","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

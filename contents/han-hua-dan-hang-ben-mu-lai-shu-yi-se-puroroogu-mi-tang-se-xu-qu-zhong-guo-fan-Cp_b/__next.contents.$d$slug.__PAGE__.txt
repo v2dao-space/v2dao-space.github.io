@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[木瀬樹] 飴色プロローグ蜜糖色序曲 [中国翻訳] [無修正] [DL版]"}],["$","p",null,{"children":"嘴秋、刁蠻、中二病、引退女偶像、發育過盛的巨乳，以及狼少女!?羞怯與激烈愛愛的6對情侶，還有特別收錄未發表的全新篇章喔♥ 「說不定是被邪惡的存在附身了…必須馬上治療才行……」 ──中二病資優女的積極示愛 「難道大家都是這樣三兩下就決定結婚的嗎…」 ──嘴秋害自己嫁給公司晚輩的女OL 「最好是啦!!色"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/han-hua-dan-hang-ben-mu-lai-shu-yi-se-puroroogu-mi-tang-se-xu-qu-zhong-guo-fan-Cp_b","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

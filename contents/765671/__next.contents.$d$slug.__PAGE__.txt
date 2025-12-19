@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/GAL】ナデレボ!（繁中/个人汉化）"}],["$","p",null,{"children":"前言随意附一部萌系作品有大佬分享的是生肉版，见有人汉化了就补个档  Story如月一樹は、誰もが認めるお人好し。ある日のこと、一樹はクラスメイトの神代瑠紫亜のヒミツを知ってしまう。品行方正、才色兼備、そんな言葉が似合う完璧美少女。学園一の大和撫子と呼ばれる彼女だが、その正体は実は――。サラサラのブロンドヘアーに、綺麗な蒼い瞳を持つ超絶ハイテンションなお調子アメリカンだったのだ！女の子は誰もがヒミツを抱えている。2つの素顔を持つ少女たち。アナタは、どちらの彼女も好きでいられますか？游戏详情 ブラン"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/765671","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

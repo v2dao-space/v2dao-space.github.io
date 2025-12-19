@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/双端/AI汉】 女骑士蕾蒂西亚 V1.10【度盘/uc/1.6G】"}],["$","p",null,{"children":" \n\n入正：https://www.dlsite.com/maniax/work/=/product_id/RJ208126.html\n\n基础信息\n\n\n\n社团名\n ディーゼルマイン \n\n\n\n\n\n\n贩卖日\n2017年09月29日\n\n\n更新信息\n2017年10月03日\n更新信息\n\n\n\n剧情\n坂元星日\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/9_rcHT1xzZqe","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

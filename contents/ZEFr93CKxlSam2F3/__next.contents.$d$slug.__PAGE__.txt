@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/生肉】ホめられて伸びるSR少女たち【度盘/2.92G】"}],["$","p",null,{"children":"作品内容 Getchu界面：点击 游戏官网：点击 作品紹介 STORY 在这个世界上，确实存在着SR少女。 Special Rare的少女——即极其稀有的存在。 SR少女……是全世界独一无二的女孩。 SR少女因其特殊性，连自己都无法理解究竟为何物。 对自身感到困惑，存在认知上的动摇。 要解决这些问题"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ZEFr93CKxlSam2F3","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

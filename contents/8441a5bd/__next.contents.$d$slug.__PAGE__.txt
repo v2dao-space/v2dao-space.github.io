@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】BM Love Cafe"}],["$","p",null,{"children":"这是一款18禁的女仆咖啡厅模拟经营游戏。您将扮演一名女仆咖啡厅的店长，管理一个咖啡厅。1.玩法：游戏通过【键盘的方向键或鼠标左键】来操作主角移动，通过【空格键】和场景内人物和物品交互。通过【鼠标左键】制作菜品。2.内容：每天都会有各种各样的顾客来到店里，满足他们的需求后就可以获得金钱和人气。金钱可以帮助你购买各种各样的道具，人气可以吸引到更多漂亮的妹子加入。游戏中所有小姐姐都可攻略，目前已加入10人！3.特色：本作虽然是一款模拟经营类游戏，但是我们希望玩家不像传统的模拟经营游戏那样俯视角掌控全局"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/8441a5bd","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

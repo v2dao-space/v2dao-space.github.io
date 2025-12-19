@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG/PC] 堕艳的圣女伊赫乌蒂Ver1.01"}],["$","p",null,{"children":"这是[萌工房]在2022年7月13日发布的一款大型RPG游戏。游戏内容多到爆炸，超过122种基本CG，140种事件，CV台词5000句以上！战斗H，战败H，骚扰H，打工H，遭遇事件H，多人H，怀运系统，多到飞起。基本上所有同人RPG有的玩法类型，本作全部包含，且CV声优多达18名！现在这款游戏于2024年6月1日上架STEAM平台，搭载超赞官方中文！🍀由[神乐游戏]翻译🍀，全程高质量精翻，步兵版！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/9f3d28bb8a876ca1cc65f30373dbb061","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

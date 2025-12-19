@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"SM的诱惑游戏"}],["$","p",null,{"children":"游戏简介：我脑中浮现两个想法，先对她俯首称臣，让她对我沉沦后再逆转，女人一但陷入爱情总是盲目而不自知。尤其是这种事业有成女强人，我能想像她若非跟Ｍ男交往，情感肯定是不顺的，说不定连Ｍ男都无法忍受她。要让这种女人爱上我是轻而易举。「昨晚的事情妳可别想算了。」我对她如此宣布。「呵呵……所以呢？你想用这个威胁我？若我不答应你，你要去传范梓琳是个虐待狂？还是要叫你老爸开除我？」「你认为我会害怕这种事？」「你成功惹火我了，小屁孩。既然你希望我模糊界线，那么我就如你所愿。以「郡主」的身分陪你玩。」「来吧，你"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/a2f130bd914fcf5ecf67ce66bd7bdad7","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"暮霭凝香"}],["$","p",null,{"children":"江湖上的女人，名头响亮的，不是绝色倾国，就是武功超凡。貌若天仙却甘愿行走江湖的，多半会仰仗每隔一段时间便重新评判流传的江湖四绝色的称号扬名天下，而武功过人的，则往往不屑于艳名，更愿单靠一身功夫闯出名号。\n血钗、碧姑娘这两个名号，对见闻广博的人来说，可是响亮的很。\n血钗雍素锦，鬓上一根血玉银钗便是兵器，绣鞋之中从不穿袜，喜好赤着一双雪嫩秀足，传言其杀人后好以对手鲜血涂就足趾丹蔻，为人喜怒无常，只为被轻薄一笑，追魂索命四十七天，逐越七州，将雪山八杰之一宗恒当着其七位结拜兄弟面前毙于闹市街头，一战成名。\n碧姑娘与这样一个女子齐名并称，自然不是什么泛泛之辈。不仅那一身极有特点的穿戴在江湖口耳相传，她手上一剑穿喉的宝剑碧痕，近三年更是名震东南。传言其寡言少语，性格冷漠，极少与寻常江湖人士动手，却不知为何曾在东南三州遍杀七十一家青楼主人，背下一身血案，后被公门高手围捕，凭一把碧痕在手，逃出生天，留下腕脉被断的十余个废人，名动八方。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/T5elSAyC_S","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

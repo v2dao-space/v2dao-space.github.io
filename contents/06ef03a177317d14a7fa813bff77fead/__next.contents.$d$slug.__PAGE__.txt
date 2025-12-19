@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/汉化//安卓】我的世界H版(Hornycraft) [v0.21]【1.3G】"}],["$","p",null,{"children":"作者主页https://www.patreon.com/your_shadik   游戏简介欢迎来到 HornyCraft 游戏世界！这是一款 18+ 粉丝模仿游戏，您必须扮演一个名叫史蒂夫的人，他生活在一个立方体世界中。这个世界充满了许多粗俗的东西，一定要注意！      更新日志：0.21Alex：添加了“Quid pro Quo！”场景添加了“重赛！”场景火焰：添加了“Gable！”场景添加了新角色-SilverfishSilverfish添加了“初次见面！”场景典狱长：增加了结局“爱情是"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/06ef03a177317d14a7fa813bff77fead","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

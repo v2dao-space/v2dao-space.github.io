@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【里番/熟肉/自制ai解码/720p/35fps】【ばにぃうぉ～か～】OVAようこそ!スケベエルフの森へ#1-4【度盘/1.02G】"}],["$","p",null,{"children":"有朋友留言想看的旧番妖精之森的解码版，共四集，剧情是穿越异世界的宅会不会遇见少子化严重的精灵大姐姐.mp4，嘛还是顶的（应该是雷火剑的吧我记得），在我的xp排行榜里算t1那一档的（两个花和之前换模型后发的那个番算t0），毕竟我也是西幻老吃家了（正义之怒与博得3老吃家，西幻，异世界里番剧情自动加分捏）"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/li-fan-shu-rou-zi-zhi-ai-jie-ma-720p-35fps-banyiuo-ka-ovayoukoso-sukebeerufuno-qyfK","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D游戏/官中】 銃と退魔とはぐれシスター 【635M/度盘】"}],["$","p",null,{"children":"概要： 在一个地方，住着一位孤独的、身怀绝技的退魔师修女。 由于她使用违反教义的枪械进行战斗，被教会驱逐。 但她的退魔能力得到了认可，许多讨伐委托纷至沓来。 今天，她也带着枪，单身前往恶魔的巢穴…… 这款游戏是一款爽快的TPS（第三人称射击）动作游戏，其中充满了尿失禁演出。 游戏包含养成要素和耐玩要"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/usY0jZqXnuEyBhBS","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

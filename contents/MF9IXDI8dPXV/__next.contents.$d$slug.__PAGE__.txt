@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[モノリノ] Tinderbox 少女情慾之火 [中国翻訳] [DL版]"}],["$","p",null,{"children":"  \n  \n  \n  \n虎之穴年度銷售第4名的成人漫畫！以《PINKERTON》成功獲得超人氣的モノリノ老師樹立●姦情境新典範！\n墮落的盡頭，竟是無止盡的歡愉──\n在學校的時候，同學幫尼奈報名校園選美比賽，身為暴露狂的她，在眾目睽睽之下竟然……因為推不掉而接下繪畫模特兒工作的尼奈，想起了以前在林間學"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/MF9IXDI8dPXV","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

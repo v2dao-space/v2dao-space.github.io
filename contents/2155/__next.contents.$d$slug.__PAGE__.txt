@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[日系SLG/汉化]尼克.马洛黑Ep.1-4 汉化版[安卓][550M]"}],["$","p",null,{"children":"尼克.马洛黑Ep.1-4 汉化版\n\n\n\n剧情介绍：这部动感小说提供了带有一丝性感的犯罪和科幻故事。顾名思义，小说的主人公是一名私家侦探，经常调查通奸案件。接手一个看似普通的案件，他开始怀疑自己遇到了一个神秘的地下组织……在每一次新的更新中，你都会发现新的角色或新的尼克客户，新的意想不到的情节转折和新的冒险。游戏具有情节结构，您可以从游戏的开始菜单中选择任何情节。​\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2155","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

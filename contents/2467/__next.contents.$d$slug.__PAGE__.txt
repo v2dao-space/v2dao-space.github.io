@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG/汉化/动态CG]欲望小镇Ver0.30 汉化版[安卓][3.4G]"}],["$","p",null,{"children":"腐化作者新作：欲望小镇 Ver0.30 汉化版（Lust Village）游戏概述：制作长达7年时间的欧美大作SLG终于彻底完结了。作者[Mr.C]终于丢弃了老旧的引擎，用HS2开始了新的创作！新作比起腐化有更加风雅的画面，非常有特色，让人印象深刻的风格。因为人物大多数都采取了厚涂线条。所以看起来特色十足！采取大量光影效果搭建的风格，非常搭配西欧游戏，整体而言布满诱惑力~エロ事件相当给力，虽然没有"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2467","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

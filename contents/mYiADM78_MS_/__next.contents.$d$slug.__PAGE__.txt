@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/机翻】一个最好不要兑现的承诺 – Laura版 A Promise Best Left Unkept – Laura Edition v1.0【百度/2.07G】"}],["$","p",null,{"children":"游戏介绍：\n受到一年前对女友Laura的承诺的激励，Harry终于在追求成功的道路上取得了重大突破，为自己的公司达成了一笔重要交易，从而引发了他不可避免的晋升。\n但他没有预料到，他坚定决心的副产物会无意中引来一个不受欢迎的存在进入他的生活。\n这个分包公司的代表竟然是他高中时的老欺凌者。\n人物介绍：\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/mYiADM78_MS_","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

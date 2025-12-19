@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG/汉化/动态]困难时期v0.30.1 精翻汉化版[安卓][4G]"}],["$","p",null,{"children":"困难时期v0.30.1 精翻汉化版\n\n\n\n剧情介绍：这是一个关于一个年轻人和一个小公社一起生活的游戏，由上级母亲、圣父和两个新手姐妹（无血缘关系;)）成。有一天，他的幸福生活结束了，父亲因金融盗窃被捕，您的公社必须从头开始。底部是一间阴凉的汽车旅馆的 2 间客房——这是他们唯一能负担得起的地方。现在我们的主人公已经成为了公社的人，他以后过上什么样的生活，只能由你来决定了。考虑到现在他必须与其中一个"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2134","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

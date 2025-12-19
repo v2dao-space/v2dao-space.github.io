@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】魔法少女塞拉菲尔（魔法少女セラフィエール）V1.03 【2.03GB/百度】"}],["$","p",null,{"children":"  \n【内容介绍】\n被束缚陵辱的陷阱逼近魔法少女！\n每次四肢被束缚，行动就会受限，采用“束缚战斗系统”。\n战斗场景、战斗H场景、失败H场景等，通过多彩的动画表现。\n与本多未季的可爱又迷人的声音相结合，可以享受戏剧性和H的RPG体验。\n【H场景】\n总动画数：1400以上\n战斗束缚：19种（其中有13种"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/-4modA6f4Kmy","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

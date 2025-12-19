@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【LIVE2D动画/有码】 Machi馬吉FANBOX 2024/11/08新作  【3V/度盘/UC盘/700MB】"}],["$","p",null,{"children":"[3D同人][有修正][无cv][3分短片]\n入正：https://machi0910.fanbox.cc/\n  \n \n\n网盘选择推荐：\n没有百度网盘会员的推荐使用手机UC网盘（手机UC的极速下载模式不用会员也不限速，pc的我没试过、下载小文件非常快）\n有百度会员就选度娘吧。\n请先下载到本地后，再自"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/uGeZ85GV5zAO","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

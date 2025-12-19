@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[国风SLG/中文/动态CG]凤凰 Phoenixes Ver0.20 官方中文版[7月底更新][安卓][1.4G]"}],["$","p",null,{"children":"\n\n\n\n美德作者新作：凤凰 Phoenixes Ver0.2.0 官方中文版[7月底更新]\n\n\n\n这是由[NoMeme]制作的一款玄幻类的SLG游戏\n\n\n\n也就是美德作者出的新作\n\n\n\n美德只要是司机，部分新老都应该知道吧，神作中的神作。\n\n\n\n而作者出的新作凤凰，更是不能错过！\n\n\n\n新作凤凰，采用了新的游戏引擎Godot进行制作\n\n\n\n还是沿用了美德的建模，\n\n\n\n依旧有完美光影处理的CG，\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1591","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

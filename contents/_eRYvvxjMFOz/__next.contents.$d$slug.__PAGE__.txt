@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】NTR勇者~让好友的母亲怀孕即可通关/寝取り勇者～親友の母ちゃん妊娠させれば即クリア【1.08G/度盘】"}],["$","p",null,{"children":"  \n与亲友组队冒险，同时趁机夺走那家伙的妈妈！\n来吧，是时候变得卑鄙了！\n在现代风格的RPG世界中，魔物出现在街道上……与亲友一起冒险，同时趁机夺走那家伙的妈妈！\n勇者？魔王？这些都不重要！让她怀孕就能立即通关！\nH场景是流畅的动画。\nH场景有配音。\n※相册从一开始就全部解锁，可以无时间损失地查看"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/_eRYvvxjMFOz","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

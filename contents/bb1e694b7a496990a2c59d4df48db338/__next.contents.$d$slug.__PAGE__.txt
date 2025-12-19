@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/GAL】CROSS†CHANNEL（复刻版）"}],["$","p",null,{"children":"7这是田中剧本创作中第二部高人气作品本作秉持了田中高水平的创作，剧情中夹杂大量无法理解的话语，汉化组难度悬崖式上升除去这些，本作的悬疑性很强，故事架构采用了大家喜闻乐见的环形结构，讲述了主人公等群青学园广播部的8人众社员在一个其他人已经全部消失的封闭世界里不断轮回的一周生活而随着玩家进行游戏周目的增加，一系列骇人的真相也会不断的浮出水面……对于这部作品，像是之后的（超自然九人组）&（夏日云悠悠）&（人类救济部）也有不少重叠的身影用（超自然九人组）男主的话来说：我也想成为英雄  Story大家一起"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/bb1e694b7a496990a2c59d4df48db338","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

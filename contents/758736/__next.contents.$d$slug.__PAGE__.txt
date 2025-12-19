@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【2D/无码】TeamBoobs24年4月作品"}],["$","p",null,{"children":"我整理作品是按作者给的日期范围整理的他目前已经在做5月份的了。分享一个吃相不好的小孩，据说餐桌礼仪不好的小孩weiner不会长于他小指的第二个指节  什么都不会先喷，不百度反而直接开始写小作文，哪来的白痴，应用商店会惯着你，我可不会。正好试试新出的举报功能捏。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/758736","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

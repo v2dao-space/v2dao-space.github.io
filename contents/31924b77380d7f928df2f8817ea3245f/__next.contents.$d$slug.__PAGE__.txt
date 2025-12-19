@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【GAL/汉化】妹のおかげでモテすぎてヤバい"}],["$","p",null,{"children":"几年前的老作了，感觉还不错，不过站里都是PC的就搞个高压机翻krkr的过来。2024.07.08补上【糟糟团汉化组】汉化补丁以及pc资源【糟糟团汉化组】因为妹妹太受欢迎了糟糕了。汉化声明1. 本补丁仅供日语交流学习使用，请在下载后24小时内删除。2. 本补丁完全免费，禁止用于任何形式的商业用途。如果您以购买的方式获取到本补丁，请退款并举报出售者。3. 本补丁不包含游戏本体，请自行购买正版游戏本体后使用。4. 禁止拆解、提取、修改汉化文本、图片。5. 禁止直播、录播游戏内容。发布原帖：https:"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/31924b77380d7f928df2f8817ea3245f","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

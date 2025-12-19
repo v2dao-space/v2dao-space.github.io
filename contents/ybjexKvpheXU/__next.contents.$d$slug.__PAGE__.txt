@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[日系RPG/汉化] NTR新娘克拉拉~直到堕入真实的快乐PC+安卓AI汉化【作弊器+全CG回想】"}],["$","p",null,{"children":"一款由BKYSS汉化组汉化的日系RPG，本作品是专门为NTR（被睡）且快乐堕落而制作的。特别推荐给喜欢因快乐而入睡的作品、喜欢马索的女孩子、喜欢完堕落的人。游戏里女主被黄毛NTR了6天，画风精良，CG也不少，还有怀孕结局，喜欢的不要错过。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ybjexKvpheXU","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

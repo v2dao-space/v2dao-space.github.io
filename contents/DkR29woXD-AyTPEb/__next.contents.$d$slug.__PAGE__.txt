@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【PC/安卓/RPG】僵尸生活2:进退维艰 Ver0.22B 汉化版+RPG游戏+3.45G"}],["$","p",null,{"children":"这次分享的是4月最新汉化版，注意安卓版本是生肉： 僵尸生活2:进退维艰 Ver0.22B 汉化版+PC+安卓+RPG游戏+3.45G 新增加专属作弊功能，出门有个npc点击直接可以获取大量资源然 后房间里面也有无敌啊无限子弹的作弊功能，都可\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/DkR29woXD-AyTPEb","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

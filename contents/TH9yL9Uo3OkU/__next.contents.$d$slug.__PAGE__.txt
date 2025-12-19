@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【2D动画/有码】七七 | Qiqi【パントン】【1V/33.8MB】"}],["$","p",null,{"children":"https://pangdong.fanbox.cc/就像我之前发合集时说的，这作者的作品都很短，但音效、配音和终结技都有，马赛克也很薄。本来是懒得发的，想着等多几部再弄个合集，架不住一直有人问。 啊？你问我为什么不用百度盘？  这是其他人的分流，我号早就炸了两个。其它网盘懒得用。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/TH9yL9Uo3OkU","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

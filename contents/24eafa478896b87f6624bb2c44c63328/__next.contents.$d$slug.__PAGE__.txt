@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[高温注意] メイドdays 正式版 【1.21G】"}],["$","p",null,{"children":"「姐姐会成为女仆，一生侍奉主人♪」你是一名独居大学生，因为你的父母在国外工作。 全球疫情流行街头，上课大多是远程上课，我们呆在家里备受赞誉。与此同时，几年前还住在隔壁房子里的年长儿时朋友三隅由香闯入了房子。不知为何，她穿​​得像个女仆。 她是我从小到大的姐姐，所以直到我去东京上学才见到她。说起来, 她是你的初恋，你上大学时无法坦白的感情突然被激发，百感交集开始了。由于她是大姐姐，又是女仆，所以有很多被动的性行为，比如娇惯、照顾她。但偶尔也会表现出男人的样子，严厉管教女仆。我释放出想要被女仆姐姐宠爱的热情。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/24eafa478896b87f6624bb2c44c63328","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

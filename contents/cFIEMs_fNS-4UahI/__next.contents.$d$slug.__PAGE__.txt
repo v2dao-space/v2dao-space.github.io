@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/PC/安卓模拟】完美女友～被他人染指的拍摄实录～汉化版【新汉化/4G】"}],["$","p",null,{"children":"完美女友 ～被他人染指的拍摄实录～汉化版 （完璧彼女 ～寝取らせ撮影記録～）   游戏介绍： 同大学就读的男主角拓也与其女友绫香 拥有NTR性癖的拓也向完美的女友坦白了自己的癖好，并让她出演AV… 一次之后仍不满足，拓也再次让绫香\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/cFIEMs_fNS-4UahI","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

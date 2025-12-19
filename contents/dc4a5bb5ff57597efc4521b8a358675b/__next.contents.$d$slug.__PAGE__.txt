@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/中文/动态/更新]循环列车 - 使用痴汉应用对那个女孩恶作剧！  - V1.1.2 官方中文步兵版"}],["$","p",null,{"children":"【3D x 猥亵者训练 x 活动应用程序】这是一款强调真实感的猥亵者模拟游戏，让您可以使用鼠标直观地触摸和窥视。你可以在拥挤的火车上体验猥亵训练，在车站内无情地支配一个女孩，把她逼到厕所或电梯里，或者在自动扶梯上跟踪她。除了3D特有的传统触摸功能外，我们还提供了现实中无法体验的新感觉，如千里眼、人格改造、身体改造、时间停止、认知抑制等，用一个妄想应用程序，让您体验所谓催眠。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/dc4a5bb5ff57597efc4521b8a358675b","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

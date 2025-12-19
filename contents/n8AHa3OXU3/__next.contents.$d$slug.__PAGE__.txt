@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"小青的自白"}],["$","p",null,{"children":"两年来，在网路上读到朱莞葶假藉我的口吻和语气，用第三人称的方式，执笔写下三篇有关我的故事。虽然文章描写得很仔细，但总觉得没把我的内心层面忠实叙述出来。因此，我干脆在这儿以“自白”的文体，将我想说的故事细细道来，免除读者以错误的眼光评论我。我叫杨小青，今年四十二岁，现住在加州旧金山南的矽谷。从台湾的大学毕业之后，我和现任丈夫结婚，次年就随他一同到美国留学；然后定居下来，生了两个孩子。女儿现在在纽约读大学，儿子则在加州念高中，住在家里。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/n8AHa3OXU3","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

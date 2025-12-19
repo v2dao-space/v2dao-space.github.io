@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】Dragon Sleuth Brittany"}],["$","p",null,{"children":"一场喜剧元素拉满，以母龙为主角的像素性爱大冒险 与梦想成为全职侦探的行政助理布列塔妮·甜底一起探索龙岛！ 身临其境地感受自由随意，又性感十足的龙文化，帮助布列塔妮收集线索，解开龙蛋丢失之谜。 本游戏充满性爱场景、没底线的性爱笑话，更是一场融合了爵士乐、电子乐和芯片音乐的听觉盛宴。 全程刺激 龙侦探布"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/86LspktbvBl386T3","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

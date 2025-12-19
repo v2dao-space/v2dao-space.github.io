@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【生肉/RPG】サキュバスの育成方法【百度网盘】"}],["$","p",null,{"children":"銷售數量：1,372評價：4.38 (633)收藏數：1,896鑒賞數：4 (鑒賞)社團名D.R. 關注1,385 販賣日2021年09月17日年齡指定18禁作品形式角色扮演有音樂檔案形式應用程式對應語言日文分類魅魔/淫魔 恩恩愛愛 婚前同居 幻想 純愛檔案容量184.25MB作品內容◆ あらすじ何の取り柄もない主人公は平凡な生活を送っていて、これからもこうやって続けていくはずだっただが、ある日、彼は偶然に淫魔の乙女を拾ってくれたそれで、魔物調教師になった主人公は、その生活が巨大な変化を迎えた魔"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/770420","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

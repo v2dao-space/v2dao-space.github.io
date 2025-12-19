@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/官中】Strip Fighter 5: Chimpocon Edition【900M/百度】"}],["$","p",null,{"children":"\n\n  \n\n概要以黑暗武斗大会为舞台，共计22位奇异格斗家展开大乱斗！使用连续攻击击溃敌人的招数，用大招终结对手！充满性感和致敬要素，重现出格斗游戏最为辉煌年代的混沌的热情。硬核格斗玩家献上的，90年代风本格2D格斗游戏！角色电子女忍 菖蒲黑皮不良辣妹 和夏龙族少女 薄荷可能性的朋友 洛里斯病态玻璃"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/cfmoqd22DveZ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

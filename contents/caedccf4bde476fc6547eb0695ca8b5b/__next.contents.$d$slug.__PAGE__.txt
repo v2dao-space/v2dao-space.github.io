@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】最強ヒーラーの奴隷譚 体验版Ver3.3"}],["$","p",null,{"children":"作品介绍作为主人（玩家），您拥有一种名为“作弊H系统”的能力，可以通过进行淫荡的事情来增强对手。通过这种方式，您可以更轻松地进行冒险，同时还能触发新的H事件。换句话说，进行更多的H行为，您将能够看到更多的H场景。※您也可以选择进行处女束缚玩法。角色介绍这个游戏让玩家成为美少女精灵”雨滴”的主人，可以进行一些淫荡的事情，让她冒险赚钱，亲密接触，并进行房间装修，享受奢华的生活。↓作者支援地址↓はむかぜうさん/ハイパーうさぎ工房の記事一覧 – Ci-en（シエン） (dlsite.com)     提"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/caedccf4bde476fc6547eb0695ca8b5b","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

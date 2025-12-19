@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG/汉化/动态]婊子小队v0.2.0 汉化版[安卓][3.6G]"}],["$","p",null,{"children":"婊子小队v0.2.0 汉化版\n\n\n\n剧情介绍：在经历了非常艰难的大四之后，您刚刚高中毕业。去年，你的生活变成了人间地狱，因为一群受欢迎的富家女似乎经营着学校并迫害了那些不崇拜她们的人。进入当地学校后，您认为自己终于自由了，并希望开始新的生活。但你惊讶地发现，同一个女子组合的成员也开始上你的新学校。为什么是一个谜，但很快就会意识到他们以与高中相同的方式定位自己。无法转移并且不愿意再次经历痛苦，如果可"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/628","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

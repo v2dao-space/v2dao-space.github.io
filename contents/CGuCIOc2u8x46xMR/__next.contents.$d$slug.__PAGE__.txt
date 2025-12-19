@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【步兵SLG/PC/安卓模拟】请成为最能干的VTuber吧！ 官中步兵版【新作/11G】"}],["$","p",null,{"children":"给大家带一个当经纪人的养成SLG游戏 请成为最能干的VTuber吧！ 官中步兵版 这是一款[Hentopia]制作者在25号发布steam平台 想不到皮套人题材的作品都可以制作的这么会 日萌风的立绘各种甜蜜蜜的纯爱事件真的甜 游戏制作精良+\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/CGuCIOc2u8x46xMR","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"仙童下地狱"}],["$","p",null,{"children":"一朗子带着师父睿松要给嫦娥的心疼药到了月宫，但没想到，嫦娥服下之后居然出现了异状，原来是师兄一焰子因为没有得到月宫送药的机会，所以怀恨在心，才在药上多加了春药……一朗子该如何是好呢？\n得知嫦娥的心痛是可医的，一朗子便前往花王那求药，但没想到花王居然提出了要一朗子跟她老婆鱼姬……"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/GmwyKT7Wsk","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

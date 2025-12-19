@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【同人动画/无修正/2V】Yampa 2024.07动画作品及往期补充【度盘/Googledrive/389MB】"}],["$","p",null,{"children":"Yampa大佬2024年7月份动画作品。人物是BA的粉毛大猩猩一如既往的色，而且包含断面图(个人很喜欢)此外作者终于在五天前回复我了，上次合集里的[2024.01.12 調月リオ4]无修正版本搞到了。我一并放在本次文件里。(一开始看到新改的分区还在思考是放同人动画还是2.5D区，不过看到以前的被放在2.5D区，那就投2.5D区吧)最后祝大家身体健康，再见。作者主页:Pixiv:Yampa – pixivPatreon:Yampa | illustration | Patreon浏览:自购证明:"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/6e73b7a1d7cd71aba5638687b5c356a8","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

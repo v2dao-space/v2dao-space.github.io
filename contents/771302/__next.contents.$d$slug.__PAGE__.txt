@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【生肉/ACT】【体验版】ThornSin【百度网盘】"}],["$","p",null,{"children":"タロットカードの罠がゲームに追加されました！第2章と第4章で遭遇できます。将来的には異なるタロットカードが追加され、異なる効果を持つカードが制作されるかもしれません。立ち絵の更新新しい立ち絵が実装されました！キャラクターモデルの衣装の変化に対応し、複数の表情と動作の差分を含みます。MODサポートMOD制作が解禁されました！シンプルなテクスチャの置き換えで立ち絵のカスタマイズが可能です。現在サポートされている部位は胸部、顔部、足部です。後で、modの作り方について詳しく説明する記事を別途投稿します"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/771302","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

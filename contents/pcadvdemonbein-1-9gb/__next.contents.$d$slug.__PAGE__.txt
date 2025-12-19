@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【PC/未汉化/ADV】機神飛翔デモンベイン/机神飞翔【度盘/秒传/1.9GB】"}],["$","p",null,{"children":"  \n作品介绍\n原名：機神飛翔デモンベイン汉化名：机神飞翔发行日期：2006-05-26品牌：ニトロプラス\nSTAFF脚本：鋼屋 ジン原画：NiΘ其他：虚淵 玄 (2nd OP lyrics)ゆーぽん (2D graphics)なまにくATK (2D graphics direction, Mechanic and Monster design, Effects)津路 参汰 (2D graphics direction assistance, 2D graphics manager, 2D gr"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/pcadvdemonbein-1-9gb","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

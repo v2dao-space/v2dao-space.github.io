@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[栗原ケンシロウ] マジメと不真面目｜正經男和放蕩女 [中国翻訳] [DL版]"}],["$","p",null,{"children":"「你不喜歡我們之間只有…肉體關係嗎？」 想要獨自占有對方卻不可得，但又無法克制身體的慾望…… 以描寫正經男遇見沉迷性愛的女高中生的同名系列作品為首，並收錄了多部短篇力作。 以超美麗的彩頁及黑白漫畫呈現又酸又甜的青春性愛故事。 【收錄作品】 反差的她 正經男和放蕩女 正經男和放蕩女２ 正經男和放蕩女３"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/mxl1G7z_on","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

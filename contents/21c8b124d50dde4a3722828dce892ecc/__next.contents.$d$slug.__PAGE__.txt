@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】[PC+安卓joi]隐藏账号的JK想要通过暴露引起轰动/裏垢JKは露出でバズりたい"}],["$","p",null,{"children":"在各种地图上进行暴露行为，并将其情况发布到社交网络上，以吸引更多的关注者，这是一款漫游型的暴露RPG。在暴露行为中，可以尝试各种行为，可以只露出胸部，或者反过来，只露出女性器官等等…还可以携带玩具四处游走。无论是私服、外套、透明白衬衫，还是猫耳肛塞等等，各种服装下的女高中生暴露行为都是一大亮点!"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/21c8b124d50dde4a3722828dce892ecc","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

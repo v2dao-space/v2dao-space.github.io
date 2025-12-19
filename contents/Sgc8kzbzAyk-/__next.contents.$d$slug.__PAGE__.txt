@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/官中】Ayura Crisis【50M/百度】"}],["$","p",null,{"children":"  \n这是一款在战斗中会被做一些色色的动作游戏。向喜欢这种将骚扰要素组合进系统里的游戏的你推荐。动画为全手绘像素动画。如果被做了一些色色的事，堕落值也会上升。感度或是XP，可以通过培养被动技能来降低对骚扰的抵抗，台词也会发生变化。\n可以处女通关。※身为处女通关也不会有任何好处或是坏处。\n…爽快的动作"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Sgc8kzbzAyk-","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

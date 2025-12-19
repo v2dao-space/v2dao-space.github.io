@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【探索RPG/姐姐X正太/血液】拉赫谢与活祭品之村（ラーシェと生贄の村） V1.01 内置AI汉化作弊版"}],["$","p",null,{"children":"这是一款风格独特的日式RPG游戏，在全程游戏中，只有三种颜色黑、白、粉（等你们社保了，就知道哪里有粉色了~）虽然是款黑白风格的日式RPG游戏，但是真的是，满分社保！巨汝温柔系大姐姐的设定真心带劲的一批，而且那几乎要溢出来的超赞欧派真的是简直赞爆了有木有！游戏设定有趣，充满大量奇妙剧情，虽然带点恐怖解谜元素，但是绝大多数情况都萌的一批，H事件非常丰富，40个エロ玩法+17个健全诱惑事件保证让你冲到爆炸！不为别的，就为了这个超级色但是不自知的女主，也要冲爆！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/WeRgHB1wTXvt","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

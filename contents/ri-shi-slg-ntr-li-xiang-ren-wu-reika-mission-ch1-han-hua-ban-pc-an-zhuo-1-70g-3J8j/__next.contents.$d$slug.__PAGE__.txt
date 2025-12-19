@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[日式SLG/NTR] 丽香任务 Reika Mission Ch1 汉化版 [PC+安卓1.70G]"}],["$","p",null,{"children":"[日式SLG/NTR] 丽香任务 Reika Mission Ch1 汉化版 [PC+安卓1.70G] 游戏介绍 丽香任务：高级特工丽香为了寻找治疗丈夫阳痿的解药， 与工程师弗雷德里克合作，展开一段特殊的任务。 丽香是 Solara 总部的\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ri-shi-slg-ntr-li-xiang-ren-wu-reika-mission-ch1-han-hua-ban-pc-an-zhuo-1-70g-3J8j","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

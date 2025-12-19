@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"异世之商业霸主"}],["$","p",null,{"children":"洪恩是一个在野鸡大学念商科的学生，成天打混摸鱼外加泡女生。某天洪恩在上经济学的时候跟台上讲师看上的女同学有说有笑，愤怒的讲师将板擦朝着洪恩的脑袋丢过去，谁知道板擦竟然不偏不倚的打中洪恩的裤裆，他痛到弯下腰去的时候头却又撞到桌子，等到醒来的时候，洪恩竟然穿越到一个看起来还没开发的世界，而他，将在这里发挥他的商业才能……"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/PHBXEpQBDp","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

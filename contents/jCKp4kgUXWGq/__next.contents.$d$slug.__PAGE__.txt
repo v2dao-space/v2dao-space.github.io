@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化同人本/新汉化】2024.12.8 48本"}],["$","p",null,{"children":"  \n  \n  \n  \n  \n(広島コミケ229) [wxpLabo (wxp)] 貧乏店主に説明を! (この素晴らしい世界に祝福を!) [壹隻小白个人汉化][ctrlz77] Jane Doe (ゼンレスゾーンゼロ) [中国語] [無修正][HIDARIkiki (傷希レイ)] とある人妻の淫蕩日"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/jCKp4kgUXWGq","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

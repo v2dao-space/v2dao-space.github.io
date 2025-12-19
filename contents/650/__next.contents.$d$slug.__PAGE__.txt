@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[超精美SLG/中文/动态]奴隶之书：Bui.9422159 集成DLC官方中文步兵版[更新][安卓][5.1G]"}],["$","p",null,{"children":"奴隶之书：Bui.9422159 集成DLC官方中文步兵版（The Book of Bondmaids）\n\n\n\n游戏概述：这是[kamti]在STEAM发布的一款超精美画风SLG游戏。游戏画面堪称艺术，每个场景的CG都美得像艺术品，而且是动态的。一草一木，树叶和火吧都是丝滑动态的场景，游戏是官方中文步兵版。讲述被囚禁的公主和男主及一本神奇的古老之树的神奇エロ故事…游戏是22年9月最新更新的Bui."}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/650","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

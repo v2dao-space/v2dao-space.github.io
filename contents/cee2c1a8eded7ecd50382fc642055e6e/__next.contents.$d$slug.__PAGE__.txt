@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC/安卓RPG游戏] 【RPG/官中/双端】少女莎草纸~紧萝蜜股的七日 Ver1.1.1官方中文版+全回想"}],["$","p",null,{"children":"游戏故事：你是一名新手管家，你收到了大小姐要来你工作的岛上游玩。大小姐是一位聪明可爱，对凡事都充满好奇的少女。由于调皮的她曾经惹下不少麻烦，辞退气走了不少管家。这次来到岛屿，除了渡假以外，更是为了探索岛屿的无人洞窟与遗迹。只要通过了这次的考验，你就能升为正职管家。但如果表现不好，就会被直接开除。就这样，在大总管爱伊与两位女仆的监视(捣乱)下，你身为新手管家最后的考验开始了…游戏介绍：在游戏中，你不但要扮演好管家的工作，还需要跟自己的上司、两位双胞胎女仆打交道。在这期间，你会接到来自大小姐与总管指"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/cee2c1a8eded7ecd50382fc642055e6e","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[ACT/中文/全动态] 魔法之谷的艾姆莉丝V3 DL官方中文版 [全CV/400M]"}],["$","p",null,{"children":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n魔法之谷的艾姆莉丝V3 DL官方中文版+全回想（魔法の谷のエムリス）这是一款由[フィニッシュドール]制作组出品的日式ACT游戏\n\n\n\n有着精美非凡的2D手绘风格+超丰富出招系统\n\n\n\nH事件丰富，动态场景超赞，而且真的好冲！\n\n\n\n现在，已经在DL平台上架了 [官方中文版]\n\n\n\n在这里将游戏的中文版本分享给大家~\n\n\n\n游戏再带全回想，可以直接去回想房间开冲\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1558","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

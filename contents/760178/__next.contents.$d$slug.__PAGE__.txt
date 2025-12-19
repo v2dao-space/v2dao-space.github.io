@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【GAL/汉化】HaremKingdom -ハーレムキングダムFD1&amp;FD2【OD/6.75G】"}],["$","p",null,{"children":"24/04/20《HaremじゃないよKingdom 光＆ソフィーヤ＆キキ編》为[SMEE]于2020年9月25日发售的作品。《HaremじゃないよKingdom シャルローネ＆マルー編》为[SMEE]于2020年11月27日发售的作品。以上两部作品均已打上【他＆她心渐近汉化组】版汉化补丁。游戏本篇汉化帖：《【最新汉化】HaremKingdom 异世界后宫篇 V1.1汉化硬盘版[他&她心渐近汉化组]》  HaremじゃないよKingdom 光＆ソフィーヤ＆キキ編  Getchu界面：点击游戏官网"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/760178","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

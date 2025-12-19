@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RJ01103194]【爆款互动SLG/中文/动态】情欲古式按摩店 -沉迷秘密服务的母女们 -V1.9＋DLC 官方中文正式版"}],["$","p",null,{"children":"爆款[护身术道场]正统续作！古早按摩店 官方中文正式版（情欲の古式マッサージ店 -裏サービスにハマる母娘たち-）游戏介绍：中学的时候，一直是柔道部的主力，也曾获得过全国五块金牌，所以腕力相当强。因为偶然的机缘，加入了鲤龙会。横滨第二暴力团组织“乙”西百浩太最大的弱点就是好色，每次看到在意的美女就会有想做的冲动。他曾因与同组织干部的女人发生关系而被追捕，但他逃到乡下一段时间后，又回到了组织。组内的川岛裕介非常重视浩太，最近打算培养浩太，让他继承自己事业的一部分。DLC：情欲古式按摩店-对性感店员做"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/a8b17bfc9f79f4d14250aeba4a6ed315","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

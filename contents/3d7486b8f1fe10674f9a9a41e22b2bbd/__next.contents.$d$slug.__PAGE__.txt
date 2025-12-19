@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化同人本/新汉化】2024.6.17 56本"}],["$","p",null,{"children":"(C103) [ニュートンの林檎 (戌角柾)] ユウカとノアと仲良くシたい (ブルーアーカイブ) [386歪汉化](C103) [熊の穴 (シロクマA)] ユウカちゃん本当に寝ちゃったの？ (ブルーアーカイブ) [386歪汉化](C66) [あっかんBi～ (柳ひろひこ)] 零X 0x0002 (サムライスピリッツ) [中国翻訳] [無修正](C90) [peachpulsar (みら)] 巨乳と貧乳が入れ替わる 01 [青文] [Pubu](C93) [えねるぎあ (ぴかち)] 0距離スノーラ"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/3d7486b8f1fe10674f9a9a41e22b2bbd","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

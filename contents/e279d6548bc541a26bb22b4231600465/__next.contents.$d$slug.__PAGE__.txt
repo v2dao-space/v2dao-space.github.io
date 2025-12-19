@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/PC]Kuri Kuri Click! 2 ~My Renaissance!~ - Uncensor DLC STEAM官方中文"}],["$","p",null,{"children":"我们的主角住在偏僻的森林里，以按摩师的身份谋生，擅长使用秘制精油进行精油按摩。然而，当帝国突然发动侵略战争时，顾客不再光顾，主角再也无法通过精油按摩来与女人相处，于是他开始渴望女人。后来有一天，他遇到了一位女骑士，她在与敌军的战斗中受伤并被击败后逃走了。主角不仅被突然出现的访客吓了一跳，而且几乎对她的长相垂涎欲滴。他假装用精油按摩来治愈她的伤口，涂上芳香的精油，开始工作……是的……这将是我的复兴！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/e279d6548bc541a26bb22b4231600465","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

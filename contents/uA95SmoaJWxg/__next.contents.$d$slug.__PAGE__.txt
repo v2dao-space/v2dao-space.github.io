@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/生肉】催眠性指導 -Secret Lesson-【度盘/4.13G】"}],["$","p",null,{"children":"\n作品内容\nGetchu界面：点击\n游戏官网：点击\n作品紹介\nSTORY\n主人公・田中はじめは、教師や生徒たちに〇〇術をかけて、誠深学園の「性指導員」となり、性指導という名目で毎日のように女の子たとをその毒牙にかけていました。\n彼氏の前で彼女の処女を奪い、無責任な種付けセックスをするのを至上の喜びと"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/uA95SmoaJWxg","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

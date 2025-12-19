@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【2D动画/有码】LOLIKAKU有声合集【Pixeldrain/31V/4.26G】"}],["$","p",null,{"children":"https://lolikaku.fanbox.cc/独乐乐不如众乐乐，都有大佬自购了，我也得表示一下。配音用的是兎月りりむ的音声作品，部分视频的表情（从从容容，游刃有余）会和声音不太合，因为我基本上都只听女性受的音声。其次转场比较生硬，因为这作者的视频都是几个阶段分开的，我也没办法。另外作者有做网"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2d-dong-hua-you-ma-lolikaku-you-sheng-he-ji-pixeldrain-31v-4-26g-MxlV","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"侠女的悲哀"}],["$","p",null,{"children":"峨眉门下的侠女唐菲，为了协助丈夫铲除朝廷的奸党，盗得一份圣旨却不想其中有诈，不仅没能铲除奸党，反而害了丈夫，连自己也神仙魔掌。同为峨眉门徒的锦衣卫薛岳，在危难之时解救了唐菲母女，却不想这再次陷入奸党的圈套，原来薛岳也是奸党，虽然尊称唐菲为师姑，却迷恋唐菲的中年熟妇的美色，采用卑鄙伎俩占有了唐菲。从此，唐菲一直陷入薛岳的淫威之下……\n该书初稿为短篇十节约3万5千字，随后作者写了三章续集约1万6千字，然后又改写为十四章近20万字的章回体长篇。这是初稿、续集和改编版全集。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/fN6lIFS3Kc","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

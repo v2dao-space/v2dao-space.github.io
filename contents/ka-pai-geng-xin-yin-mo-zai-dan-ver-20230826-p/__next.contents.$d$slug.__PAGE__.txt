@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【卡牌 / 更新】淫魔再誕 ver20230826p"}],["$","p",null,{"children":"新榨精者占卜师：主要效果榨精1，看卡组3张牌自行排序。巨乳化后可以拿一张奇迹牌入手。可以检索奇迹牌，但是不减费。拿到了也打不出来，作用不打。还是要等后续的奇迹体系补强。  新盖卡：击龙驽：龙守护者攻击时，对其造成5点伤害。龙饵：对手龙守护者出场时，将其变成我方单位两张针对龙卡，击龙驽5伤刚好可以击杀地龙/火龙。  酸雨：3回合内「長柄」、「装甲」无效，「長柄」、「装甲」本来也没多少，还要3费。3费都可以出雷精灵解场了  想力炮：4费打出来，之后可以花2费+一张手牌换一只怪。太亏了解第一个怪就要6"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ka-pai-geng-xin-yin-mo-zai-dan-ver-20230826-p","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

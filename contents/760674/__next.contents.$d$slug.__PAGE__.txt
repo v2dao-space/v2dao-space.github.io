@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D游戏/汉化/SLG】真实人生：阳光城/Real Life Sunbay City [v1.3 Beta] 【8G】"}],["$","p",null,{"children":"主题更新: 2024-02-05发布日期: 2024-01-31开发人员: Tom 版本: 1.3 Beta操作系统: Windows语言: 英语类型:3D 游戏、3DCG、动画、沙盒、女主角、男主角、角色扮演、大奶、暴露狂、跨种族、口交、阴道性交、战斗支持作者：https://www.patreon.com/Sunbay汉化组：小妖怪汉化（0.51版本）游戏概述：抢劫成功后，詹姆斯和他的团伙离开了这座城市。他的姐姐住在那里，但她每周都会给他寄一张明信片。这意味着一切都很好。很多年过去了。有一天"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/760674","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

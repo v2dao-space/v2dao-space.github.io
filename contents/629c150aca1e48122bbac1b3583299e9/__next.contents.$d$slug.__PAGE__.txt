@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D动画/生肉/AI去码/AI补帧】Custom Udon 老师作品Miko和Wafuku【度盘/2.17G】"}],["$","p",null,{"children":"科技改变生活，授人以鱼不如授人以渔^_^我先用 JavPlayerEz 进行去码处理（①TG8XhdAF②SE-4X-S2③UE-4X，马赛克范围拉最大） 软件下载/教程https://www.bilibili.com/video/BV1yi421Z71D然后用Topaz Video AI 进行补帧60fps处理（apollo优先，报错就用choronos）软件下载/教程https://www.bilibili.com/video/BV14D421j7Ei/（我用的是4.2.2的老版本，现在好像"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/629c150aca1e48122bbac1b3583299e9","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

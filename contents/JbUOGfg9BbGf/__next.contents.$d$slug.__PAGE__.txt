@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/AI汉化】 失踪 ユクエシラズ【1.5G/度盘】"}],["$","p",null,{"children":"  \n与被囚禁的少女一起生活的半现实时间模拟游戏。\n你可以锻炼能力，培养少女，与邻里保持正常社交，给她洗澡、让她为你服务，做饭等等。\n随着每时每刻的变化，少女的状态也在变化。在日常情景和H场景中，少女的状态会快速地根据您的行动而变化。直到选择下一个动作之前，时间和少女的参数会自动持续变化。根据不同状"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/JbUOGfg9BbGf","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

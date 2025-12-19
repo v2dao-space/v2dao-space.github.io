@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG/汉化] 淫勇传奇 ～一款被敌人和伙伴一起榨干的RPG～ Ver22.12.24 官中AI汉化版+存档"}],["$","p",null,{"children":"自从发现淫魔的存在以来，已经过去了二十年。淫魔获得了权力并繁荣起来，并开始征服世界。为了阻止征服，勇者主人公进入魔王的城堡，讨伐被称作「魔王」的淫魔之王。身穿传奇装备的勇者自信满满地来到魔王面前，魔王却坏笑起来，她开始通过强调她的大乳房来诱惑他。被魔王强大的淫力击败的勇者，身上被刻下“淫魔印记”。那印记是一种可怕的印记，会让人“随时随地都性欲旺盛，而且无法用理智控制。勇者能否再次到达魔王所在的地方并拯救世界呢——？"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/bedad5ef29ba33d7808b8090f4612654","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

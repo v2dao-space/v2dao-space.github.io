@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【MMD】Steven Purgatory 9月新视频以及往期视频的合集(截止24.9.22)【度盘/3.9g】"}],["$","p",null,{"children":"\n\n\n\n\n\n\n\nSteven Purgatory今天更视频了，我从他上次放出擂台预告片就被那个大小姐戳XP了\n结果先出来的是马猴烧酒番外。。。顺带就把以前的一些视频也一并整理打包了\n按作者给的剧情介绍分了一下时间线，一共是17部视频（还有个锁了的没算进去）\n4年前的旧作都是720p其余是1080p\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/CCYWQmq9vIAh","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

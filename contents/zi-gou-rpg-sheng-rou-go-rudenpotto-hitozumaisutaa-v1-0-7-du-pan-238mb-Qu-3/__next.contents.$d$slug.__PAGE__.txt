@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【RPG/生肉】[ごーるでんぽっと]ヒトヅマイスター！ V1.0.7【度盘/238MB】"}],["$","p",null,{"children":"不介绍游戏了，好几次版本更迭，更新了啥我也说不出。按作者的话来说，第一章应该结束了，没有伍套的行为，我玩的时候也没发现啥恶性BUG，应该算一个可以游玩的版本。虽然我看不懂日文，但作为一个黄毛，我玩了几个小时的按钮小游戏，SL了几个小时的材料，周目还全清空了，后续踩了一堆恶性BUG，目前合计游玩了22"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/zi-gou-rpg-sheng-rou-go-rudenpotto-hitozumaisutaa-v1-0-7-du-pan-238mb-Qu-3","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

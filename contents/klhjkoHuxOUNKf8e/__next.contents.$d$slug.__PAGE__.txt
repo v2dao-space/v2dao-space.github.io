@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/安卓模/PC】沉睡的羁绊 V1.01 3D互动 官方中文版【新作/2.6G】"}],["$","p",null,{"children":"沉睡的羁绊 V1.01 官方中文版 （眠い絆）   游戏介绍： “从今天起，我要在这里住一个星期。 有点期待会发生什么事情呢。” 那么，这七个夜晚会发生些什么呢？ ——不，感觉……总有什么要开始了。 相机操作 右键+鼠标移动：旋转\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/klhjkoHuxOUNKf8e","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

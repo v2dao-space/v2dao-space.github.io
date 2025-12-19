@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【神作RPG/安卓模拟器+PC】天才退魔师不会屈服于触手妖魔 官方中文版+自带全回想【新作/1.6G】"}],["$","p",null,{"children":"天才退魔师才不会屈服于触手妖魔 STEAM官方中文版+自带全回想+可用安卓模拟器 （天才退魔師は触手妖魔なんかに屈しない） 游戏介绍： 自古以来就一直仇恨着人类的暗之眷属，妖魔。现今也存在于这个世界当中。 然而……从妖魔手中保卫人类的人们也\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/FLxVuR3bk6L5","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

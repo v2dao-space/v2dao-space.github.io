@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/AI汉化】ゴブリンの巣穴 戦国餓鬼道 Ver.240812（RJ01232863）"}],["$","p",null,{"children":"社团名ぺぺろんちーの 【30%OFF】ゴブリンの巣穴 戦国餓鬼道 [ぺぺろんちーの] | DLsite 同人 – R18贩卖日2024年08月13日 0点系列名ゴブリンの巣穴年龄指定R18作品类型模拟有声音有音乐有动画文件形式软件支持的语言日文分类内射/中出 怀孕 造孽 多p/乱交 强行 多人运动 异种X メス堕ち文件容量合计 5.75GB     游戏介绍――时值群雄割据的战国时代。高举全国统一之旗，驰骋战场的英杰，织田信长。率领最强骑兵部队的甲斐之虎，武田信玄。等待进化时机的年轻豪杰，伊达政"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/d9927eef3df1e23096cefbf4fb141f28","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

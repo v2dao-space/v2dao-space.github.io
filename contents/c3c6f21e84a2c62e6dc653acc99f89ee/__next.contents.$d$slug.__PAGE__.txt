@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG]为了改变荒谬的世界……欧派革命团成立了！ [pc+安卓/AI翻译]"}],["$","p",null,{"children":"故事在某个世界……那是一个只因“女性”身份就受到虐待的，“超级男尊女卑”的世界。住在那个世界的某个少女\"艾米尔\"，对这样的社会一直感到不满。有一天，她无意间从“居住在另一个世界的魔王”那里，得知了这个世界的绝对真理。这个真理，即是。【鸡鸡无法战胜欧派】艾米尔知道自己的巨乳是诱惑男人最强的武器，为了改变荒谬的世界，她立誓要以欧派颠覆世界，成立了革命团体——『欧派革命团』。“我……要发动一场‘革命’！要发动‘欧派革命’，颠覆这个世界！”于是怀揣革命意志的艾米尔，以J罩杯欧派为武器，燃起了革命的烽烟—"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/c3c6f21e84a2c62e6dc653acc99f89ee","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

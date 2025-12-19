@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【轻小说/汉化】【森橋ビンゴ】东云侑子 系列/「東雲侑子」シリーズ 小说3卷epub/txt【度盘/10MB】"}],["$","p",null,{"children":"简介 故事以高中生三并英太与东云侑子的交往为主线。英太因逃避社团压力选择担任图书委员，发现侑子以笔名”西园幽子”创作短篇小说后，两人因共同疏离感逐渐靠近。侑子为积累长篇小说创作经验，提议与英太建立”假装交往”的模拟恋爱关系，由此展开焦虑而苦涩的青春情感互动。每章首页穿插侑子的短篇小说片段，映射其情感"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/qing-xiao-shuo-han-hua-sen-qiao-bingo-dong-yun-you-zi-xi-lie-dong-yun-you-zi-ysK5","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

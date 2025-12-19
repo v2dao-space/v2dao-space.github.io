@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/未汉化/双端】爱丽丝的裁决"}],["$","p",null,{"children":"游戏介绍游戏原名：リルぱい Liveプレイ アルバム102 ～ありすのふしだら裁判編～社团名：nyaatrap经典的互动类游戏捏，感觉这样的互动很新颖的。算是个小游戏吧，内容不是很多的，这个社团作品就是这样的。在无聊的时候可以玩玩捏      入正链接https://www.dlsite.com/maniax/work/=/product_id/RJ01088688.html"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/f2bdd9f40edbc32d50be8ae26fb8d263","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

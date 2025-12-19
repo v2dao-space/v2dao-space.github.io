@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D动画/4K/无修正】【Croove】10月4日作品 HK416【370M/度盘】"}],["$","p",null,{"children":"我没要求你永远保持HMV式的高水准，我不是恶魔。 可是，只有三个镜头是什么意思？你的艺术家之魂怎么了？你才刚进入事业上升期吧。 再这样下去，你下个月的作品就两个镜头，下下个月的作品就一个镜头，最后就只剩一张png让我们开鬼脑自己动了。 防作为一个白嫖党，我可能真得激励激励你，真的。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/uaUf5JQhmA","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[亚洲SLG汉化]枢纽军团The Nexus v0.2 [双端]"}],["$","p",null,{"children":"回到你小时候失去家人的小镇后，你试图与你忠诚乐观的好朋友爱丽丝和她充满爱心的母亲伊莎贝尔开始新的生活，伊莎贝尔在你家人遭遇悲剧后将你带到了她的羽翼下。一切似乎都很正常，直到你开始做奇怪的梦，暗示这个小镇上发生的事情比眼前看到的要多。你很快就会发现，镇上的一些居民并不完全来自这个世界。而且他们也不太像人。有些是友好的。甚至在你自己学校的简单学生。但谁能说还有什么其他邪恶的生物可能爬到了这个世界......他们可能正在策划什么邪恶的计划。揭开西奈山小镇的神秘面纱，与你最好的朋友爱丽丝一起揭开它的黑暗秘密。与你的同学探索新的友谊，无论是人类还是其他同学，并随着你更多地了解他们在异国他乡的过去生活而变得更加亲密。了解你在阻止跨维度入侵方面命中注定的角色，因为你与你的新盟友和他们的超凡脱俗的力量并肩作战，以保护你所关心的人。你能阻止这种超自然的威胁吗？你能拯救你所爱的人吗？这些选择现在掌握在你手中。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/b0a712cb891a3c3eebf0a86ea26f6a1e","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

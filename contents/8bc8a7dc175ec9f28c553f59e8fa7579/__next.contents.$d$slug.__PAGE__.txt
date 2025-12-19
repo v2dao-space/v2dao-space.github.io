@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/GORPG汉化】命中注定召唤术（Villnammellet） v1.07c（附v1.1b）"}],["$","p",null,{"children":"DLsite: ヴィルネーメレト KICHUREA游戏概述：这是一款由[KICHUREA]制作组出品的超奇妙RPG游戏。现在已经由GORPG的胆小熊汉化组制作了最新的精翻汉化中文版。文本质量绝非机翻能比！而且是最新Ver1.1完全修复BUG版本。正如你看到的封面一样，全程采用黑白配色，没有任何上色事项。虽然看上去奇葩无比，但是这款游戏可谓是DL今年真正的爆款。不仅后来者居上，甚至吊打夏色，在销量和人气上斩获年度第一！制作时间整整4年，是超级宏大的开放世界RPG游戏而且还打出了DL有史以来最高的售"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/8bc8a7dc175ec9f28c553f59e8fa7579","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【神作RPG/安卓模拟器+PC】黑山羊之夜 官方中文版+存档【新作/3.2G】"}],["$","p",null,{"children":"黑山羊之夜 官方中文版+存档 （『シュブニグラスの夜』～君と暮らすクトゥルフ神話の世界～） 游戏介绍： 平凡的你某天突然被带到了梦境世界中。 在眼前展开的，是神与神话生物乱舞，强者可以为所欲为的残酷克苏鲁神话世界。 你在这里遇到了女主角「莎\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Y4gCW3ElTGWo","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

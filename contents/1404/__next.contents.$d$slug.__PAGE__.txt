@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[ADV拔作/汉化]中出！拍卖网站的巨乳辣妹！安卓云汉化版[500M]"}],["$","p",null,{"children":"\n\n\n\n中出！拍卖网站的巨乳辣妹！云汉化版[PC+（もしもオッサンがオークションサイトで知り合った巨乳ギャルを落札したら）\n\n\n\n这是由[ソーラレイ]发布的一款画风超赞的ADV拔作。目前由梦痕游戏完成了云汉化版，包含PC+安卓模拟器版本。本作主题是大丁丁的男主通过拍卖网站结识两个小姐姐然后各种约炮并且最终成为长期炮友的奇妙故事~总之呢，全程CV，画风社保带劲，黑皮的辣妹和水嫩的小花任君采摘~\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1404","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

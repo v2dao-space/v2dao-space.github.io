@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG/百合futa]天空度假村-德尔福和杰西 v1.2 完结 官方中文步兵版 [安卓][度盘/2.2G]"}],["$","p",null,{"children":"天空度假村 – 德尔福和杰西 v1.2 完结 官方中文步兵版 [PC+安卓]Sky Resort – Delphi & Jessy [Final] [CrazySky3D]游戏建模非常赞，不过这是一部以FUTA百合为主的故事\n\n\n\n\n\n\n\n剧情简介：作为度假村的负责人，你的职责是满足客人的愿望，无论他们的要求，都要满足他们，并确保他们有一个难忘的住宿。你能胜任这项工作吗？天空度假村 – 德尔菲和杰"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/721","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

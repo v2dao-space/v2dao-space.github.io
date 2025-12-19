@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG/汉化/动态]沉寂之舞 Ep.9 Ch.1 SE 重置汉化版[10月更新][安卓][4.5G]"}],["$","p",null,{"children":"游戏概述：本作又是一款欧美全家桶黄油大作，人物建模非常精美，CG画风给力。特点是妹子们身材都非常实用！！出场的妹子已经非常多，有妈妈，姐姐，女医生，女邻居等等~目前版本更新了多次，内容非常丰富！场景非常多，不但上垒剧情全部是动态的，连生活场景都有很多动态，效果非常不错~\n\n\n\n\n\n\n\n游戏介绍：你的父亲去世之后，你的妈妈梅根艰难的维持你和你姐姐莎拉的生活。而你却不争气的被大学开除了，为了不让你的妈"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2223","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中】闪光圣姬马尾天星/聖光閃姫ポニーセレス"}],["$","p",null,{"children":"闪光圣姬马尾天星\n  \n入正链接：点击访问\n     \n关于这款游戏\n守崎优衣是位平凡的女孩，每天忙于柔道俱乐部和单相思，过着她普普通通的生活。平静的日子持续到她偶然遇上了名为波尔卡的人偶，并被赋予了变身为圣光闪姬马尾天星的能力，得以对抗邪恶的扎伊达格——一心想要入侵并奴役全人类的外星组织——为止。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/NPQErO0D7Wsz","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】[PC+安卓joi]地下城时空跳跃者～重来英雄的淫荡冒险～/ダンジョンタイムリーパー ～ヤりなおし勇者の淫らな冒険～"}],["$","p",null,{"children":"所发布资源不得用于商业盈利，否则产生的一切后果将由您自己承担！制作介绍（#F18）  社团名スタジオVR 贩卖日2024年01月25日 0点作者宇田辰紀剧情桜木涼月 / るーじるこ插画灰原しとりん / ぷりる声优柳島あかね / 本多未季 / にしだあきら / 出涸茶の湯 / このえゆずこ / すみれな / アオナミツバメ / 美咲さゆり年龄指定18禁作品类型角色扮演 有声音 有音乐文件形式软件其他AI生成作品支持的语言日文分类男主人公 卖春/援交 幻想 凌辱 口交 羞耻/耻辱 男性受 巨乳/爆乳"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/739635","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

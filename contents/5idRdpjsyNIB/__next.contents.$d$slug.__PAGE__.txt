@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG/PC]スラム街案内人/贫民窟导游 STEAM官方中文"}],["$","p",null,{"children":"踏入秘密的贫民窟，耳语的谣言吸引了众多寻求财富和机会的女性访客，她们对潜在的隐藏挑战一无所知。在这个以叙事为驱动的角色扮演游戏中，你将扮演艾德，贫民窟的一名足智多谋的居民，扮演向导的秘密角色。艾德的任务是通过收集信息和从不同来源（如当地商店、旅馆、教堂和居民）获得的工具来招募并融合这些毫无防备的女性。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/5idRdpjsyNIB","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

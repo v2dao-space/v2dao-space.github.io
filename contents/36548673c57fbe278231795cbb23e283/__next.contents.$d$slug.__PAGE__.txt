@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/经典】修女卖春救父记V1.03汉化版【PC】"}],["$","p",null,{"children":"【RPG/经典】修女卖春救父记V1.03汉化版【PC】 经典作品，应该也是不少小伙伴的启蒙游戏了~ 游戏介绍： 为了寻找失踪在遗迹的父亲踏上旅途，普通的勇者题材情节，不一样的是冒险之路上会充满着各种各样的诱惑。细节方面可谓非常用心，敌人绘制"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/36548673c57fbe278231795cbb23e283","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

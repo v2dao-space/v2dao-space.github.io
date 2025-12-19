@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":" 打工时露出的女学生"}],["$","p",null,{"children":"简介：这是由[ダブルメロン] (https://www.dlsite.com/maniax/work/=/product_id/RJ259677.html)创作推出的一款RPG游戏概述：主人公天野星菜（あまの せいな）是一名在学校就读的女子高中生，为了赚取学费而做各种兼职工作。虽然每份工作都很有趣...但毕竟工作也会带来压力堆积...而对于星菜来说，最好的释放压力的方式,就是在兼职工作中偷偷露出。她继续露出下去的命运是...要素基本 CG 26 张！差分超过 450 张！场景数超过 90 个！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/c5286e146770c56e7005962d09fbcf70","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

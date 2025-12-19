@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【神作RPG】开始吧！我的播种农场1.1.0【安卓+PC】"}],["$","p",null,{"children":"游戏介绍 居住于城市的你，因为厌烦了循规蹈矩日日繁忙的社畜生活，选择来到乡村过上恬静的慢生活。当听说某个村子的农场正在出售的消息后，你选择买下这里，开始自己的第二人生。然而这个村子的村长向你提出了一个令人意想不到的请求……「能否请你和村子里"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/b8682963a888538a12dbfa5c1b9a6b29","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

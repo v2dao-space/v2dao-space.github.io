@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【GAL/汉化】カノジョ＊ステップ【3.79G】"}],["$","p",null,{"children":"游戏类型制作公司：SMEE 发售日期：2016年09月30日汉化日期：2020年01月01日汉化小组：他＆她❀心渐近汉化组游戏类型：学园、恋爱游戏原名：カノジョ＊ステップ游戏别名：与她＊心渐近剧本: カノジョ＊ステップ制作部、岸田ソラ、早瀬ゆう音乐: Sound Studio B主题歌作词: 永原さくら主题歌演出: 佐々木詩織原画: カノジョ＊ステップ制作部主题歌作曲: Umigame剧情介绍春天。在已经记不清第几次的搬家后，这次，我住到了奶奶开的民宿里。打开窗户，眼前便是大片田地，从后门出去，"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/44f5242976f47cfc52db97adc951b1da","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

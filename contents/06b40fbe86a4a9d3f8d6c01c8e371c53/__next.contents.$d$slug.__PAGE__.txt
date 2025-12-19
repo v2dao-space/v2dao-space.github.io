@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D/无码】Bazett大佬作品 2024.08合集（3V/1.09G）"}],["$","p",null,{"children":"这俩月作者主要还是在做长一点的视频 更新频率就显得很低了本月除了盼了好久的德尔塔和伽马双人足 就是芙莉莲的两部了（感觉是一部分开了）  可算等到这部了 最后还有一段阿尔法的不懂就问 怎样才能被她们拷问捏  大佬主页：https://www.patreon.com/bazett/posts暂时换回第一档赞助了 之前投票的角色感觉也得好久才能做完了"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/06b40fbe86a4a9d3f8d6c01c8e371c53","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

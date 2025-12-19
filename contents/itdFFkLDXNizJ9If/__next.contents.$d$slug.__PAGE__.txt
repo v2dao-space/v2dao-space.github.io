@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【漫画同人本】[黒舞花][黒舞花] 人体アート（爆乳JCちゃんの受難） 連載第18回 [中国翻译]"}],["$","p",null,{"children":"終於能看到她崩潰的樣子了 這不可不品嚐，睡了四年多啊……某读者从最开始偶然刷到单纯好奇想看作者还能有啥能改造以及她醒来的反应，到现在已经恶堕成了重度G向amputee爱好者，全都怪这个叫速水悠宇娜的可怜女孩（笑）只能说，看到牢花还活着，能完结这坑就满足了 有想看的直接留言就好了~    human_"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/itdFFkLDXNizJ9If","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

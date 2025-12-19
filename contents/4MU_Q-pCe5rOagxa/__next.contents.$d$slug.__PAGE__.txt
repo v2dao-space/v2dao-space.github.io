@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【同人音声/熟肉】【RJ01010122】【简体中文版】坏心眼魅魔的躲避炸弹撸1000次的自慰辅助游戏【度盘/912.96M】"}],["$","p",null,{"children":"DL官网： https://www.dlsite.com/maniax/work/=/product_id/RJ01010121.html/?translation=RJ01010122 在魅魔的吐息地雷下撸1000次，分三个难度，建议挑战的时候不要着急 已转lrc，当时下载解压的时候有点问题，tx"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4MU_Q-pCe5rOagxa","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

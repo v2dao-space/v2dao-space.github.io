@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/生肉】Adult Escape From Zombie U v2025-03-06【度盘/1.1G】"}],["$","p",null,{"children":"官网：https://nidio.itch.io/escape-from-zombie-u 追挺久的游戏，ACT不用会英文也能正常游玩 故事围绕一群试图逃离被僵尸肆虐的大学的教职员工和学生展开。 威廉姆斯学院以其生物工程研究闻名，直到某天，其中一项实验出现可怕差错，导致大部分学生遭受感染。 这些僵尸"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/MjMCBcoLZYV-jffD","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

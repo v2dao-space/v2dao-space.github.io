@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【完结番剧/1080P】[云光字幕组] 间谍过家家 Spy x Family(スパイファミリー) 全两季+剧场版代号：白 [简日双字幕]【迅雷/14.59G】"}],["$","p",null,{"children":"人人都有不愿对他人露出的一面。这是一个情报战的年代，全球各国都全力参与其中，表面上却不动声色。东国和西国已陷入冷战长达十多年。“黄昏”是一名顶尖间谍，隶属西国专门对付东国的情报局WISE。他奉命执行一项秘密任务：追踪东国国家统一党党魁唐纳文‧戴斯蒙德的一举一动。这名危险人物为东西两国间的和平构成重重威胁。这场行动代号是“枭”。黄昏必须在一个星期内组织家庭，潜入戴斯蒙德儿子就读的名校，参加他们的日常社交聚会。他假扮成精神科医生洛伊德‧佛杰，迅速组成家庭，一切照计划进行，不料他的“女儿”安妮亚竟有读"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/3dcd98b869456c1aea429b5c6296c759","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无码】Realms Of Bondage v1.0.4b"}],["$","p",null,{"children":"\n在这款成人幻想游戏中，玩家可以训练并引导角色，在一个丰富的幻想世界中展开冒险旅程。整个冒险过程中所做的选择会塑造每个角色的发展，影响其个性、欲望和关系。游戏提供多种结局，让玩家根据自己的选择体验独特的结局，每种选择都会影响故事的发展以及角色的命运。探索广阔的世界，你的行动将定义每次冒险，并通向不同"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/w3HA4sLWCSzC","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

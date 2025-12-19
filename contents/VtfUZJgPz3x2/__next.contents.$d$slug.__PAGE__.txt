@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】无限轮回NTR坏结局~反复被寝取,每次都在后悔自慰/無限回NTRバッドエンド～何回も寝取られる、その度悔シコる～【2.98G/度盘】"}],["$","p",null,{"children":"  \n概要：这部作品的舞台设定在夏天的乡村小城，一位名为【无尽NTR催○】的事件正在袭来一位巨乳害羞的女主角——春风つくし。在暑假期间，女主角突然来到亲戚兄长卡兹基的公寓中寻求庇护。然而，在卡兹基隔壁的房间里，住着一位热爱つくし的邪恶色情女神【ヒナたん】，她似乎正在策划一些阴谋——。这是一个关于一心"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/VtfUZJgPz3x2","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/机翻】すくーる・ふぁんたまいず!【800M/百度】"}],["$","p",null,{"children":"  \n找到一种方法来消除学校生活中的诅咒！\n【自由行动】\n有效利用有限的时间\n收集幻影（卡牌）与好友互动，寻找解除诅咒的方法！\n【色情状况】\n迄今为止的所有猥亵行为都将被记录。\n如果谣言传开，将会发生特殊事件，你在学校的地位可能会受到威胁……\n【地下城策略】\n潜入地下城寻找物品来打破诅咒！\n用你完善"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/rkxP9aUopLsq","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

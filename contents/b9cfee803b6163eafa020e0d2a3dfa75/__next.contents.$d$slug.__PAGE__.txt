@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"白嫖券～从这天起所有女人都是行走的飞机杯～_Ver1_01_PC - 萌百ACG"}],["$","p",null,{"children":"肥宅男主毕业后失业，形象猥琐遭人讨厌，一无是处。他每天只能把街上遇到的女性刻在脑海，回家再当幻想对象鲁一发。某天却遇到了一个神秘会读心术的女人，送给他一种[白漂券]的奇怪东西。在家里安装一个特殊信号装置，信号范围内只要把券交给任何女性就能直接H她！面对这飞来横福，肥宅男主开始精神焕发，准备在街上[大干]一场！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/b9cfee803b6163eafa020e0d2a3dfa75","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

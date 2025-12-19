@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D动画/有码】ブランholo管人合集【度盘/3.99G】"}],["$","p",null,{"children":"作者：ブラン 入正：https://fantia.jp/fanclubs/74572 完了，全完了，ブラン家被偷了，有关holo的管人视频全部删了 不管是fantia还是patreon，就连iwara我也找遍了，全删了 本来昨天想上fantia买点好康的，没想到天直接塌了 没有团长我该怎么活！hol"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/tq5TXos7vtMe","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

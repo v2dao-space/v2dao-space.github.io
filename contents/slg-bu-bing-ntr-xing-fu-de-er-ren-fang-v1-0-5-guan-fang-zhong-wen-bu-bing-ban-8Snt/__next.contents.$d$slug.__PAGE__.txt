@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG步兵/NTR]幸福的二人房 v1.0.5 官方中文步兵版+存档"}],["$","p",null,{"children":"[SLG步兵/NTR]幸福的二人房 v1.0.5 官方中文步兵版+存档 部分NTR剧情！！！ 游戏概述 我被绑架了 被认识多年以来的姐姐，绑架了…… 游戏剧情 怎么样的选择才是正确的？ 不论如何思考、如何抉择，终究会走到绝望的一面。 但是她\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/slg-bu-bing-ntr-xing-fu-de-er-ren-fang-v1-0-5-guan-fang-zhong-wen-bu-bing-ban-8Snt","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

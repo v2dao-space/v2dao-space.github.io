@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/机翻/PC&安卓】Lasting ConnectionsV1.16 【度盘/1.70G】"}],["$","p",null,{"children":"游戏简介您将扮演一个名叫丹尼尔的年轻人，探索一个充满拥有丰满身材的迷人女性的世界。更新日志：v1.16在索尼娅的特殊/秘密事件中添加了新的对话选项在索尼娅的特殊/秘密事件中添加了秘密对话选项，需要更具体的决定才能揭开推进了索尼娅所有路线的主线故事添加了 Vilvie 场景为两个新角色添加了场景在游戏开始时添加了一个选择“模式”的选项添加了操作员。启用“辅助模式”时提供提示和事件触发器。可以通过选择“标准模式”来禁用爱与欲望系统已被心与行动标志系统取代。心的触发不再取决于您的即时决定，而是取决于您"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/beec2ebd","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】 公園的秘密遊戲會 公園のひみつのゲーム遊び 【287M/度盘】"}],["$","p",null,{"children":"  \n概要：这是一款关于对沉迷于游戏的少女恶作剧的触摸模拟游戏。\n在一个无人的公园里，有一位少女在度过悠闲的假日时出现了。这位有些沉默寡言的她对那款游戏非常感兴趣。于是，为期数天的「游戏」就此展开…\n\n\n\n\n社团名\nbatsnail \n关注32\n \n\n\n\n\n\n\n\n\n\n贩卖日\n2024年12月02日 "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/pCDIfuhYXLSN","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

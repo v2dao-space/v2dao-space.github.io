@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】 洗脳アプリで清楚なお嬢様をドスケベ調教するシミュレーション Ver0.1.0【度盘/330M】"}],["$","p",null,{"children":"お待たせいたしました！ ようやく進捗報告版を出せる段階になりました…！ 支援者様向けページにダウンロードリンクを掲載しています。 と言っても、まだまだ未完成品ですので、以下のような点をご了承ください。 注意点 前作に比べて動作がかなり重いかもしれません。製品版までには軽量化する予定です。 調教レベル"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/56cDJMd2cXzfd8cR","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

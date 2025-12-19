@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[国产RPG/中文/动态CG]末日方舟 重置中文版[新作][安卓][3.9G]"}],["$","p",null,{"children":"末日方舟重置中文版\n\n\n\n内容包括：安卓手机版，已整合。\n\n\n\n游戏概述：这是一款国人自制的高质量末日类型rpg游戏。讲述洪水淹没陆地的世界里，男主和家人们劫后余生的故事。游戏有类似大航海时代的世界海域航行玩法，甚至可以捕鱼伐木等等。所有女主一共超过50个以上，每人都有非常社保的动态CG特殊场景。游戏是PC+安卓双端版本，所有CG和内容都是精心重置的船新版本。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1715","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

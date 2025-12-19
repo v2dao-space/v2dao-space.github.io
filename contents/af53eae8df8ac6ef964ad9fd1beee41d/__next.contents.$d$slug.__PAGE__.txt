@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG] DL官方中文  我不是领导!!  Ver1.00  僕はリーダーじゃない!! Ver1.00 "}],["$","p",null,{"children":"〇类型：戴绿帽子地下城RPG〇故事：男女主角加入冒险者公会。然而，两位新人却决定加入讨伐魔队！！女主角因魔族的影响而逐渐变得淫荡，而男人的手也靠近了！！在战斗中，他触摸了女主角的身体。这被称为行为幻灭后，他与女主角共度一夜…… 主角能从男人手中保护女主角吗？"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/af53eae8df8ac6ef964ad9fd1beee41d","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

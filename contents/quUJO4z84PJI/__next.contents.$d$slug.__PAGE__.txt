@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】Corrupt Them All – Tokyo Meow【百度/249M】"}],["$","p",null,{"children":"入正：https://store.steampowered.com/app/3249970/Corrupt_Them_All__Tokyo_Meow/\n关于这款游戏\n扮演乌贼王，建立后宫帝国，让女士们堕落成本性。\n\n\n提供不同策略的升级项\n\n\n每个阶段都有一系列精彩的故事CG供您探索\n\n\n我们所有游"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/quUJO4z84PJI","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

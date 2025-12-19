@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"虚幻寓言~欲望的祭品 False Myth v1.02"}],["$","p",null,{"children":"罗赫是一名武艺高强的流浪剑士，而她的命运之轮在她踏入了岛屿都市雷兰后便开始转动了起来。就在她进入都市后不久，她便被一群骑士不由分说地逮捕了，而领导这些骑士的人就是都市的领主，莉塔·雷兰。在一连串的误会和意外之后，罗赫从一伙杀手手中救出了莉塔，但她也被一根奇怪的注射器刺中，陷入了昏迷。当罗赫醒来之后，她惊讶地发现自己的性别居然变成了男性。莉塔爱上了罗赫这个救命恩人，而她的监护人，雷兰真正的领主克罗娜居然也欣然接受了这一切。实际上针对莉塔的暗杀已经发生了不止一次，而像罗赫这样强大的保镖正是克罗娜所需要的，她甚至想过要让罗赫成为莉塔的夫君，了却自己的一桩心事。罗赫对此极为反对，但是在莉塔和克罗娜的坚持下还是半推半就地担下了保护莉塔安全的职责。于是，罗赫在雷兰城中的冒险便就此拉开了序幕，尽管他并不清楚自己的命运早就和莉塔，克罗娜以及雷兰城捆绑在了一起……"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/8988fed76cbfe7d09d325b7cc1dc079d","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

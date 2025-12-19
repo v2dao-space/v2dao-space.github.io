@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/机翻无修】Nox Syndicate/FallingUndercover-NoxSyndicate EP2 体验版"}],["$","p",null,{"children":"各位好！🙏 久违了！这是我们时隔多时在itch.io上的首次更新，而且是个好消息。很高兴为大家带来全新项目——《卧底行动：诺克斯集团》！ 新伊甸正陷入混乱。腐败与犯罪肆意蔓延，市民们苦苦挣扎，生活日益艰难。 他们需要英雄…而英雄已然现身。 AEGIS特工露娜·维瑞丽丝毕生致力于铲除诺克斯集团等犯罪"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/SR_-EEp24aKIawM-","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

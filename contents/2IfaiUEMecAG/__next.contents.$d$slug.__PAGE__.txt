@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【同人本/单行本】小路步等画师本子更新（至240831）［21本/462P/359M］"}],["$","p",null,{"children":"八连发的第一弹！\n对先前整理过的小路步等人的大致从去年底到现在的新本进行了更新。包含小路步的4本，エロッチ的6本，まゃ~吾郎的1本，やみなべ的3本，甘露アメ的3本，木谷椎的1本，雪野みなと的3本。其中雪野みなと的たまや系列是散图本，可以和先前的たまや系列系列文件夹直接合并。\n木谷椎大抵是也要加入へん"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2IfaiUEMecAG","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

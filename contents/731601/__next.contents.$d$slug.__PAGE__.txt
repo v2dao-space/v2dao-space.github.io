@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【音声】【RJ01127807】【碧蓝航线ASMR】治愈指挥官小分队!信浓的恬眠幻梦"}],["$","p",null,{"children":"社团名アトリエメール 关注10,110贩卖日2023年12月16日 0点系列名治愈指挥官小分队!剧情Yostar插画そらなにいろ声优能登麻美子音乐青春×フェティシズム年龄指定全年龄作品类型音声・ASMR文件形式WAV/ mp3同梱 / mp4支持的语言中文(简体字)分类萌 治愈 环绕音 ASMR 日常/生活 低语文件容量合计 5.65GB作品立意角色介绍&梗概场景★track00 念标题★track01 佳人幽幽,蹁跹入梦梦醒时分,信浓来访落入梦乡的信浓★track02 海边漫步,朝霞绕梦晨曦初"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/731601","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

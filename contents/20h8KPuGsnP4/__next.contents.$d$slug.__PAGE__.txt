@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/AI汉化】 与傲娇少女的同居性活 【Live2D×おさわり】生意気少女とわからせ同棲性活 【2.6G/度盘】"}],["$","p",null,{"children":"  \n  \n“你，从今天开始就是带薪休假了。”\n主人公“我”是这样被上司告知，得到了名为带薪休假的夏季假期。\n之后，我在家里闲着没有特别的事情做，邻居的女孩“结月”来到了我家。\n充满了傲气的结月像往常一样调侃“我”，说道：\n“哥哥，从今天开始要和我同居哦。”\n于是，我和结月的同居生活就这样开始了。\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/20h8KPuGsnP4","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

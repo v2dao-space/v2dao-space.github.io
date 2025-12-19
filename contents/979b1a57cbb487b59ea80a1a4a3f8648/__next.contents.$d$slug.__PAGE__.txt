@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【2D同人/无修/1080p】[21-2407][theobrobine]大佬 43分钟合成版【度盘/1V/1.41G】"}],["$","p",null,{"children":"看到站内大佬再用视屏伪装，出于好奇研究下，于是乎看到[theobrobine]作品，肉感十足画风我挺喜欢的，就拿来练练手。这个作者挺多西瓜肚和扶她，但不是我的爱，所以这个合集版没有这两个元素。素材来源于站内的永目巨兽大佬，感兴趣想要单独下载的可以看看 theobrobine大佬 动画+GIF整理合集 2021-2024点击直达重点来了下载后貌似只能通过最新版的Bandzip和winrar其他软件99%解压失败报错，最好改zip格式再解压，手机端不知道请不要问我。（我就是用系统自带的winrar改"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/979b1a57cbb487b59ea80a1a4a3f8648","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

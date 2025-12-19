@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"荒野的召唤：垂钓者 Call of the Wild: The Angler v1.8.5.2824359版|集成全DLC官方中文"}],["$","p",null,{"children":"钓鱼佬的梦想钓点！ 备注：文件较大，亲预留足够空间！ 游戏介绍 《猎人：荒野的召唤》游戏的创作者们带来了身临其境的颠覆性钓鱼体验！探索辽阔的开放世界，找寻绝佳的钓鱼地点。单人游戏或与好友一起，尽享垂钓乐趣。赶快出发，踏上钓鱼大师的成长旅途。\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/TfGxktxZ2YF2","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【GAL/汉化】ナツイロココロログ【OD/2.7G】"}],["$","p",null,{"children":"25/09/26  作品内容 Getchu界面：点击 游戏官网：点击 作品紹介 STORY 主人公臣苗嘉人就读于私立芦ノ宫学园。某日，前辈名城绮新突然向他发起了格斗游戏的挑战。虽然嘉人对自己的游戏技术颇有自信，但绮新竟是格斗游戏顶级玩家“NAGI”。 干净利落输掉比赛的嘉人，被迫加入了由她担任部长的"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/gal-han-hua-natsuirokokororogu-od-2-7g-Fy4y","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

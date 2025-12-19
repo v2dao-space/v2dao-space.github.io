@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/生肉】【だーくワン！】精灵公主回忆录～娼妓公主与亡国之梦～【度盘/1.8G】"}],["$","p",null,{"children":"作品简介    社团名 だーくワン！   发售日 2025年7月25日   支持系统 Win10/11   插画 日陰影次   剧本 和泉万夜   年龄指定  R18      作品内容 商品説明      ◆◇DL 版专属！！附赠艾莉亚系统语音版◇◆ 内含艾莉亚（CV：高梨はなみ）系统语音数据！ "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/aDt1W1mg2aRqy5cd","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

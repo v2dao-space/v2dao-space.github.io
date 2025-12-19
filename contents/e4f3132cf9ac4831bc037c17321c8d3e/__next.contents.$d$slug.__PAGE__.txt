@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[日系RPG/汉化] [第46騎士団] 催眠物语 催眠物語 PC+安卓中文版"}],["$","p",null,{"children":"自由旅行的主人公‘德利拉’，来到某条街道。来到新的街道对女人感兴趣的德利拉，偶然听到街上男人们的闲话。是关于以赏金猎人为职的女性‘爱丽莎’的事情。待人态度和善，交友圈广，无论是怎样的男人都能处得来！德利拉认为爱丽莎是玩弄男人的女狐狸的同时，考虑著打算支配这个女狐狸！此外，德利拉想让高岭之花的爱丽莎跟在自己身旁，欣赏男人们的懊悔表情。得到爱丽莎毎晩都会出现在酒馆里的情报后，于是当晚迅速前往酒馆……"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/e4f3132cf9ac4831bc037c17321c8d3e","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

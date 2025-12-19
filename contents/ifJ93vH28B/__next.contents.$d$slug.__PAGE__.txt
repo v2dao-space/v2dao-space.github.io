@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"擎羊舞风云"}],["$","p",null,{"children":"《擎羊舞风云》主要讲述了惨遭灭门之祸的公羊猛，在死亡边缘被人所救，但没想到救他的人竟是个淫贼，而个淫贼还正与人搏杀中，但也是公羊猛运气，与淫贼对战的是一代女侠风姿吟，见敌人尚有一丝良心，在自身难保之时还会出手救人，风姿吟也就放过淫贼杜明岩一马。一个身负血债的孤儿，一个心怀鬼胎的淫贼，一个貌若天仙的侠女，这三个人凑在一起，谱出一串荡人心魄的旖旎江湖艳事……\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ifJ93vH28B","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

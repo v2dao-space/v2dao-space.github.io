@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【rpg】騎士アンナ -奴○調教記録-"}],["$","p",null,{"children":"▼ 机翻简介物流发达的贸易城市——贫民窟的小酒馆。从白天就开始喝酒的主人公接到了工作的委托。确认送来的行李后，发现被绑的女人已经睡着了。委托的内容是“用7天时间把女骑士教育成顺从的家伙”。虽然是让人觉得可疑的内容..……被高额报酬蒙蔽了双眼的主人公决定接下这个委托。写▼ 机翻概要把女主角安娜调教成优秀的雌奴隶为目标。通过欣赏调教场景她的家伙。地位上升。因为经验的累积，更浓密过激的调教成为可能!根据你的选择，说不定还有别的结局……H场景全部语音+动画。  有动态、女主全程语音、解压用wim格式"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/773741","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

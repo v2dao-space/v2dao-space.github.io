@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中/PC】催眠之蚀/侵蝕のヒプノシス"}],["$","p",null,{"children":"所发布资源不得用于商业盈利，否则产生的一切后果将由您自己承担！\n制作介绍（#F186）\n\n\n\n\n\n\n柚子坂日向是一个深受同学喜爱和尊敬的好学生。当她的学校生活和日常中出现奇怪的征兆时，她深感自己有责任查清真相。\n发行日期: 2024 年 12 月 7 日\n\n\n开发商: ALLDICE\n\n\n发行商: "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/sGpEvuGu8BPB","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

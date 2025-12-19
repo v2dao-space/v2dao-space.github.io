@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【生肉/RPG】黄泉町血だまり小道 -脱出不可能で不気味な町に迷い込んだ少女の物語-【百度网盘】"}],["$","p",null,{"children":"贩卖数：333评价：3 (39)收藏数：1,223社团名BABYLON 关注 贩卖日2024年08月25日年龄指定R18作品类型角色扮演有音乐文件形式软件支持的语言日文分类日常/生活 恐怖 造孽 强X 触手 异种X文件容量179.15MB作品内容不気味な小道に迷い込んでしまった少女 捕まったら即レ○プの追跡男。少女を捕らえ弄ぶための何重もの罠…。全ての住人が奇怪な町で脱出を目指すぼっち生活が始まる!全ての住人が奇怪な町【不可解への入り口】いつもの塾からの帰り道。塾でダラダラと話し込んですっかり夜"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/c7b8d461","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

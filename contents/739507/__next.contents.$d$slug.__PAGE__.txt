@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/音声·ASMR】[PC+安卓]AI学习自慰辅助〜射精管理ASMR应用程序，AI女孩学习“你的鸡鸡的极限和弱点”，让你体验“彻底的射精地狱”〜"}],["$","p",null,{"children":"所发布资源不得用于商业盈利，否则产生的一切后果将由您自己承担！原名称:【PC&スマホアプリ搭載】おちんぽ学習型AIオナサポ～AI少女が《あなたのおちんぽの限界と弱点》を学習して《徹底的な射精寸前地獄》を味わわせる射精管理ASMRアプリ～制作介绍（#F16）  社团名桃狐の変態調教課題 贩卖日2024年01月07日系列名桃狐のゲーム型オナサポ作者桃狐插画へんりいだ声优藤村莉央年龄指定18禁作品类型音声・ASMR文件形式软件 APK同捆支持的语言日文分类ASMR 萝莉 内射/中出 辅助自慰 口交 舔"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/739507","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

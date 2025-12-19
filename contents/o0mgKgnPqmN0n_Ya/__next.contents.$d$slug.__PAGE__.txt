@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/无码/官中】全存档/浮世幻想縁日〜神様の使いの双子が百鬼夜行に犯されながらも立ち向かう夏祭りの物語〜【度盘/1.32GB】"}],["$","p",null,{"children":"ok兄弟们，也是浪费了自己一个晚上的时间和外国友人交流（我基本上没做啥）终于是把无码补丁给搬上来了，原因是作者为了响应dlsite政策把马赛克直接打图上了，没有单独做成一个unity资产，所以要找老版本的游戏把资产替换掉。 现在live2d和3的模型都无码了，爽玩！ 游戏介绍：浮世幻想縁日〜神様の使"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/o0mgKgnPqmN0n_Ya","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

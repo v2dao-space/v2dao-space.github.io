@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【日式SLG/个人汉化】［PC+安卓］NTR教室~转校生第一天就宣布要睡走所有人女友~ Ver1.002"}],["$","p",null,{"children":"所发布资源不得用于商业盈利，否则产生的一切后果将由您自己承担！【日式SLG】［PC+安卓］NTR教室~转校生第一天就宣布要睡走所有人女友~ Ver1.002精翻汉化版游戏介绍：这是由【緑の帝国】23年4月在DLsite上发布的一款校园SLG游戏。现已经由“NING”个人制作发布了精翻，完成汉化版，文本质量不错。帅气的转校生在转校的第一天就在班级里宣布要睡走所有人的女朋友，在同学们的女朋友被睡走的过程中担心自己的女朋友是否安全…不安，疑问和焦躁感…第一次玩的时候你可能不会知道真相…通过积累疑问和证"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ri-shi-slg-ge-ren-han-hua-pc-an-zhuo-ntr-jiao-shi-zhuan-xiao-sheng-di-yi-tian-jiu-xuan-bu-yao-shui-zou-suo-you-rennyou-ver-1-002","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

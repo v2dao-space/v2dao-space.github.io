@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/无码/ADV】斬魔大聖デモンベイン"}],["$","p",null,{"children":"大佬发功期间，我把几乎所有的无码补丁都提取出来了，有的没的，简单的复杂的大佬不发功期间，逐一分享，有收藏性有实用性点名批评moonstone&cherry、orc soft（这个是想打人的冲动）2dfan巨乳幻想1的无码补丁，要购买时问上传者是否有监修，没监修不要购买英文版我提取出来放入过普通版&HD版，会有分辨率问题，这2段仅为提醒这部斩魔的无码补丁我在大佬发功期间提取出来的，也上传2dfan了nitro+作品，本作夹杂部分动画演出&大量loli  Story『―――汝，化身斩魔之剑吧』没有工"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/c5a3dc2ff5eca93f6a4525d6172b0386","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

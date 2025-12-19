@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【欧美SLG/中文/动态】芝诺选集 Zenos Anthology 0.294【安卓/700M】"}],["$","p",null,{"children":"今天给大家带来这款画风极度给力的游戏最新汉化版本：\n\n\n\n再次感谢【佚名大佬】的汉化\n\n\n\n芝诺选集 0.294汉化版【PC+安卓】\n\n\n\nZenos Anthology\n\n\n\n\n\n\n\n【游戏介绍】：\n\n\n\n芝诺的生活充满了有趣和淫荡的情节，充满了有趣和淫荡的女人，\n\n\n\n有时他扮演好人，有时扮演坏人，您可以通过分支叙事探索故事\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2251","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】勇者の母ですが、息子に忘れ物を届けに来た魔城で、魔物や盗賊等に凌○種付け輪○されました。【400M/百度】"}],["$","p",null,{"children":"  \n■游戏内容– 一款奇幻风格的探索动作角色扮演游戏，您可以控制主角（勇敢者的母亲）进行冒险。・冒险的舞台是魔法城堡。 魔法城堡由城堡内部1至3层、地下、塔楼、城堡外部组成，里面有很多诡计和密室。・故事的目的是向与黑暗魔王战斗的英雄（儿子）传递一颗光球，但这并不是一条笔直的道路。 当然，有很多地方"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/jWoJmBVF8dIp","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

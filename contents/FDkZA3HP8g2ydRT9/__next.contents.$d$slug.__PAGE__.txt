@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[まれお] 裏アカ乙女発情期 1+2 地下帳號美少女發情期1+2[中国翻訳] [無修正] [DL版]"}],["$","p",null,{"children":"同校女生裡，有人其實是用地下帳號在網路上花名昭彰的婊子…!? 主角本來想用在網路上發現地下帳號去威脅陰沉低調的班長，結果班長其實是超貪婪的蕩女，用盡各種手段不斷反過來勾引主角過著淫亂生活。某天竟發現有個叫和音的女生將他的性交經歷完全記錄下來…!? 主角原本糜爛放蕩的後宮生活會有何下場呢──!? 读墨"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/FDkZA3HP8g2ydRT9","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

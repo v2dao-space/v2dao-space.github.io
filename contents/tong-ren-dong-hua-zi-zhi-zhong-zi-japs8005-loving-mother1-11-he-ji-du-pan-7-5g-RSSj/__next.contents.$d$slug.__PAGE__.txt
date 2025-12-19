@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【同人动画/自制中字】【japs8005】loving-mother1-11合集【度盘/7.5G】"}],["$","p",null,{"children":"这个是japs8005大佬的loving mother系列第11集的中字翻译版（四天前刚更新的），本来我是想等多俩集再做的，但是今天发的里番就一集，还有时间于是顺便就做了，讲道理11集的这个公主的建模我不喜欢，嘛不过还是给大家尝尝咸淡（我分开放了，合是1-11合在一起的，单就只有11，大家看需求选择"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/tong-ren-dong-hua-zi-zhi-zhong-zi-japs8005-loving-mother1-11-he-ji-du-pan-7-5g-RSSj","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

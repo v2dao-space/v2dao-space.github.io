@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【漫画同人本/生肉】[RJ412987][合衆国ネタメコル（ねこめたる）] スポハメ1,2,3! JPG+PDF [698MB][PIKPAK/pixeldrain]"}],["$","p",null,{"children":"DLSITE  JPG和PDF分开打包，按需自取潜水拿大佬们资源这么久，也打算开始回馈社会了前段时间萌幻一直注册不了，本来想同时上传穹的两个音声，今天注册完发现已经有人分享这本本子看没人发过所以就发出来了，画风还是很赞的自购证明："}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/36ee9fe109b98e4f16a70cc5dd9de06c","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

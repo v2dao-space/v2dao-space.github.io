@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【官中/GAL】画面から出てきた推しVtuberとHな同棲生活 ～ケモ耳ゲーム配信者はダウナー系。～"}],["$","p",null,{"children":"商业阉割，本作只能攻略1人 游戏也是2dfan 2500积分换来的白嫖的 steam真的是XX，纯XX，下载下来是全年龄，R18补丁还要从游戏官网上下 鼓励正版购入，steam（锁国区）：https://store.steampowered.com/agecheck/app/2833620/ 资源下"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Uc7ua3xlVrz4","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

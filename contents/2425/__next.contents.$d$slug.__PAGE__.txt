@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【日系RPG/2D/汉化】来自新世界之旅汉化版【安卓/1.3G】"}],["$","p",null,{"children":"来自新世界之旅汉化版【PC/1.2G】\n\n\n\n游戏说明：\n\n\n\n一款由BKYSS汉化组汉化的日系RPG游戏，\n\n\n\n游戏画风精美，自由度还是比较高的，各种各样的地方都有H事件\n\n\n\n你可以卖春、打怪、战斗H、从监狱逃脱、泡温泉、海边游泳….H事件30个左右。\n\n\n\n\n\n\n\n游戏介绍：\n\n\n\n主角是一名职业的冒险家，像往常一样收到来自公会的请求。\n\n\n\n『在附近的森林中观察到异常的魔力，我希望你能调"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2425","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

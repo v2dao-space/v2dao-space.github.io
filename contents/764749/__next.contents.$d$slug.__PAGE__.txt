@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D/官中/SLG】山姥のいる家で"}],["$","p",null,{"children":"社团名サークル夢想健全贩卖日2024年05月03日 0点更新信息2024年05月05日更新信息作者ぶるりん声优竹早芽衣 / 白川パコ年龄指定18禁作品类型动作有声音有音乐文件形式软件支持的语言中文(简体字)日文英文分类男主人公 3D作品 萝 雌小鬼 姐姐×正太 强势女 反向奸 男性受文件容量1.22GB游戏内容：梗概：你会在神秘的馆里醒来。这个馆有危险的味道。用纸币想办法逃出去吧。以童话《三张纸币》为主题是面向M男人的逆re○p 3D动作逃跑游戏。视点全部是第一人称视点，女孩子完全是全音！享受"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/764749","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

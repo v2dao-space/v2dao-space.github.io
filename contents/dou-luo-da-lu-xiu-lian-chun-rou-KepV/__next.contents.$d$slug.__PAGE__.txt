@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"斗罗大陆修炼纯肉"}],["$","p",null,{"children":"斗罗大陆中，有一种叫武魂的东西。据说，每个人都有属于自己的武魂，其中，极少一部份人的武魂可以修炼，形成了一个职业，叫做淫师。大陆最高贵的职业就是淫师，高等级的淫师活到两三百岁也不算稀奇。像百年前传说中从圣淫村中走出的那位淫圣，就是一名淫师，淫圣是淫师到了一定级别的称号，男性淫力等级越高肉棒越大，传说中那位淫圣强者肉棒超过了二十六厘米。\n武魂分为两大类，一类是外武魂，一类是内武魂。以外物为武魂者，就是外武魂。以身体某一部分为武魂者，就是内武魂。\n唐三曾经见过村子里一个人的武魂是关于性交方便的武魂，虽然没有淫力，但尽管如此，他在性交的时候，融入武魂，依旧要比普通村民的厉害一些。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/dou-luo-da-lu-xiu-lian-chun-rou-KepV","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

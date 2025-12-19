@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/生肉】エクリプスの魔女Ver1.0.4"}],["$","p",null,{"children":"23/07/29 更新至1.0.4版本（生肉） 备注：1.0.4版打了AI机翻补丁大概率会报错，因此不懂日语的建议下载1.0.2版附带AI机翻补丁。 [ONEONE1] エクリプスの魔女Ver1.0.4 [RJ01059576] 作品信息 社团名 ONEONE1  关注25,236   贩卖日 2023年05月31日 0点 作者 イチゴ 剧情 真田尚央 插画 ぺぽ / きょぞう / taro / おぶい 声优 今谷皆美 / 波野夏花 / 高梨はなみ / ＣＡＮ / 八ッ橋きなこ / 月森ねね /"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/697199","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

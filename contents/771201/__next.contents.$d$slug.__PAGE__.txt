@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/ADV】なつくもゆるる"}],["$","p",null,{"children":"前言四季科幻系列–夏季篇（本站居然没人发）萌えゲーアワード2013 シナリオ賞 金賞受賞 ——DMM之后的3个季节篇，若没大佬补，将全部补齐拿铁铲的紫惠可爱捏游戏附机翻补丁+v1.02修正补丁（均嵌入游戏）+1份使用说明  Storyヒッポカムポス機能不全およびBDNF発達障害。通称、自殺病。簡単に言ってしまえば自殺する可能性が高くなる病気。壁川学園は、この病を発症もしくは発病前の学園生達を集めた、全寮制の学園。学園生達は夏休みの間、実家に帰ることが許されているのだけれど……。新型咽頭結膜熱に感"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/771201","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

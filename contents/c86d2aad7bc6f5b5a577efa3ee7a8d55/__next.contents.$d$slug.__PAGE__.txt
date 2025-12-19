@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【MMD/VR/有修正】FacePlan大佬作品 2024.07合集（15V/17.28G）"}],["$","p",null,{"children":"七夕大礼包来咯之前有说过这位大佬每个月会打包mega盘一起发然后看封面你们也知道我这个月为什么会赞助了吧（懒得VR里截图 直接截了作者那的）  我在I站看到这一篇 于是去赞助了 结果发现 这不是八月的作品我记得以前这个作者赞助的合集是月底发整月这样子 而这回属于是六月底就打包 七月才散发所以这个合集是我取消赞助之前已经拿到手但是没发的 （6.30 属于是又碰上电脑寄了那个时间段）于是八月的合集也会有一篇了（看了下还行吧 有几个骑乘还可以）  这个月的合集全是VR 看了下fantia也没有非VR版"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/c86d2aad7bc6f5b5a577efa3ee7a8d55","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

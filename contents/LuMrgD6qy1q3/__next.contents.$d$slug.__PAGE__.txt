@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】 悠久乐园与少女的觉醒 Really into you -悠久の楽園と少女の目覚め- 【1.4G/度盘】"}],["$","p",null,{"children":"  \n◆ 剧情梗概在不可思议的地方相遇的失忆的少女索菲（名字可更改）。她不停地说着“必须回家”，主人公便带着她踏上了找回记忆的旅程。在尚未开发的常夏海边、一年一度庆典热闹的美食之都、以及充满个性的商业都市。与旅途中相遇的居民们交流，各种各样的经历，让少女一点点地发生改变……\n坚固的羁绊所迎接的，会是"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/LuMrgD6qy1q3","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

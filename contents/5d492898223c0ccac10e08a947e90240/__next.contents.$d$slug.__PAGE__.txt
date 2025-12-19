@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【益智/未汉化】チンコショット"}],["$","p",null,{"children":"游戏名称：【チンコショット】有无汉化：暂无完成程度：已完成。画风：★★★★☆（很抽象，肥猫很喜欢，就爱这种抽象玩意！）游戏性：★★★★☆（很抽象的射击游戏，而且居然还不错？挺好玩的？）推荐程度：★★★★☆（玩！这么抽象的玩意，怎么能不玩呢！）社团名電力発電所  贩卖日2024年07月26日 0点作者七転びなおき声优口谷亜夜年龄指定18禁作品类型益智有声音有音乐文件形式软件支持的语言日文分类大量汁/液 像素 外射 怀孕 母乳 放尿/小便 巨大化 血液/流血文件容量79.96MB 作品内容精子を飛ば"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/5d492898223c0ccac10e08a947e90240","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

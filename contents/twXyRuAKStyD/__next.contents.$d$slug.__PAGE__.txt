@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】 魔法少女青衣 魔法少女アオイ【1G/度盘】"}],["$","p",null,{"children":"  \n概要：由于魔法少女米娅的努力，世界变得和平了。然而，米娅所击败的魔人迪朗只是魔界入侵者的先锋。下一个威胁正向世界逼近。与此同时，主人公近江葵与朋友诺佐美、美岐、和奇里诺一起，每天都过着愉快的生活，有时还和教师开玩笑。某一天，美岐和葵两人在回家的路上，突然遭到化为触手的人类袭击。葵想要拯救美岐的"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/twXyRuAKStyD","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

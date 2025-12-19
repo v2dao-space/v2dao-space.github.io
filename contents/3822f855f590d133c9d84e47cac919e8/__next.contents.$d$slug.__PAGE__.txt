@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/精翻】放学后的灰姑娘2【PC】"}],["$","p",null,{"children":"【ADV/精翻】放学后的灰姑娘2【PC】 游戏介绍： 春~天来啦~~~ 男主因为母亲的工作调动，搬到了新的城市。 不过，他还对目前为止的学生生活抱有遗憾—— “我的青春到底是……” 虽然打工生活让他的腰包直起了腰杆，但他突然意识到，周围都是"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/3822f855f590d133c9d84e47cac919e8","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

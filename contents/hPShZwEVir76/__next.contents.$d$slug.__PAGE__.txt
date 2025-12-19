@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"僵尸末日 DayZ v1.25.158199版+v1.18.155001局域网联机版|集成全DLC|官方中文"}],["$","p",null,{"children":"胆小勿入哈！ 游戏介绍 《DayZ》是一款残酷而真实的开放世界在线沙盒游戏，服务器上 60 名玩家中每一人都在追求一个目标——尽一切必要手段，尽可能地生存下去。没有可有可无的提示、路点、内置教程或帮助。你做的每个决定都很重要——不能保存游戏\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/hPShZwEVir76","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/官中】莉吉内塔的冒险～合作同人志同捆特别版～ver1.4.003【百度/1G】"}],["$","p",null,{"children":"https://www.dlsite.com/maniax/work/=/product_id/RJ357197.html 补个官中，我是拉法姆，最最伟大的考古学家     社团名 私が一番かわいい  关注8,242              支援社团也可以使用DL点数进行支援        发售日"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/0c8P39nOHa","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

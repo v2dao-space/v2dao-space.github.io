@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC+安卓SLG] [更新]【亚洲风SLG/动态/3C】接口（Fap Interface）v0.3.5 汉化中文【PC+安卓双端]"}],["$","p",null,{"children":"这个故事从你的角色的死亡开始。但他没有得到安息的机会。他儿时的朋友照顾了它！他们与天使和恶魔（导致死亡的种族的代表）合作，执行了一项古老的仪式，为死气沉沉的身体注入了生命。现在只剩下弄清楚下一步该做什么，以免再次玩这个盒子......在这个游戏中，情节很少，地点也很少，但有很多不雅场景和穿着暴露的迷人角色。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/860478d481347fe76beddd5d96c75d39","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

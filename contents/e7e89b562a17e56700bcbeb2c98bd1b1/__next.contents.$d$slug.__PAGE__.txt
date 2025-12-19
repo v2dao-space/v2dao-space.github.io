@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"外行离家少女与我 (Multi Language) Ver 1.05"}],["$","p",null,{"children":"过日常生活需要花费金钱。努力工作攒钱，和她一起度过充实的同居生活吧。达成目标后将会触发事件，推进故事发展。说不定能找到更有效率的赚钱方法哦。两个人一起建立幸福的生活吧！ 主要性爱场景可实时操作＆包含动画特写表现，可同时执行多个动作。性爱场景搭载全音声。(通常情况下只有部分语音)。配备了优秀的BGV（后台语音）。从平稳的鼾声到淫靡的呻吟，再到高潮后的吐息等，都会根据女主角的状态而变化。可以随心选择体位和服装。可以撕破长袜、也可半脱内裤插入，也可戴眼罩插入，玩法多种多样！并且，也包含数个传统的文本阅"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/e7e89b562a17e56700bcbeb2c98bd1b1","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC-ACT游戏] 【ACT/官中/动态无码】姬械技师 莉斯塔的大冒险 Ver1.02 官方中文步兵版"}],["$","p",null,{"children":"这是【Resta!】社STEAM于2023年4月8日发布一款日式ACT游戏。现在由【神乐游戏】制作了官方中文版，还是最新V1.02步兵不骑马版。游戏有三女主，画风社保可爱，大量机械O玩法，并有全动态的エロ场景。三名女主都有不同全CV，并且社保的机械O玩法超过30多种，非常社保！有各种特殊技能和动作指令，好玩有社保，已足以让大家可以直接开冲了~"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/7d0a0e7d","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

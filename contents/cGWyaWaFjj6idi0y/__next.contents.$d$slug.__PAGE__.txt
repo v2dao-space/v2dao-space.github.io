@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【MMD/有码/VR】Bayashikov早期作品四篇"}],["$","p",null,{"children":"端午礼包第三弹  还记得之前那篇 〇〇奉仕部 吗  就是那个作者fantia之前的作品 但是！    只有四篇 都是口 除了加贺这篇其他的是双人侍奉 并且只有VR版本 双人的动作模型很像之前爱无限大佬那个 还是很好冲的    为什么这么少呢 因为 作者的fantia号彻底寄啦！ 前段时间看是封禁状态"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/cGWyaWaFjj6idi0y","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

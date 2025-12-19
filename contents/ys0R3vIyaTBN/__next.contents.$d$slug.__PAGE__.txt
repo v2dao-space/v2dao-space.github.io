@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"眼眸之城与梦境少女/City of Eyes- Cyclops v1.01"}],["$","p",null,{"children":"赛克洛普斯，眼眸之城，是一座拥有千年沉积的的古老城市，也是在工业浪潮中蜕变的先驱。\n在这历史与科技交融的舞台，无数人物的故事在喧譁与沉默中起起落落。\n艾曲医生并非镁光灯下的亮眼主角，但他的戏份却比其他人都更加扑朔离奇。\n当他落魄地离开学院时，一位自称为「神明」的神祕女子找上了他，赋予艾曲一双拥有特别能力的眼眸。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ys0R3vIyaTBN","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

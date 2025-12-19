@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【2D动画/自制中字/ai解码】【survive】お金で何でもしてくれる後輩ちゃんが搾取しようとした先輩のデカチンにわからされるまで モーションコミック版【度盘/885MB】"}],["$","p",null,{"children":"这个是楼主想试试这个模型在解码live2d动画效果的产物，弄下来虽然看着有点小怪，但是效果还是能看看的，本身这动画还挺涩涩的，于是楼主翻译了里面的日文字幕发出来给大家尝尝咸淡（这个社的live2d动画最后面有几分钟的其他作品的预告我给剪掉了） 改后缀然后解压（将MP4改为zip，壳子那一定得改zip"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2d-dong-hua-zi-zhi-zhong-zi-ai-jie-ma-survive-o-jin-de-he-demoshitekureru-hou-gF2l","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[ADV/汉化] 桃色恋恋 ～与姐妹相系的H关系 PC+安卓模拟汉化硬盘版[1.5G]"}],["$","p",null,{"children":"游戏简介「当主大人……现在，我就让您来感受愉悦~~」「瘴气啊、快点出来吧……」为了封印当地的“邪恶之物”，人们建造了玖珠月神社。这个神社的每一代当家，都必须将“守护此地人民”这一使命作为义务来完成。然而，世上没有完美的封印。虽然每次只有一小部分，但瘴气还是溢了出来。这个瘴气都会由历代的当家，用自己的身体来背负，以消除影响。终于有一天，上代当家跪了！作为这一代当家继承人的八廣，由于尚且年幼而没有进行"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2069","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

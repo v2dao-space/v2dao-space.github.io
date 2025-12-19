@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【2D动画/无修正/1V】Maplestar 大佬24年7月 阿库娅 KONOSUBA【度盘/141MB】"}],["$","p",null,{"children":"搜了下记录，之前发这个系列的大佬伤心隐退了，太可惜了。我个人感觉不错的2d动画，艹傻子那啥来着遇到困难不要怕，先看我简介 ，这是最新的视频伪装，只能通过几个特定的最新版软件解压，pc端是最新版的Bandzip和winrar安卓是rar7.0（就是winrar的手机版），其他软件99%解压失败报错。下载好之后改后缀为zip输密码就可以解压。如果有问题请先自己找找原因。系统自带的winrar说实话就肥肠不错，用那个就可以解压我的所有视频伪装资源了链接：https://pan.baidu.com/s/"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/eb907ff700af808c1f0a7ce1df19dcd4","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

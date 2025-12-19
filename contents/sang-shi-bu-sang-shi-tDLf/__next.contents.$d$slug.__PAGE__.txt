@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"丧尸不丧尸"}],["$","p",null,{"children":"新型病毒突然爆发，人类世界迎来末日。 主角也被病毒感染，但病毒在主角体内产生变异，形成了自我意识。 为了人类的复兴，主角开始寻找其他幸存者。为了种群的延续，病毒开始为主角改造身体。他/它的目标能否达成？他们的联盟能否维持？ 幸好这世界上还有美女，丧尸的也不是那些丧尸。看展开，会是一篇大长篇，主角会啪啪啪地收美女，也会啪啪啪啪地打丧尸。\n\n版本基础：\n\n丧尸不丧尸更新至1050章(作者：笔名叫随便)\n\n整合版替换内容：\n\n紫岭红山版：1-90章\n\n圈圈你个叉叉版：90-246章\n\n福田瞳版：401章"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/sang-shi-bu-sang-shi-tDLf","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

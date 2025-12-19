@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3DSLG/官中无修】Fantasy Match -Make a H match with cute young woman-"}],["$","p",null,{"children":"\n◆故事\n在悠哉异世界生活的艾克原本过着平静自在的日子，然而就在某天艾克被迫告别这样的生活被迫捲入各种麻烦中。\n一位女盗贼和长着角的女魔法师打破了平静闯入了艾克的生活中，艾克该如何运用智慧与力量帮自己度过难关并且掳获这些美人的芳心呢？！\n\n   \n◆角色\n阿梨\n一个出身于穷民窟的女孩，她从小就被迫学"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Df93HUDhbcqz","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

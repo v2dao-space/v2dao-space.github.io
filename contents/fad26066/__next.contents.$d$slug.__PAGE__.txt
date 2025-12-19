@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/汉化]激情燃烧的岁月 Bright Past ver0.99.3 PC[4.9G/百度]"}],["$","p",null,{"children":"[SLG/汉化]激情燃烧的岁月 Bright Past ver0.99.3 PC[4.9G/百度]不知道汉化组游戏简介亲爱的朋友们，这一天已经到来了!我很高兴向您展示我的新项目的演示。有些人可能会认为这是我的第一款游戏《光明未来》的重制版，你们很多人都喜欢这款游戏。新游戏名为《光明往事》，同样基于具有主线故事情节的开放世界沙盒概念。然而，这一次我们是在一个完全不同的层面上做的!在当前版本中，您可以见到主要角色，了解他们的背景和游戏设置。正如您在屏幕截图中看到的，游戏将发生在现代世界。主角将是一名"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/fad26066","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

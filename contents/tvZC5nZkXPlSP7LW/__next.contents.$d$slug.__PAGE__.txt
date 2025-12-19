@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RJ01423424]迷宫都市阿萨伊拉姆"}],["$","p",null,{"children":"在与真祖的战斗中,教会的圣女「伊莉丝·克罗梅尔」不幸变成了吸血鬼。\n由于成为了魔族,她面临被逐出圣女之位的危机。\n某日，她听说在迷宫都市的地下存在一件可以彻底封印吸血鬼力量的圣遗物。\n为了寻求恢复人类之身的方法,她只身前往迷宫都市——\n究竟她是否能够踏破迷宫重新变回人类呢？"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/tvZC5nZkXPlSP7LW","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

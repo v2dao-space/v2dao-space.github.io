@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】 トランスパイル少女救援作戦! 【度盘/576M】"}],["$","p",null,{"children":"〚故事〛2030年，科技高度发达的现代社会，安卓技术已经成熟。本作的主人公为了购买“柩之灰姑娘”系列的定制安卓——也就是本作的女主角HINA，努力工作，终于攒够钱买到了她！然而！没想到竟然是个次品！辛苦买来的她将在七天后停止运作……幸运的是，主人公是专攻安卓技术的，为了避免不希望的结局，他将在有限的"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/AHzQzOCSU3Ig-uwY","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

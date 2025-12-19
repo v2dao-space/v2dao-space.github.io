@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/米乐汉化]星体欲望 超然之欲 Astral Lust  V0.3.0C PC+安卓[4.1G/百度]"}],["$","p",null,{"children":"[SLG/米乐汉化]星体欲望 超然之欲 Astral Lust  V0.3.0C PC+安卓[4.1G/百度]\n游戏简介：你醒来后发现自己身处一个你不再认识的世界，这个世界充满了无法解释的黑暗和无比疯狂。一场可怕的末日催生了怪物，它们的出现会夺走人类残存的理智。成为上帝就是疯了。\nv0.3.0c错误"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/41FqJIBUZNRc","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

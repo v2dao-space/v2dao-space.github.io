@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG/汉化/动态]高等社会v0.9 汉化版[安卓][960M]"}],["$","p",null,{"children":"高等社会 v0.9 汉化版[PC+安卓]The Higher Society Illustrated [v0.9] [xxerikxx]这是由[xxerikxx]制作的一款欧美SLG游戏\n\n\n\n游戏从建模到渲染都是很不错的并且还有相当丝滑的动态内容。游戏故事情节也完善虽然版本不高，但内容已经相当丰富了。游戏内的选项很多，分支也很多。算是一款很不错的SLG游戏。\n\n\n\n\n\n\n\n[游戏介绍]这是安吉丽"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2199","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

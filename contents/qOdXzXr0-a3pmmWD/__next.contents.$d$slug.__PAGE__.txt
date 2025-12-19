@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/安卓+PC】Lust’s Cupid v0.9.7 官方测试版【更新/2.2G】"}],["$","p",null,{"children":"给大家带来这款可以定制不少东西的欧美SLG游戏 Lust’s Cupid v0.9.7安卓+PC 官方测试版 这是一款由[Dinotonte]在21年就开始众筹的欧美SLG游戏 咳咳.本作虽然是主打的自定义角色为卖点，但是它更像沙盒X爱模拟\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/qOdXzXr0-a3pmmWD","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

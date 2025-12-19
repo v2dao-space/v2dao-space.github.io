@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中无修】オカズアプリ"}],["$","p",null,{"children":"日和一直过着宁静而孤独的生活，但她已经受够了这一切……她想要作出改变！如今一个诡异的灵魂忽然拜访了她，并告诉她：只需要在手机上安装一个看起来很可疑的应用，就能得到她想要的一切改变！时钟嘀嗒作响……现在她还剩下九十天的时间！                     日和一直过着宁静而孤独的生活。她早已"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/u73CI1f3hUQon85N","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

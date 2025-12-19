@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【里番/ai汉化/480p】ちょろ・めす・でいず 第1話 デカパイ義妹、襲来【度盘/73.7MB】"}],["$","p",null,{"children":"这部里番的漫画超好用的，等不及了，就先做了ai汉化，看了一下也没有什么很难的词语，都是些简单的词，主要是语音识别可能有些不标准，但是无伤大雅。 我觉得还不错，好用！！！ 冲冲冲！！！ （可能一周后会出人工汉化，这个炸了就不补了。）"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/li-fan-ai-han-hua-480p-choro-mesu-deizu-di-1-hua-dekapai-yi-mei-xi-lai-du-pan-73-wggw","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"梦想与追忆的复仇"}],["$","p",null,{"children":"斋藤光是一个普普通通的女学生。某天，光在与魔法少女碧玉和精灵拉拉的邂逅中，成为了魔法少女欧泊勒。在上学的同时，欧泊勒与恶的组织辛西娅进行战斗。欧泊勒能否为城市带来和平，还是会屈服于邪恶"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/d6691147a79ecec14ced6ff3b2ebfc8e","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】Element Embrace エレメントエンブレイス【双端/2.5/百度】"}],["$","p",null,{"children":"  \n在少女的梦中突然出现了女神。女神认定她为勇者并赐予她剑，告诉她和巫女协力打倒“邪恶之物”并消失……。“怎么可能有这种事呢~ ~ !”没有国王的“保佑”武器就不能发挥威力的管理社会。她把收到的剑作为拾得物登城送还。\n■世界观是流传着创世神“女神法兰德尔”所创造的传说的世界“法兰德尔斯”中展开的正"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/rD2aZrVf8ZcY","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

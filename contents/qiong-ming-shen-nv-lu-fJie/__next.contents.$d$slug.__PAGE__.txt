@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"琼明神女录"}],["$","p",null,{"children":"五百年前，他便是通圣境巅峰。终于偶得机缘，有望达到世人从未到达的境界。便在潮断峰闭了一个五百二十年的大关。如今他提前出关。却发现自己通圣境界如海的法力都消失得一干二净。但是自己的境界却大涨，隐隐快要跨过那个门槛。如今自己的容颜青稚如同少年便是最好的证明。淬体炼魄，拔污除秽之后，他这副身躯便返璞归真至了少年。\n但是空有境界没有法力施展，和废人有什么区别？他需要二十年时间来解决自身出现的问题。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/qiong-ming-shen-nv-lu-fJie","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

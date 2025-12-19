@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/官中】SisterVirodar Sister Virodar v0.17"}],["$","p",null,{"children":"\n玩家操控的维罗达尔修女在一座已被邪恶势力侵袭的教堂城堡中艰难求生，\n她竭尽全力保护自己的身心免受各类妖魔的侵扰，并最终揭开这场灾难背后的谜团。\nV0.17\n现在设置中的“画廊”选项可以使用了，可以更方便的查看游戏中的CG场景。\n*只是简单的实现了观看的功能，UI和顺序还需要优化。\n增加了一个新的场"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/a9PjBR8jEQga","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

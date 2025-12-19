@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/机翻】アリアサキュズム【858M/度盘】"}],["$","p",null,{"children":"  \n概要：《性奴○的契約》在正式签订之前的10天中，玩家将参与与魅魔进行性爱战斗的节奏游戏。根据音符的节奏进行抽插，通过给予魅魔快感来让她堕落，从而避免签订性奴○契约。取得胜利则能实现愿望！而当失败时，将面临被抽取精液作为惩罚…\n\n\n\n\n社团名\nかまくらら \n关注1,348\n\n\n\n\n\n\n\n\n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/6n8WlnPbl977","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

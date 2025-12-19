@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/SLG】特別授業3SLG（重置版）"}],["$","p",null,{"children":"前言本作全名：特別授業3SLG インモラルエディションbishop作品比起liquid作品来说，冲度不是少一点点的本部还出过番，番那个镜头晃的头晕附机翻补丁PS：如果有那种免费（上传+下载不限速+被举报率低）网盘，可联系我  Story主人公は世界史を担当する教育者生活二十年のベテラン教師。彼は、教師として学生を指導するその傍らで、目を付けた女子学生に卑猥な調教を繰り返し、牝奴○へと堕とすことを楽しむ異常性欲の持ち主だった。今年赴任することになった碧坂学園は、主人公がかつて新任教師だった頃に初め"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/767316","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

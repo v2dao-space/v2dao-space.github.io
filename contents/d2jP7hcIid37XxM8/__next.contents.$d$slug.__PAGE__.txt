@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】妻と義妹はフィットネストレーナーから妊娠雌豚になるための調教を受けました（RJ01403053）"}],["$","p",null,{"children":"社团名 ゴブリンの恥         发售日 2025年06月13日   年龄指定  R18    作品形式  角色扮演有声音有音乐    文件形式  软件    支持的语言  中文(简体字)日语英语    分类  被NTR 出产 野外/野战 多p/乱交 恶堕 复乳/怪乳/超乳 西瓜肚/孕妇 微胖/"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/d2jP7hcIid37XxM8","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

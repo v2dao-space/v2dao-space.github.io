@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC/SLG]末日机娘 官方中文版 v20230717 新增战斗扫荡 +全DLC "}],["$","p",null,{"children":"台湾香蕉王7月最新更新的作品，末日+生存+养成互动结合的SLG。和口无白毛人造人少女的同居生活，首次加入LIVE2D动态CG，强力推荐！这是【BananaKing】在STEAM于23年1月10日出的壹款生存养成SLG。讲述世界末日荒地上男主和壹名军.用人造人少女相遇并壹起同行生活的故事。游戏以末日生存+养成互动结合，可以武装自己，打野饮食升级武器，也可以和人造人少女互动交流，培养感情，和做エロ的事情。官方中文，全CV语音，全步兵不骑马，多线路多结局，还有丝滑动态CG。总的来说是壹款剧情丰满，非常感人又社保的游戏故事，推荐大家游玩！安卓旧版无战斗扫荡"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/77c1112af0c6d023015d82fc87778642","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

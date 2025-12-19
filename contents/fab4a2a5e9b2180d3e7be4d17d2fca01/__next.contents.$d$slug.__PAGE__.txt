@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【拔作ADV】爆乳妈妈的淫乱寄宿生活-v1.2.4 汉化版【PC】"}],["$","p",null,{"children":"【拔作ADV】爆乳妈妈的淫乱寄宿生活-v1.2.4 汉化版【PC】 游戏简介： 篡改常识，NTR了朋友的妈妈！ 通过篡改霸凌别人的人和他的母亲爱华，以及周围其他人的常识，植入「造人寄宿家庭」这一常识。 把霸凌别人的送到自己孤独的家，自己则寄"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/fab4a2a5e9b2180d3e7be4d17d2fca01","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

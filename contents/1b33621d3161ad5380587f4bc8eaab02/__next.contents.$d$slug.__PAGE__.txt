@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/官中无修】PERFECT CELLS PROJECT Ver1.0.1"}],["$","p",null,{"children":"游戏简介“我是谁？ 这里是哪？”某处地下有个秘密研究所。在研究使人类进化的生物技术过程中，意外制造出了粉色生命体。作为研究取得革命性进展的纪录，研究员们将生命体取名为”PCP-特异点”。而研究员们忽略了这个生命体是否拥有自我意识，就进行了各种惨无人道的实验。经过一连串的刺激，使生命遇到危机时的求生与繁殖本能被强烈激发。它变化成利于攻击&繁衍的形象，决心对所有研究员复仇并逃出这座地下研究所。玩家将扮演粉色生命体，在充满武装无人机的地下研究所中探索。目标是在地下研究所向研究员进行复仇，并利用天生就能"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1b33621d3161ad5380587f4bc8eaab02","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

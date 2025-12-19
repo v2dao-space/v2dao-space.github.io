@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/汉化/PC+安卓/动态/步兵】阳光湾恋人3 v0.02i Extras"}],["$","p",null,{"children":"▼游戏概要你是一家著名律师事务所的有抱负的初级律师，希望有一天能成为一名出庭律师，就像你交往五年的现任女友妮可一样。但当你姐姐突然打电话给你，需要你帮助她挽救陷入困境的酒店业务，并在夏天为你提供阳光湾的一份工作时，这个梦想就被搁置了。▼记录 Ch3v1.0更新日志:修正了各种拼写错误对某些结局进行了小幅编码更改故事情节添加：提到阿什利在阿什利 + 妮可路径上是双性恋添加了对话以进一步解释为什么你的姐姐对 MC 感到愤怒在“All Girls Bad Ending”期间看到其他女孩，即使她最初同意"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/88dbdeb14cd181a31f36127ca271160c","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

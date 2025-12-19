@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[ADV/汉化/拔作] 好色阿姨：突发事件健身房~肉体紧贴的完美锻炼！汉化版+动画 [1.2G]"}],["$","p",null,{"children":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nエロ阿姨X突发事件健身房！R体与R体的完美锻炼 云翻汉化/付中文动画（たわわ奥さん×ハプニングジム～むっちりボディとすけべなエクササイズ～）这是一款由[アパダッシュ]社团制作的超赞ADV游戏\n\n\n\n轻熟·女题材+NTR别人玩法+超赞的肉感画风\n\n\n\n体验非常的棒棒\n\n\n\n现在[绅士回廊]制作了云翻汉化版\n\n\n\n虽然云翻也就那么回事，但是说到底总好过生肉~\n\n\n\n在这"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1633","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【神作】刀剑 SAO~气息遮断魔法陷阱Ⅱ V0.452c【安卓＋PC/RPG/究极NTR/动态/官中/步兵】"}],["$","p",null,{"children":"这是24年最新版本更新，嘿嘿： 刀剑SAO:气息遮断魔法的陷阱 第二部 0.452c 中文版 RPG游戏 给大家带来一款超级无敌NTR大作的国人制作RPG续作游戏更新： 已经打好了步兵补丁！ PS：手机可用1.20.023新版joiplay"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/9cc91920ecff316e4cdcf2efdf24a4d7","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

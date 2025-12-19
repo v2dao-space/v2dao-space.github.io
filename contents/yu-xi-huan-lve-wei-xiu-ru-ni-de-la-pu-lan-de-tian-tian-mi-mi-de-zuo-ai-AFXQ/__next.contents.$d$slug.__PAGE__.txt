@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"与喜欢略微羞辱你的拉普兰德，甜甜蜜蜜的做爱"}],["$","p",null,{"children":"意识缓缓回归，博士感受到脸上一阵温暖柔软的触感。他想要睁眼，却发现视线被遮挡住了。耳边传来熟悉的拉普兰德式的戏谑笑声。\n“博士你醒啦？”\n她的声音里带着几分得意，博士试图起身，但全身仿佛被注射了麻醉剂一般使不上力气。透过拉普兰德黑色及膝袜的趾缝间，他勉强能看到坐在自己上方的拉普兰德。\n记忆如潮水般涌回。在几个小时前，博士接到了两个消息：一个是龙门警局的紧急联络，另一个则是拉普兰德发来的信息。\n“亲爱的博士，感谢您一直以来对我的特别关照。但这一次，我想邀请您参加一个特别的'游戏'。请原谅我的任性，但我相信您会理解我的选择。这不仅仅关系到几位无辜的生命，更是关乎整个罗德岛的未来。所以，请不要让我失望。”..."}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/yu-xi-huan-lve-wei-xiu-ru-ni-de-la-pu-lan-de-tian-tian-mi-mi-de-zuo-ai-AFXQ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

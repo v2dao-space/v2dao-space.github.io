@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"画魂"}],["$","p",null,{"children":"十六年前，中央美院的高材生齐心远与校花白桦相互倾慕，在一次裸体写生中失去了理智，发生关系，导致白桦怀孕。迫于家庭与社会以及学校的压力，白桦出国。\n阔别十六年的白桦回国告诉了齐心远真相，为了套住齐心远的心，白桦给齐心远服用了未经临床验证的过量壮阳药物，导致其性功能异常。\n齐心远夫妇还没能将女儿思思带回家，齐心远的姐姐就凭着自己的霸道与温柔赢得了侄女的心。\n姐姐、妻子与旧情人之间展开了一场情感的肉搏……"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Z4w0EQbWY8","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/生肉】淫魔の大祓"}],["$","p",null,{"children":"社团名os式(オスシキ) 贩卖日2024年03月18日系列名淫魔シリーズ年龄指定18禁作品类型模拟有声音有音乐有动画文件形式软件支持的语言日文分类触摸/抚摸 同学/同事 幻想 推理 内射/中出 怀孕 触手 潮吹文件容量945.94MB入正：DL链接游戏内容：身为淫魔的主人公暑假开始，那天回家的时候被雷打晕了注意到的时候，那里是一间关得很紧的房间和你在一起的yui很郁闷，为了逃离这里必须解开眼前的谜团。H的点击模拟游戏，可以享受有解谜探索和计数战斗的故事模式这是一款积攒积分提高模拟自由度的游戏。在"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/765750","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

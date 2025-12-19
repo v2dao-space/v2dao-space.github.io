@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【沙盒SLG/汉化/动态】口袋妖怪星 Pokestars v0.01 汉化版【安卓/200M】"}],["$","p",null,{"children":"口袋妖怪星 Pokestars v0.01 汉化版【安卓】\n\n\n\n游戏介绍：\n\n\n\n口袋妖怪星 是一款基于口袋妖怪的成人后宫视觉小说游戏，专注于角色梅、迷雾和黎明，\n\n\n\n并包括约会模拟元素。\n\n\n\n故事是关于一个年轻人，他有机会住在有史以来最大和最好的口袋妖怪训练场，\n\n\n\n在那里他必须战斗以获得更好的战斗场所。\n\n\n\n然而，这不仅仅是一个口袋妖怪度假村，因为据说那里的女孩很热，很疯狂。加入\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2729","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

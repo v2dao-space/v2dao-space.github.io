@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【日式SLG/沙盒】鲁莽的爱（Reckless Love）V0.0.5.1 汉化中文【PC+安卓双端】"}],["$","p",null,{"children":"有一天，当你在想你的生活有多糟糕时，你决定出去，幸运或不幸，你遇到了丽，一个睡在街上的绝望女孩。你决定帮助她，然后……然后和她开始了你鲁莽的生活！在你努力在贫困生活中生存的同时帮助她！工作、睡觉、吃饭、哭泣和……爱！也许这个女孩可以让你的生活不那么糟糕……或者让它变得更糟糕，谁知道呢？"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/pkhqEkOjb-S9","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

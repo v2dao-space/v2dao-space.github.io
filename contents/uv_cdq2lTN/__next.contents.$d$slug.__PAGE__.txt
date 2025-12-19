@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【里番/自制ai熟肉/480p/30fps】【ばにぃうぉ～か～】OVA シスターブリーダー ＃1+2(自制中字/原版+ai解码版)【度盘/451MB】"}],["$","p",null,{"children":"楼主今天晚上逛的时候发现的新番，顶，苦于财力不足（有一说一4730日元一集楼主真消费不起了，毕竟我每个月都得赞助十几个8$出去，只恨财力不足），所以这个版本只是480p的（后面精翻出来就有高清了，这个就是尝鲜的），楼主做了字幕（学会抄漫画汉化了），和ai去码的版本，大家慢慢鉴赏吧 依旧幻影坦克（将后"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/uv_cdq2lTN","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"东方云梦谭"}],["$","p",null,{"children":"梁山泊，如梦似幻的神秘天上仙岛，少年与少女的故乡，多年来吸引着无数英雄盗匪一心前往。\n孙武，十四岁的热血少年，他有一双铁拳、一个小冤家，在万里长风中扬帆追寻未来。\n黄泉殇，十二岁的小小天使，她有一堆法宝、一个好朋友，在阴森冷月下试图埋葬过去。\n追寻梦想的诗篇，歌声中的低语，在时空与时空的缝隙中回荡。\n楼兰驼铃轻响，大漠铁血飞砂；东海碧波徜徉，江南八月桂花；战乱纷陈，朝代更替，东之少年、西之少女不仁不义的极恶之旅，由是展开……"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/dgTeYZphRy","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

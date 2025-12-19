@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【像素/异种奸/催眠】铃仙的异种奸洞窟 官中+全回想【PC】"}],["$","p",null,{"children":"【像素/异种奸/催眠】铃仙的异种奸洞窟 官中+全回想【PC】 游戏介绍： 正式版于2023年11月15日发行上架Steam平台，搭载官方中文，是基于东方为原型的横板动作像素同人游戏优昙华掉入的洞窟内，对雌性如饥似渴的低等妖怪们正陆续向她接近"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/530100d7cdbf2dc729f93ba23852152e","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

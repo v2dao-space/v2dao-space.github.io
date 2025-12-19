@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【里番/熟肉/自制ai解码/720p/30fps】【PIXY】対魔忍アサギ#1-4【度盘/1.36G】"}],["$","p",null,{"children":"这个是対魔忍アサギ系列最早的一部里番（07年的，真是感慨啊，那时的我还是个纯洁无暇的刚入学小学生…），是由PIXY制作的，这个社特点就是画风不咋地但是动作很有冲击力，抖动很强烈，表情画的很有特点（和其他社比，和它自己比就显得有点同质化了），这部虽然究极老在楼主的评价体系里实用程度却比第二部评分要高，"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/li-fan-shu-rou-zi-zhi-ai-jie-ma-720p-30fps-pixy-dui-mo-ren-asagi-1-4-du-pan-1-haFk","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

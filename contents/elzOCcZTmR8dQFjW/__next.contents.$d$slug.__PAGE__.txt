@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/官中】龟男复仇记：以牙还牙，三倍奉还"}],["$","p",null,{"children":"生存还是毁灭，这是一个值得考虑的问题。 但是选择当一个龟男跳江还是当一个猎人复仇这不是一个值得考虑的问题。 《龟男复仇记：以牙还牙，三倍奉还》是一款视觉小说游戏。 玩家将扮演主角刘杰昀，一个在职场与爱情中遭受背叛的普通社畜，在女友和职位均被黄毛夺走后，决定展开一场复仇计划。 详细介绍 在《龟男复仇记"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/elzOCcZTmR8dQFjW","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

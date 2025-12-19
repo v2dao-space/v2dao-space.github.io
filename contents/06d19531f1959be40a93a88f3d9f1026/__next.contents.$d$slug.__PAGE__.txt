@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/无码/GAL】わんにゃん☆アラモード！ ～どっちにするの？わんにゃんHなカフェ事情！～"}],["$","p",null,{"children":"2024.8.6之前发的什么东西忘记了，这文章也被XX给XX了既然如此，那就直接换东西补档吧，人也懒，之后失效的文章XX就XX，不管了近期2dfan在搞悬赏任务，生肉gal花积分悬赏，等补丁制作大佬接单制作的活动（积分多的可前去悬赏）本部作品为【机翻/无码/GAL】にゃんカフェマキアート ～猫がいるカフェのえっち事情～ – 萌幻之乡 (moe-acg.com)正统续作，本作的画师与前作的画师不是同一个人，本作可攻略人数是前作的倍数说真的巧，想悬赏的作品：神树、猫咖和猫狗咖都有人制作补丁了，猫咖是"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/06d19531f1959be40a93a88f3d9f1026","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

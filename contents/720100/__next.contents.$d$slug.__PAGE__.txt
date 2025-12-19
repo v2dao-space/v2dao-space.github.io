@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中/PC】雪山别墅与三个妹子的做爱假期v1.1.4步兵版"}],["$","p",null,{"children":"所发布资源不得用于商业盈利，否则产生的一切后果将由您自己承担！23/11/21 更新V1.1.4开发商：#雪山雞白郎, SnowGBL原名：雪山別墅與三個妹子的做愛假期发行日期：2023 年 10 月 2 日游戏介绍  《爱情挑战》是一款面向成人的视觉小说类游戏，其特点包括：-超过5万字的剧情内容，通过对话，选择并引导三个性格迥异的女性，与她们开启一段超级友谊之旅。-动感戏剧表演。-自由安排画廊模式，选择你想做爱的角色，位置和姿势。-丰富的自定义身体选项，自由调整胸部，腹部，腿部，臀部，耳朵的大"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/720100","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

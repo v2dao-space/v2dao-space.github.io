@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/汉化】[RJ356209][サークル冥魅亭]ケモミミ☆トレーニング ～狂暴けもみみ令嬢調教トライアル/兽耳☆训练 ～狂暴兽耳大小姐的调教试验[度盘/1.3G]"}],["$","p",null,{"children":"喜欢请入正：https://www.dlsite.com/maniax/work/=/product_id/RJ356209.html社团名サークル冥魅亭   贩卖日2022年03月04日更新信息2022年04月27日 更新信息作者ねこまか剧情ねこまか / 真白 / ドアノブ插画梅鳥うりり声优青山ゆかり / 秋野花 / みる / 君野りるる / 綿雨たべ子音乐Shade年龄指定R18作品类型模拟有声音有音乐文件形式软件支持的语言日文分类男主人公 野兽/兽化 女仆 情侣 出轨 足交 羞耻/耻辱 反"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/17d3351c45807a2abaf061a7d3d457db","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

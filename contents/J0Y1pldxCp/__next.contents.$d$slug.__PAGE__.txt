@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【GAL/AI机翻】ライムライト・レモネードジャム【度盘/9.1G】"}],["$","p",null,{"children":"25/09/26 没对放流版资源解压修改密码，但资源为下载修改哈希值后重新上传的，可以自行下载放流者版的资源进行比对。 只能出此下策，不然又要慢一拍，因为我要下载上传两次资源。说实话没想到吃网盘返利的已经威胁到传统GAL老登的自嗨舒适区了，就算我一月只搬一次也是被恶心到了。  作品内容 Getchu"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/J0Y1pldxCp","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

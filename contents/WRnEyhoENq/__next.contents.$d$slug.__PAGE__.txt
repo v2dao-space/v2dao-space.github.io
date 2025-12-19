@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"调教女友"}],["$","p",null,{"children":"我相信大多数男人内心都有暴露或者凌辱女友的倾向，只是被自己的面具掩饰起来。我这次讲给大家听我去日本旅行时很特别的经历。我本来内心从来并没想过会去暴露、凌辱女友，心想女友是自己辛苦追求来的，我自己追了两年才得到女友的芳心，怎么会让别人占便宜呢？女友本身也很正经那种，真得暴露或被凌辱，不哭死才怪。但那次日本之行把我思想全反转。虽然那次去日本几乎把我积蓄全花光，但我还觉很值。如果大家有相同嗜好，可能也会觉得很值。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/WRnEyhoENq","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

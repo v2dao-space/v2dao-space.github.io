@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/AI汉化】 居民制造者 住人めーかー 【523M】"}],["$","p",null,{"children":"这款游戏允许玩家通过组合2D部件（如发型、脸型、眼睛和服装）来创建并安置公寓住户，名为居民制造者 。玩家可以打造一个充满纯爱浪漫喜剧的公寓，也可以让所有住户的道德观崩坏，变成一个“自由性爱公寓”。 角色创建（1）“外观设定反映在各个场景中”外观自定义：玩家可以选择脸部图案、发型（前发与后发可分开设定"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/SRZJ1akJL68yltbZ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

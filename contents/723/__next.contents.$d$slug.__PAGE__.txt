@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[大型RPG/中文/动态/CV] 惑星游侠：Planet Rogue V27官方中文步兵版 [安卓] [新作/2G]"}],["$","p",null,{"children":"惑星游侠：Planet Rogue V27【安卓joi+PC】官方中文步兵版\nPS：手机可用joiplay模拟器运行\n\n玩法超强的国产大作，包含即时射击战斗和大型机体及飞船的回合制战斗！\n\n这是一款非常碉堡的国人制作的大型未来世界动作冒险rpg游戏。\n人设精美，男主女主都非常俊俏美丽，设定在未来的宇宙科技世界。\n\n游戏介绍：\n在某个未来,宇宙中只有资本与血腥,一切都在由钱来运转\n掌握了星系的资本公"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/723","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

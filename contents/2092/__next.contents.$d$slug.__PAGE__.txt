@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG/汉化]麦莉的一生Ep.1 汉化版[安卓][1.6G]"}],["$","p",null,{"children":"麦莉的一生Ep.1 汉化版\n\n\n\n游戏介绍：麦莉的生活是一部基于选择的色情视觉小说。在那里你扮演麦莉琼斯的角色，一个婚姻幸福的中年妇女。她开始在一家国际电影公司工作，结识了许多新朋友，并适应了新的生活方式。她将逐渐面对许多充满诱惑的微妙情况，伴随着所有问题的母亲：什么是真正的对的，什么是真正的错？\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2092","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

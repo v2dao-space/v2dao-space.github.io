@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/汉化/PC+安卓/动态/步兵】小青山 小绿山ver1.0"}],["$","p",null,{"children":"毕业后，你回到你的家乡与你的妈妈和姐姐在一起。但你不确定下一步该做什么。有一天，你遇到一个神秘的女人，她给了你一份孤儿院的工作。然而，孤儿院有很多秘密，还有一群年轻女性需要你的帮助。你能揭开小青山的真相，征服这些女人的心吗？剧情大致就是一个主角毕业即失业的时候，在家乡遇到一个女人给了他一份工作，是在一个女子孤儿院里当院长。孤儿院里有粉（小学）、黄（初中）、绿（高中）三个区域。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/3ac2692ab31a1fa82fa4528738230502","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

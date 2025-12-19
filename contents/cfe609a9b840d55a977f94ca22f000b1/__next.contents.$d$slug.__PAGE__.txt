@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC/官中]Inari V1.2.0-240315~STEAM官中版+全CG存档"}],["$","p",null,{"children":"游戏简介：你在旧仓库里发现了藏宝图。藏宝的地方是你的家乡。久违的故乡有热情迎接你的女性。Takane, Asami, Mio不好奇三位美丽的女性和今后将展开的各种故事吗？{collapse-item label=\"CG\" close}{/collapse-item}\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCG\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t入正地址 (https://store.steampowered.com/app/2639100/Inari/)"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/cfe609a9b840d55a977f94ca22f000b1","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

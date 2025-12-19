@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[日系RPG/汉化] 好地方有○○○的故事 イイところは○○○がもってく話 PC+安卓汉化作弊版"}],["$","p",null,{"children":"Yomi，一个已婚并过着正常婚姻生活的魔术师。久违战斗的森林里出现了大批魔物，他被委托去消灭它们。这样的夜美时隔许久第一次接受委托与魔物战斗，不过魔物果然强大。\n为了居住的城镇，当他准备好装备并考虑战斗时，一个非常可疑的男人“Matoo”向 Yomi 求婚。\n“我会让你变得更容易吗？”\n夜美担心着这个可疑的邀请，但是……"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/MLDUdp6X-C4t","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

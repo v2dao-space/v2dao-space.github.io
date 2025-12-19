@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"美母即堕：四位强大而美艳的娘亲被土匪的肉棒打败，沦为淫荡的母猪肉便器性奴"}],["$","p",null,{"children":"竹林苑，书房之中。\n小秀端坐在书案前，纤细的手指轻轻摩挲着墨条，一丝不苟地进行研磨。随后捏着一支狼毫笔，小心翼翼地在宣纸上描绘着。墨汁散发出淡淡的香气，萦绕在他的鼻尖。窗外阳光明媚，树影婆娑，微风拂过窗纱，带来阵阵花香。然而这幅宁静的画面，却让小秀有些烦闷。\n小秀今年已经是十八岁的年纪，却有着一张可爱如女童的面容，乌黑的长发披散在肩头，与男性的身份格格不入。他的身材瘦小单薄，四肢纤细得仿佛轻轻一折便会断掉。平日里总是低着头走路，生怕遇见生人似的。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/mei-mu-ji-duo-si-wei-qiang-da-er-mei-yan-de-niang-qin-bei-tu-fei-de-rou-bang-da-dAAJ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

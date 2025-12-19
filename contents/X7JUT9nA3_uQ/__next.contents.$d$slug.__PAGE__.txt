@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无码】Holy Whore Emily"}],["$","p",null,{"children":"◆故事 18年前，枢机主教吉尔伯特由于在首都的总教会犯下了过错，遭到教会惩罚，贬谪至偏远的临海城镇‧凯纳斯顿，接替离世的主教治理这里20年。   时光飞逝，凯纳斯顿变成了繁荣的贸易要镇，而他在此处的孤儿院收养的女儿，艾蜜莉，也迎接了她的18岁生日。   长年没有「祝福之女」──受到爱芙洛女神钦点的代"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/X7JUT9nA3_uQ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

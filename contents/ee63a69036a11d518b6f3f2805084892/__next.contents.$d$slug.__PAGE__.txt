@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【SLG/生肉】むすめっち"}],["$","p",null,{"children":"一个小游戏，顺带再传一个赠品小游戏  社团名handMadeGames 关注190 支援社团也可以使用DL点数进行支援贩卖日2023年07月10日更新信息2023年08月31日 更新信息年龄指定18禁作品类型模拟有音乐文件形式软件支持的语言日文分类少女 萝 女儿 日常/生活 温馨 通奸/和奸文件容量120.61MB作品内容【ゲーム内容】里親事業者となり引きこもりのむすめを教育、学校に行かせたり社会に出すことを目的とした育成シミュレーションゲームです。【体験版(全年齢版)】体験版としてダウンロード"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ee63a69036a11d518b6f3f2805084892","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"魔王娘と封印の塔   魔王之女与封印之塔"}],["$","p",null,{"children":"作为魔王的女儿，莉莉娜无忧无虑地活在巨大的城堡中，直到勇者前来砍了她爹。现在失去恶魔之力后，她只能悲惨地活在一个人人都厌恶她的小镇上。\n为了改变自己的声誉和生活质量，莉莉娜接受了勇者讨伐怪物作为魔王的女儿，莉莉娜无忧无虑地活在巨大的城堡中，直到勇者前来砍了她爹。现在失去恶魔之力后，她只能悲惨地活在一个人人都厌恶她的小镇上。\n为了改变自己的声誉和生活质量，莉莉娜接受了勇者讨伐怪物的任务，并逐渐开始适应战斗。在魔王曾经的得力助手迪亚哥的建议下，她悄悄工作以取得六个护符，这些能让她进入封印之塔，取回失去的力量。的任务，并逐渐开始适应战斗。在魔王曾经的得力助手迪亚哥的建议下，她悄悄工作以取得六个护符，这些能让她进入封印之塔，取回失去的力量。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/cHHIsCebUyyqyOnN","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

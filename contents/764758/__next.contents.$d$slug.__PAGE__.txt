@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【游戏设定集】-仁王・仁王2 官方艺术画集/仁王・仁王2 公式アートワークス-出版社: KADOKAWA-PDF-度盘"}],["$","p",null,{"children":"『仁王』シリーズの“幽玄の美”を収録したファン待望のアートブック!コーエーテクモゲームスが贈るダーク戦国アクションRPG『仁王』シリーズ。その第1作目『仁王』と続編である『仁王2』の、それぞれの絵素材を結集したアートブックが電撃から登場。歴史上の登場人物や無数の魑魅魍魎たちのビジュアル&設定画はもちろん、舞台背景のイメージボード、登場人物のコンセプトデザインや妖怪のデザインスチルなど、作品内で表現される戦国時代末期の世界観を存分に堪能できる内容でお届け。また、登場する膨大な武器・防具・道具の解説"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/764758","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

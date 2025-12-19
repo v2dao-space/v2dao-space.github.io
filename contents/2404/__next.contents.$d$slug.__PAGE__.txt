@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【日系RPG/2D/汉化】神樱公主汉化版【安卓/2G】"}],["$","p",null,{"children":"游戏介绍：\n\n\n\n曾经讨伐鬼的首领、拯救日之本的“坂神家”的后裔“坂神Mao”在深山的秘境里静静地生活着。\n\n\n\n日本第一繁荣国，治理暴行的将军命令讨伐破坏都城的怪物，与青梅竹马的时雨一起出色地完成。\n\n\n\n结束了大业，享受着瞬间的平静的两个人.\n\n\n\n像是要划破那样的平静，突然乌云笼罩在天空。\n\n\n\n本应在一千年前被讨伐的鬼的首领复活了，与此相呼应的是，大量的鬼溢出城镇，开始袭击人们。\n\n\n\n为"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2404","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG] DL官方中文 前辈与不可思议之岛"}],["$","p",null,{"children":"在前一个岛屿从恶魔手中救出索尼娅后，福拉和索尼娅向魅魔居住的齿轮岛进发，这里传说中隐藏着失落的技术。\n玩家可以选择扮演能使用不同武器和技能的剑士福拉，或能施展法术控制敌人的魔法师索尼娅。玩家可以为她们自定义发色，并为她们换上各式服装。在地牢中找到装备，强化角色。揭开岛屿及其居民的秘密。据说有神秘的强大敌人守护着岛屿的秘密。\n她们能找到失落的神器吗？她们的冒险将如何影响岛上的居民？她们又会在冒险中遇上什么？在这款肉鸽地牢爬行游戏中找出答案吧！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/7fkV5S68zGyE","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

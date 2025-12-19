@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"风月大陆"}],["$","p",null,{"children":"百族大战之后的风月大陆形成了诸国共存的势态，八国争霸的局面维持了相当长的时间，不时爆发的冲突让大陆的人民尝尽战乱的苦楚。当法斯特帝国和武安国为了争夺大湖地区的主权，在天风平原上兵戎相见时，大陆的另一个大国亚素为了得到这个地区的霸权，突然不宣而战，出兵偷袭交战的双方，使得被后世称为‘第一次天风战役’的大战在没有任何前兆的情况下爆发了。就在这场战役中，一个本来默默无闻的男人叶天龙莫名其妙的走上了历史的前台，在风月大陆的历史中谱写了一段惊人的传奇。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/WzEvzfNZLC","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

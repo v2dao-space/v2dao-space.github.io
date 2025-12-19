@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【动画合集/720p/无修正】IOXAT动画合集至2024.7.31【度盘/32.8mb】"}],["$","p",null,{"children":"这位画师的资源都是免费看的，有条件的可以去IOXAT大佬的推特追更，fanbox也能看但是有码。动画很短，有一丢丢音效，没有配音。画师主要画磁小轨，我很喜欢这种题材，所以就搬过来了。  批注 2024-08-03 145418  批注 2024-08-03 152725  批注 2024-08-03 152801  批注 2024-08-03 152906  批注 2024-08-03 152933  批注 2024-08-03 153000"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/6cbd6bd8f77d914e6acdfed3f5b8b380","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

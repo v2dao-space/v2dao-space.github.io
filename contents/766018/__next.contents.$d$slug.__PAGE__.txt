@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/ADV】百奇繚乱の館（ver1.00）"}],["$","p",null,{"children":"前言分享一部非常有名的馆系作品M&M的画风毫无抵抗力系列本作最喜欢的是三女，最可惜的是女仆这个角色  注意游戏附机翻补丁，机翻补丁需要注意2点1、转区运行，不然进不了主线2、有个bug，在百合线里不用日文原版少一个物品貌似，然后进不了怜线必须用日语原版过那里的剧情。就是在厨房找一个八卦杂志，ai翻译会直接放回去但是日语原版则是拿走。如果不拿走的话，后面是没有办法进入 怜 的线的。                                                           "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/766018","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

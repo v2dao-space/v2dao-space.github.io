@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI内嵌汉化/PC/安卓】黄昏少女 [447MB+383MB]"}],["$","p",null,{"children":"为叶酱使用AI翻译+自移植游戏名黄昏少女入正地址：https://www.dlsite.com/maniax/work/=/product_id/RJ01226063.html特别谢明站内“羁绊龙剑士艾拉”大佬的自购！链接：【自购】【RPG/生肉】黄昏少女社团名大和ふみ 贩卖日2024年07月14日 0点作品类型角色扮演有音乐分类萝 内射/中出 怀孕 野外/野战 强X文件容量444.85MB游戏介绍夕阳下的黑暗笼罩的瞬间。找到还没有回家的独行少女，给她们严厉的惩罚！○○黄昏少女○○在快要完全黑暗"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/dd6976d39e5e8fce42224645eefa83fa","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

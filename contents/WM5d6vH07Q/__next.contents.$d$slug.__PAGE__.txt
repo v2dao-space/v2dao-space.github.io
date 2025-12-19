@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"睡着的武神"}],["$","p",null,{"children":"一个奇异的海中大陆，一个战乱不断的时代；一个女多男少的社会，一个奇异出生的男人；一个好色的天之骄子，一个男人梦想的存在。\n他来自最骄傲、最狂妄的种族，是这个种族最后的希望，传承着种族的血脉和荣耀！\n两千年前，他们种族在这片大陆仍是王者之族，统治着这片大陆的所有种族，然而就在一千年前，却被他们最轻视的种族击败，几乎令他们的种族从这片大陆消失，于是他们躲到了原始森林，像野人一样生活着，却时刻想着反击大陆的王道，夺回属于他们的土地和荣耀！\n但是，受到远古女神的诅咒，他们族中的所有女人在刹那间全部死亡，男人们也没有了生育能力，在环境恶劣的原始森林，他们几乎绝望了，就是这时候，族中最后的智者用他的最后的智慧创造了一线光明……他，就是这线光明照耀下的种子！\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/WM5d6vH07Q","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

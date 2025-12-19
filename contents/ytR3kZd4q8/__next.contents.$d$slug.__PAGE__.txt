@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"我的天下"}],["$","p",null,{"children":"这个星球上就只有一块大陆——海迷大陆。海迷大陆上有三个国家：面积最大人口最多的流风国、武力最强的花云国和最富裕的大元国。海迷大陆正处在半封建半奴隶制社会中，允许买卖和拥有私奴，但禁止随意虐杀自己的奴隶。奴隶的来源是战争、灾害、贫穷等人为和非人为的因素。流风国无双县县令之子刘日，在机缘巧合下，得到了魔教第一高手的秘笈和财宝，他从小就立志要泡尽天下美女，决定苦练武功，期待成为万千武林美少女们的白马王子！就在他春风得意、尽显锋芒之际，遭遇身世凄凉的绝色少女，为了替美人儿报仇，他冲进了敌人的府邸，危急关头，毅然使出魔法……\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ytR3kZd4q8","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

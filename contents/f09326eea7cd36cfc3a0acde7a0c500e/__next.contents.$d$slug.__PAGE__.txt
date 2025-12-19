@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【GAL/官中】ATRI -My Dear Moments-【3.51G】"}],["$","p",null,{"children":"以下红色文字复制于《【官中】金輝戀曲四重奏（金色ラブリッチェ）（北米无码）》建议购买正版！购买正版能让资金回到制作公司，让制作公司有钱继续制作优秀游戏，也能让更多日本会社更关心官方中文，更多同步推出官方中文游戏。届时我们就不需要苦苦等待汉化，也不用担心钱被中间各种【收费汉化组】中途打劫去中饱私囊，导致明明大家都给了钱但是游戏厂商却倒闭了的囧途。你所购买的并不只是一个游戏的价值，而是整个汉化游戏业界的改变！Steam官中链接：https://store.steampowered.com/app/1"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/f09326eea7cd36cfc3a0acde7a0c500e","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

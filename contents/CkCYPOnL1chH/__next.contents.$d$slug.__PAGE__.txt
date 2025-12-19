@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【安卓模拟器+PC/ARPG】沉溺于银欲的女保安官和女圣骑士 V1.02 官方汉化版+存档【新作/2.3G】"}],["$","p",null,{"children":"沉溺于淫欲的女保安官和女圣骑士 V1.02 官方汉化版+存档 （白銀の弾丸 -SILVER BULLET- ～淫欲に堕ちる女保安官と女聖騎士～） 游戏介绍： 剧情~挑战只有男性的村庄的两名美女~ 本作设定在20世纪初，“拓荒时代已经结束，在\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/CkCYPOnL1chH","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

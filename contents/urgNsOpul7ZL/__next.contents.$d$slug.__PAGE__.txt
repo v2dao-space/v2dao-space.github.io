@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】欺诈少女与时间操控的复仇/詐欺少女と時間操作の復讐 先行プレイ版【度盘/1.69G】"}],["$","p",null,{"children":"  \n概要：\n简而言之，这是一个关于主人公遭遇残酷遭遇后，借助时间倒流来实施复仇的故事。\n故事设定中涉及时间操作这种超能力，但并非停止时间等，而是反复循环、重复对女主角犯下暴行并乐在其中的感觉。\n\n\n\n社团\nいちえ工房\n\n\n\nhttps://ci-en.dlsite.com/creator/1024"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/urgNsOpul7ZL","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/生肉】反击的魔王大人/反撃の魔王様(全cg存档)【度盘/524MB】"}],["$","p",null,{"children":"闲话 昨天是清明节,不知道大伙们有没有去扫墓呢?关于这个黄油,我这里简评一下,有点费鼠标建议开连点器玩. 喜欢的话,可以支持一下 社团名:あまいまっくす 入正:点我 游戏图   官方介绍： 【ストーリー】 勇者に敗北した魔王。 辛うじて一命をとりとめたが、力を無くし再び勇者たちと 対決するには無理が"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/eQ4QVyznFhPiG_v0","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

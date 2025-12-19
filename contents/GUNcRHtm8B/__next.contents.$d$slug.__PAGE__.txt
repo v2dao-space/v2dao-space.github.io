@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"九流术士"}],["$","p",null,{"children":"落魄贵族江水寒生活窘困之余，貌美如花的侍女奥黛丽，被一位恶霸所看中，设计让江水寒陷入财政危机；雪上加霜的是，他的管家也想卷款潜逃，被江水寒发现后，一阵打斗之中，管家用一块石头把江水寒砸晕在地，却不想在这块看似普通的石头中，隐藏了一个强大的被驱逐的神灵。在神灵的帮助下，江水寒制作出能消除女性皱纹的青春之泉，令无数美女贵妇们趋之若狂，使得江水寒也第一次领略到家财万贯和享受美女贵妇的好处。获得财富和神灵的炼金奇术之后，江水寒与恶霸展开了殊死搏斗，而此刻只想要称霸一个小城的江水寒却不知道，这次争斗，只是他波澜壮阔、俘美无数的一生的开始……"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/GUNcRHtm8B","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

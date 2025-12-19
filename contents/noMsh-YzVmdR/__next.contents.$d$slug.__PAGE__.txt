@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】Dragon Conquista/ドラゴンコンキスタ【2.2G/度盘】"}],["$","p",null,{"children":"  \n故事简介：在一个龙被人类猎杀并逐渐灭绝的世界里，剑圣的弟子雷莉依然被15年前的梦所困扰。“变成石头的故乡”、“黑龙”、“吹笛子的男人”……她渐渐放弃了确认真相的希望，这时却传来了“黑龙”现身的消息。雷莉无法再待下去，毅然离开了熟悉的家，踏上了旅途。为了面对因缘与阴谋，以及自我的旅程——\n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/noMsh-YzVmdR","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

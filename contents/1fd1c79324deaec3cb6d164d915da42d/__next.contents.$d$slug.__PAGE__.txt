@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【日式ACT/动态】復讐の夜霧 Yagiri v0.28 测试版"}],["$","p",null,{"children":"【日式ACT/动态】復讐の夜霧 Yagiri v0.28 测试版 游戏介绍： 游戏由[beebee工房]作者在DL上众筹的游戏 不要看版本低，游戏已经制作了一年多！事件已经非常丰富了 30+的HCG动态像素事件非常社保，各种强奸内容！ 不仅"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1fd1c79324deaec3cb6d164d915da42d","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

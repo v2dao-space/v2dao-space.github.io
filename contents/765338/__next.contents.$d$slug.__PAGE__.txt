@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/GAL】はるるみなもに！【August中文化委員會】"}],["$","p",null,{"children":"前言补档作品纯爱作，虽然个人线故事不一样，但每个可攻略角色（包括亲妹妹）结局都是结婚+怀孕（没错真骨科线）游戏已嵌入汉化补丁+汉化修正补丁点击cht-fix.exe运行游戏，点击cht.exe是乱码截图选图技术很烂不要介意清理了PC，结果PD的账号密码忘记了，重新开了个PD账号，之前游戏持续补链至咸鱼  Story「わたし、貴方みたいな人に祀られたいですっ！！」背後に豊かな山地を控えた海沿いの街 玉津江町は、再開発で近代化が進む海側と、神社を中心に昔ながらの村風景が残る山側が混在する地方都市。双"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/765338","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

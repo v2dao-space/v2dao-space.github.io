@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/樱花飞舞的季节中文化小组】この世の果てで恋を唄う少女 YU-NO 汉化硬盘版"}],["$","p",null,{"children":"本作在批评空间获得了第二的评价（第一是相簿2），此为2019年发布的高清重制版的汉化移植版，新增了一些剧情，如果没玩过的话非常推荐一试。那些吐槽Gal互动不足的，就要他来玩YU-NO，让他互动到吐！故事的剧情分3大部分：序章、现代编和异世界编。序章和异世界编是单线式、传统的AVG，只有选项供选择；现代编则可以象同级生那样，可以自由地执行调查、对话、移动、使用道具等指令。整个游戏剧情非常之浩大，纷繁复杂，因此游戏提供了一个被称作“A.D.M.S”的系统，以辅助了解剧情的分歧和展开。运行游戏目录下的"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/730246","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

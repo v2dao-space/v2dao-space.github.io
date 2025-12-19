@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/无汉化】DEADNIGHT～死霊の夜のメルム～ 全CG存档+攻略"}],["$","p",null,{"children":"本作品可能包含以下内容鼠鼠追逐战0721寄(?)“正经”穿搭“运气”变(nǚ)态(pú) 由于游戏是全日文的,所以我这里给大伙们简单概述一下剧情(有剧透)有一个”正经法师”来到一偏僻山村,解决事端,结果遭遇到了邪神,和一个一直追杀自己的巴巴还有一个来自地狱的女仆,后解决一系列的事(jiě)情(mì)后,击败了邪神(?).实际上之前一直追杀自己的巴巴,是未来的自己,自己因为邪神的力量,一直被困在这里数年之久,后因未知原因回到了过去,并试图杀死过去的自己,来改变未来(这不是自杀吗?),但在女仆帮助下"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/27736a3e2b7e1aa706952fe26d517267","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

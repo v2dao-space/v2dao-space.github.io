@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC+安卓][被禁止的亲属/禁忌亲属 Forbidden Kin Ver1.0SE 精翻汉化版][更新/欧美SLG/动态/双端/2.04G]  "}],["$","p",null,{"children":"学习约会时间到了！莱利到卡特家帮助艾薇完成作业，但艾薇心不在焉、心慌意乱、健忘，身上还有点臭味。莱利独自一人呆在科迪的电脑前，发现了两兄妹之间隐藏的秘密。不幸的是，她太沉迷于窥探，这对她自己没有好处。当他们三个人都必须面对真相时会发生什么？这一切是如何开始的？在《禁忌亲属》中找出答案！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/5501de873facfaf1ad2c501382979d54","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

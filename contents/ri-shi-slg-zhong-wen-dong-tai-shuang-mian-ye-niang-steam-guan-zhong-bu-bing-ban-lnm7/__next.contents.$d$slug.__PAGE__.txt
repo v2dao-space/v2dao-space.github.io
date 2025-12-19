@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【日式SLG/中文/动态】双面夜孃 steam官中步兵版 【新作/1G】"}],["$","p",null,{"children":"给大家分享一款玩法挺上头的日式SLG游戏 双面夜孃 steam官中步兵版 这是一款由[樹懶叫工作室, Maker製造機]作者在24号发布steam平台 游戏性方面，虽然是翻卡赚金币，玩法偏随机性，但是却出奇的好玩 CG绘画的相当出色，可惜就\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ri-shi-slg-zhong-wen-dong-tai-shuang-mian-ye-niang-steam-guan-zhong-bu-bing-ban-lnm7","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/机翻】Hokage’s Adopted Son【百度/1.1G】"}],["$","p",null,{"children":"到处闲逛找到来自欧美著名画师kimkun0162的火影同人游戏，目前还是beta版本，人物和内容还不够多，但胜在画风优势 不管是人物立绘还是场景绘制，在同赛道里都属于顶级水平，而且从没解锁的地图里也能看出作者的野心，期待这一块属于是拉满。 压缩包里包括了ai汉化软件，文本阅览应该没问题，但人物关系图"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Ez2rHps53HW1","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【经营/模拟】 ProjectR_v0.3.0.1 官方中文试玩版【PC】"}],["$","p",null,{"children":"【经营/模拟】 ProjectR_v0.3.0.1 官方中文试玩版【PC】 怪物黑市作者新作，目前还只是测试版 更新内容： 1. 新增哥布林混血魔物娘“矮壮” 2. 新增特性 3. 新增玩家角色，并可与奴隶发生性行为 4. 新增队伍编成功能"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/8599b4770f3276032e8e6cd96310985f","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

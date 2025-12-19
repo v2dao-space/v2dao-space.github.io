@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【互动SLG/官中/PC】NTR狂热/Ntraholic Ver3.3.3u官中步兵版"}],["$","p",null,{"children":"所发布资源不得用于商业盈利，否则产生的一切后果将由您自己承担！游戏概述：发售日期：2023年1月17日转正链接:点击这里该版本为测试版，由于是无码版，所以未上架DL这个版本是 V3.3.3u，最主要的区别就是起始地不同V3.3.3u是从故事序章从头开始.游戏内的版本号没变.这是一款由【Tiramisu】制作的互动SLG游戏~游戏作者经过原版NTR传说的作者同意，出了个同人又同人的作品，而且这部作品有着原作的所有要素更是比起原作的增加了更多的内容，还有酒馆，公园等场景，玩法也是比原版要来的有新意~"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/hu-dong-slg-guan-zhong-pcntr-kuang-re-ntraholic-ver-3-3-3-u-guan-zhong-bu-bing-ban","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

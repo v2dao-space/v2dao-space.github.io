@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/生肉】宝石人形は心を知らない（ver1.1）"}],["$","p",null,{"children":"  \nStory\n可愛い人形の女の子達──\n彼女達は、人間のような『心』が欲しいと願っています。\nある日、彼女たちは 人間から『心』を盗む方法 を知りました。\nそれは、人間の男の子を 射精 させること…\nInformation\n\n\n\n社团名\nmilky☆fairy\n\n\n贩卖日\n2024年11月08日"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2Y3MCf_eRx-1","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

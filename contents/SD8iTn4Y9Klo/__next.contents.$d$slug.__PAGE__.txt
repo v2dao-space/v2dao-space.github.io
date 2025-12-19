@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【AVG/生肉】カノジョノカンケイ【OD/1.75G】"}],["$","p",null,{"children":"24/12/20\n  \n作品内容\n\n\n\nサークル名\n人生通行止め フォローする\n\n\n販売日\n2024年12月20日 0時\n\n\n作者\n神騎逸天\n\n\nシナリオ\n神騎逸天\n\n\n声優\n芹園 みや\n\n\n年齢指定\n\nR18\n\n\n\n作品形式\n\nアドベンチャー音声あり音楽あり\n\n\n\nファイル形式\n\nアプリケーション"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/SD8iTn4Y9Klo","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

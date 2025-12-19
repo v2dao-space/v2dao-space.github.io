@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【单行本&amp;散图/自整理合集/微码】長瀬徹本子&amp;短篇选集（5本+61P/52.5M）"}],["$","p",null,{"children":"小复活一下！長瀬徹是一位近一两年才开始大批量创作的画师，既有在商业志上连载的系列单行本，也有一些零星发表的短篇。这位画师画风较为多变，有时是偏向小萝莉的可爱风，有时又会偏向成熟风，甚至同一部作品中也可能出现封面和内容画风编号的情况（尤其早期作品）。加上他早年的作品大多并不是小萝莉，因此我做了自主节选（ntm），只截留下了里面小萝莉的和比较可爱的部分。她的本子部分其实内容比较普通，但是短篇很多挺有感觉，这一点上和エロッチ有点像（我之后就要更新这位的合集）。另外，她最早的一个本子宣称是“根据实际经历"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/773850","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

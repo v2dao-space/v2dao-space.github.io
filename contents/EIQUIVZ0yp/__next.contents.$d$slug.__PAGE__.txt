@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【rpg/ai翻译】巨乳ふぁいたーレナ"}],["$","p",null,{"children":"机翻简介：     粗俗性格的玛拉棒球拳的继承者阿尔弗雷德·谭接到神秘男子的请求，要击败综合格斗ZAX的不败美女冠军莉娜，并在擂台上羞辱他。 是一颗子弹在擂台上击败了莉娜，并竭尽全力履行自己的角色，但他决定收被奇怪的巧合击败的莉娜作为弟子和肉奴。 莉娜的羞耻和羞辱的日子始于色情拳击手的子弹，她自称是"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/EIQUIVZ0yp","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

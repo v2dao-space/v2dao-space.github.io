@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/官中】ムーンレスムーン【Mega/411MB】"}],["$","p",null,{"children":"https://store.steampowered.com/app/2951340/Moonless_Moon/ 关于这款游戏： 简述 夜幕降临后，是一个别样的世界—— 在声画互动读物『Moonless Moon』当中，少女将来往于形态各异的世界，对自我展开思索。 荒凉的月漠、隧道里的茶餐厅、漂浮"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/--iOljpX9Z1c","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

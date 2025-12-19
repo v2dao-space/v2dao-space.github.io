@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG/官方中文] 异世界出身的我在歌舞伎町打黑工 Ver1.06 [PC+安卓]"}],["$","p",null,{"children":"原本是中世纪魔法世界的冒险家的黛雅,在一次魔物狩猎中遭遇到了强大的魔物。正准备启动传送魔法回城的时候,被魔物打断。随后和魔物一起穿越到了现代世界——歌舞伎町。没有身份的她被黑户的中国人小小红带回了家,从此作为黑户开始在歌舞伎町生存。她能否找到一起落入歌舞伎町的魔物,战胜它并回到自己的时代呢..."}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/48c40540da2e3461ffa52b023372ae24","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

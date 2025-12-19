@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/机翻汉化】Chrono Ecstasy v0.2.1 (安卓PC双端)"}],["$","p",null,{"children":"\n『游戏概述』\n你也想过这个，对吧？关于让时间停止。\n关于那些无尽的人们、可能性和情境，你可以用这种力量来掌控。\n既然你已拥有这份力量……你打算如何运用它？\n你打算如何克服其局限性？你用它影响的生活又如何呢？\n你正在努力建立的那些特殊关系呢？还有其他所有神明对你的生命构成的威胁呢？\n作者支援地址\nP"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4uoh5owqjPPC","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

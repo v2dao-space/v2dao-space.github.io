@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC/ACT]赤蓮忍法帖 NinjaSekiren 最初体验版 官方日文版"}],["$","p",null,{"children":"游戏简介：   游戏以日本江户时代为背景，讲述了主角阿卡莲自幼接受忍者训练，白天在茶馆当女仆，夜晚完成忍者的各种任务。操作方法移動（A/D）跳跃（空间）攻击（J）物品投掷 (K)冲刺（大）窒息技术 (E)试用版的内容阶段到循环1种敌人1 小时动画日文"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/0ed6c1a2894836e0750f817cb4488c7e","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

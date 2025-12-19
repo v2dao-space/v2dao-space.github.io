@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D/生肉/PC】Sapphire Safari [v022a]"}],["$","p",null,{"children":"游戏作者kinky fridays游戏介绍使用 Sapphire Safari 这款开放世界摄影冒险游戏来回应野性的呼唤！捕捉现实生活中的怪物女孩在自然栖息地的美丽。作为一名野生动物摄影师，你的工作是深入未开发的地区，捕捉怪物女孩社交、狩猎、睡觉、交配的场景，并希望她们能完好无损地出来。蓝宝石群岛被神秘地发现，一队勇敢的科学家和探险家被派去揭开它的秘密。探索处女群岛的诱惑，充满了独特的野生动物，一个惊人的发现！谁不会兴奋地追逐这个机会？一个月过去了，第一队与大本营失去了联系。扮演野生动物摄影师的"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/228fc58a8f881de6d84bdeb53270bb18","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

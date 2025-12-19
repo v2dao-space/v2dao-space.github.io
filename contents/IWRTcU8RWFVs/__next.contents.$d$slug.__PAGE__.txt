@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/官中】Eden’s Ritter 1:2 – Priestess of Pleasure"}],["$","p",null,{"children":"\n《伊甸骑士1:2 淫难的巫女公主赛西莉篇》是由Waffle开发的一部中世纪黑暗情色奇幻视觉小说。\n特点\n玩家的选择将左右女主角们的结局\n与各种各样的可怕魔物奋战到底，否则就会被吞噬\n知名绘师Q-Gaku与Mogudan的精美化作\n故事\n魔司教鲁道夫主导的淫魔大侵袭之后过了半年──\n身为艾尔亚兰德王"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/IWRTcU8RWFVs","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

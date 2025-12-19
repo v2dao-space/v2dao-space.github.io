@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/汉化] 花火轮盘赌 Sparkle Roulette Ver1.1 官方中文版★全CV"}],["$","p",null,{"children":"花火轮盘赌V1.1 官方中文版，本资源是isk Anime大佬个人制作的3D同人作品，本资源已经完结，采用renpy引擎制作，全程3D质量相当高，基本就是和花火玩“轮盘赌”的小游戏，全程都是动态步兵场景，最赞的是游戏全程有中文配音，质量非常非常高，推荐试试"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/575f9d9c41818d1a7ada69ea5591d1a0","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

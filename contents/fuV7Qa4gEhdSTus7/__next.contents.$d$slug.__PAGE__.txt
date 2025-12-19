@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【安卓/PC/ADV】千金的家家酒 Ver1.0.2 官方中文版整合DLC+模拟养成+ADV游戏+全CG+800M"}],["$","p",null,{"children":"  千金的家家酒 Ver1.0.2 官方中文版整合DLC PC+安卓+模拟养成+ADV游戏+全CG&补+800M    游戏介绍： 千金的家家酒是一款STEMA热销的模拟养成类游戏， 和公司曾经的主管合住是一种怎\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/fuV7Qa4gEhdSTus7","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

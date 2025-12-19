@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG/汉化][テンかす][RJ01186275]クーニャと絶望の島V1.03[度盘/669M]"}],["$","p",null,{"children":"  \n\n喜欢请入正：\nDL：https://www.dlsite.com/maniax/work/=/product_id/RJ01186275.html\n甜族星人赞助汉化，感谢甜族星人及各汉化者的幸苦付出\n虽然前作说过了，但是一对一纯爱赛高\n前作：https://www.moe-acg.com/7"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/HZFSKgvIbZ9N","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

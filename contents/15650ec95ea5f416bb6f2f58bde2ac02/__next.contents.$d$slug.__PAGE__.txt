@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化同人本/新汉化】2024.7.6 37本"}],["$","p",null,{"children":"(C100) [サヨナラホーネット (ヨシラギ)] 委員長と光田くん [中国翻訳](C101) [サヨナラホーネット (ヨシラギ)] 委員長と光田くんの放課後[中国翻译](C102) [8cm (はっせん)] 水泳部エース催眠計画3 [DL版](C102) [サヨナラホーネット (ヨシラギ)] Delibunny らびこ編 [中国翻訳](LUOLIMASI翻译) アヘ丸 绪川堇子(成年コミック) [どえむたん] 「〇□学園野球部～真夏の合宿中に種付けされる女子マネージャーたち～3[Banana手"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/15650ec95ea5f416bb6f2f58bde2ac02","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

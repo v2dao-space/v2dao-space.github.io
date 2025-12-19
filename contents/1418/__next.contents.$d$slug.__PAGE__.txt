@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[爆款RPG/汉化]银界人柱：艾拉卡~JK退魔师探索RPG V123云汉化版 + 全回想[新作/超强CV/1G]"}],["$","p",null,{"children":"PS:有点恐怖，但是是个好游戏\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[游戏概述]：\n\n\n\n这是[I’m moralist]也是捕获迷宫作者在6月发布的一款超神rpg新作。\n\n\n\n现在已经在DL卖出超过18000+份，绝对的超爆款神作游戏啊！\n\n\n\n游戏属于恐怖+重扣要素结合的多线路探索剧情大型rpg游戏。\n\n\n\n游戏拥有极强的剧情和远比一般CV强几倍超强CV语音演出，无比社保~\n\n\n\n分享给大家云汉化也"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1418","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

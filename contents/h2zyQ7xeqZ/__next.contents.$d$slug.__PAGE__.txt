@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"剑起云深"}],["$","p",null,{"children":"栖兰山庄遭劫，直至最后一刻，方知来人竟是……邵雪芊护着女儿姬梦盈被逼落山崖，意外得崖下高人所救。\n虽是面容丑陋、敝衣破旧，但那双肩为制极恶人才扣上的金龙锁，在在点出此人身分旄十数年前那武功高强、淫威江湖的段翎！段翎亦似转了心性，护送母女俩来到医庐寻访女医辛婉怡。岂料辛婉怡当年即是段翎跨下受辱女子之一，恩怨情仇纠葛不清。\n邵雪芊心忧仇敌身分，又得分神注意淫贼段翎：辛婉怡似爱似恨，回忆满是情欲冲击：劫后重生的段翎，面对三女又有何打算……"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/h2zyQ7xeqZ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

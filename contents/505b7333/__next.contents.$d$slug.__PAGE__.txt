@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【安卓+PC/SLG/动态】幻想女孩寄养之家/Foster Home for Fantasy Girls [1.1G/百度盘]"}],["$","p",null,{"children":"大致剧情：你扮演一位看起来半中年的退伍生物牧师军人，你将在一个小镇开始新的生活。在这个世界中，奴隶制仍然是被允许的，但“货物”十分昂贵，你并未有足够的余额。这意味着你将不得不与一个老奸商所说的“损坏的货物”达成交易。享受游戏的轻松养成，与你的怪物女孩建立美妙的关系。大致玩法：养成、聊天、加好感、解锁新女孩/体位，挺像希尔薇的，特别是开头奸商领着女孩来找你那一幕。PS:英文游戏，我尝试用sakuraAI模型翻译了一下，结果只有10%的文本翻译成功，可能是因为字体的原因？所以我直接用Mtool简易机"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/505b7333","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

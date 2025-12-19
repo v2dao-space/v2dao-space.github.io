@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】ハメ撮りシミュレーター"}],["$","p",null,{"children":"\n这是一款模拟器，您可以为女孩们穿上各种服装并进行拍摄。\n拍摄的图像可以 MP4 格式保存在本地。\n自定义元素\n您可以为女孩穿上以下五种 Cosplay 服饰中的任何一种，并对其进行拍摄。\n兔女郎\n健身服\n中国风服饰\n啦啦队长\n微型比基尼\n全裸\n您还可以从喜悦、愤怒、悲伤和无表情中选择女孩的反应。\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/0NI2GXDPlDT9","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

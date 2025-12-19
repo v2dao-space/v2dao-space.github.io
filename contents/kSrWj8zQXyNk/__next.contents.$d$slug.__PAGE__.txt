@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【2D同人/有修正】Murahachiro 八郎ビレッジ (村八郎) 24.7.31-24.10.30作品合集【5G】"}],["$","p",null,{"children":"虫奸注意\n嗨嗨，想我了嘛各位，抱歉把更新拖了这么久，我这边是在事务繁忙\n考虑到之前的帖子的下载链接已经多的不能再多了，所以开了个新的帖子发布\n这次是24.7.31-24.10.30的作品合计，感觉八郎ビレッジ老师越来越没活了，同质化挺严重的\n  \n \n  \n \n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/kSrWj8zQXyNk","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

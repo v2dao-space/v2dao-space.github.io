@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【互动SLG/NTR寝取/动态】淫眠应用~在淫梦中成为我的女人!~（淫眠アプリ~淫夢で俺の女になれ!~）V1.0 DL官方中文"}],["$","p",null,{"children":"神谷绘里奈是班级的核心人物，不仅长相出众，人缘极佳，还拥有让所有男性倾心的完美身材。过去三年间，向她表白却受挫的男生不在少数，而我这种人甚至连那种念头都不曾有过。眼看就要毕业了，即便无法交往，哪怕是一场梦也好，我真想至少有一次能与她共度！没错，我就是这么想的！我渴望拥抱那样的美女，想与她共赴云雨！！这样的念头让我从床上跌落，惊醒过来。本想用手机找些下饭菜来安抚心情，却意外发现屏幕上出现了一个从未见过的应用……传说中的催应用，莫非……我开始期待起接下来的校园生活了。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ZZEmsaWapZYG","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

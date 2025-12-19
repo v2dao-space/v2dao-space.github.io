@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG]多斯克贝普利兹纳代码 [PC/安卓]"}],["$","p",null,{"children":"一名新來的性工作者被分配到 Deal Saver Keep Barrier，又名 “Doskove”，一个专门关押性欲异常的异性恋者的巨大惩教机构。她是一个假冒的性观察者，被设施剥夺了爱人的性欲，为了报复，她通过实验进行了变性。她支配并使被困在设施中的异性恋者变得阴暗，并利用他们作为揭开设施秘密的棋子。 ……。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2ddf161fd30cf5338a201992856e051a","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

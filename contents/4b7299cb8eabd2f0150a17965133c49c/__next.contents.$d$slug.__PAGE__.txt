@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/官中无修/动态】くりくりクリック～オレのルネッサンス！～/ Kuri Kuri Click! 2 ~My Renaissance!~"}],["$","p",null,{"children":"你是油按摩的行家，所以发挥你的技能和双手，尽情地在可爱的女孩身上施展你的技艺吧！这是开发商 Girl’s Software 的三部曲游戏的第二部分！故事简介我们的主人公生活在一个偏远的森林里，以按摩师为生，擅长使用神秘的油按摩技术。然而，当帝国突然发动侵略战争时，顾客不再上门，主人公无法再通过油按摩的方式接近女人，他开始渴望女人。然后有一天，他遇到了一位女骑士，她在与敌军作战时受伤并被击败后逃脱。主人公不仅对突然出现的访客感到惊讶，而且几乎对她的外表垂涎欲滴。他以按摩油来治疗她伤口为借口，敷上香"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4b7299cb8eabd2f0150a17965133c49c","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

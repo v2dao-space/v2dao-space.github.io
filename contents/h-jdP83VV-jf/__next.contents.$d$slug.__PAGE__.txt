@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPH/AI汉化】 魔界洞 露露·法雷亚 新星 魔界洞ルル・ファレア 新星 【524M/度盘】"}],["$","p",null,{"children":"▼系统▼采用类WWA风格的解谜游戏系统！前进的道路、击败的敌人、开启的门扉……每一个选择都将决定命运。深思熟虑找出最佳路线，向最深层进发吧！▼亲密场景▼可与被击败的女性魔物立即发生亲密互动！之后还能追寻返回的魔物再次互动！强势表达爱意后，这些女性们会有怎样的反应呢……？每个女性魔物都有2种以上的亲密"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/h-jdP83VV-jf","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

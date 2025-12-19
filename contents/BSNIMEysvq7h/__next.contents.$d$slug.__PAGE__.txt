@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】IN HEAT: Lustful Nights V0.2.6"}],["$","p",null,{"children":"\n \n    \n受够了目前的工作？\n怀念起了生活中美好的小刺激？\n那么钻石海峡将满足您的所有期许！\n在体验众多旅游胜地的同时，赢取丰厚报酬。\n如果卖力工作，说不定还能赢得属于自己的 VIP 体验！\n对于夜班的期许：\n您听到的传闻并非空穴来风，钻石海峡是动物与人类混种的家园！\n我们的混种生物仍然保留着"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/BSNIMEysvq7h","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

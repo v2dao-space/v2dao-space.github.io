@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【2D动画】はれ大佬作品合集整理更新（366v/68.5GB）(更新至24.08.04)"}],["$","p",null,{"children":"はれ大佬的全作品合集时隔4个月的更新，更新到24年8月4日最新作芹香。入正赞助地址：https://harechippai.fanbox.cc/往期预览可看:https://www.moe-acg.com/756020.html有差分的就传了差分版，没差分的就只传了普通版（因为有差分的版本比没差分的版本贵一倍，因此没这么好找）预览图24年合集总预览：其他：这几天貌似感冒了，一趟床上就想睡觉，开的很多游戏坑都没怎么填。幸好咱倒头就睡的时间点下载和上传是会一直进行的，因此就又整理更新了一下这个咱非常"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/257ac6f71b50a0829042764878cf835b","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

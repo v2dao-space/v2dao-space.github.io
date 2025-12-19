@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"战甲机索尔冈特 Armored Suit Solgante v1.00 - 萌百ACG"}],["$","p",null,{"children":"经历多年战争，世界格局趋于稳定，各国终于实现了和平，并组建了联合政府。但并不是所有人都对现状感到满意，一股自称“自由联邦”的恐怖势力叫嚣着要继续为自由独立而战。纳达尔塔，世界上最强大的军事国家，任务就是追捕自由联邦的残余势力。而作为纳达尔塔首席驾驶员的你，自然被委以重任……直到你被指控为是敌方的双重间谍的那一天。你能成功洗清罪名自证清白，完成职责赋予的任务，并找出追寻的真相吗？你少数能绝对信任的人，只有你的整备技师和你的妻子，埃蕾诺雅。但不论是何人设下此局，他们定然也不会放过你身边的人，这绝对会导致无穷后患。保护你的妻子和你的国家！为心爱之人和正义而战！否则你将失去一切！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/7b6e71b498c4f3b2745dee1a25a3a6fd","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

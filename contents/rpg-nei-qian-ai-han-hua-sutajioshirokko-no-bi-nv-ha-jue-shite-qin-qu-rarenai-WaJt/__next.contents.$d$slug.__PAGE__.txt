@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/内嵌ai汉化】【スタジオシロッコ】の彼女は決して寝取られない+全cg存档【度盘/937MB】"}],["$","p",null,{"children":"有朋友给我留言的想要我之前发的那个游戏的前作汉化版，我跑了一个，里面我放了回想房存档进去，想一步到位的直接加载存档就好，发给大家尝尝咸淡 鉴于直白的winrar压缩幻影坦克已经炸链几次了为了我的网盘安全，我换压缩软件的方式了，现在里面的文件是分卷压缩的，分为两个链接下载（加大倒狗举报难度），如果带来"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/rpg-nei-qian-ai-han-hua-sutajioshirokko-no-bi-nv-ha-jue-shite-qin-qu-rarenai-WaJt","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

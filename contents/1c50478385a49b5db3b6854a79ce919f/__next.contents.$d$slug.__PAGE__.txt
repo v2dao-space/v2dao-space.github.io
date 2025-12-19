@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG/PC]H版宝可梦：只属于我的迷之规则！赢了女训练师的话H是理所当然的 V1.16+V2.15DLC 官方中文整合版+存档"}],["$","p",null,{"children":"但有一件事是肯定的：我真的在现场第一次体验到了我儿时的朋友。她是处女，但这根本不重要，对她来说唯一重要的是和她发生性关系，因为她输给了我。当我随波逐流时（我儿时的朋友逼我去旅行，所以你也应该去旅行），我开始了环游世界的冒险之旅，渐渐地我了解了其中的奥秘。这个世界。你会接触到……如果你赢了，你就会发生性关系！而且随之而来的是令人发指的情况！？真的吗？为什么？现在，我的冒险开始了！收集所有的女孩和绘本里的荡妇，目标是完成它！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1c50478385a49b5db3b6854a79ce919f","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

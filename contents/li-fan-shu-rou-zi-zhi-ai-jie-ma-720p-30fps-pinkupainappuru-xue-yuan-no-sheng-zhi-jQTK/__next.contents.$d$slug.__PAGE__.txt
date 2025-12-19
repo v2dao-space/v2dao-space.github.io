@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【里番/熟肉/自制ai解码/720p/30fps】【ピンクパイナップル】学園の生贄 慰み者と化した巨乳不良少女～白濁に侵される褐色＆堕肉の狂宴～ THE ANIMATION【度盘/430MB】"}],["$","p",null,{"children":"大家好啊，今天带来的是学園の生贄 慰み者と化した巨乳不良少女～白濁に侵される褐色＆堕肉の狂宴～的解码版（和之前那个被山贼抓的番一样有大枪捅奶头的戏份，赣，虽然怪怪的但是好色），这个番剧情我记得是为了拯救朋友啥的勇闯邪教，然后被威胁，喜闻乐见到精神崩溃（希望这次别再记错了，上个番把剧情记错了好尴尬呀，"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/li-fan-shu-rou-zi-zhi-ai-jie-ma-720p-30fps-pinkupainappuru-xue-yuan-no-sheng-zhi-jQTK","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

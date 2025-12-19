@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/机翻/无修/PC/安卓】Life’s Payback – v2.2.1【10G/百度】"}],["$","p",null,{"children":"https://www.patreon.com/cw/Vinkawa 半年没看作者还在挤牙膏…..            游戏介绍: 生活的回报是一款让你向生活复仇的游戏。 本来一切都很顺利，直到一场前所未有的经济危机颠覆了你的日常生活。 你原本独自生活,但为了在学校取得优异成绩 不得不违背自己的意"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/slg-ji-fan-wu-xiu-pc-an-zhuo-life-s-payback-v2-2-1-10g-bai-du-M8FU","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

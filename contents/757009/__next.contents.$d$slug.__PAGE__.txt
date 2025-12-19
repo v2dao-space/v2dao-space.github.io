@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/生肉】维纳斯计划/Project Venus [v0.1.9]"}],["$","p",null,{"children":"线程更新： 2024-04-09发布日期： 2024-04-09开发者：Team Venus版本： 0.1.9操作系统： Windows语言： 英语类型：3DCG、2D 游戏、动画、战斗、恐怖、惊悚、射击、女主角、大屁股、大奶、羞辱、脱衣、口交、肛交、怪物支持作者：https://www.patreon.com/Project_Venus游戏概述：《维纳斯计划》是一款带有《生化危机》氛围的动作恐怖射击游戏。你扮演吉莉安，一个普通的办公室职员，想要找到她的妹妹，但僵尸的爆发改变了一切。然而，当僵尸"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/757009","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

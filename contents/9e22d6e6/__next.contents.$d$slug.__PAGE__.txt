@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【探索RPG/NTR寝取】传说中的武器和美丽的妻子战士（伝説の武器と美人妻戦士! ）V1.0 汉化中文【PC+安卓双端】"}],["$","p",null,{"children":"在一对被称为最强勇士的夫妇举办的格斗比赛中，冠军将获得一件传奇武器。在传说中的武器和美丽战士妻子的魅力的诱惑下，一个男人冲进了竞技场……游戏的目的是提高你的等级和地位。当你准备好了，就可以参加比赛并获胜。即使你输给了训练伙伴，你仍然可以获得经验，所以如果你继续战斗，你会变得越来越强大。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/9e22d6e6","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

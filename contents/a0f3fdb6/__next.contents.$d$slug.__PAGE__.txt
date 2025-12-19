@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/汉化】異世界で石に転生した俺は女の子を護りたいので地道に強くなる [1+1.2G][百度盘]"}],["$","p",null,{"children":"■概要■主人公是一个从现世在异世界转生为石头的人物。安娜是费姆特王国的王女、在坎坷的命运中与接收了莫大魔力的她一起踏上了旅途。与她的侍女们、个性丰富的NPC的存在一起，踏上了旅途。故事的结局是…请尽情的在本篇中期待吧！■系统说明■・怪物们都以高质量的像素画表现・各处都准备了支线脚本・角色们以丰富的动作活动・角色们的闲聊、团队聊天系统・搭载跳过信息机能・战斗为王道回合制RPＧ・搭载随时疾跑技能。・在特定的头目战斗中败北时会有活动出现？・可能与副女主角、在旅途中出现sese活动…个人汉化提供社团名N"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/a0f3fdb6","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【官中GALPC】巧克甜恋2 附CG包【2.61G】"}],["$","p",null,{"children":"あまいろショコラータ2 中文名：巧克甜恋2 品牌：きゃべつそふと 发售日期：2021-05-28 原画： 梱枝りこ しらたま 声优： 春咲さくら 月白まひる 朔羅ことね 藤咲ウサ 八ッ橋しなもん 都とわ ⇒STEAM链接⇐ ⇒巧克甜恋1站内链接{【汉化GAL】巧克甜恋 Amairo Chocolate}⇐ 剧情介绍 西洋风家宅鳞次栉比的城镇，夕渚町。 少年与长着兽耳的女孩子们相遇，并且开始在同一家咖啡店工作还是去年秋天的事。 结束了快乐的圣诞节的翌日，少年与迷路的女孩子相遇了。 女孩子在寻找的是"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/527316","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

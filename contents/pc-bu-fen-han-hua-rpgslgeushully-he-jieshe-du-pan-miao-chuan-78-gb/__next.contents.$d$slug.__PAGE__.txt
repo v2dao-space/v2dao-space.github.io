@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【PC/部分汉化/RPG/SLG】Eushully合集［E社］【度盘/秒传/78GB】"}],["$","p",null,{"children":" \n\n\n\n丛雨有话说：\n全部加起来大概78GB，可以单独下载\n以下为游戏目录，未汉化的已标明\n\n  \n\n01战女神1（未汉化）\n\n\n\n\n\n \n02兔女仆\n\n\n\n\n\n \n03幻燐的姫将军\n\n \n\n\n\n04战女神2 ～致失去记忆的镇魂歌～\n\n\n\n\n\n \n05幻燐的姬将军2~引导灵魂的系谱~\n\n\n\n\n\n \n06空帝战骑~坠于黄昏之楔\n\n \n\n\n\n07冥色の隷姫～緩やかに廃滅する青珊瑚の森～\n\n \n\n\n\n08深山间隙回荡之歌\n\n\n\n\n\n \n09战女神Z\n\n\n\n\n\n \n10姬狩\n \n\n\n\n\n11战女神V\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/pc-bu-fen-han-hua-rpgslgeushully-he-jieshe-du-pan-miao-chuan-78-gb","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

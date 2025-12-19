@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/汉化/安卓]蒂法的黑暗天堂（Tifa’s Dark Heaven）0.2汉化版[400MB]"}],["$","p",null,{"children":"作者主页https://www.patreon.com/sieglinnde  游戏介绍 云担心蒂法（云的女朋友）担心她的酒吧的声誉…… 尽管他们努力尝试，但还是无法成功。随着一位新顾客的到来，酒吧又开始慢慢发展起来…… 这让蒂法非常高兴，但也让克劳德更加担心，因为这位顾客对蒂法的行为…由于克劳德白天要上班，蒂法整天都会一个人呆在酒吧里，再加上这位顾客的不断光顾…… 云开始变得更加担心，因为蒂法变得更加无忧无虑尤其是对这位新顾客的挑逗… 这开始唤醒了她自己都不知道的性欲。         变更日"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/773884","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【欧美SLG/汉化/动态】奴隶训练师 The Slave Trainer v0.3.5 汉化版【安卓/2.4G】"}],["$","p",null,{"children":"今天给大家带来一款由【苦茶子社区】汉化的欧美SLG/游戏：\n\n\n\n奴隶训练师 The Slave Trainer v0.3.5 汉化版【PC+安卓/2.4G】\n\n\n\n游戏介绍：\n\n\n\n你是一个贫苦的农民，和你的姐妹住在一个小屋里。你一生中每天都在努力照顾你的家人，直到有一天晚上发生了一些事情，改变了你所知道的生活……\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2667","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

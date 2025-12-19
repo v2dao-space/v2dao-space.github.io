@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【电脑】Hottest Summer  最热的夏天   [v0.5]"}],["$","p",null,{"children":"最热夏天是一款全新的成人游戏，讲述了高三学生山姆与美丽的母亲里欧娜和妹妹朱诺生活在亚洲国家的故事。山姆是一名普通的学生，今年 20 岁，经常成为吉姆和朱诺欺负的对象吉姆和朱诺是学校里的两兄弟，他们正在争夺山姆的青梅竹马安吉拉和妹妹朱诺的感情。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/f76b8d60c4cb7ef8b2774f1210d184c8","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

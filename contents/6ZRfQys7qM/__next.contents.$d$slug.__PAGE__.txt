@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"狂剑风流"}],["$","p",null,{"children":"卧虎山庄小仆唐吉与小姐秋雨为爱趁夜私奔，却在中途让人将秋雨捉了回去，自己也因此步入逃亡之路－－ 无意中得到武林至宝“狂风剑谱”，唐吉原以为将此有如神助，却是让自己陷入了黑白两道追杀的命运，更惨的是自己还被人把剑谱给偷了。被逼婚的爱人秋雨要拯救；偷了剑谱的朱小棠要追究，可阴差阳错身陷通天教的他又该怎么自救？夺旧爱白菊的仇要报、通天教小兰与文姑娘的恩要还、及那意图不明美艳堂主。看来他只能靠着自己的力量，冲开这层层的桃色迷瘴了……\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/6ZRfQys7qM","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

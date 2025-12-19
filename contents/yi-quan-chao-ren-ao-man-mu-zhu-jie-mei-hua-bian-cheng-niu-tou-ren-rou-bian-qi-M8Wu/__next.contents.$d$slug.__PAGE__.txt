@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"一拳超人：傲慢母猪姐妹花变成牛头人肉便器"}],["$","p",null,{"children":"某栋随处可见的酒店内，一处朴素典雅的双人房里，空无一人，显得格外清幽宁静，但是从那喝完的果汁罐，随意扔到地上的女性贴身衣物，与皱成一团，懒得折叠的被单中，显露出极强的生活气息，可以看出主人私下生活里的随意。这时，清幽的房间里，传来了浴室哗啦啦的水声，如果躺在从那可以轻松容乃下二人，乃至于三人行的双人大床上，可以轻松看到，那面占据了一整个墙壁的落地磨砂窗内，浴室里洗澡女子的剪影，房间的窗帘被紧紧的拉上，屋子里显得略为黑暗，与此相对的，从浴室里透出的灯光也越发清晰起来，可以清晰地看出，那正在洗浴的女子的曼妙身躯，不知道是不是设计师当初就考虑到这一点，这巨大的落地磨砂窗，竟然没有丝毫遮挡，仿佛电影院的巨幅投影一样，供人欣赏玩味，如果是同女友来的话，估计光是这个前戏就能让人瘙痒难耐了吧。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/yi-quan-chao-ren-ao-man-mu-zhu-jie-mei-hua-bian-cheng-niu-tou-ren-rou-bian-qi-M8Wu","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

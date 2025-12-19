@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【GAL/生肉】人妻天国2 ～繁殖マンション、人妻の子宮を子種で満たす～【度盘/1.04G】"}],["$","p",null,{"children":"24/06/28  作品内容Getchu界面：点击游戏官网：点击作品紹介STORY主人公・富郷大介は大学時代に為替取引で莫大な資金を手に入れると、それを元手に不動産や株式に投資をし、若くして資産家となった。巨額の富を武器にし、欲しいものを欲しいだけ手に入れ、女も好き放題に抱きまくった彼だったが、金で手に入らないものはなく、早々に飽きてしまう。巨額に富を手にした故に人生に飽きてしまった大介だったが、ふとしたきっかけで金だけでは簡単に手に入らないモノ……他の男と愛し合っている女性、人妻に興味を抱くよ"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/d7d99d4a2fa19cc63823df4a2e8b4dbc","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/无码/GAL】君と彼女と彼女の恋（ver1.01）"}],["$","p",null,{"children":"前言刚推完热乎的游戏2dfan赚了点积分买了无码补丁，直接分享无码版给大伙（近期会持续分享无码游戏，有积分任性）本作也是一部神器作品，关于神器作（2dfan上萝莉岛的简介和玩家的评论比搞笑片还搞笑）本作的青梅和葵的表现看呆了我，虽然最后我选择了青梅（我永远喜欢葵，我不会被棒球棍吧）  Story每天，仿佛走台阶一般的度过。简直像背景一般无个性的男主角・心一。和学园的偶像・美雪虽然是青梅竹马，但是因为不想引人注目，也基本和她没有来往，就这样作为普通的同学度过着平凡的每一天。一天，心一被好友雄太郎叫"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/9647dec33a7be4f354b6958e260a53ec","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

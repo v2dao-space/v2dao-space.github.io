@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】Tokyo College Girls The Nerd & Queen Bees"}],["$","p",null,{"children":"\n[游戏系统]\n这是一个仅需点击即可进行的恋爱模拟游戏。玩家可以从主角的宿舍房间选择要前往的地图并进行移动。\n通过查看社交媒体，巧妙地与女生们相遇并拉近与她们的关系。上课可以提高经验值，并获得特殊技能。\n这些技能可以帮助你了解女生的好感度，或者黑进她们的社交媒体小号，窥探她们的秘密。\n[游戏介绍]\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/XzpW8kowQlfJ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

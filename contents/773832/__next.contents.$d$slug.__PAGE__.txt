@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/生肉】 DepraviA SARIEL v1.05"}],["$","p",null,{"children":"社团名:青色ハッキョウダイオード,今作の主人公は正義の天使ではありません。 DepraviAシリーズのヴィラン「堕天使サリエル」を操作し、残忍な天使や悪魔と戦うスピンオフ作品です。 天界を裏切った大罪で、海底監獄タルタロスに収監されたサリエル。彼女はこの地獄から脱獄し、自身を収監した天界に復讐するために、血と肉と精液にまみれた戦いに身を投じます。 全てが「最悪」のタルタロスから脱獄し、大天使ウリエルの企みを打ち砕きましょう。　しかし、敗北すればサリエルに凄惨なる凌○やグロテスクな死が待ち受けてい"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/773832","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

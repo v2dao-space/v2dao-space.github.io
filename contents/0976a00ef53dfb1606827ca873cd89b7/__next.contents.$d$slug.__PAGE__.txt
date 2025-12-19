@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D动画合集/1080p】M71Z30大佬合集至2024.07.26【度盘/mega盘】"}],["$","p",null,{"children":"作者M71Z30度盘只分享了这位大佬的动画，4k的cg图我存mega盘了。  3b8e022deb9b2aa44c00c87481de5540c412c063288f3150268f0602effcd126  560576f0e23c46d449ae7f3d0104a41b4c312e4397ef03d9a5e17dd1e433b711  a43b7f67eff2e755c195c554b2995a3208907a1d710d9ac59e4a3ca27b98bf50"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/0976a00ef53dfb1606827ca873cd89b7","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

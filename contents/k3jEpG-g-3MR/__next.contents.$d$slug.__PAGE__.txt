@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】Lustful Dead"}],["$","p",null,{"children":"在僵尸出没的宿舍里生存、诱惑和战斗！掠夺资源，对抗性感僵尸，营救女孩，打造你的终极生存后宫。          核心特色： 🧟‍♀️ 刺激的战斗系统 – 互动式战斗，每次点击都至关重要！ 🏠 探索与掠夺 – 搜索房间，收集资源，并精心管理以确保生存。 💖 建立关系 – 结识五位独特的女主角，完"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/k3jEpG-g-3MR","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

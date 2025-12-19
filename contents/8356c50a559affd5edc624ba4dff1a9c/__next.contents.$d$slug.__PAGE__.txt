@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[ACT/PC] 官方繁体中文测试版+更新 La Vitalis Immortal Loss Beta 0.03"}],["$","p",null,{"children":"治愈使与受诅咒的地下城作者新作一位迷人的年轻医科学生...一个被未知疾病蹂躏的黄金王国...以及可以吞噬一切的炼金术秘密...维塔，一位非常年轻、才华横溢的瘟疫医生，努力寻找一个可以治愈的瘟疫医生。治愈摧毁她家园的奇怪感染。一生都在认真学习，没有时间去谈恋爱和琐碎的事情……但对于一位年轻优雅的美女来说，却有比病毒更恶毒的怪物……"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/8356c50a559affd5edc624ba4dff1a9c","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化】援助妊娠學園1.0（pc/无码）"}],["$","p",null,{"children":"\n「みんなを妊娠させるために、翔太くんも頑張らなきゃね。」\n\n\n\n\n小さな町を再び繁栄させるため、あなたは「私立援助妊娠学園」という学校に強制転校させられた。\n彼は背が高くありませんが、しかし……………………\n\nマ○コを割るための小道具を見つけてレベルを上げ、メンバー全員の妊娠タスクを完了してください。\nあるいは、何人かの協力を得て学園から脱出するか……。\nリソースを合理的に配分して、次世代オープンワールドキャンパスRPGを始めましょう!\n\n\n\n\n\n女性とキャンパスの豊かな物語\n\n\n\n\n学生! "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/han-hua-yuan-zhu-ren-shen-xue-yuan-1-0pc-wu-ma","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

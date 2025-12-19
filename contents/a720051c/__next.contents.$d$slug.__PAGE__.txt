@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无码】Her Last Piece"}],["$","p",null,{"children":"Luminarium 王国派遣执行一项危险的任务，杀死黑暗女王 Arvenia，你发现自己是她的囚犯，被迫在现已废弃的城堡中作为她的奴隶工作。你相信你的生命已经走到了痛苦的尽头，因为你期望辛勤工作，为她服务每一个黑暗的心血来潮。但一切都不像看起来那样，黑暗女王独自生活在她高耸的堡垒中，她不是你被告知的那个人或什么。你能解开黑暗女王的神秘面纱吗？她到底是谁？她想从你这里得到什么？…你甚至会活着讲述这个故事吗？无论您选择什么，女王陛下都在等待您……"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/a720051c","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

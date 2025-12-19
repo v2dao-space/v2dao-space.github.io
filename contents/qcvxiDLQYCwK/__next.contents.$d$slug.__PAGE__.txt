@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】穢れゆく蒼銀 体験版ver0.5"}],["$","p",null,{"children":"\n更新说明\n终于能够回应了。\n先声明一下，我可以玩到第二天。\n只能做到第二天，所以请不要抱有过高期待哦！\n猫魔神会在大家游玩期间，实时推进事件进展\n提出了一个既有趣又极其麻烦的绝妙点子的魔神\n追加的要素\n重大变更点是\n第二天上午的工作和地下城中的性骚扰进展已添加。\n第二天，魔神觉得克○尼来得有点太早"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/qcvxiDLQYCwK","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

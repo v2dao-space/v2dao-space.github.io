@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/汉化/安卓】找回失落的人/Reclaiming the Lost0.8汉化版【1.4G】"}],["$","p",null,{"children":"作者主页https://www.patreon.com/Passion_Portal  游戏介绍这是一个男人被一封来自过去的信惊呆了的故事。他的旧情人给他写了一封信，信中透露了一个令人震惊的秘密多年前，当他们年轻相爱时，她怀了他的孩子。他决心纠正年轻时的错误并做出补偿，于是他踏上了寻找失散女儿的旅程。 在寻找的过程中，他遇到了一个陌生而引人注目的年轻女孩。他们一起揭开了过去的神秘面纱，追寻着线索和记忆中的片段试图找到他从未知道的女儿。      出错的重下或者换解压"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/a4dbc2cad09f9f9933c8352a638b97a3","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

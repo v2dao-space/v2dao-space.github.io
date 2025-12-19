@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/安卓+PC】我的幸福人生 V1.5 官方中文版【更新/3.3G】"}],["$","p",null,{"children":"给大家分享一款非常棒棒的全家桶RPG新作游戏最新版： 我的幸福人生 V1.5 官方中文版【安卓+PC】 游戏介绍： 全家桶RPG的最新版本，建模采用VAM模型制作 麻麻姐姐妹妹线已经上垒，表姐和姨妈也正式上垒 目前已经有4600+图片和15\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/XjkZmKKG4PQXeUZe","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

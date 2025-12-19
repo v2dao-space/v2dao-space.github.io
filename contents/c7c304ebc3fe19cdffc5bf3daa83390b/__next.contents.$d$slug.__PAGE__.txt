@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"倒数坠入 Countdown-to-NTR-SCN-Complete-v1.1"}],["$","p",null,{"children":"一天，一个年轻的郊外男子贝尔收到一封来自他青梅足马露米娅的信。信里提到露米娅将要离开他们的家乡去追求自己的梦想——成为一个有名的歌星，把爱与希望传达给全世界的人们。在信里还有一张她下一场演唱会的入场卷，是在暗示着贝尔是时候该去见一见她了。贝尔为此乘船踏上了漫长的旅途，并会在五天后乘搭下一班船回家。他必须好好地把握这五天的时间，把他的爱传达给露米娅并可以像他一直所渴望的那样，开始交往。然而，此行并不只有他一个人有这样的想法。露米娅甜美的歌声与漂亮的脸蛋自然也迎来了并不少想获得她芳心与青睐的追求者。如果贝尔不加快脚步的话，或许某人就会在他眼前，先下手为强地把露米娅给抢走了……"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/c7c304ebc3fe19cdffc5bf3daa83390b","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

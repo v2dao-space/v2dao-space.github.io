@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【生肉/SLG】Crystal Defenders【百度网盘】"}],["$","p",null,{"children":"排行榜：24小時內第28名                    銷售數量：903評價：4.44 (496)收藏數：1,106鑒賞數：5 (鑒賞)社團名D.R. 關注1,385 販賣日2020年08月18日年齡指定18禁作品形式益智有音樂檔案形式應用程式對應語言日文分類女性角度 女主角 精靈/妖精檔案容量39.44MB作品內容敵の侵入を防ぐために、精霊は森の中に水晶保護陣を構築した次々と襲来する敵に直面している主人公は、敵の攻撃を避けながら水晶を操作して敵を滅ぼす必要がある。プレイヤーは1ターン"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/770383","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

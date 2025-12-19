@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC-3D游戏] 【3D游戏/全动态】ひゅぷのすユイちゃん（仮）Ver0.002 日文测试版[驱动妖精社团新作]"}],["$","p",null,{"children":"Hypnos Yui酱（暂定） Ver0.002（概要）让大家久等了——本月将为大家带来期待已久的啪啪场景！这次会省略拍摄模式，仅实现自由模式。开发相关的说明：这次推出了之前提到的模拟器方案的Alpha版。作为模拟器，功能还不够完善，更像是开发用的微调项目，所以会根据玩家的反馈进行改进。本次系统的特别之处在于能够以较低成本实现高质量的色情动作，而且其衍生的广度取决于编程。之前的色情动作都是手动画的，但这次（虽然不是全部）大幅度系统化了，因此我认为可以在保证质量的同时降低成本。未来计划的功能：・用"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1e210091aae6ff5ba6f163030c5cb2e9","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

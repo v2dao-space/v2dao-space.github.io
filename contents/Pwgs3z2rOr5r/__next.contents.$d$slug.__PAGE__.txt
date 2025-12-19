@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】忍者少女たちのくすぐり大冒険【双端/800M/百度】"}],["$","p",null,{"children":"  \n游戏介绍被胳肢CG10连发的残酷处决，少女们会如何挣扎呢——各种各样的能量和角色！ ！充满爽快感的ARPG战斗系统活用各种，打倒敌人试着提高少女们的吧！\n介绍2在众多的舞台上，令人兴奋的大冒险！ ！在少女们面前站住脚的是——“啊……小琥珀的脚……柔软可爱……”“哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Pwgs3z2rOr5r","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

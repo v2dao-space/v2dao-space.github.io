@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/GAL】白詰指輪 ～四つ娘の花嫁　俺、全員選びました～"}],["$","p",null,{"children":"前言五等分的花嫁最后也才选了1个花嫁，这部男主不做选择题全都要本作设定=五等分花嫁，本作攻略对象为4姐妹且只有1条同时攻略的后宫路线男主从与4人同居到结婚的全过程，充满甜蜜的恋爱故事悄悄透露本作咱是1、4推（3、4与五等分的3、4人物设定。。。）  Story主人公・正宗は一人で過ごす事が多かった。両親は仕事の関係で出張が多く、家族の団らん、暖かさに憧れを抱いていた。そんな彼が幼少期のとき、両親が長期出張のため親戚の家へ預けられる事になる。そこで彼は、後の人生のパートナーとなる四つ子達と出会う。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/764372","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

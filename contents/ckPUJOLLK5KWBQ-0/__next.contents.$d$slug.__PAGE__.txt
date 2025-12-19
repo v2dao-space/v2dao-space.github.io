@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D动画/无修】EatWaffles大佬作品合集（43V/3.55GB）"}],["$","p",null,{"children":"一个不错的萝莉恋活作者、咱在电脑里存了挺久的但没有整理，段时间站里有站友说希望整理这个作者，之前就整理了一下，核对用的Fanbox，至少fanbox里的作品大概是比较全的吧，整理截止到25年3月的最新一期，部分看到只有几秒的预览就没整理，如果有遗漏可以提出。 依然是单个压缩，可以用脚本一键解压。 作"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ckPUJOLLK5KWBQ-0","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

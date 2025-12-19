@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【官中/RPG/无修】エルフの奴○御子フィーネ～なぜ彼女は自国を売国したのか?～ 同梱パック 正传 + 外传 【百度/3G】"}],["$","p",null,{"children":"我是，拉法姆。最最伟大的考古学家！今天整个超大同捆包，包含了正传和外传，几年前玩正片还不知道有番外，这里谢谢我渴望奶子，来自boki2的版本 《エルフの奴隷御子フィーネ同梱パック》｜製作社團：サークル☆フェアリーフラワー《精靈的奴隸御子菲涅同捆包》包含奴隸御子菲涅的本傳及三部外傳故事！ https:"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/guan-zhong-rpg-wu-xiu-erufuno-nu-yu-zi-fyiine-naze-bi-nv-ha-zi-guo-wo-mai-guo-hxUl","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

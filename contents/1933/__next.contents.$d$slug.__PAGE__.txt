@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[亚洲风SLG/汉化/动态]死月生存v0.4 汉化版[安卓][2.8G]"}],["$","p",null,{"children":"死月生存v0.4 汉化版\n\n\n\n游戏概述：DeadMoon Survival 是一款基于选择的视觉小说，其中一些选择可以改变对话、场景，并可能导致愉快的事件，或者让一些不那么……快乐的人。是的，这是一款非常黑暗的游戏，并且在某种意义上是现实的。我想创造一个可怕的世界，你在每个角落都会遇到危险，你需要快速思考。的确，有时候某些选择是有时间限制的，没有回头路！\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1933","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

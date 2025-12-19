@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/机翻】Tropical Monster Girls"}],["$","p",null,{"children":"《热带魔物娘》是一款以可爱3D画面、引人入胜的玩法和性感魔物娘为特色的成人生存游戏。你在海上遇险，被一位美丽的人鱼所救。现在你必须制作、建造并努力生存下去。在这个令人兴奋的开放世界生存游戏中，与岛上的女孩们建立关系吧。 坠入爱河 你的船遭到袭击并沉没，而你成为唯一已知的幸存者。现在，你必须重新开始，"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/IBRVb5UkcrP7NnUU","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

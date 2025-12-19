@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[ADV拔作/汉化] 孤高的格斗美少女雾香被恶心死肥宅播种了！汉化版+CG [PC/500M]"}],["$","p",null,{"children":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[游戏介绍]\n\n\n\n在著名的格斗大会 [深度冲击] 上面，最近出现了一个声名鹊起的古武术流传承最强格斗美少女~水无月霧香！\n\n\n\n从战国时期传承到现在的古武术流派水无月的继承人雾香，\n\n\n\n从小就被教授了秘传的技艺，在参加了 [深度冲击] 之后连战连捷~已经被称为格斗女王了！\n\n\n\n她是为了天生体弱多病的青梅竹马男朋友芦名拓真而奋战着！\n\n\n\n对雾香深深痴迷的冈田和"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1443","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

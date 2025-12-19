@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【GAL/汉化】Little Sick Girls三部曲【1.4G】"}],["$","p",null,{"children":"Little Sick Girls ～幼馴染の恋人～游戏类型制作公司：Lass Pixy 发布日期：2019年09月27日汉化日期：2020年09月02日汉化小组：胖次汉化组游戏类型：学园、纯爱、制服、青梅竹马游戏原名：Little Sick Girls ～幼馴染の恋人～游戏别名：Little Sick Girls ～青梅竹马的恋人～剧本: 玉沢円原画: 森山しじみ企画: 剣技マナ剧情介绍人生赢家，法隆寺アキト是个中二病晚期的学园二年级学生。长期沉溺于ACG无法自拔，而且还喜欢嘴里蹦几句经典台词"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/75a066d3f57e3190a288e8d32ee5becb","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

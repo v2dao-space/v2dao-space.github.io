@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/PC/安卓]新天域  New Horizo  n v0.2.0"}],["$","p",null,{"children":"• 游戏介绍：每个人都以自己的方式破碎，有过去的创伤或无法释怀的遗憾。每个迷失的灵魂都渴望缺失的碎片来填补他们空虚的心灵。希望、期待；恐惧，犹豫。都混进去了。当你终于鼓起勇气迈出第一步时，脑海中的焦虑和微弱的声音让你再次退回到黑暗的角落。 “如果是你牵着我的手，也许，只是也许，我就能再次飞翔。”这次你会做出选择吗？还是让一切再次溜走？你的大学二年级才刚刚开始。一切都一帆风顺，直到你遇到了一个散发着麻烦气息的女孩。你生活中的一切都将因新的遭遇和新的麻烦而发生翻天覆地的变化。或许，还有新的希望。快来"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/807694b20c054610251dff812eb29360","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

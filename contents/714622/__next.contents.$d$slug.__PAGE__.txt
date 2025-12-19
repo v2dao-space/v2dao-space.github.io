@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【欧美SLG/机翻】［PC+安卓］康乃馨俱乐部 Pale Carnations Ch4 Up3"}],["$","p",null,{"children":"所发布资源不得用于商业盈利，否则产生的一切后果将由您自己承担！游戏介绍:原版名称：Pale Carnations其他名称：苍白之花偏好类型: 3D建模 游戏类型：欧美SLG游戏语言：汉化游戏大小：10.1G游戏平台：PC+安卓游戏语言: 汉化游戏赞助Patreon:点击这里游戏剧情在康乃馨俱乐部中，一位饱经创伤的医学预科学生走了进来。这个学生虽然一心想过着简单的生活，但由于一个日渐堕落的儿时朋友的影响，他被吸引到了一个堕落的世界里。作为康乃馨俱乐部的最新员工，在一系列残酷的游戏中为你的妹子指导。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/714622","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

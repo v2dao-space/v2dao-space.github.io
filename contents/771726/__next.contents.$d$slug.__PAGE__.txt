@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/ADV】微少女HD"}],["$","p",null,{"children":"前言队友闪开，开大了仅限1夜的物语今晚开启一夜物语第一弹萌えゲーアワード2010 メディア支持賞金賞 受賞 —–DMM保健室老师给我来一打HD版本比原来质量高了点吧  Story女生徒に囲まれて学園生活を堪能したかった主人公は、特別講師として学園に採用される。彼は気に入った生徒と仲良くなってエッチな事とか、もっとエッチな事とかもっともっとエッチなこととか……早い話オレの彼女にしたいと考えていた。とはいえ、手を出したら退職の危険もあるし、モテない性格からただただ遠くから眺めている日々が続いていた。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/771726","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/SLG/机翻】 [Xuse]圣娜露卡娜/聖なるかな Special Edition"}],["$","p",null,{"children":"真有生之年了，汉化补丁来自2dfan爱偷懒的叶子大佬，虽然只汉化了adv部分，但质量很不错，解压失败的试试用bandizip。 解压后需要运行注册表修复并且转区打开。 注意发的本体是日文版，翻译大概率也只适配日文版，有能力的老哥可以去steam入正。 steam入正链接：https://store."}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/BfD6fp18Jmqn","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

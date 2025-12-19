@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/GAL】雪の夜、俺は妹を裸にする。"}],["$","p",null,{"children":"前言补档作品本作剧情高度可概况为冬季版（妹を汚した記憶），但无be再也不补此社不正常的妹作了附机翻补丁+免认证补丁机翻补丁解压密码：—感谢2DFan大佬，这里引用下解压密码第一层：Iwakura第一层：Lain  ストーリー「お兄ちゃん。私をこのお家に、置いてください…」故郷の村を出て、街で一人暮らしをしている主人公・慎吾。かつて見放したはずの妹・有希が、実家から遥々やってきた。突然はじまった、思春期前の妹との共同生活。「他の女の子がいる」状況に焦りを感じる、従妹・紗英。妹の目的とは…？　従妹が"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/766912","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

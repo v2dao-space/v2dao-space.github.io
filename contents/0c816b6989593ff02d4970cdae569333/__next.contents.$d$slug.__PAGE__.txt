@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【未汉化/GAL】GREEN ～秋空のスクリーン～（STANDARD EDITION）"}],["$","p",null,{"children":"21999-12-29，一部adv的横空出世打破了以往传统adv的形式这部adv不仅让自身名声大噪，同时也打响了其公司的名气jellyfish这是一个业界怪物版的存在，高水平的动画&美术形式和高质量的剧情让jellyfish成为当时业界的一个标杆（动画形式表现）但jellyfish成也在此败也在此，之后的时间仅有3部作品发布（3+1），这是很令人惋惜的地方至此，jellyfish作品均在本站发布题外话：03年，jellyfish的另一部（lovers，本站有发布），发布后业界有掀起一股动画adv"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/0c816b6989593ff02d4970cdae569333","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

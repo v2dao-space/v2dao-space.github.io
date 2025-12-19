@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"窃玉"}],["$","p",null,{"children":"金祖耀已整整抓了十九年贼。\n从替人修枷换锁的杂役干起，如今，做到塘东县远近闻名的捕头，紫线绣了衣摆，却绣不回他妻子在寂寞中枯槁的容颜，衙门加了例银，仍买不回他儿女没有父亲在侧的童年。\n今年年初，他总算等到了能让他放心的接班人，领闲职享起了清福。\n银子虽赚得少些，但不再刀口舔血鬼门关内进进出出，家人自然没有半点怨言。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/gRtaIdyHfZ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【RPG/生肉】学院洗脑怪人 + DLC（エージェント・シリウス～快楽脆弱な彼女だって学園を洗脳怪人達から守りたい!）"}],["$","p",null,{"children":"碎碎念\n更新了DLC\n没有游戏性，玩法就是找人 + 躲怪，输掉就会进这章节的恶堕线，与其说是游戏，更像是可以操作的小说。\n但！\n恶堕是好文明！\n连锁堕是好文明！\n扶她连锁堕是好文明！\n\n懒狗一条，就不截游戏图了，摸了\n本体入正地址：https://www.dlsite.com/maniax/work"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/l1RoR3FWmY6A","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

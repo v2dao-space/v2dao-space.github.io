@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG/汉化/动态]爱，荣誉，背叛EP.3 汉化版[安卓][940M]"}],["$","p",null,{"children":"爱，荣誉，背叛Ep.3 汉化版剧情介绍：这个故事是关于一个 24 岁的女人，莱西威廉姆森，一名护士，在虚构的罗金厄姆镇的一家大医院工作。一天工作时，莱西陷入了丑闻，成为了一个扭曲的敲诈者的对象。莱西愿意走多远，和谁一起走，取决于你。莱西嫁给了 32 岁的阿什顿，阿什顿是一位非常成功的外科医生，他在医院内一直努力成为外科主任。他的工作让他非常忙碌，而且他经常不在家，这让莱西很失望。有许多配角，他们与"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2102","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

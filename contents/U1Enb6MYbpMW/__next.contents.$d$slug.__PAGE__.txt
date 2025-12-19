@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/生肉】深蒼の吸血鬼ver1.09"}],["$","p",null,{"children":"2018年的老作品了，站里有人发过，传送门：【RPG/生肉】深蒼の吸血鬼ver1.06 – 萌幻之乡 (mhh1.com) 玩法比较少见，但很有趣，不过当时打的时候没翻译，有些机制触发起来挺费劲的，所以印象深刻。 前段时间整理硬盘的时候翻出来，结果看CG的时候发现没打完，然后找资源发现更新了1.09"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/U1Enb6MYbpMW","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

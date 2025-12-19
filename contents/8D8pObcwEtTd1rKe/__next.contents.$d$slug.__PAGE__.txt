@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/AI机翻】僕に抱かれ喘ぐ妻は、他の男に抱かれた話を紡ぐ2 ～憂いの爆乳妻は他人棒で自信と肉欲を高ぶらせ、悦楽の華を咲かせる～【度盘/2.85G】"}],["$","p",null,{"children":"25/03/28    作品内容 Getchu界面：点击 游戏官网：点击 作品紹介 STORY 女として自信が持てない妻の茜 昔に比べてスタイルも悪くなったと悩んでいた 夫の雄亮が褒めても、なかなか信じようとしない そこでSNSを使って妻の画像を上げることにする 褒められることで、徐々に自信がついて"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/8D8pObcwEtTd1rKe","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

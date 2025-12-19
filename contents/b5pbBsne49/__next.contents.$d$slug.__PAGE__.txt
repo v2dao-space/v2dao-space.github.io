@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中无修】梅梅莉丝的RPG~抽卡、圣女与危险迷宫~"}],["$","p",null,{"children":"⏹︎ 游戏说明 ⏹︎ 这是一款有趣的迷宫探险RPG游戏！ 为了还债，而前往迷宫寻找宝物的女主角「梅梅莉丝」 在过程中，将会遇到可怕的怪物以及令人感到温馨的伙伴！ 究竟她是否能顺利寻到宝藏，还清债务呢？   ⏹︎ 游戏特征 ⏹︎   经典的日式RPG冒险游戏   丰富的迷宫地图   RPG战斗系统  "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/b5pbBsne49","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

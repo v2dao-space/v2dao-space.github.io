@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"还在坐月子的儿媳无法忍受公公的巨根诱惑主动索要插入"}],["$","p",null,{"children":"“老公，你睡过来一点。”刘梦婷拉着老公的胳膊，往自己身边拽着。 “怎么了？孩子醒了吗？”老公扭头过来问道。 “没有，他刚吃完奶，睡的正香，你过来嘛，快点。” 老公把身子往刘梦婷身边挪了挪，躺了过来。 刘梦婷也顺势往前搂抱着老公的胳膊，贴在上面，一脸欲望的表情看着老公说道，“老公，我想了” “什么？” “我想要”刘梦婷扭动着身子，慢慢拉起老公的手，朝着自己睡裙底下伸去。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/hai-zai-zuo-yue-zi-de-er-xi-wu-fa-ren-shou-gong-gong-de-ju-gen-you-huo-zhu-dong-gmXF","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

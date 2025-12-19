@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[超神RPG/汉化/动态]创世秩序 V45101 精翻汉化版+全回想[安卓][10月更新][6G]"}],["$","p",null,{"children":"纳迪亚新作：创世秩序 Ver45101 精翻汉化版+全回想\n\n\n\n游戏概述：这是由[NLT Media]制作组最新制作的一款超级神作rpg。当纳迪亚之宝完结，作者再次马不停蹄地开始了这款新神作的制作。继承纳迪亚优点，一如既往的电影级别的动态场景，宛如看好莱坞级大片~这是22年10月5日发布的最新版本，内容已相当丰富，一如既往丝滑细腻！逍遥大佬纯手工翻译，带作弊和回想全开，500%推荐！\n\n\n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1741","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

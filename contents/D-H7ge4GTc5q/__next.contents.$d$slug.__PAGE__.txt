@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无修】Damsels in Distress"}],["$","p",null,{"children":"困顿中的少女（Damsels in Distress）是一个互动冒险游戏。在游戏里你将扮演一个好色的圣骑士，一直在男欢女爱和责任之间做出选择。这些场景都伴随着精彩的性爱动画和日语配音。 “这是一个老故事，主线内容是从小妖精、巨魔、狼人和女妖等恶棍和强奸犯的魔掌中解救少女。你将在游戏中的不同场景中遇到"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/D-H7ge4GTc5q","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

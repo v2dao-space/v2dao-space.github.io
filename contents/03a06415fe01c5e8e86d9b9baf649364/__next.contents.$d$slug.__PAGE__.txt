@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC/安卓RPG游戏] 【RPG/汉化/双端】前辈和不可思议的岛 第二部 ~ 先輩と不思議な島 云翻汉化版"}],["$","p",null,{"children":"◆和前辈和不可思议的岛前辈两个人探索的动作RPG！◆顺利地帮助了被淫魔抓住的恋人索尼亚前辈。关于事件告一段落的胡拉和索尼亚一起前往下一个岛的探险！ 那个岛在数百年前以惊人的技术而自豪，但是发生了神秘的灾害现在传说这是一个保留着被放置的机器和文明的岛屿。为了寻求失去的技术，索尼亚和胡拉能顺利结束旅行吗…◆这次可以把两个人作为主人公操作！！老板战和通常的活动当然也很完备请享受以两人的百合为主描绘的冒险幻想！◆能带去的装备…连衣服都没有！？阻止冒险的不可思议的迷宫！进入的条件是…裸体！？在装备全部被夺"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/03a06415fe01c5e8e86d9b9baf649364","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

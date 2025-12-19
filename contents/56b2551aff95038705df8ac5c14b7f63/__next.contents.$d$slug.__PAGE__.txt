@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG】高塔之城的莉兹官方中文版【PC+安卓】"}],["$","p",null,{"children":"【RPG】高塔之城的莉兹官方中文版【PC+安卓】 游戏概述： 这是一款由【クリメニア】社团制作的日式RPG游戏。 现在已经上架了STEAM平台，搭载超赞官方中文~ 现已由【神乐游戏】官方授权译制，文本质量在线，推荐体验！ 在这里将STEAM"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/56b2551aff95038705df8ac5c14b7f63","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

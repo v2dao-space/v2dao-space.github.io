@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【安卓/PC/神作CG】性感的爱(Second Base) Ver24.12.0 汉化版+全CG +约会模拟游戏+欧美沙盒大作+2.6G"}],["$","p",null,{"children":"性的爱(Second Base) Ver24.12.0 汉化版+全CG PC+安卓+约会模拟游戏+欧美沙盒大作&补+2.6G       游戏介绍： 戏画风非常赞，全程2D手绘，16位可爱的女主，全程英文CV。 \n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/6O3WL_ZcOUyx","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[日式RPG] Ambrosia 永生之物 Ver1.2 [汉化][存档][安卓][2.2G]"}],["$","p",null,{"children":"永生之物-Ambrosia アンブロシア Ver1.20 精修汉化修复版[PC+安卓]这是新发布的的Ver1.20汉化修复版本！而且是PC+安卓双版本Ver1.20属于大更新，追加大量新要素，任务和H场景，并修正各种BUG。标题译名阿布洛西娅为希腊语，一种仙物，吃后可长生不老成不死之身。本内容包括1.20游戏本体+全回想存档\n\n\n\n\n\n\n\n『游戏概述』这是由[しもばしら工房]社团发布的一款多元化冒"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/637","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

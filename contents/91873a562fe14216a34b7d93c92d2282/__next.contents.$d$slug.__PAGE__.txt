@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/官中无码]The Concentration of Lust"}],["$","p",null,{"children":"游戏简介：踏入所有咒语大师的鞋子，这位传奇法师的力量和智慧无与伦比。经历了许多危险的探险之后，他返回塔楼，惊讶地发现它被神秘的女性占据了。与这些女性的每次相遇都是战斗和诱惑的交织，胜利不仅带来满足，还有深入探索她们隐藏的秘密的机会。沉浸在这个迷人的视觉小说中，充满了迷人的动漫美学，幽默和阴谋与神秘的黑暗幻想氛围融为一体。当您揭示塔楼内发生的黑暗秘密时，揭示人物的动机。你是否会掌握魔法的艺术和你心中的激情马？"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/91873a562fe14216a34b7d93c92d2282","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

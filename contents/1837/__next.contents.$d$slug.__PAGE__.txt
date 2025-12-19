@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG]]绯色修仙录 V0.4995 魔改步兵最终中文版★中文CV[安卓] [1.3G]"}],["$","p",null,{"children":"绯色修仙录 Ver0.4993 魔改步兵最终中文版+存档+作弊内容包括：游戏本体+作弊+全CG存档，已整合在一起。\n\n\n\n这是2022年8月的最新更新，也是魔改版本的最终完结版本~魔改增加了15套新时装和新灵宠，增加了额外事件和エロ剧情。绯色魔改版到此也正式完结，相比原版算一个收藏版的独立游戏。游戏概述：这是由[蓝月虫]制作组出品的国人自制的超高质量古风rpg游戏2022年8月最新发布Ver499"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1837","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

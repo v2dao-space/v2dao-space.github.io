@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/2D动态/生肉】[硝子工房]『IVAV2』先行体験版"}],["$","p",null,{"children":"如题，那个IVAV的作者要发新作了。这次是摄影系列的第二部作品，不过是体验版，里面可玩的不多，不过总体上还是不错的。这次是作者22号在其fanbox，fantia等赞助网站发的。得是有赞助的人才能下载。虽然IVAV系列的女主都知道是未成年，不过开头的游戏都会声明登场角色都是18岁以上（谁信啊？）。上一次的女主是平胸未发育的小学生，这次是设定为初中二年级的中学生。名字叫mana。她的一个显著的特点就是胸大的离谱（游戏里说的是S罩），现实里这样的人可找不出几个啊。更多的图我就不放了，自己下了玩吧。我"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/a5c0ecdb50218881babd7b5cc39e9dbd","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

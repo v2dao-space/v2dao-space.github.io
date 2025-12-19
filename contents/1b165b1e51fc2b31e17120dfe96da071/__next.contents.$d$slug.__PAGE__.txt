@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/无码/GAL】恋愛、借りちゃいました"}],["$","p",null,{"children":"前言本来想直接买无码补丁的，结果下了日版+英文版，瞎七八搞就出日版无码了然后花2个积分买汉化补丁，就变成了汉化无码版了只发本篇，FD虽然也有无码（懒不发了，到时候做AI挑战赠送）封面直接上名场面（ps：我选择现金的 哔~）  Story「请和我交往吧！」「请，请不要随意触碰！晕厥了知道吗？！」「和姐姐性癖不一样呢」「请做我的“情人”」「呐，这是交友费」「为何会变成这样……」妹控主人公新海幸（しんかいゆき）。出于特殊的家庭原因，只坚信“金钱是用来让妹妹幸福的”，每天打工至深夜。虽然寄希望于尽早从学"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1b165b1e51fc2b31e17120dfe96da071","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

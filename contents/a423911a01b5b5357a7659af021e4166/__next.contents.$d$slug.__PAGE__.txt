@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中】迷宫物语FALL IN LABYRINTH フォーリン・ラビリンス ―隷属の少女たち― 2.26G"}],["$","p",null,{"children":"最重要的事1.只有度盘，挂了随缘补；2.如果你没有处理wim文件的工具，请使用链接附带的工具包；3.游戏文件和压缩包是没问题的，如果解压出现问题建议找找自己的原因；4.在dlsite入正(日文版)   在steam入正次重要的事纯爱后宫RPG，中规中矩的王道剧情，有一定的刷子要素CG包括两个主要女角色和四个次要女角色，CG无码，但质量一般附有全CG通关存档，但纯爱游戏显然是要过剧情的。你的CG比较松弛，但你的羁绊剧情又弥补了这一点。  不想刷刷刷可以出门右转开二周目两个主要女角色有丰富的换装项目"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/a423911a01b5b5357a7659af021e4166","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

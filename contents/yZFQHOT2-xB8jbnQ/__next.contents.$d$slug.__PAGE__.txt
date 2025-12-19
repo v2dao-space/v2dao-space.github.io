@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/PC] NTR办公室 NtrOffice"}],["$","p",null,{"children":"身为在一间黑心制药公司的小职员，你的女友作为你的上司，平时在经理刁难你时，也总会为你挺身而出。\n然而，你们的黄毛经理却对她虎视眈眈，企图将她从你身边夺走。\n另一边则是公司的天才研发博士，同时也是你的青梅竹马，在工作上处处照顾你；然而新来的助手却在暗地里谋划着什么……\n面对这场挑战，你必须谨慎抉择，以免爱情与事业都受到伤害。\n在这个游戏中，你将扮演一位奋力保护所爱之人的英雄，努力捍卫心中珍惜的爱情。\n又或者。 。 。享受爱情被黄毛经理践踏的快感！ ！ ！\n你的抉择将引导你走向三种不同的结局，每一次的决定都将影响着你们的幸福与未来。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/yZFQHOT2-xB8jbnQ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

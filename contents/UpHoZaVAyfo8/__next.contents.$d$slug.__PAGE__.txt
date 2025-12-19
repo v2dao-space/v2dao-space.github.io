@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【2D动画/生肉】[RJ01211768][セイギノヤカタ] 修正便所 -The Correction Lavatory- 【26V/百度/524MB】"}],["$","p",null,{"children":"  \n—————————————————————————————————————————–\n【作品简介】\n关于在厕所里与机器和生物秘密做爱的视频。\n\n◆◆◆ 简介 ◆◆\n从游泳池回家的路上喝了很多果汁后，鲁伊卡\n让妈妈带她去公园的厕所。.\n\n他试图在一个陌生的日式厕所里办事，却遇到了\n奥玛形状的神秘"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/UpHoZaVAyfo8","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

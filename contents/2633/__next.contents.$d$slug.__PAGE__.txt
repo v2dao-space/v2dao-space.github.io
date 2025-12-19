@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[武侠RPG/中文/动态]金庸群侠传X：无双后宫版-我全都要V1195[最终版][安卓][4G]"}],["$","p",null,{"children":"金庸群侠传X：绅士无双后宫版-我全都要★Ver1195\n\n\n\n这款国产武侠神作Ver1195版是最新也是最后发布的绅士版本。人气最高，エロ度最高的金庸X[我全都要]的最后一个版本。因为以后更新再无瑟瑟，这个版本可算是最终エロ版，值得收藏！内容包括：手机安卓版+目录全CG+修改+攻略+存档，已整合。\n\n\n\n游戏概述：绅士无双后宫版的的最新也是最终エロ版（以后版本无瑟瑟）这里的版本不是普通的后宫版，而"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2633","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/无码/GAL】ユメミルクスリ"}],["$","p",null,{"children":"6分享的田中作品的最后一部本部作品继承了田中以往的剧本特色，每一个happy end的过程都十分压抑、黑暗亚绘香因为校园霸凌以及原生家庭的失败想自杀喵子则是因为自身的怯弱产生了药物依赖学姐承受着过大的压力而且对自己的生命没有实感男主父母双亡被养父母收养，前期的家庭生活描写里看着还是很其乐融融的，但总有那么一丝隔阂但最后亚绘香和男主互相支撑，共同对抗霸凌喵子成功戒毒，学姐则是怀孕在腹中儿上找到了自己生命的实感和未来，颇有教育意味本作最经常的地方就是那带有童话色彩的通往天空的台阶和城堡无码补丁是我提"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/78ff8800d71e836d7ae78753665c3e8c","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

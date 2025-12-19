@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【资讯】《姐姐大人同居中》簡評：乳量滿載的全肯定奉仕！純粹實用的治癒系小品"}],["$","p",null,{"children":"《姐姐大人同居中。～唯奈濃情蜜意的全肯定～》（お姉ちゃんといっしょ。～唯奈のあまあま全肯定～，下稱《姐姐大人同居中》）是同人社團「ボウサバG」2020 年推出的純愛模擬遊戲，發售當月曾拿下 DLsite 全站第 3 名的佳績，至今累積銷量已達 1 萬 2,000 份以上。 《姐姐大人同居中》官方無碼"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/98-GfiyKIi7W","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

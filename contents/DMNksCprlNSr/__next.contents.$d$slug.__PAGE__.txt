@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【AI翻译/GAL】ゴールデンアワー"}],["$","p",null,{"children":"这部游戏成功让我认识到了另一个剧本家\n这游戏的部分情节令人无语，几位女主的线路更是想吐槽\n高情商：这部游戏的画风、音乐非常好，但部分剧情之间的合理性以及角色线有些突兀\n低情商：这位剧本家和之前（シャムロックの花言葉）是不是拜过把子的\n一个是M14地雷，另一个是阔剑地雷，这2位剧本家的作品记得玩之前排"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/DMNksCprlNSr","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

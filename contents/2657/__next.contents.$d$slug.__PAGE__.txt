@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【亚洲风SLG/中文/动态】特工17 V19.4 官方中文版【安卓/4G/紧急更新】"}],["$","p",null,{"children":"特工17V19.4官方中文版 【安卓】紧急更新Agent17 [v0.19.4] [HEXATAIL]\n\n\n\n昨天发布的19.0，小伙伴留言说有bug，不能拼图，小编去P站搞来了最新的版本V19.4！\n\n\n\nPS：这神作终于出官方中文版了！你没看错，的确是官方中文版。\n\n\n\n现在游戏支持简体中文、繁体中文、英文、日文、韩文、越南文\n\n\n\n这是一款由[HEXATAIL]制作的沙盒SLG游戏\n\n\n\n游"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2657","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

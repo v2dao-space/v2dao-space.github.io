@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【超神级RPG/汉化/动态】创世秩序 v.53121 逍遥汉化版【安卓/5G】"}],["$","p",null,{"children":"感谢【逍遥大佬】汉化了这款纳迪亚之宝作者的最新作：\n\n\n\n创世秩序  Vv.53121 精翻汉化版 【PC+安卓】\n\n\n\nThe Genesis Order [v.53121] [NLT Media]\n\n\n\n\n\n\n\n由[NLT Media]于2022年12月发布的新版本。\n\n\n\n22年12月最新版精翻汉化版，附带作弊和全回想，已有3288个动画场景！\n\n\n\n【纳迪亚之宝】作者的又一神作！\n\n\n\n这"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2527","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

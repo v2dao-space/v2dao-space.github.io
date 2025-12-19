@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"美人图"}],["$","p",null,{"children":"纯洁善良的男孩伊山近，因为对于修仙有着不切实际的幻想，误入神仙洞府，遭遇到了意想不到的悲惨命运。\n联手欺负他的，却是两个冰清玉洁、不食人间烟火的仙女，其中一个在事后还写了一首诗，缅怀自己失去处女身的故事。\n伊山近被迫沉睡百年，在醒来后，赫然发现世事已经历沧海桑田，往日的一切，再也找不回来了。\n经历失身惨祸的无辜少年，誓言要向那两个活活蹂躏了自己三年的美丽仙子复仇。但他面对的是拥有无数美女强者的修仙大派，他究竟能不能打败那些纯洁仙女，痛痛快快地进行复仇呢？"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1zDM53960j","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

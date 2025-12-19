@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】旅店店主和亚人奴隶/宿屋の店主と亜人奴○～安宿の収入では暮らせないのでダンジョンでも稼ぐことにした～【1.39G/度盘】"}],["$","p",null,{"children":"  \n故事：\n行为不端被家庭逐出的前贵族主人公卢克（名称可更改）决定在偏远之地经营旅馆。\n旅馆中有三名亚人奴隶，与卢克一起经营旅馆。\n精灵赛拉负责旅馆接待，还负责文件整理等工作。\n猫族兽人拉皮负责接待、外勤等雜務。\n牛族兽人比比安负责烹饪，并负责食材采购等。\n旅馆附近有一个地牢，因有怪物而导致前来旅"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/reu1JmHwNe06","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

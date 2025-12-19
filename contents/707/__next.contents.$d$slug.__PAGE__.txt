@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[佳作RPG/中文/CV] 异世界的回响千雪之歌 官方中文步兵版 [安卓][新作/多结局/1.5G]"}],["$","p",null,{"children":"异世界的回响千雪之歌 STEAM官方中文步兵版\n\n\n\nPS：手机可用joiplay模拟器运行！\n\n\n\n这是一款由[QAQ-A7]制作并发行的rpg游戏2022年08月18日上架的STEAM，并搭载官方中文版。讲述主角千雪在一次过劳工作后不幸意外猝死没想到死后却因为灵魂中自带的特殊‘天赋’而受到了生命之神的青睐，并且还得到了重新复活的机会。不过复活总是需要代价的，可怜的千雪又成为了一名神界打工人，负"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/707","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

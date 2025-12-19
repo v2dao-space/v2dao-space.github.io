@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[日式步兵RPG] 驱魔女神 v0.99d 内嵌汉化步兵版 [PC+安卓3.20G]"}],["$","p",null,{"children":"[日式步兵RPG] 驱魔女神 v0.99d 内嵌汉化步兵版 [PC+安卓3.20G] 游戏简介 当你遇到不知道如何推进任务的情况时，只要回到家里打开任务列表，就能查看目前的任务内容和下一步提示。 阿雅娜是一位驱魔女神，专门猎杀恶魔。她追踪到\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ri-shi-bu-bing-rpg-qu-mo-nv-shen-v0-99d-nei-qian-han-hua-bu-bing-ban-pc-an-zhuo-hNAm","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/官中（精修汉化版）】[NTR MAN] 死亡租客 / Tenants Of The Dead Ver0.18"}],["$","p",null,{"children":"NTR MAN 新作  内容也进行了汉化，不再是只有预章零零散散的汉化  剧情大纲就是主角（苦主）和女友因丧尸危机被困在出租屋里在弹尽粮绝的情况下可以选择出卖女友肉体换取部分食物【PS：连续点击右下角版本号可以解锁全CG、服装（CG在房间内查看）】      路径、文件名必须全英文！！！路径、文件名必须全英文！！！路径、文件名必须全英文！！！支持原作者（NTR MAN大佬）推特（现在应该叫X）：小蓝条Patreon：小蓝条PIXIV FANBOX：小蓝条"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/721747","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

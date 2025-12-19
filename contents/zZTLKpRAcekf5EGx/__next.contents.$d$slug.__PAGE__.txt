@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/生肉】Starmaker Story 1.5 C【度盘/398MB】"}],["$","p",null,{"children":"等了2个月左右作者那边没动静了，所以直接把1.5C版本上传了先，详情看我之前发的1.5B版本，这个版本优化了ui还有一堆事件 图片角色都是有CG的，详细攻略地址看最后面的链接    游戏攻略地址和bug汇总（需要你开翻译软件看攻略，需要加速器）： https://docs.google.com/do"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/zZTLKpRAcekf5EGx","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

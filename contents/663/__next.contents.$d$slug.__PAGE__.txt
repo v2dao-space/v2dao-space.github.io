@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[养成SLG/中文/魔改版/双端] 希露薇の交配计划 V7.6.9 超级魔改步兵汉化版 [PC+安卓/3G]"}],["$","p",null,{"children":"希露薇の交配计划 V7.6.9双端超级魔改汉化版[PC+安卓]本资源包含PC中文版+安卓直装中文版+CG包，可以单独下载\n\n\n\n又叫希尔薇\n\n\n\n奴隶少女希露薇的V3.0想必大家都玩了吧\n\n\n\n虽然更新多，剧情好，但是，是不是总觉得少了点什么？\n\n\n\n那就是！希露薇系列的传统艺能——魔改！\n\n\n\n这次给各位分享的是由[bian太汉化组]制作的超级魔改版本\n\n\n\n版本号位12月最新的V7.6.9，和"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/663","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

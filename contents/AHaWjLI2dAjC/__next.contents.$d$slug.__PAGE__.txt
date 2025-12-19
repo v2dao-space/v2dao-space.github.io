@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/机翻】女神的旨意Goddesses’ Whim [v0.4.0]【安卓/1.9G】"}],["$","p",null,{"children":"  \n游戏介绍\n你，这一切的主人公，拥有一颗宽广的心（还有其他一些东西……），因为你的过去，你的生活枯燥而孤独。但有一天，由于你无论如何都要帮助他人的性格，你决定为他人献出自己的生命，这吸引了某位女神的注意。现在，你有机会回到另一个世界生活，途中会遇到任性的女神，你有机会重新开始。所有的女神都追求不"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/AHaWjLI2dAjC","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

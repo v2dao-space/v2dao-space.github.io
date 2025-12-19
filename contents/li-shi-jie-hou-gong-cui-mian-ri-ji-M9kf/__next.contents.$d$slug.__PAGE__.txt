@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"里世界后宫催眠日记"}],["$","p",null,{"children":"沐小小一直认为，里番三件套——催眠、时停和下药，对这个世界的女主角来说完全就是大材小用。\n因为你根本就不用这么麻烦，随便拖到一个没人的地方，稍微压迫一二，她们便会乖乖臣服，最多嘴上叫嚷几句，身体却很诚实。\n或许也有例外，这个时候你可以使用威胁手段，基本能搞定百分之九十九的女人。\n但并非是说三件套没用，恰恰相反，这些能力是用来对付你的那些同行们。\n所以要如何在里番世界生存？"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/li-shi-jie-hou-gong-cui-mian-ri-ji-M9kf","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

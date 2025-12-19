@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG/动态/高清]恋物之欲-性癖探测器 第3周v2.5.7 汉化版 [安卓][3.9G]"}],["$","p",null,{"children":"恋物之欲 第3周 v2.5.7 汉化版 [安卓]\n\n\n\nPS：这是XP定位器的第三周的剧情，内容非常丰富，光动态就有950+具体看更新日志。本作画风非常不错，女主众多，而且大都是青春靓丽的女大学生！剧情非常有趣，有很多剧情对话非常搞怪和幽默，推荐有时间可以仔细鉴赏一下对话~玩法非常有新意，你需要做各种任务来达成目标，根据完成任务的过程不同，得分也不一样~目前已经有大量那啥场景，各种骚操作绝对让你目"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/715","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

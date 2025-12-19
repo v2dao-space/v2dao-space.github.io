@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中/无修/PC/安卓】迷失的生命 / lost life 1.52+特典【2G/百度】"}],["$","p",null,{"children":"我是，拉法姆。最最伟大的考古学家！不知道什么时候复出，好bro还是太厉害了，考古大神 应该是全了 https://www.dlsite.com/maniax/work/=/product_id/RJ288667.html  这个无修应该是人修的，包含双端。     社团名 HappyLambBarn"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/slg-guan-zhong-wu-xiu-pc-an-zhuo-mi-shi-de-sheng-ming-lost-life-1-52-te-dian-2g-iwI5","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

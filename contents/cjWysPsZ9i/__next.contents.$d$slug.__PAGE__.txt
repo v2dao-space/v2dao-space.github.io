@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"仙侠魔踪"}],["$","p",null,{"children":"辛钘原是玉帝身旁的守护神龙，因犯下天条，被贬下凡间，由道尊收为弟子。一次被天魔罗——霍幽的女儿使计擒住，困于夜魔崖，后得紫琼仙子把他救出，并传授他仙术。 之后因为辛钘和紫琼隐居的洞窟被魔将发现，而辛钘的修练又尚未完成，两人于是决定踏入尘世继续修练。就在他们来到长安之后，辛钘却被两女误认是她们的情人——杨峭天，这个错认将为辛钘带来生命中料想不到的改变……\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/cjWysPsZ9i","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

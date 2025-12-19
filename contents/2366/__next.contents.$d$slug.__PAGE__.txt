@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG神作/中文/动态】夏日传说V20.16 官方社区中文版 【安卓/更新/2.5G】"}],["$","p",null,{"children":"夏日传说V20.16 官方社区中文版  【PC+安卓】（SummertimeSaga）\n\n\n\n这次最吸引人的地方在于添加了美国第一公主伊万卡~而且已经上垒了~\n\n\n\n在这里提一下，本作在P站每月的赞助金额是7万9千美金！没错，又增加了！长期排名前2的热门大作！\n\n\n\n【附赠】：\n\n\n\n姐姐电脑密码：BAD MONSTER\n\n\n\n电视频道账号：L6bv12R\n\n\n\n电视频道密码：12345\n\n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2366","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

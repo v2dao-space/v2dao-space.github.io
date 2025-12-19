@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【GAL/汉化】ボクらのヒミツ基地大作戦 ～エスケープ ひとなつのおもいで～【1.03G】"}],["$","p",null,{"children":"游戏类型制作公司：TRYSET 发布日期：2016年01月29日汉化日期：2021年01月17日(放流)汉化小组：心愿屋汉化组游戏类型：同居、女学生游戏原名：ボクらのヒミツ基地大作戦 ～エスケープ ひとなつのおもいで ~游戏原名：我们的秘密基地大作战～离家外宿的今夏回忆～原画: とぅえる音乐: JokeDrops剧本: 鈴木義雄、新山宏樹主题歌演出: かおり主题歌作词: 深雪まな主题歌作曲: ぽパン剧情介绍因为父母工作调动而转学的主人公。他性格内向，与同学不太熟悉有一天放学后，他回到教室去拿遗忘"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/89be8315c9071b19694493e35b354c79","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

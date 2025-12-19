@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】子产岛after 木乃美的柔软运动 live2d"}],["$","p",null,{"children":"《子产岛after 》以Live2D技术打造，带来流畅动态的游戏体验！这是一款可以与理想女性进行真实性爱的飞机杯模拟器。完全连动滑鼠操作！随着插的入动作，角色表情与声音会随之变化，看着她充满活力地弹跳，散发着无穷的魅力！混合搭配不同的动作，创造出完美的场景吧！  ✦人物介绍✦ 橘 木乃美（CV：恋铃"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/slg-guan-zhong-zi-chan-dao-after-mu-nai-mei-de-rou-ruan-yun-dong-live2d-lgMe","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】 彻底堕落史莱姆大师 完堕スライムマスター 【度盘/852M】"}],["$","p",null,{"children":"玷污正义、以快乐征服的邪恶史莱姆育成RPG！ 被恶之手逐渐堕落的姬骑士与女兵士等9位女主角—— 操纵禁术创造的凶恶史莱姆，蹂躏各地女性的主人公。下一个目标是姬骑士统治的王国——扎纳多亚。 杀害前王盟友克劳德卿并伪装潜入，暗中派遣史莱姆袭击王国女性，夺取处女并囚禁于废牢。 无论高傲的姬骑士，还是忠于信"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4SCMMIOU5brmPJ4f","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

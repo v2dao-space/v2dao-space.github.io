@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【PC/安卓/SLG】羁绊(Bonds Between) Ver0.3 汉化版+动态SLG游戏+941M"}],["$","p",null,{"children":"探索情感的深度连结！《羁绊》(Bonds Between) v0.3 汉化版现已登陆PC与安卓平台！ 沉浸于这部灵感源于生活的动态SLG佳作，体验一段交织着甜蜜、考验与意外相遇的 人际关系故事。跟随多位性格鲜明的角色，发现联系彼此的线索，直\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/slkNNP2uj6IxjBrA","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

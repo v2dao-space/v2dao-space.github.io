@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/无码/GAL】にゃんカフェマキアート ～猫がいるカフェのえっち事情～"}],["$","p",null,{"children":"2024.8.4本次正式更新机翻版本，终于告别了神奇的汉化版本，神奇到想吐槽这个机翻补丁是我在2dfan花积分悬赏，有大佬接手制作的之前的无码补丁已同样打入在游戏内游戏内附注册表补丁+运行说明，运行游戏前记得看说明这是部不错的萌系拔作，能理解当初汉化者撸进医院……（健全的冲）  Story我、我想要成为老师的……店长的恋人！「只要是店长，不管做什么あめり都可以接受的说！」「我并不太明白男女关系……所以可以就先从肉体关系开始吗？」「「「啊……！？」」」就职地点接连倒闭，终于被一间名门女子学校采用。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/f143f5249cfe1e34fdecae72f6b30a64","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

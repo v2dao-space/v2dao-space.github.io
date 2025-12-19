@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【同人图集/汉化/无修正】【MANA】对空六课 1-7 Section 6 1-7【700M/度盘】"}],["$","p",null,{"children":"最近经常能在b站刷到他，整下来一看，感觉已经在狂野奔放的路上一去不复返了。 喜欢的朋友有条件还请多多支持作者大佬~ 作者红P：https://www.patreon.com/cw/MANA 后缀改为zip即可，用winrar或最新版bandzip解压。 二维码加载不出来的朋友可以点击下面的链接跳转。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/xW9rjWCDs9","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

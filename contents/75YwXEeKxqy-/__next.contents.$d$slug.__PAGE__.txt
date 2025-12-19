@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【AI翻译/ADV】シャムロックの花言葉"}],["$","p",null,{"children":"本游戏主角为4个女生，且故事为一个个个人故事最终串联起来的剧情\n即剧情框架：女1故事（总起+分）–女2故事–女3故事–女4故事（分+te）\n这剧情有雷，即游戏是雷作（这剧本家先黑名本记下提醒）\n至于画风仁者见仁智者见智\n不过这画风的黑发是真的黑发，不像有些游戏蓝头发硬说黑的（不点名）\nシャムロック–"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/75YwXEeKxqy-","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

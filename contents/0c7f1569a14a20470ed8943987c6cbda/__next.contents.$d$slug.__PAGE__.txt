@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"生存任务Z Survival Deception Z v1.0"}],["$","p",null,{"children":"在被僵尸破坏的荒芜世界，前警官罗伊和他的未婚妻雪莉（美国陆军特殊作战部队的退伍军人）向着首都华盛顿前进。他们的医疗用品、食物和弹药都所剩无几，幸运的是遇到了其他生还者的小队。罗伊和雪莉得到其中一位领导者戈登的许可进入了基地。戈登把他们招待到房间里，向罗伊提议，在他们做好向美国首都再次出发的准备之前，让他们留在基地，进行筹集住宿费用和补充物资的工作。罗伊接受了这个提议，在僵尸大群猖獗的地方侦查，并寻找和收集可贩卖的战利品和物资。他与雪莉能否确保达成目标，一切都掌握在罗伊的手中。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/0c7f1569a14a20470ed8943987c6cbda","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

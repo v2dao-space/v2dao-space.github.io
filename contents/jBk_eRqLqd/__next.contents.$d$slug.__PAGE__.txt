@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【里番/自制熟肉】我的理想异世界生活 第二话（ボクの理想の異世界生活 第2話）[2560×1440]"}],["$","p",null,{"children":"该中文字幕由本人制作，若有问题，还请见谅。 ボクの理想の異世界生活 第2話 制作： メリー・ジェーン 原作：23.4ド 25.09.07更新说明：添加2560×1440的QHD版本，咱就输出的为2k版本，同时将原来的720p版本进行了降码处理（感觉里番码率貌似都挺低的，相当于减少了3倍的体积），附带"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/jBk_eRqLqd","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【日式RPG/步兵/CV】影色渐染~阿斯林顿的妹神官 v1.04 官中步兵版【更新/3.66G】"}],["$","p",null,{"children":"给大家带来一款质量相当不错的正式版 影色渐染~阿斯林顿的妹神官 v1.04 官中步兵版 这个是由[BBQ大好き]作者在IC平台众筹发布 咳咳，该作者曾经制作过（零号羔羊）高质量牛头作 这一次又搞出高质量大坑，跟之前的作品一样，高立绘高CV \n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ri-shi-rpg-bu-bing-cv-ying-se-jian-ran-a-si-lin-dun-de-mei-shen-guan-v1-04-guan-KxCN","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【欧美/SLG/动态】怪物城市：怪物学院的故事v0.8.1 汉化版【PC+安卓/3.70G】"}],["$","p",null,{"children":"【欧美/SLG/动态】怪物城市：怪物学院的故事v0.8.1 汉化版【PC+安卓/3.70G】 注意:画廊已解锁 游戏介绍： 准备好踏上一场性感、神秘又充满欢笑的冒险了吗？《怪物之城：怪物学院故事》是一款融合幽默、超自然元素与调皮气息的成人视\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ou-mei-slg-dong-tai-guai-wu-cheng-shi-guai-wu-xue-yuan-de-gu-shi-v0-8-1-han-hua-KjjK","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

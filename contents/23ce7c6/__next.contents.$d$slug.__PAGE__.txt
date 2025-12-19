@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无修】AURA: Hentai Cards V1.6 全DLC"}],["$","p",null,{"children":"简介：AURA：Hentai Cards（奥拉：卡牌狂潮）是一款迷人的2D情色视觉小说卡牌战斗游戏，融合了魔法、浪漫和冒险！通过获取女孩并拯救世界免受魔王女王的侵害，建立你的后宫，或者加入她的军队吧！游戏剧情：在过去的一百年里，Pentarull世界一直受到魔王女王的威胁，只有联盟是抵抗这些黑暗力量的唯一势力。最终，女神Aura决定通过找到一个值得的冠军来结束这场漫长而痛苦的战争，将她的力量投入其中。你是一个普通的农民，当Aura赋予你魔法力量时，你的生活发生了翻天覆地的变化。你既不是战士也不是"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/23ce7c6","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

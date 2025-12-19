@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[岡田コウ] 思春期のココロ 思春期的少女心[中国翻訳] [DL版]"}],["$","p",null,{"children":"【CORE MAGAZINE社正式授權 黑白224P 海苔修正成人漫畫】 所有少女皆青澀而珍貴… 繼兄妹初次發生了關係。早晨在盥洗室，氣氛仍有些尷尬。 兩人因為一些小事，很快就吵了起來。 下週晚上，母親要去探望獨自在外工作的父親，家裡只剩兄妹二人… 在大門關上的瞬間，兄妹年輕的慾望立刻激烈碰撞。 「"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/YtfkPmVslzlU7-Po","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

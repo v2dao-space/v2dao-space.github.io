@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中/无修】魔法少女莉莉 1.0.95【1G】"}],["$","p",null,{"children":"https://store.steampowered.com/app/3070610/_/?l=schinese 两年前的老作品上Steam了   和高濑律与莉莉一起踏上旅程，揭开葛野集团——一个在暗中策划着不可告人的计划可疑的制药公司背后的秘密吧！在这场惊险的冒险中，律将利用莉莉的力量变身为魔法少"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/rpg-guan-zhong-wu-xiu-mo-fa-shao-nv-li-li-1-0-95-1g-aswo","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

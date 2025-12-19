@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"情趣娃娃变成人 Sex doll came to Life v1.01"}],["$","p",null,{"children":"李源在流星雨的夜晚许愿，意外地让自己的情趣娃娃梦梦有了生命，一开始，梦梦只会说话，不会动，身体也还是矽胶材质，在李源的细心照顾之下，梦梦的身体会动了，但要变成真正的人，还是需要两人继续努力。\n梦梦就像刚出生的宝宝一样，对任何事都感到好奇，对李源也相当依赖，李源很享受这种依赖。\n梦梦毕竟是个情趣娃娃，在性需求上异常旺盛，每当她一本正经地说出色情的话语时，李源总是既害羞又兴奋。\n有了生命后，梦梦身上无可避免地出现许多人类的习性，她会心疼李源上班辛苦，却也会学电视里的人骂脏话、沉迷网路等等，李源对她这些习性的处理方式，会决定两人的结局。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Du8EvDbOogmo","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

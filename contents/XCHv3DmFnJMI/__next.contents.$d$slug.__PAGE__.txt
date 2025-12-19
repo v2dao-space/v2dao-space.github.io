@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG/PC]莉可的奇妙差事"}],["$","p",null,{"children":"游戏流程操作简单、以立绘色图为主的RPG!「希蒂与远古之森」中登场的女仆莉可、将是本作的主人公。※非原作的续作、和原作的故事没有关联、所以本作无需补充前作的知识。■正式版最新版本是 1.41（不过游戏显示是v1.44）立绘R18场景: 48种(基本立绘姿势15张) /R18场景CG: 19种 (基本"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/XCHv3DmFnJMI","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

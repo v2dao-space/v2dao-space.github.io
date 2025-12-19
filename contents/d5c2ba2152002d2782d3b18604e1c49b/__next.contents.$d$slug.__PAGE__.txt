@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[BoRoBoRoGame][SLG/PC]抵抗魅魔-被魔纹侵蚀的女骑士的末路 [官中/步兵][2.65G]"}],["$","p",null,{"children":"赛琳—横空出世的圣骑士。在人们最绝望的时候率领着联盟军击退了魔族的侵犯。有着绝不退缩的勇气与信念。直到一个魅魔——贝丝突然出现： “一切我想要的东西，我都要收入囊中。包括你哦，小骑士~”当女骑士腹部的魔纹浮现的时候， 令人绝望的攻城倒计时正式开始。身为女骑士，身为城主，是坚守信念奋力抵抗，还是选择在欲望中沉沦？在魔族愈来愈猛烈的攻势下。是出卖肉体填补被战火掏空的金库，还是坚守底线，克制自己的欲望？前方是希望的曙光，还是绝望的末路？风雨飘摇的城池中，你的抉择引导着赛琳前进的方向——"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/d5c2ba2152002d2782d3b18604e1c49b","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

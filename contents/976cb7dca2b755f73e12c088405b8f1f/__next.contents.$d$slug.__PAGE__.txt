@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/汉化/动态】修理工（The Fixer）- 0.3.2.46【PC+安卓/500MB】"}],["$","p",null,{"children":"作者主页https://www.patreon.com/SamTail  游戏介绍修复者是一款成人生活模拟类视觉小说。你将扮演主人公萨曼莎，她是一名修理工。为了解决雇主的问题，她必须面对不同的挑战如调查工业破坏、派别间的外交和追踪麻烦制造者。但她需要在处理任务的同时，以某种方式继续自己的日常生活。在玩过其中一个起源故事后，萨曼莎发现自己来到了布拉斯顿被这座城市的主要权力基地所救，作为回报她同意作为一名 “修复者 “为他们工作，利用策略、外交或暗中手段解决潜在的敏感问题。她能否改变这个小镇及其权力"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/976cb7dca2b755f73e12c088405b8f1f","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

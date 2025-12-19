@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[世徒ゆうき] 千歳 [中国翻訳] [無修正] [DL版]"}],["$","p",null,{"children":"成人漫畫市場最受關注的作家之一──世徒ゆうき老師最新力作！ 圭介一直深深喜歡著千歳。 為了能與千歳一起上學，他拚盡全力考上了競爭激烈的學校。 到了二年級，他終於下定決心向千歳告白。 然而，他卻聽到同社團的後輩隆之也喜歡千歳… 更糟的是，隆之的姐姐美香發現隆之帶著保險套， 在詭異的氛圍下，千歳竟在圭介"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/mI30-0rX99","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

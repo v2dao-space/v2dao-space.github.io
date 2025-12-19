@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"游龙传"}],["$","p",null,{"children":"《游龙传》主要讲述了风骄阳才二十岁多，绝不到二十五岁，虽非名门出身，名不见经传，武功也不算出众，但依姬香华来看，此人眼光正直，绝非恶徒。同行是绝对有安全的保证，更何况他消息灵通，有好几次他都能得到一些姬香华杀之不以为意的恶徒的资料，让姬香华威名更盛，神秘蒙面女子的名声也愈传愈远。或许和滛魔的一战已是迟早之事，姬香华有鉴于此，用功更勤，风骄阳的情报也愈形重要。\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/JJQjz5jTuH","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

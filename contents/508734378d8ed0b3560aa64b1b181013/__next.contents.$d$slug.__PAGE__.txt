@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/机翻】奥派奥德赛 欧派奥德赛：OppaiOdyssey 0.43 PC+安卓 [6.5G/百度]"}],["$","p",null,{"children":"[SLG/汉化] 奥派奥德赛 欧派奥德赛：OppaiOdyssey 0.43 PC+安卓 [6.5G/百度]不知道汉化组这是一款由[Cryoxxx]制作组出品的大型互动SLG游戏游戏剧情：20XX年，你从银河士官学院成功毕业虽然成绩名列前茅，但是毕业分配却意外的差梦想的皇家陆军学院没戏，皇家卫队也没戏最后居然将你分派到了《域外探索部队》虽然成功捞了个舰长的位置，但是……这工作实在太无聊了！探索调查未知的行星，记录独特的种族和环境并且绕着外域一圈一圈的来回探索……虽然你心里压根看不上这份工作但还是"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/508734378d8ed0b3560aa64b1b181013","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

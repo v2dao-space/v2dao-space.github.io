@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/汉化/沙盒】欢迎来到艾罗大陆（ Welcome to Erosland） [v0.0.13]【PC+安卓1.97G】"}],["$","p",null,{"children":"作者PA主页  游戏介绍一个 20 多岁的年轻人生活在一个未来世界，为他不喜欢的东西工作、但有一天，他收到了一封来历不明的电子邮件。”你从未知的祖父那里继承了一个群岛和一大笔钱” 这不是假的他来到了群岛 一个漂亮的女人欢迎他你现在是这里的主人了，主人……爱神将发现一个神秘的高科技机器，它将改变他的生活。      文件都是测试过的，出错的重下或者换解压"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4550cb7379c4d84123e8bc0454f49aeb","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

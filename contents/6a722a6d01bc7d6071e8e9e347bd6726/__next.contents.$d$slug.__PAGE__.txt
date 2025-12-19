@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【未完结/正常向漫画/汉化】我推的孩子/推しの子【更新至第156话】"}],["$","p",null,{"children":"【我推的孩子】（日语：【推しの子】）是赤坂明（赤坂アカ）原作、横枪萌果（横槍メンゴ）作画的一部漫画，并有改编动画等衍生作品。本作与赤坂的另一部漫画《辉夜大小姐想让我告白～天才们的恋爱头脑战～》处于同一时间线赤坂宇宙，但并没有详细的设定，例如本作中的不知火芙莉露其实就是《辉告》中出场的不知火衣的妹妹。妇产科医生雨宫吾郎是少女偶像星野爱的“单推人”（粉丝），某天在工作中遇到了一名秘密前来问诊16岁孕妇，而她竟是星野爱本人！吾郎大受打击，但还是尊重星野爱想要秘密产子的决定，作为医生帮助着她。在星野爱腹"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/6a722a6d01bc7d6071e8e9e347bd6726","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

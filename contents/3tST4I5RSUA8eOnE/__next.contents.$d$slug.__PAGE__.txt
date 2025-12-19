@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】Passions Uncharted v0.4.0"}],["$","p",null,{"children":"游戏介绍： 这是 一款沉浸式成人角色扮演 游戏，充满阴谋、浪漫和激情邂逅。 你的飞机坠毁在一个偏远的热带岛屿上，醒来后你失去了记忆， 只能在一个充满危险和诱惑的世界里前行。结识形形色色的美丽女孩，她们每个人都有自己的秘密和欲望。 作者地址 LustyPix | is creating 🩷Passi"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/3tST4I5RSUA8eOnE","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

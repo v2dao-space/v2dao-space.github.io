@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【同人CG集】 [雨音連鎖予報] 70部合集 【度盘/26G】"}],["$","p",null,{"children":"可能产生不适的TAG：牛头人剧情  频繁出现其他物种 窒息、殴打、药物使用、多人运动、処女丧失、伤痕与血迹等等，甚至还有电车玩法 我非常喜欢这个系列的作品，除了牛头人以外。因此我不知道哪些内容可能会让你不适，所以我尽可能全标出来了…    资源从互联网各处搜集，可能存在文件缺失的问题，但这不是我的原"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/vLOJLh4jPf4_QQPi","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

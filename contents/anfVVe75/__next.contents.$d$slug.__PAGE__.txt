@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"锁情咒"}],["$","p",null,{"children":"一个萌动的少年，无意中在一家书店买到了制作锁情咒的做法，然后准备把它用在自己心仪的女孩身上，但却被另一个女生无意中喝下，自此展开了他的少年桃色之旅。\n锁情咒需要人每天照着书上给的参考画下符咒，然后射一次精上去，如果符咒的纹路发出微微的光，说明成功，然后那人就要迅速把符咒烤干烧成灰，拌在水里喝下去，一点不剩。重复三百六十天，大功告成。成功之后，那人将得到符咒赐给的力量，只要尝到过其精液的女人，不管是尝到多么微小的一点，都会死心塌地不可自拔的爱上他，至死方休。\n《淫奇抄之锁情咒》是[p.o.s]系列的第三十三部作品，同时也是[p.o.s]淫奇系列的第九部作品。[p.o.s]是作者雪凡自2005年起首发在赤裸羔羊文学站的系列小说合集，该系列素以故事情节温馨但结局黑暗而著称（也有少数例外，例如《月饼》的结局不算黑到家，最新的《流浪猫》则从头黑到尾）。这个系列也成为作者雪凡武侠作品外的代表作之一。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/anfVVe75","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

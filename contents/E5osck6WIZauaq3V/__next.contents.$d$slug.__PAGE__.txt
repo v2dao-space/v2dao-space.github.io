@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】怪物娘地牢/ねショタダンジョンズ+全存档"}],["$","p",null,{"children":"闲话 端午的假期过得真快啊,不知道大伙过得开不开心;男受向游戏(这不是4i吗?). 喜欢的话,可以支持一下 社团名:ながとうい 入正:点我 游戏图  官方介绍： ランダム要素多めのダンジョン探索型モン娘おねショタライフ 登場するモンスター娘は12人!!! 注意※今現在のおねショタダンジョンズはアーリ"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/E5osck6WIZauaq3V","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

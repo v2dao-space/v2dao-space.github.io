@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D游戏/AI汉化】 DARKGATE 虚空淫狱 DARKGATE 虚空の淫獄 【度盘/689M】"}],["$","p",null,{"children":"游戏类型：俯视角科幻射击/动作游戏  特色：身着紧身衣+束缚装备的女主角在绝望的末世世界观中，与从黑暗中袭来的恐怖生物战斗。女主角在洞悉绝望命运的同时，仍奋力抵抗，却可能被生物击败，遭受淫毒侵蚀，最终堕入淫狱。这款游戏充满了特定性癖的元素。 核心内容：  – 敌人与败北事件：游戏包含7种敌人，其中5"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/TCopqzmp2WLzLBCD","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

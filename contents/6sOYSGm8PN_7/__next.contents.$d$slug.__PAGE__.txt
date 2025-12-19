@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无码】 Inari"}],["$","p",null,{"children":"\n            \n \n故事\n你在旧仓库里发现了藏宝图。\n藏宝的地方是你的家乡。\n久违的故乡有热情迎接你的女性。\n高岭, 朝美, 澪\n与三位美丽的女性和将展开的何种故事？\n \n◆三位美丽的女性\n◆与她们的各种约会\n◆各种各样的迷你游戏\n◆钓鱼、聚会、种植等\n◆多样的场景\n◆利用Live2D提"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/6sOYSGm8PN_7","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

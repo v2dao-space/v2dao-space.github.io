@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG汉化] 神秘村 Mystic Ville CH3 PC+安卓汉化版"}],["$","p",null,{"children":"游戏介绍：在你可怜的死后，一个叫 Misty 的傻瓜给了你第二次重生的机会。但是有一个问题！你不能生活在你已经死去的世界里！所以你必须在另一个世界重新开始，显然是在另一个城镇！欢迎来到神秘小镇！结识陌生的新朋友并了解他们，也许他们会保留一些您可能想知道的秘密！谁知道？也许吸血鬼在城里？等一下……你怎么现在有了Misty的神通？她不会掉以轻心……你知道吗？凭借她的力量，您现在的生活从未如此轻松更新日志：第3章继续第2章的故事。添加了具有多个进度的性爱场景。将CG查看器替换为成熟的场景回放。添加了一"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/372c7c120371c3803a86482d40e5b485","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

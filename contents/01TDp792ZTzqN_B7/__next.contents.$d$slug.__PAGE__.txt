@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【LIVE2D同人动画/无修正】天下布魔手游 至25.1 图片视频合集 【度盘/169G】"}],["$","p",null,{"children":"不知道哪个大佬能搞个离线版，这个录制cg设定集太大啦。如果倒爷举报炸档了我也没办法，只能顺着网线给你号封了。 玩过半年纯白嫖，弃坑了。感兴趣你们可以去试试，封面图是设定集的，录屏的话都是这里 感谢firsfriend的传火，密码已变更"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/01TDp792ZTzqN_B7","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

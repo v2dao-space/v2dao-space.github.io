@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【剧场版/外挂AI汉化】机动战士高达SEED FREEDOM/機動戦士ガンダムSEED FREEDOM【1080p】"}],["$","p",null,{"children":"企划、动画制作万代南梦宫原作矢立肇、富野由悠季监督福田己津央剧本两泽千晶、后藤柳、福田己津央角色设计平井久司机械设定大河原邦男、山根公利、宫武一贵、阿久津润一、新谷学、禅芝、射尾卓弥、大河广行机械作画监督重田智美术监督池田繁美、丸山由纪子色彩设计长尾朱美摄影监督葛山刚士、丰冈茂纪CGI 导演佐藤光裕、栉田健介、藤江智洋编辑野尻由纪子音响指导藤野贞义音乐佐桥俊彦动画制作万代南梦宫电影制作发行万代南梦宫电影制作、松竹ODS事业部GPT汉化质量还不错，同时还有日文字幕，有需要的小伙伴可以自行取用。  "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/5920780391f0d88ecddb402969050d7f","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

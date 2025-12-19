@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【欧美SLG/动态/汉化】我们只是孩子v0.3b【安卓/1.3G】"}],["$","p",null,{"children":"剧情介绍：“太多，太快，或者这只是我的借口？”我们的主角（Rainn Nichols）在她的父亲消失得无影无踪后，刚刚和她的母亲搬到了纽约。除了一份薪水和一辆抛锚的卡车让他们四处走动，我们的主人公被连根拔起，现在是前男友，被迫住在大苹果另一边的一家汽车旅馆。在这里，她遇到了我们的另一位主角（洛根诺克斯），红发吉他手和几乎不为人知的器乐金属核乐队 We Were Just Kids 的创始成员。由他"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2766","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

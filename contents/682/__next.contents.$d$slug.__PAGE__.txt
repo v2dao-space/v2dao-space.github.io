@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[ADV/汉化] 魔女的夜宴 サノバウィッチ 汉化硬盘版 [4G]"}],["$","p",null,{"children":"魔女的夜宴 サノバウィッチ 汉化硬盘版 [4G]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[游戏简介]\n\n\n\n《魔女的夜宴》（日语：サノバウィッチ，英文：SABBA HE WICH）\n\n\n\n是柚子社制作的一款美少女游戏，\n\n\n\n2015年2月27号全日本发行，柚子社的第8作。\n\n\n\n2015年5月22日，DMM代理发行DL版。2018年10月27日，\n\n\n\nekya代理发行Steam英文版《Sabb"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/682","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

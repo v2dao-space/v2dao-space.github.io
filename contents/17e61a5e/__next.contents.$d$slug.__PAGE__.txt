@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中无码】[RJ354053][BigWednesday]海川钓者～蜜豆半岛的女神～/海と川のヌキ釣り ～淫豆半島の女神～[存档/度盘/828M]"}],["$","p",null,{"children":"海と川のヌキ釣り ～淫豆半島の女神～喜欢请入正：DL：https://www.dlsite.com/maniax/work/=/product_id/RJ354053.html官中步兵steam：https://store.steampowered.com/app/2864830/_/最近正好闲来无事在玩这个，站里似乎没有步兵版的，故发一个里面有我自己打的存档，不算全，不过通关了，也算包含了大部分CG。实在懒得收集了。。看后面有没有吊大的发一个全CG存档社团名BigWednesday  贩卖日2"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/17e61a5e","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

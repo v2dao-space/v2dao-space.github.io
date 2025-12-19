@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/ADV】神様のゲーム －監禁された6人の男女－"}],["$","p",null,{"children":"198年一部被评为（有别于一般美少女游戏的硬派游戏）横空出世，这也开启了xuse（fog是前身）一段神奇的时间时间来到本世纪初，xuse的游戏凭借多种玩法和高质量剧情，在百花齐放的时间段站稳了一席之地然而11年美少女游戏有意往萌系发展，此时有许多公司也开始转型做萌系游戏了在这个转型和不转的选择上，xuse选择了不转，这是个错误的决定11年复刻游戏（the origin）的失败，似乎只是开始，从此xuse一蹶不振，最终于2017年停止活动本游戏是xuse的最后一部作品，这游戏是根据网络小说改编的，"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/b3783662fbc41ec69282620eb2a65c9f","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

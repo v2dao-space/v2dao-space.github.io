@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":" 银欲未亡 寡妇的偏远客栈与丰盛肉欲款待1.0"}],["$","p",null,{"children":"简介：这是由[まにあっ倶楽部]推出的一款类型RPG游戏 淫欲未亡人がいる名宿▼概述：主人公是一家濒临倒闭的客栈的老板娘。丈夫突然去世后，她试图重建客栈，但丈夫的老朋友、银行家却以贷款爲条件向她提供贷款、然而，她丈夫的老朋友、银行家却以她以性招待他爲条件向她提供贷款。 ……深山中的旅馆 Hiiragi Sou。Hiiragi Sou 是深山中的一家旅馆，隻有熟人才知道它的存在。这是一家已有 140 年曆史的老字号旅馆，朴实无华。……。但由于周边乡镇人口减少，已经拖累了它的发展、这家旅馆没有任何值得"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/f22d10a290451159e5d4f4ec65b98b4b","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

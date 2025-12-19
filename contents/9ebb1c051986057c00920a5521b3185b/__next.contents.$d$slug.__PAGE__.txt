@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D/足控/中文】Jio控的异界之旅v2.1"}],["$","p",null,{"children":"之前找到的一部作品 不过作者应该是停更了已经最近一次更新得追溯到23年2月了 发消息也没有回复 估计是不更了吧整体基本可以算只起了个头 但想了想还是发吧 毕竟玉足是客观存在的  前排提示 全片只有玉足 而且完全没有露点如果还想看点别的就可以不用下了 或者看看下面的截图就行由于基本就是看看图 分类我就当3D了  玩法类似RPG吧 然后会有任务让你走流程（线性但是不完善 会触发已经触发过的对话）图中的水晶就是回想屋 不过也没几个事件就是了（不知道有没有我的存档在里面）作弊码：221110 （能白嫖资"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/9ebb1c051986057c00920a5521b3185b","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

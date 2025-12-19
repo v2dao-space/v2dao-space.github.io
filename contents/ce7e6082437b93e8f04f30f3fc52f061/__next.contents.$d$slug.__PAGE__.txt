@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D/足控/百合/重口】Normal Life Under Feet v1.5.0"}],["$","p",null,{"children":"你们的足控涩批回来力 七月初电脑寄了 重新装配到现在才整完我的分享主要有三个主题：足控 百合 VR 今天就涵盖一下吧这篇包含了百合和足控的要素 前排提示 重口（包含圣水 金粒餐）在意慎入起码得是去年不知道哪里整来的一个游戏了指引几乎可以算没有 事件错过就得重头来 剧情不能快进 静态CG不能跳过所以我到现在才差不多勉强算大致收集到一定程度了  游戏启动还是挺快的 因为里面没有跳过 所以不少时候关掉重启反而更快应该不算完整版 但是作者饭盒主页访问受限 爱发电主页直接是页面无法访问 鉴定为寄  右键呼"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ce7e6082437b93e8f04f30f3fc52f061","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

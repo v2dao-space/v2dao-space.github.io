@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/扶她/生肉】石垣社团合集【2.42G】"}],["$","p",null,{"children":"列表：What a Wonderful Day!! 完成版Lover of Mirror Image 本編PASSION MORTALE!完成版THEIR HAPPIEST HOUR完成版素晴らしい休養日Tentacles Labyrinth 完成版ETERNAL ROMANCE点击入正。均为最新版，需要转日区运行，否则文本乱码。游戏难度不大，狗一点，耐心一点就行了。这社团的游戏我感觉都大差不差，只通关了“THEIR HAPPIEST HOUR”，所以预览图都是这游戏的。3号系列不感兴趣就没弄。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/758295","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

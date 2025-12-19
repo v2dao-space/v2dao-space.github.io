@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【MMD/有修正】FacePlan大佬作品 2024.09合集（2D/VR/差分）"}],["$","p",null,{"children":"虽说我已经暂时取消赞助了 不过我的会员还没到期Patreon的优势这就展现出来了 赞助时间是顺延一个月的 而不是1号就刷新  看不太出是什么角色 像是换了头发的变体之类的然后这部有两篇2D 其他的都是只有VR 都算有终结动画吧  本月基本是在玩瑜伽球 附带俩后入 角色依旧是常用英雄正常位的有音效 别的没有 作者这点比较迷 时有时无的  作者主页：Patreon / Fantia这回下个合集是真的随缘了（也可能下个月一看I站来个足我又冲了）"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/96c6b40a","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"淫术炼金士"}],["$","p",null,{"children":"化腐朽为神奇的没落术法，号令异种生物的强大能力，为人藐视的秘术藉他之手发火发热，更另辟蹊径，他就是淫术炼金士——亚梵堤。拉德尔！一鸣惊人的浪荡子、妖媚魅惑的淫魔族富豪、强力改造的妖精族圣女……一个纷扰不断的时空里，一个绝不遗漏任何“获利”机会的主人翁，一部令人会心一笑的作品。\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/rDekB4zpEb","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

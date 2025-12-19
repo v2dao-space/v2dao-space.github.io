@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【AVG/RPG/部分汉化/PC/ONS】もんむす・くえすと！(勇者大战魔物娘)三章整合【补档】"}],["$","p",null,{"children":"漫谈首先感谢ss同盟与勇战吧联合汉化组成员的辛苦汉化工作这个游戏就不用多说啥了，鼎鼎大名的游戏，无论是游戏性还是剧情都立于黄油顶尖的游戏老手自然不用说，那就给新人科普一下吧啥？你说这是一个抖m向的榨汁游戏？你说的对，但是勇者大战魔物娘是由日本同人社团とろとろレジスタンス开发的游戏系列游戏发生在一个被称作「伊利亚斯大陆」的幻想世界，在这里，没有被神选中的冒牌勇者将被授予「发呆、恳求与投降的抖m绝技」，和世界魔物击剑，导引四大精灵之力。你将扮演一位名为「撸卡」的神秘角色，在“自由”的旅行中被性格各异"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/af35a4315118d7a1de25964cf5b86a11","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

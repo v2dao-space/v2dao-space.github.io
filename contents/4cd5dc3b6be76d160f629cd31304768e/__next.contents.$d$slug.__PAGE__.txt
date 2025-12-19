@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/动态CG/官中无修】Miss Neko: Pirates"}],["$","p",null,{"children":"在《Miss Neko: Pirates》中，玩家將扮演“幸運硬幣號”的船長，以俯視視角操作主角在一個充滿海盜的海島上進行冒險。強化你的角色，在這個對你有敵意的世界中存活下來。由於船員的叛變，“幸運硬幣號”的船長被扔下了海，當船員們認爲他們殺死了自己的船長時，沉入了深海時，某種神秘力量讓你從死亡中幸存了下來。被奪去一切的你，能否通過強大的戰鬥力完成複仇，搶回屬於自己的海盜船，獲取島上的寶藏，並且懲戒叛變的船員？  遊戲特色-海盜風格的劇情與冒險-性格迥異的獸娘船員-探索豐富的RPG地圖-具有挑戰"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4cd5dc3b6be76d160f629cd31304768e","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

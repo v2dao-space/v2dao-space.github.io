@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[日系SLG/汉化/动态]后宫特别班v0.1.0 汉化版[安卓][700M]"}],["$","p",null,{"children":"后宫特别班v0.1.0 汉化版\n\n\n\n剧情介绍：讨厌打破它，但你没有被你申请的任何大学录取。真可惜。但别担心！你在网上找到的这个特殊的大学预科课程，恰好只有漂亮的女孩作为学生！但是等等，老师是个色狼！？在特殊后宫班中，您将在这个大学预科课程中扮演一个意想不到的学生，并与您的变态老师克莱尔密谋接近其他学生。哪个女孩更能吸引你的眼球？别忘了去探索小镇，无论你看到哪里，都有美丽的景色等着你！?\n\n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/670","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

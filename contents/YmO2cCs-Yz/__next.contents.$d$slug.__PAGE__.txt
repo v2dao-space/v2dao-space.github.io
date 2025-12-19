@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"半步多欲望传说"}],["$","p",null,{"children":"一次意外的穿越时空，让他成了异世界的一个半精灵——多多。为什么小说中的主角穿越时空后，莫不都是有了英俊的相貌、英雄般的事迹。而他却是相貌平平、不成大事还卑微到差点被宰了当肉卖的半精灵？老天不长眼啊……虽然，眼前有三个美丽到不行的老板娘当他的主人，支使他每天累得跟狗似还总是玩些危险的“游戏”……看着眼前的诱人美景，及耳边的声声昵喃……喔！不行了，鼻血又要……流下来了。\n穿越，没什么大不了的，不就是穿越吗？当奴隶，很苦，但好死不如赖活着，虽然不甘心，但人在屋檐下不得不低头啊。秘籍，九阳神功？有搞头！他躲在半步多酒楼中，边当奴隶，边练功，老板娘很美也很坏，但他有本帐，一个也跑不了。\n他无意中获得宝物“贞洁指环”，里面竟然藏着一个若干年前的老妖怪，号称天下第一淫术炼金师。有这样一个色魔老鬼魂当军师，暗黑精灵做奴隶，霸占人类公主，在精灵和人类半壁江山的世界里，他走向了自己的欲望之路，开始了他的欲望之旅……"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/YmO2cCs-Yz","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【完结漫画/汉化】[二宮正明] 噬亡村/ガンニバル 完全版 13卷 PDF【度盘/8.93GB】"}],["$","p",null,{"children":"简介  身为派出所员警的阿川大悟，被调到山中部落「供花村」任职。村民们对大悟一家人的到来张开双臂表示欢迎，然而其中一名老妇人的死去，却让大悟察觉村子的异状，进而产生某种怀疑……「这个村子的人会吃人。」接连发生的事件、笼罩全村的排外气息、令人喘不过气的紧张感……恐怖的集体排挤现象所引发的悬疑剧，就此揭"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/wan-jie-man-hua-han-hua-er-gong-zheng-ming-shi-wang-cun-gannibaru-wan-quan-ban-jwqs","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG/汉化/动态CG] [JSK]与你相链的少女 V1.00 双端精翻汉化作弊版 [PC+安卓/850M]"}],["$","p",null,{"children":"ps:好！\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n与你相链的少女 V1.00 精翻汉化作弊版 [PC+安卓]君の鎖を僕は掴んだ\n\n\n\n[游戏介绍] ：\n\n\n\n君の鎖を僕は掴んだ\n\n\n\n直译为《我抓住了你的锁链》\n\n\n\n魔族入侵之下，王国逐个覆灭，人类处于绝望之中。\n\n\n\n机缘巧合之下被“时间的精神之心”选中的主角，\n\n\n\n也只是为自己的生计而奔波。在探索一个遗迹时，他邂逅了持有“命运的精神之心”的"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1438","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"难知如阴"}],["$","p",null,{"children":"这是一部让读者入门很快、入戏很快、入心很快的优秀作品。\n主要讲述了年轻有为的中年律师魏鹏的故事，目前已经涉及到了他和岳母崔莹、妻子庄惠、情妇郑雪、母亲徐梅、线人王瑶、追求者余佑君等一众青年、中年熟女之间的故事。中间还夹杂着妻子庄惠和儿子魏宇、王瑶母子等两个乱伦线索。\n作品紧扣故事主线，围绕着男主急于揭开妻子和儿子乱伦、美院流氓教授刘钊与妻子之间秘密这两个线索，层层推进，干脆利落，没有任何拖泥带水，故事性非常强。\n男主的岳母盯梢监视女儿和外孙行踪，结果非常震惊地发现了两人乱伦的秘密，在把这个过程和场景描述给女婿的时候，却是和女婿一边操逼一边讲述的。\n作者能够这样巧妙地把男主和岳母操逼的情节与庄惠母子操逼的情节安排在一起进行呈现，让两个乱伦的、淫靡的画面重叠交互在一起呈现在读者脑海的时候，相信绝大部分人都会失去抵抗力，不由自主地听从本能的召唤。\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/QEYIfCLhsP","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

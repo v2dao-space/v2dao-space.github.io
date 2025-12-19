@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/ADV】ROBOTICS；NOTES（ELITE）"}],["$","p",null,{"children":"前言强补一部作品，本作是妄想科学adv系列的第三作本作的气氛是妄想科学系列里最欢乐的一部了妄想科学系列本作将以“机器人”“增强现实”“梦”为主题，展开一个以「99％的科学与1％的幻想」所构成的人性故事。随着故事情节的推进，在逐渐清晰的阴谋的紧逼下，少年少女们的梦究竟会迎来怎样的终结呢？ROBOTICS；NOTES若放在校园、青春题材类的gal（adv）内，那么本作品绝对是位于上乘作之一的但作为妄想科学系列的一部作品，在其余3部的光辉下，本作品的闪光点就显渺小了chaos；head（首作）：作为系"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/a73bc5a31820b16bfc7d5eec6f092960","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

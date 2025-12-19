@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【日系RPG/汉化/2D】魔王与猪堡汉化版【安卓/1.6G】"}],["$","p",null,{"children":"游戏说明：\n\n\n\n一款BKYSS汉化组汉化的日系RPG游戏，\n\n\n\n游戏里的角色各个都是丰乳肥臀的，还有异种。\n\n\n\n多结局RPG，剧情丰富多彩！主人公的变异等级会根据您的选择和行动而变化。\n\n\n\n\n\n\n\n游戏介绍：\n\n\n\n出生在小山村的少年。\n\n\n\n在与恋爱中的公主会面期间，村庄遭到魔王率领的猪大军“Porkchap”的袭击。\n\n\n\n连自己的公主都被带走的少年，踏上了拯救公主的旅程……\n\n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2371","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

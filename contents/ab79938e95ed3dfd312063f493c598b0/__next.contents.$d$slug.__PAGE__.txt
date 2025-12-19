@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/PC】对魔忍雪风 Taimanin Yukikaze"}],["$","p",null,{"children":"游戏简介：故事发生在“魑魅魍魉”飞扬跋扈的近未来日本。在人与魔之间，自古以来存在着“互不干涉”的不成文规则。但自从人类堕入邪道，规则变得形同虚设，而人魔勾结组成的犯罪组织和企业在暗处活跃，混沌的时代正准备降临。不过，心向正道之人对此还仍保有对策。政府组织了一个以人类之肉身对抗“魔”的忍者集团，让他们抵抗邪魔势力。世人将他们称为“对魔忍”。与邪魔势力的斗争正在持续。年轻对魔忍雪风和前辈凛子一同志愿参加危险的任务：前往寻找雪风行踪不明的母亲ー对魔忍不知火。然而，两人必须为此潜入敌人的后方，因此遭到对"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ab79938e95ed3dfd312063f493c598b0","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

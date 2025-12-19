@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC/ARPG]苍色之光与魔剑锻造师 蒼キ光と魔剣の鍛冶師 v0.86 官方中文步兵版"}],["$","p",null,{"children":"这是一款由[Ason]社团制作的ARPG中文游戏现在已经在P站进行众筹制作，质量优秀，玩法有趣是一款非常难得的高质量ARPG游戏。你是个铁匠，真的就是个普普通通的铁匠但是你失去了记忆，只剩下了一身打铁的功夫~不过你可不是个会轻言放弃的家伙！为了寻找失去的记忆，你准备锻造装备，探索世界！不过万事俱备，却有一件事拉胯了……这些野外的怪物为什么全都是女性？还会将你按在地上采阳补阴？"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/824939582720a4d499962d1275e6ece9","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

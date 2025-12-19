@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG/汉化/动态]公主日记V1.0 精翻汉化完结版[安卓][1.2G]"}],["$","p",null,{"children":"公主日记V1.0 精翻汉化完结版\n\n\n\n游戏介绍：每个小女孩的梦想都是成为一个漂亮的公主，住在满是仆人、宴会和舞会的大城堡里，被骑着白马的英俊王子追求。黑兹尔即将发现，现实要糟糕得多。王子并不总是英俊的。您的需求完全被忽略了。你甚至比可怜的女仆更接近奴隶。加入 Hazel，因为公主赶上了她成年的现实。但是黑兹尔从最不可能的来源——她亲爱的妈妈——找到了她困境中的一线希望\n\n\n\n\n\n\n\n\n\n\n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2437","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

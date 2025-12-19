@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/无码/ADV】Nightmare×vampire～復讐のインフェルノ～（the motion）"}],["$","p",null,{"children":"Nightmare分享的最后一部（不是最终作），其余几作不再分享了本作新增加1位倒霉女主附加2位第1作女主（劳模）运行startad.exe是机翻，adv.exe是乱码与上作共享1个文件夹，不要下载错了  Story鬼月零是一位从小父母双亡的女学生。虽然祖父是出身于罗马尼亚的吸血鬼，但所继承到的吸血鬼血脉并不多，所以日常生活上跟普通人差别不大。平常带着木刀是曾经为剑术达人的父亲唯一的遗物。鬼月零以记忆中的父亲的刀法为基础，一直独自磨炼技艺，一切只为将父母的仇敌（恶魔）根绝。为了打听目标的恶魔，鬼"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/885d4064b032913727dc187060a4c4df","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

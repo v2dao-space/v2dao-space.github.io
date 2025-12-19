@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/生肉】デレコン -Demon&#8217;s Lady Complex- ～むちむちダークエルフのばあい～Ver2023年08月17日"}],["$","p",null,{"children":"社团名いくいくバーニャカウダー 关注656 贩卖日2023年08月12日更新信息2023年08月17日 更新信息声优鳴森りいあ年龄指定18禁作品类型模拟有声音有音乐有动画文件形式软件支持的语言日文分类触摸/抚摸 人外娘/魔物娘 日常/生活 乳交 巨乳/爆乳 褐皮/晒痕文件容量1.13GB・あらすじ同人誌即売会の帰り道、ガチャで引いたダークエルフが画面に表示されていない!電車の中、目の前が真っ白になったかと思うと目の前にダークエルフが現れていた。本物かコスプレか半信半疑で確認するも気を失っている様"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/762827","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【官中/GAL】それは舞い散る桜のように（Re:BIRTH）"}],["$","p",null,{"children":"5一部跨越21年的经典作品本次重置版由原班人马对作品进行了原画完全重绘的同时也重新编曲了主题曲，对剧情也进行了完善若喜欢本作，在经济允许的情况下鼓励正版购入https://store.hikarifield.co.jp/shop/sorechiru注意：steam是全年龄，r18是作为补丁形式的，这个hf链接就是直接r18版的新版比起旧版（それは舞い散る桜のように，02年发售），对剧情做了小幅改动旧版的人设画风，在现在or当时也是一绝，十分精美，更不要提音乐了  Story在幼年时，因为父母的原"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/dc98e56b8b00ee8c6946ff6908eb00d2","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

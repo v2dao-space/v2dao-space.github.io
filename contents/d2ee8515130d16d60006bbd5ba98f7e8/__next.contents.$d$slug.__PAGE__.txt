@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【2D动画/无码】Aak大佬7月作品-伊吹[1v/266MB]"}],["$","p",null,{"children":"补一下Aak大佬的作品。虽然这个作者的live2D动画弄的很少，但质量都很高，还是步兵的。预览图：入正地址：https://www.fanbox.cc/@aak/posts/8211629改后缀为zip或者7z用bandzip或winrar解压即可。顺便看一下亚托利把，第六集名场面复刻啦（感觉下一集会出现高能）"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/d2ee8515130d16d60006bbd5ba98f7e8","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

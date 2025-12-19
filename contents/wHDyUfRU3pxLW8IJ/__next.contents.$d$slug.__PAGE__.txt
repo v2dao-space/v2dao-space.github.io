@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中/更新】【えるふ茶園】極限改変・魔法少女ミスティックルーン ver.0.9.0β"}],["$","p",null,{"children":"作品简介 【这是款怎样的游戏？】 在『邪恶组织』的研究所里，魔法少女沦为危险实验对象的游戏。 【世界観】 在邪恶组织不断侵略的世界中，几位正义感强烈的少女们通过来自异次元世界的『魔法契约』变身为拥有『魔法少女』这种超人能力的存在与邪恶组织对抗着。 邪恶组织对魔法少女惊人的能力感到棘手但也试图用强大的"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/wHDyUfRU3pxLW8IJ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

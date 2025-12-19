@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[国风SLG/汉化/动态]品味人生 Taste Of Life V0.5 精翻汉化版 [安卓/2G]"}],["$","p",null,{"children":"[游戏概述]：\n\n\n\n你在国外读了5年大学，回到了你的老家。\n\n\n\n虽然最终拿到学位并与你所爱的人重新建立联系感觉很好，\n\n\n\n你总是按照别人告诉你的去做，按照别人为你设定的目标去做。\n\n\n\n在国外经历之后，你觉得生活中少了一些东西。\n\n\n\n在寻找自己的目标、探索世界、认识不同的人、发现不同的文化的旅程中，\n\n\n\n解开这个世界的奥秘，并最终在许多辛辣的情况下前进！​\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1325","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

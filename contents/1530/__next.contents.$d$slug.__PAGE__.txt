@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG/汉化/动态]爱的两面v0.2.6.2 汉化版[安卓][880M]"}],["$","p",null,{"children":"\n\n\n\n爱的两面v0.2.6.2 汉化版\n\n\n\n剧情介绍：\n\n\n\n在《爱的两面》中，你扮演一个失去一切的前拳击手，尤其是与他最亲近的人，他被指控为吸毒者和酗酒者。你的前妻消失了，这让你的女儿们重新回到了你的生活中，但她在哪里？你将不得不调查这个奇怪的噩梦对象是谁，同时试图赢回你女儿的爱。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1530","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[自购][MMD/无修正]三仁月饼大佬6月作品（3V/3.9G）"}],["$","p",null,{"children":"摸，最近买了蛮多涩涩作者的，还有的是即将要更的，所以可以期待搓牛牛个人主页整了一个涩涩全集（个人存的涩涩宝库，绝大多数作者不全，全凭性趣整合只要保存一个链接就可以获取源源不断的涩涩，想追更某一个作者可以直接查询相关文件夹（有的时候会偷偷更PS:有不全和抽象整理以及命名方式，介意可以忽略插播一嘴：本人没建立过任何谷歌表格、b站发电、爱发电，更名只是为了划清界限，涩了这么久，不想做别人的影子预览图  自购凭证作者链接点击此处跳转至该作者的Patreon商店页面喜欢多多资瓷一下吧下载"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/412420a04568a74062ec7c1319e237d1","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

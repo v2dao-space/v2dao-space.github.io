@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【安卓/作弊版RPG】伊苏2编年史 Ver2.0.0 安卓中文作弊版+RPG游戏+手册+426M"}],["$","p",null,{"children":"伊苏2编年史 Ver2.0.0 安卓中文作弊版+RPG游戏+手册+426M     游戏世界观架构 赛尔塞塔的轮回 在浮空大陆“艾斯塔里亚”，红发剑士亚特鲁将揭开六大神圣典籍封印的古老秘密。 本作延续前作结局，通过8大奇幻区域探索\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/eJW6wnlrX7ae-fNZ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

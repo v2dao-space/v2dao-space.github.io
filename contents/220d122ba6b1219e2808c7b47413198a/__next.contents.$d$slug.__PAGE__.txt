@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[ACT生肉]  DepraviA ～戦乙女v1.0 天使战魔王系列第一代"}],["$","p",null,{"children":"社团名:青色ハッキョウダイオード ■故事 很久以前… 地狱之门突然打开，许多恶魔入侵地球，人类世界被摧毁。 然后，一个天使走进地狱以拯救被恶魔吞噬的人类灵魂。 不知道那将是一场充满血，肉和O液的艰苦战斗… ■游戏概述这 是一款 侧滚式硬核Ryona动作游戏，您可以在其中控制Valkyrie Angelica并与地狱的残酷恶魔进行战斗。 通过使用 各种投掷武器，盘旋，踢踢 和魔术来消灭恶魔，这些比基尼可以通过装备比基尼装甲来使用!! 所有8个阶段+α。 -装备了伤害脱衣服系统！ 每次 伤害，盔甲或"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/220d122ba6b1219e2808c7b47413198a","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

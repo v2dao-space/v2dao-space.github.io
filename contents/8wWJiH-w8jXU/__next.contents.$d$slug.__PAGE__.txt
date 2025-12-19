@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【AI翻译/ADV】Let’s裸GO！ ぼくラの自由研究"}],["$","p",null,{"children":"completes世界观=迷\n  \nStory\n在刚刚开始暑假的时候，山川コウダイ和同班的3个女孩子聚集在学校，讨论进行哪种共同自由研究。コウダイ虽然提出了一种提案，但是谁都没有在意。无视了コウダイ的其中一个女孩子香白茉莉花提出了实践并且发表班上任何人都还没有经验的H课题。虽然女孩子们都心跳加速，但"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/8wWJiH-w8jXU","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

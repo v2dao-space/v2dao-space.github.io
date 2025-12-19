@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】Goddess Scroll – The Last Starlight"}],["$","p",null,{"children":"故事开始于一场黑暗的入侵 拥有七颗主要行星的女神世界完全被黑暗笼罩 女神们完全不是恶魔们的对手 女神们的家园变成了恶魔的游乐场 作为外星人的女武神Akashii和她的朋友们感知到了这些异常 她们驾驶着飞船冲破了重重阻碍来到了女神们的世界 她们要去找寻没有被黑暗污染的幸存者们，集合女神们的力量重新对黑"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Rxaryeg7_Ng9phsK","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

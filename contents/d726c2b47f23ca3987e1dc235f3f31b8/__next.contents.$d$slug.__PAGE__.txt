@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/NTR】不会拒绝的妹妹与不在家的哥哥-精翻汉化+全CG【安卓+PC】"}],["$","p",null,{"children":"在游戏中，随着剧情的逐渐推进会遇到各式各样的老哥来对妹妹意图不轨！不管是不正经的医生，还是黄毛发小，或者是色老头都准备夺走贝鲁最心爱的妹妹！要是置之不理的话，就会一点点的将艾丽娅NTR掉！每个角色都有独特的剧情线路和恶堕内容（贝鲁除外）整体H事件20个以上，多个结局都非常邪恶！在游戏中，可以选择黄毛/医生/或者师傅进行帮忙,但是帮忙的代价就是NTR的概率大大提升！是靠自己努力打通副本，守护纯洁的妹妹？还是破罐破摔，被人夺走最珍贵的亲人？这就靠你的操作了哦~"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/d726c2b47f23ca3987e1dc235f3f31b8","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

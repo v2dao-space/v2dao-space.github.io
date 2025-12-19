@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[ADV] GPT4.0AI汉化+全文人工润色调整+全CG存档  支持正义的变身女英雄的我和邪恶的女干部 "}],["$","p",null,{"children":"被邪恶的女干部诱惑而失败的冒险主角是支持正义的变身女英雄的青梅竹马，他将面对邪恶女干部的种种诱惑。同时，主角还意外迎来了与受欢迎的国语老师激情的恋爱期!?在游戏进程中，玩家将如何应对出现的各种情色诱惑呢!?你选择的失败结局将会是怎样!?这次的黑暗力量由邪恶女干部的巧言令色所主导!主角沉溺于与温柔的女教师之间的出轨性爱!在与青梅竹马女英雄的误会中，主角逐渐沉溺于与邪恶的女干部和温柔的女教师之间的出轨性爱......这最终将导致灾难性的结局!!!"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/d04164c01c750f98f6615b17f53e810e","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

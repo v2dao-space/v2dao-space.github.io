@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/官中无修】Body swap story—Aunty Yui & Yuto"}],["$","p",null,{"children":"──”我们…交换身体了？！” 当一名饥渴大学生与性感阿姨互换身体后， 他们能否在换回来之前维持好彼此的身份？ ◆ 游戏特色 通过悠斗和阿姨的双重视角推进剧情，以第一人称体验身份错位的奇妙故事。 对话中的选择将影响剧情走向，并决定最终结局。 ◆ 主要角色 清水结衣（阿姨）  本作女主角，悠斗的阿姨。刚"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/sCk_menPoWaEqFCS","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

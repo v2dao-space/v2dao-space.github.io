@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG/高渲染/汉化]芝诺选集ZenosAnthology Ver0.29.1精翻汉化版[安卓][5G]"}],["$","p",null,{"children":"\n\n\n\n芝诺选集ZenosAnthology-Ver0.29.1精翻汉化版[PC+安卓]\n\n\n\n这是一款由毛子[Chemical Fire]制作的一款SLG游戏\n\n\n\n游戏里有弓虽女千、言秀 骗、臆想等等各种场景\n\n\n\n特别是第一个故事了的弓虽 女千，太顶了！\n\n\n\n游戏制作的相当的棒！\n\n\n\nCG渲染相当的棒，制作的非常的专业！\n\n\n\n动态内容更是逼真到了极致！\n\n\n\n游戏没有超级赞的美女，出场"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1585","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

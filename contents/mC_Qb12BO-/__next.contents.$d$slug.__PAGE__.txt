@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"玉女盟"}],["$","p",null,{"children":"玉女盟是六位武功高强又年轻美貌的女侠所组成，除了陈蕾外，还有玉面罗刹－谢婉儿、杀手姑娘－张倩、千手观音－雷媚、女诸葛－林玉和飞鹰－沈风儿，其中玉面罗刹谢婉儿是这六人的首领，她们成立的原因原本是要对抗以男人为主的武林，她们自视甚高，不满武林老是由一群“德高望重”的老男人在把持，一开始没人重视这群以女子组成的联盟，但是，慢慢的当她们将对付的物件由与“老男人”对抗转向杀武林败类，尤其是淫贼，她们发现，每杀一个淫贼，这些臭老头愈是害怕，对她们更是客气，仿佛是这些道貌岸然的“正义人士”，就是的下一个目标，因此臭老头们的眼神也由色眯眯的眼神变成了惧怕的眼神，他们开始处处礼让三分，这一来，更让声名大噪，也成了武林中的新兴势力，但是并不是因为是女人而暴得大名的，她们六人早就有了丰功伟绩，只是因为别人只注意到她们的美丽而被忽视。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/mC_Qb12BO-","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】出逢う女の子全てに犯されるRPG MAXボリューム!（RJ265923）"}],["$","p",null,{"children":"社团名B-bishop 出逢う女の子全てに犯されるRPG MAXボリューム! [B-bishop] | DLsite 同人 – R18贩卖日2021年01月29日更新信息2021年02月17日 更新信息作者pawnlank7剧情pawnlank7插画コラーゲン声优沢野ぽぷら / 西浦のどか / 大山チロル / 秋山はるる / 井上果林 / 七凪るとろ / 犬飼あお / 霜月優 / 柚凪 / 芦屋もこ / 分倍河原シホ / 誠樹ふぁん / 陽向葵ゅか / 秋野かえで / そらまめ。年龄指定R18作"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/67a87a51","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

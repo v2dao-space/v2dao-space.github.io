@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【PC/安卓/RPG】梦境与起源的炼金术 汉化版+RPG游戏+2.38G"}],["$","p",null,{"children":"踏上爆笑炼金冒险！《梦境与起源的炼金术》汉化版双端上线。 化身乡村炼金术士，追寻神秘典籍，收集材料创造奇迹， 体验一段充满奇趣与梦想的RPG旅程！ 梦境与起源的炼金术 汉化版+PC+安卓+RPG游戏+2.38G    游戏介绍： \n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/F28_67kR0VnkT0Xy","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

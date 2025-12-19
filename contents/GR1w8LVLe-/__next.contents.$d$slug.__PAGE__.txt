@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"淫龙出穴"}],["$","p",null,{"children":"《屌男复仇计》（D男）写完后一直都没有整理，这次《重生诡情之淫龙出穴》写完后整理了一下。因为第二十和二十一章跟《D男》的剧情差不多，所以没有另发单独章节，放在这合集里一起发出来，最后一章《雪中周祭》有新增内容，也一并发在合集里。\n和原《D男》相比，本文主要修改了方玉龙和夏竹衣、方达明、方兰、方樱之间的人物关系。另外一个修改就是张重华没有死，只是腰脊受伤导致下体瘫痪。第三个主要修改就是《D男》中主角将赵庭自焚导演成了为情自杀，一个一心赴死的人在复仇的时候不会刻意伪装自己，甚至会让仇人看到他的样子来获得更多复仇的快感，这是《D男》中的一个BUG。《淫龙出穴》中，主角在姐姐周年祭日这天将赵庭精烧成灰烬，让赵庭死得悄无声息，更符合复仇整个事件的逻辑性。\n这次合集应狼友要求修改了前几章的人物称谓，从主角看到镜子中的自己开始便用方玉龙这个称谓。另一个并不重要的角色，女医生刘惠英在跟主角偷情开始也改用了她的名字。因为是改人物称谓，肯定会有错误和遗漏的地方，请大家多包涵。\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/GR1w8LVLe-","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中/双端】星际婊子: 精子的热量/SlutCraft: Heat of the Sperm [v0.40]"}],["$","p",null,{"children":"线程更新: 2024-04-24发布日期: 2024-04-23开发者: Shadow Portal 版本: 0.40操作系统: Windows, Linux、MacOS、Android语言：英语、俄语、中文、意大利语、韩语、西班牙语、德语、日语、法语。类型：2DCG、女主角、动画、精神控制、怪物、口交、模仿、科幻、脱衣、捕获、强迫、腐败、束缚、幽默、女同性恋、点击、强奸、奴隶、性玩具、多结局、肛交支持作者：链接发个老游戏，站内居然没有这个游戏概述：莎拉·凯瑞甘似乎是克哈之子的忠实成员，就在昨天"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/766283","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

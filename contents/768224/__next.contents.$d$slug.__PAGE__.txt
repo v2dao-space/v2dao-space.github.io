@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【未汉化/GAL】ちっちゃくないもんっ！（ver1.01）"}],["$","p",null,{"children":"前言IRIS最后1作，很多大佬安装运行都会出错，特意开个贴，下附详细安装教程我写的教程，不可能还会有人出错，出错的拖去第7男子监狱所游戏附Ver.1.00a修正补丁+Ver1.01修正补丁+免dvd补丁我不是RoRi控，我从来没有发布过RoRi文章本作所有女角色均成年！！！游戏界面写的很清楚！！！安装教程1、本游戏对安装路径要求很严格，游戏只认初次安装路径假设初次安装路径 C–desktop–iris–game，若将游戏复制、拖拽进其他地方并将初次路径本体删除则判定游戏损坏，需要重新安装，因此请"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/768224","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

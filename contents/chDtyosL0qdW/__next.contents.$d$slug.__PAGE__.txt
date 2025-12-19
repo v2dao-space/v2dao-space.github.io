@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/官中/无修正】 背德的四重奏 Forsaken Quartet v1.02【1G/度盘/UC】"}],["$","p",null,{"children":"入正：https://store.steampowered.com/app/2377410/_/\n基础信息：Immoral Quartet ～4人の性欲が絡み合う、愛と寝取られの物語～\n\n\n\n全部评测:\n多半好评  (90) \n\n\n\n发行日期:\n2024 年 5 月 18 日\n\n\n开发商:\nAVAN"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/chDtyosL0qdW","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

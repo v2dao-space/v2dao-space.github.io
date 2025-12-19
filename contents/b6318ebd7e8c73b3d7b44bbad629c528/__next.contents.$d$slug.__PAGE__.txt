@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【MMD/有码/VR】VRVAMの会 (お姉さん紳士) 甘雨&神子"}],["$","p",null,{"children":"之前发的OneesanVR合集就是这个作者（fantia和Patreon的ID不一样）这两篇就是属于只在fantia可以下 所以之前合集里没有  有一说一 靠毛认人 动作也是跟合集的一样 单一（画质倒是有到8K了）不过我当时正是刚整完卡清购物车的状态 好几篇都是为了一两个视频花了两个月赞助  本来之前的合集还是让我有所期待的 不过到目前为止的作品感觉都比较一般润！这篇属于是沉没成本了 作者主页：VRVAMの会 (お姉さん紳士)｜ファンティア[Fantia]"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/b6318ebd7e8c73b3d7b44bbad629c528","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

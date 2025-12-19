@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SRPG/中文]群青孤儿战记~堕落的无垢少女~ Azure Orphanage v1.07 官方中文步兵版[新作][2.2G/]"}],["$","p",null,{"children":"游戏简介：是由日本社团cominami（こみなみ）制作，OTAKU Plan发行的一款SRPG游戏。游戏内容：在“索哈拉王国”与“帝国”之间，曾经有过一场旷世持久的战争。面对使用禁咒召唤魔物，拥有未知战力并具压倒之势的帝国，索哈拉王国凭借武力与智慧，堪堪获得最终的胜利。帝国也因此从历史中消失了痕迹。一名慈悲为怀的索哈拉神父【伦】救下了在战争中幸存下来的帝国孤儿们，收养于一处被称为【群青】的孤儿院中。20年后。孤儿们被嘲笑为“LOSER”，忍受着众多的差别对待，不得不在索哈拉的角落里偷偷过着没有未"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/bfb78921dfd41d4a25cbc2bc70ddcbea","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【神作RPG/安卓模拟/pc】NTR女祭司 Ver1.0 重置汉化完结版+回想屋【更新/4.7G】"}],["$","p",null,{"children":"NTR女祭司 Ver1.0 重置汉化完结版 （Nymphomania Priestess） PS：这是之前做女祭司汉化的大佬，受不了挤牙膏换引擎制作的重置版增加了回想房，移植了主线，增加了大量新事件 这是一款NTR大作，画风是无敌级别！ 任\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/RcRQxbTzHSwAVFsW","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

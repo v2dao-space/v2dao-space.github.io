@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【MMD/有码】わるいスライムです(わるいスライムの動画置場)作品 2023.07-2024.03合集（18V/2.26G）"}],["$","p",null,{"children":"之前有发过这位大佬的两部 是有VR版本的最近去看了下更新频率差不多是半月一部 不过暂时没有新的VR除了发过的两部 把之前的也基本下载下来了（有两部含眼镜的没下 我的极大减分项）  预览图就选了几张作者自己投稿里面的封面图（视频标题也是作者投稿标题我复制过去的）the娱乐圈漫改？  是替身使者！  脑…脑交？  基本也还是千变万化的史莱姆 还是很顶的 玩的也很花 最大的遗憾可能就是有码了 不过因为是史莱姆所以倒是影响减小了作者主页：わるいスライムの動画置場 (わるいスライムです)｜ファンティア[F"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/753248","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

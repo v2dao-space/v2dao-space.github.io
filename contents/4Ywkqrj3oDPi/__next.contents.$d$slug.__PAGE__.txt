@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG/汉化] ルトナーク・クエスト/贫民街的冒险者艾琳 V2.6 PC+安卓汉化版"}],["$","p",null,{"children":"初出茅庐的冒险者艾琳来到了冒险者聚集的街道“鲁特纳克”。她的梦想是成为最高等级的S级冒险者。但是城市里充满了危险，附近有治安不好的贫民街迷宫里有袭击女性的怪物……！艾琳积累了作为冒险者的实绩，能达到S等级吗……！？2023年08月12日 BUG修复，在回忆房间使用转移宝珠时的臭虫修正      "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4Ywkqrj3oDPi","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

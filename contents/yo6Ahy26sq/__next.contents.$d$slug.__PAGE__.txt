@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"绝代艳修之旅"}],["$","p",null,{"children":"神魔大战，关系胜负关键的天地至宝“十阳珠”被打落人间，正巧钻入了怨气冲天的“乔三”尸体内，让原本刚正不阿的秀才乔生走上了“奸似鬼、淫似狐”的另类道路……\n“大胆三”因为在龙母庵亵渎龙母塑像，龙母派鬼姬母女报仇！连续两次行动后，乔三十阳体的秘密逐渐曝光。\n泼皮混混召开选举大会，选举最有胆量者为六盲镇老大，大胆三被龙母施法选中，被迫进入了鬼林。\n因为狐妖的淫血感应，狐后与鬼王也来到鬼林寻找十阳珠。\n与此同时，龙母与太元玉女也为寻找《鬼经》进入了鬼林。\n神魔人都在鬼林相碰……\n鬼姬为了自保吸取乔三阳气，在妖洞中第三次对付乔三，开始“鬼奸人”！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/yo6Ahy26sq","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

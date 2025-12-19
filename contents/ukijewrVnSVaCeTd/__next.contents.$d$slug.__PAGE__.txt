@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无修】Loser Got Isekai’d -Gotta Conquer the Girls Before Conquering the World-  Demo"}],["$","p",null,{"children":"游戏背景设定 在现实世界中，你只是个无可救药的失败者（没错，说的就是你）。某天你霉运当头——倒霉到竟然把自己撸进了异世界。 在那里，一位神秘的白发女子牵起你的手，传授你统兵之道。她要你协助征服世界——甚至愿意为此献上自己的身体！ 情欲。谋略。征服。 难道说？这个废柴终于找到了自己真正擅长的事情？！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ukijewrVnSVaCeTd","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

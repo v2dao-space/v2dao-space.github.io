@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"(同人CG集) [ヨダカパン (ねむのや)] 狙われた物件 純真無垢な上京娘が部屋を借りただけなのに"}],["$","p",null,{"children":"世間では投資目的の景気のいい話や、土地を転がしてるだけでカネが儲かる楽な仕事―――不動産屋にそんなイメージを持っていたが、賃貸メインの支店の営業なんかは大して儲かる訳でもなく…煩い上司に嫌味な同僚、おまけに彼女は寝取られ、クソみたいな職場で腐っていくような日々を俺は送っていた――だが、季節は春――――中年に差し掛かった俺にも、出会いの季節はやってきていた。大学進学を機に上京してきた女子学生―――俺は、純粋無垢な彼女に、一目ぼれしていた。そして―――邪な妄想、妄執―――一時の感情に魔が差した俺は、"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/767654","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

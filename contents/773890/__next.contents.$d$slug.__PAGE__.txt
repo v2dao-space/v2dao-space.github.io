@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[桃月すず] なめたがり｜就愛舔舔你 [無修正]"}],["$","p",null,{"children":"將曖昧苦味沾潤甘美的玉露浸濕成甜甜蜜蜜的快樂！明明已心心相印卻心口不一，羞澀或惱怒仍說不出口的愛意，卻在純愛面前放棄了全部的武裝與防備，浸淫在濃情密意的愛情之中♥明明已心心相印卻心口不一不想被牽著鼻子走，卻早已被攪亂了自我羞澀或惱怒仍說不出口的愛意卻在純愛面前放棄了全部的武裝與防備浸淫在濃情密意的愛情之中《就愛舔舔你》桃月鈴第一本繁中版作品集特別收錄1篇獸耳娘短篇〈相親相愛小狐狸〉以及10篇短篇漫畫作品有著最棒的曖昧放閃與難以抗拒的舔舔棒棒糖8人11篇甜到失去理智的純愛情熱物語嗜甜愛好者不容錯過"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/773890","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG/汉化/动态]卡戎 13 V0.1 汉化版[安卓][870M]"}],["$","p",null,{"children":"游戏介绍：地球，2223。人口已增长到240多亿，资源不再足够。人类唯一的希望是搬到这个173年前发现的类似地球的星球，被称为新地球。卡戎是有史以来最宏伟的船只之一，曾多次前往这个星球。然而，由于这些船只无法搭载足够的船员和补给，因此必须建造一艘名为“游牧”的更大的运输船。对于这艘巨大船的第一次航行，他们只以殖民者的名义充满了精英，这在世界上引起了巨大的动荡。我们的故事讲述了一个普通年轻人与他刚刚"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2193","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

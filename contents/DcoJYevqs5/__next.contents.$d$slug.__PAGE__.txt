@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"恶魔养殖者"}],["$","p",null,{"children":"神秘的养殖委托人“依格尔”，带着莫名其妙的诡异契约，逼平凡中学生签下自己的名字──“御影日阴”少年的命运就此改变，来自异界，各种稀奇古怪的魔物进入了他的日常生活。少年背负起养育这些魔物的责任，同时也享受了魔物提供给他的种种利益。\n有身高仅三十公分，性喜喧闹的小妖精，“耶理希”可爱聪慧的同班同学，“伊织千寻”情欲交融瞬间所诞生的“梦魔耶理希”由一根闪烁着幽静蓝光的羽毛带来的“天使贝尔塔”……\n美女围绕、人魔杂处！这些天上掉下来的礼物将引领他踏上隐晦未知的命运之路……"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/DcoJYevqs5","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

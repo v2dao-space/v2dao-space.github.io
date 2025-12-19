@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中】兔耳冒险谭【度盘】"}],["$","p",null,{"children":"入正：【50%OFF】うさみみボウケンタン [Loser/s] | DLsite 同人 – R18■コンセプトセクハラをしながら世界を救うRPG。セクハラの反応は好感度ごとに変わっていくぞ!■CGCG枚数は30枚!差分含めると650枚以上の大ボリューム!エッチシーンも好感度によって反応が変化するぞ!着せ替えシステムも実装!着替え専用のエッチシーンもあるぞ。■あらすじ唐突に世界を救うことになった一般人の【主人公】。精霊【うなさか】と共に世界に蔓延するアクイを止めるために旅に出ることに!うさみみの精"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1d5e5036d3ebced40f5588e1a073acd6","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

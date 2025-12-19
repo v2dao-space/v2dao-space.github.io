@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/机翻】騎士アンナ -奴○調教記録-【600M/百度】"}],["$","p",null,{"children":"  \n▼ 故事梗概\n在物流繁忙的贸易都市——那里的贫民窟小酒馆。\n主角在白天就开始醉酒，这时接到了一个工作委托。\n确认收到的货物时，发现被绑着的女子正沉睡着。\n委托内容是“在7天内将女骑士调教成顺从的奴○”。\n虽然内容有些可疑……\n但被高额报酬所吸引的主角还是决定接受这个委托。\n▼ 游戏概述\n目标是"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/oaMLAyL-6H9G","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/SLG/生肉】オッパイーツ-游戏X3合集 【度盘/UC/1.4G】"}],["$","p",null,{"children":"入正：DLSITE\n基础信息：\n\n\n\n社团名\n オッパイーツ \n\n\n\nR●PE GEAR そりど\n\n\n\n贩卖日\n2024年07月24日\n\n\n更新信息\n2024年07月26日\n更新信息\n\n\n\n声优\n春院白羅 / 雛菊やよい\n\n\n年龄指定\n\nR18\n\n\n\n作品类型\n\n角色扮演有声音有音乐有动画\n\n\n\n文"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/dlAnumoBeVrb","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

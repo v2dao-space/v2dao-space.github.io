@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[日系RPG/汉化/动态/PC+安卓] 女搜查官莱卡 女调查员莱卡 汉化版"}],["$","p",null,{"children":"这是一款渗透潜行游戏。可以通过使用电击枪等武器击晕敌人或用你的性感诱惑他们来获取信息。此外，还有使用时间条的推理、解谜和策略。站立图片和活动图片都是动画和完整的声音。游戏结束时也可以进行酷刑（按摩、注射等）！还有换衣服（橡胶服、泳衣等）。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/57d6aeb7d8578dece4fb288384d9fd99","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【欧美大作SLG/汉化/动态】二次元老婆学院 Ver0.13.5【安卓+PC】最新汉化版【更新/8.5G】"}],["$","p",null,{"children":"感谢[米乐]大佬带来这款欧美SLG校园大作的最新汉化版：  二次元老婆学院~Waifu AcademVer0.13.5【安卓+PC】汉化版      各位千呼万"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ou-mei-da-zuo-slg-han-hua-dong-tai-er-ci-yuan-lao-po-xue-yuan-ver0-13-5-an-zhuo-BsVT","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/汉化]恋爱季节：农民的梦想 Love Season: Farmer’s Dreams v2.0 全画廊 PC [5.5G/百度]"}],["$","p",null,{"children":"[SLG/汉化]恋爱季节：农民的梦想 Love Season: Farmer’s Dreams v2.0 全画廊 PC [5.5G/百度]不知道汉化组入正：https://www.patreon.com/musex游戏介绍：恋爱季节是根据《农民的梦想》改编的视觉小说。我们最初的计划是讲述与《农民的梦想》完全相同的故事只是在形式上有所改变，这样人们就可以在没有原版游戏玩法的情况下享受它。我最终放弃了这个想法，因为我想为 FD 玩家提供一些新东西，所以我们改变了一些东西：– 萨姆、罗克西、文森特、希"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/65670c69f41945330e0751e6a41a57e0","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

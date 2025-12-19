@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"情网"}],["$","p",null,{"children":"玛沙有一份高收入的工作，她是财务分析师，但是对自己身体常有的骚动，却经常迷惘，终于她跌入了一个陷阱，那仅仅是一则随时可侵入她电脑网路的指令。在抗绝与接受之间，她徘徊、挣扎，终于她还是勇敢的走了下去，她必须向不可测知的情欲世界挑战，她必须嬴得深藏在幽暗底层下的光明。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/A_XKTGQwJa","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

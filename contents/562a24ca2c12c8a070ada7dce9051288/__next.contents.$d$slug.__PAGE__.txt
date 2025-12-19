@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/中文/动态/CV】Body Pay 身体薪酬 官方中文步兵版【新作/1.4G】"}],["$","p",null,{"children":"游戏简介：2067年，持续的低出生率问题和家庭债务成为全球的大问题。为了解决这个问题，各国领导人都想出了新的思路。这就是所谓的BodyPay。这个故事是关于一位日本年轻人在BodyPay应用之前进行试验的故事。游戏内容：BodyPay 是一款休闲益智游戏，您可以通过按相应的控制键来为超市顾客带来的产品付款。当你登上关卡，克服越来越多的产品和客户的干扰，以达到目标分数并继续与女孩们的秘密故事。提供四个女性角色的完整声音和性感图像和动画，每个魅力都可以使用。Body Pay共有4位魅力十足的角色。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/562a24ca2c12c8a070ada7dce9051288","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

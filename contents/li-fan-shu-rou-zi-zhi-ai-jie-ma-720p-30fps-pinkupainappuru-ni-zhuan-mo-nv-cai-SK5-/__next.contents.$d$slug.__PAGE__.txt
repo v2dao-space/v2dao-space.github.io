@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【里番/熟肉/自制ai解码/720p/30fps】【ピンクパイナップル】逆転魔女裁判 ～痴女な魔女に裁かれちゃう～ THE ANIMATION【度盘/239MB】"}],["$","p",null,{"children":"今天发一个短的ai解码旧番（也是有朋友留言求的），这个番在楼主看来虽然其制作经费比不上雷火剑系列精致，但是其略便宜的画风下，动作的流畅度还是相当舒服的，配合其有张力的人体画风，涩涩程度也是在楼主xp里t1级别的，而且魔女学姐的造型实在是太涩涩了（比主角的喜欢的公交车粉毛强多了好吧），而且玩的也算花，"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/li-fan-shu-rou-zi-zhi-ai-jie-ma-720p-30fps-pinkupainappuru-ni-zhuan-mo-nv-cai-SK5-","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

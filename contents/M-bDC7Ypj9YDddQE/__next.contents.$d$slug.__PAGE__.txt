@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/生肉】Sarah’s House Ver 0.6"}],["$","p",null,{"children":"Sarah的家 是一款以故事为驱动的3D游戏，讲述了一个年轻人在新城市中重新开始生活时所面临的挑战与意想不到的际遇。你将扮演一位年轻男子，与母亲的好友、她的丈夫，以及她的两个性格各异、各有秘密的女儿同住在同一个屋檐下。 探索一个美丽的海边小镇，建立新的人际关系，并通过有意义的选择来塑造你的故事走向。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/M-bDC7Ypj9YDddQE","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

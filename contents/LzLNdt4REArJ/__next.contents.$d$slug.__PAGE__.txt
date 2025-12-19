@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无码】Sexy Iron Maidens"}],["$","p",null,{"children":"\n嗨！你好！能恭喜你担任帝国直升机指挥官一职！我们的飞船就像是个性感的辣妹，\n尽管她最近遭受了一些损伤……嗯……不管怎样，她会轻松摆脱那些划痕的！你最好看看她诱人的外形，是不是很赞，哈哈？\n你在问关于机组人员的事吗？这里的每个人都是英勇的热血份子，拥有令人印象深刻的履历！\n所有人都会毫不畏惧地面对危"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/LzLNdt4REArJ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

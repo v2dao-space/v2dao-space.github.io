@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中/无修】【へるめす 】我与人造少女的日常~Life with a Homunculus~【1G/度盘】"}],["$","p",null,{"children":"作品简介 你繼承了已故導師的遺志，歷經漫長歲月的研究，終於成功創造出人造少女。 任務本已完成，只需將她交予政府，人生便可畫上句號。 ……原本應是如此。 然而，與她的共同生活，卻悄然揭開了全新篇章——     发行日期 2025 年 8 月 30 日   開發人員 hermes   發行商: OTAK"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Xw16QP7xfjgzM5gf","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

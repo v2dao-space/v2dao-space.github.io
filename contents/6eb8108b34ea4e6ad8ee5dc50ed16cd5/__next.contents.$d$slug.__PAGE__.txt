@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【2d/无修正】自整理Jellymation大佬作品合集截止2024年7月 【8.67G】"}],["$","p",null,{"children":"合集包括22年9月到24年7月这个大佬的作品一般是短片，只有个2b是2分钟的。动画质量都很不错，缺点就是有点短今年7月的那个不知道叫啥（第三个动图），然后有阿库娅，蒂法、芙莉莲等知名角色        遇到困难不要怕，先看我简介 ，这是最新的视频伪装，只能通过几个特定的最新版软件解压，pc端是最新版的Bandzip和winrar安卓是rar7.0（就是winrar的手机版），其他软件99%解压失败报错。下载好之后改后缀为zip输密码就可以解压。如果有问题请先自己找找原因。系统自带的winrar说"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/6eb8108b34ea4e6ad8ee5dc50ed16cd5","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

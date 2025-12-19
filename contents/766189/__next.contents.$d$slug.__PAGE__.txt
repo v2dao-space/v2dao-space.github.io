@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【GAL/汉化/无码】お兄ちゃん、キッスの準備はまだですか？&amp;FD【OD/7.03G】"}],["$","p",null,{"children":"16/04/28《お兄ちゃん、キッスの準備はまだですか？》为[Tinkle Position]于2016年4月28日发售的作品。《お兄ちゃん、キッスの準備はまだですか？ エッチの準備もまだですか？》为[Tinkle Position]于2017年2月24日发售的作品。以上作品均已附上心愿屋版翻译补丁。（半个机翻就随意玩玩吧，毕竟之前到处狙，也没其他的团体搞常规流程的翻译）。关键看到站里有人搬k子画的作品，就搜了一下站里的妹吻和妹抱，结果发现居然没有这俩作品翻译后的资源，于是就水了一篇。当然，也是"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/766189","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

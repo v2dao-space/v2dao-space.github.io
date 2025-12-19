@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/生肉】KooooN Soft Space Girl体验版0.03【度盘/178】"}],["$","p",null,{"children":"新人第一次在站里发文章，还请多多见谅。 https://ci-en.dlsite.com/creator/5872/article/1522410    之前玩了那个圣女游戏后就想起来曾经做天使逛地狱那个组的有最新作品，目前最新的是0.03体验版，有了基本的BGM和配音。本作主角还是比较适合我的XP"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Ms_igcbA3r","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

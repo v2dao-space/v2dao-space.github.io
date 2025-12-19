@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"Sakura Isekai Adventure"}],["$","p",null,{"children":"游戏简介：亚纪的生活平淡如水。她住在东京，上着普通的班，空闲的时候会玩玩网游。亚纪对自己的生活状态并不是很满意，但她已经疲于奔命，无力改变现状。她就是那么平常的一个人，谁也不会料到她会去异世界冒险……直到她被一辆卡车撞上。在下班回家的路上被撞死之后，亚纪被一个叫做米娜的猫娘召唤到了圣域之地。米娜是一名天赋异禀的法师，才能无出其右。她答应亚纪，在补充完法力之后，会在合适的时机把亚纪送回去，但亚纪要先帮一个忙。女祭司露娜是米娜受人所托需要保护的，如今却被邪恶势力掳走，米娜正在奔走寻找。米娜召唤了我们"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/20ba7b6b63c81d8539825f36e87add52","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

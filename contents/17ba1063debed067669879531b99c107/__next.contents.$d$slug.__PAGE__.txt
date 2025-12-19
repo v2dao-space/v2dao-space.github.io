@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC/安卓RPG游戏] 【RPG/汉化/双端】威尔托瓦尔/ウィルトワール 電脳少女は浸食される Ver1.01 AI汉化版"}],["$","p",null,{"children":"■故事虚拟现实在线游戏“Wiltworld”。在游戏即将迎来一周年纪念前夕，遭到恶意黑客攻击。由于黑客攻击，虚拟现实的登录和注销变得不可能。并且，许多危险的程序被散布开来。虚拟现实的开发公司“Wiltworld”命令安全软件“托瓦”解决这一事态。安全软件“托瓦”是一个拥有人工智能、会进化的安全软件。然而，作为人工智能的托瓦由于主要功能是安全软件，不会模仿情感。与托瓦一起行动的是偶然在虚拟现实中的Wiltworld新员工缪斯。由于一些引发此次事件的黑客在虚拟现实内，两人将负责抓捕他们。■游戏概要本"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/17ba1063debed067669879531b99c107","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

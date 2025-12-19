@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【AI翻译/GAL】恋は夢見る妄烈ガール！（含append）"}],["$","p",null,{"children":"校园纯爱作品 虽说攻略表内没明确写，但本作的TE女主是 夕凪 シズク new story部分是垂花负责编写的、new story部分是垂花负责编写的、new story部分是垂花负责编写的 重要的话说3遍 大提示，前段时间DMM大跳水打折入正只需500日元    Story 在将猫作为神明祭祀的神社"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/rlP3D-8RpG1n","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

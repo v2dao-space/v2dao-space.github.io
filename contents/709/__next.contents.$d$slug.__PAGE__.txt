@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG/汉化] 苗床病也要开宝箱！奈落的孕姬 V1.12 汉化版(剧情赞/超多收集) [600M]"}],["$","p",null,{"children":"[游戏介绍] ：\n\n\n\n本游戏是SSTM汉化组汉化的，所以汉化的文本质量杠杆的绝对没话说！\n\n\n\n游戏画风是可爱风。女主是个黑丝金发双马尾的罗莉~\n\n\n\n女主姐姐进城打工六个月没回家，于是她带着兽耳娘战斗同伴们去找姐姐。\n\n\n\n在一个鸟不拉屎的地方发现了一个把女孩当奇怪植物苗床培养的地下组织！\n\n\n\n然后女主也不幸被抓住成为奇怪植物苗床的一份子~\n\n\n\n从此当上了培育奇怪植物的花农和土壤，身上附带"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/709","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

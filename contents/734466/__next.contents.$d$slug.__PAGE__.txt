@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【完结漫画】-[坂口尚] 一休和尚/あっかんべェ一休-出版社: 講談社、東立出版社-4卷完-度盘"}],["$","p",null,{"children":"室町時代の禅僧、一休宗純（いっきゅうそうじゅん）の生涯を描いた作品。生きる意味、仏の道、人の道を問う一休の苦悩や生活を物語の大きな流れとしながら、美の道を求める世阿弥とそのパトロンである足利将軍家の興亡を折に触れて（しかし一休とはほとんど交差することなく）挿入するなど、室町から戦国時代へと向かう時代風景を重層的に描写している。      因为小时候看过一休，所以搜了一下漫画，居然有这部，然而其实我没看懂，最大的阅读难点是日本历史，真不懂幕府，导致会有一种烦躁感青年漫画，因本人阅历有限，暂时看不了"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/734466","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

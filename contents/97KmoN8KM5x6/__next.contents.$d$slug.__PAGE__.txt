@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【2D动画/无码】Chr大佬作品合集（84V/8.4GB）[更至24.10.19]"}],["$","p",null,{"children":"24.10.01 更新至[24.09.19 纳西妲 16]\n24.10.26 更新[24.10.02 妃咲 2]与[24.10.19 纳西妲 17],合计8V\nChr大佬的作品合集，内容皆为步兵爽。压缩方式全为单个压缩，是补充，可仅仅关注更新的文件。入正地址：https://fantia.jp/fa"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/97KmoN8KM5x6","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

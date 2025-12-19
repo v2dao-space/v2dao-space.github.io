@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【同人CG集】【SR3DART】 優しいおじさんに癒されたい【度盘/584MB】"}],["$","p",null,{"children":"RJ357778 優しいおじさんに癒されたい  [2021/11/18] 作品介绍 机翻 [梦野玲奈] 它的特点是脸更接近 2D。 有传言说她长得像某位著名的萝莉黑gal AV女优。 即使你不熟悉棕色皮肤，当你看完 CG 系列时，你也可能已经沉迷于它。 ♪ 棕色皮肤，有 白色液体。 – 隐约可见的晒"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/tsY_nWkjT9mNfwxJ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

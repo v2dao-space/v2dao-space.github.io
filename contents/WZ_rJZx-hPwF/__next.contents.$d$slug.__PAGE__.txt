@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【PC/步兵】妖谈:百鬼夜行 Ver2.5.1 官方中文版整合DLC"}],["$","p",null,{"children":"来吧，这么上头的游戏又更新了，你们期待很久了吧： 【PC】妖谈:百鬼夜行 Ver2.5.1 官方中文版整合DLC 嗯，这是步兵版本。。。 ！！ 游戏介绍： 这是【Secret Labo】发布的一款塔防SLG。 游戏的玩法简直就是植物大战僵尸\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/WZ_rJZx-hPwF","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

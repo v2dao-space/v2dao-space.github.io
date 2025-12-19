@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[机翻/高自由度SLG/汉化/步兵] 大学生活-Uni V0.39.98 [PC+安卓/2G/更新]"}],["$","p",null,{"children":"大学生活-Uni ！ V0.39.98 精翻汉化版 PC+安卓Uni [v0.39.98b] [Hizor Games]这是一款由[Hizor Games]制作组出品的高自由度探索生存SLG游戏\n\n\n\n游戏采用全程超高质量手绘风格，每一个场景都细腻无比\n\n\n\n自由度相当高，整体游戏体验也是非常棒棒\n\n\n\n这次是时隔半年的新汉化，更新内容超级多！\n\n\n\n文本质量真心十分不错，所有的UI，系统，手机界"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1757","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/生肉/有修正】[春葉流亭]母との冒険!RPG（电脑版+手机机翻汉化版）【度盘/800M】"}],["$","p",null,{"children":"主人公(息子)の名前は最初に変更できます ●ストーリー母子二人初めての海外旅行中、嵐に巻き込まれ船が転覆してしまう。流れ着いた謎の島でアイテムクラフトの力を手に入れた主人公は母と協力しながら島を探索していく… ●システム1・オーソドックスな横スクロールのコマンド式RPG2・アイテム収集→アイテムクラ"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/mDjcgr0uZWfUyzoY","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化同人本】[ふじ家 (ねくたー)] 逆転円交〜俺が買われる世界〜 [中国翻訳] [DL版]"}],["$","p",null,{"children":"之前口味重了，那整清点？像看啥类型的也可以直接留言 啤酒喝了，黄色漫画也看了，觉也睡了，怎么世界还是原来的样子，おかしいな（摸下巴）    01  绝对不允许你还不知道的游戏，上线即爽玩 ↓↓↓立刻举起你的巨龙之力吧  已经为各位勇士们准备好了福利大礼包： OPAF5500F9759A4420 到期"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/rrcW__Xszm4ySQP9","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

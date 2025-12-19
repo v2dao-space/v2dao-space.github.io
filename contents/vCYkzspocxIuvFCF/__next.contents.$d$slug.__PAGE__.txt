@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【图集】【表情包】虚拟主播星际少将 天空铃音表情包 配布"}],["$","p",null,{"children":"星际虚拟主播铃音的表情包呢        微信和qq直接搜索铃音也可以下载到呢。都是免费的。 下面这款游戏还不知道就可惜了，上线看看欧气满满啊~ 卡美琪大陆的最后一片净土，当宇宙原初的混沌压迫而来，所有生命显得如此渺小无力。迴迥转生，让这一切重新开始，作为一名转生者，每一次决定都将重新塑造历史。借助"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/vCYkzspocxIuvFCF","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

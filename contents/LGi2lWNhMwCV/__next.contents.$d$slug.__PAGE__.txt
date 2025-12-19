@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】SeductiveBlackjack"}],["$","p",null,{"children":"\n魅惑牌桌：异界的诱惑试炼\n欢迎来到《魅惑牌桌》，这是一场异世界的黑杰克挑战！九位来自不同异界的性感荷官正等待与你一决高下。你自认为是黑杰克的高手吗？那就来挑战她们吧！\n每次胜利不仅能让你赢得奖励，还能看到这些迷人的荷官逐渐脱下她们的衣物，并与你展开更深入的对话。这些互动究竟会为你带来怎样意想不到的"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/LGi2lWNhMwCV","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

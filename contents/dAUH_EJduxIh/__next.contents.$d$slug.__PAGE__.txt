@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/官中无码】Can blood clan girls also become paladins Ver.1.0"}],["$","p",null,{"children":"\n2D横版像素ACT-血族少女也能当圣骑士吗，现在登场！\n在游戏中您将扮演一位不幸转生异世界的血族少女！不仅仅是银发红瞳，甚至还是出生名门望族的大小姐。\n前世作为阿宅逝去，如今却带着游戏系统幸运地转生，财富、权利、名望都触手可及。\n无奈……由于继承了游戏中的LV.MAX{圣骑士}职业，只要稍微兴奋就"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/dAUH_EJduxIh","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

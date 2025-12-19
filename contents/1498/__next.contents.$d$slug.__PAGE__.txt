@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG/汉化]妈妈咪呀Ep.3-P1 汉化版[安卓][1.3G]"}],["$","p",null,{"children":"\n\n\n\n妈妈咪呀Ep.3-P1 汉化版\n\n\n\n剧情介绍：您刚毕业，现在您将摆脱教会学校的限制，过上新的生活。你决定去你爸爸那里放松一下，做一些兼职。爸爸不在家，所以你会和你继母住在一起。这很好，与此同时，你发现了你内在的非凡力量。好吗？或者这种新发现的力量将摧毁你新的不受限制的生活。让我们找出…​\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1498","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

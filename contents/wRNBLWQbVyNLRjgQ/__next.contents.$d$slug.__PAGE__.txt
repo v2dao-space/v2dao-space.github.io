@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D动画/无修正】【SeventyFive】8月11日作品 绝区零【280M/2V】"}],["$","p",null,{"children":"作者发布的就这么小，还有一个艾莲的差分，懒得截了~ 作者红P：SeventyFive | 3D NSFW Animation | Patreon 把后缀改为zip即可，用Windows自带的winrar或最新版bandzip解压。手机用rar，链接里有，有需要的朋友自取。 二维码加载不出来的朋友可以"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/wRNBLWQbVyNLRjgQ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

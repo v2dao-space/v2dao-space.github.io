@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/养成互动PC]WINTER-田舎の性活- 日文版 v1.00"}],["$","p",null,{"children":"大学的寒假。你独自一人在四畳半的公寓里，钻进被炉里御寒。这时接到了来自亲戚的阿姨的电话。 虽然有些既视感，但还是慌忙按下了通话按钮。「在商店街抽奖时抽到了温泉旅行」「又是临时决定的事真是不好意思，你能再来这边帮忙照顾葉月吗？」自从夏天以来，乡下已经完全变成冬天了吧...不知道她还好吗... 在这样的思绪中，身体已经从被炉中出来，开始准备旅行了..."}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/5a51e76b","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

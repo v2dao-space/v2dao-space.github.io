@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【同人动画/自制中字】【japs8005】NTR House robot 1-5【度盘/2.29GB】"}],["$","p",null,{"children":"今天发的是japs8005大佬的NTR House robot 系列的自制中字，其实我是不喜欢这系列机器人的造型的（所以之前合集里我做这系列的中字都只做了3，4集，因为主角是男主他妈），但是有朋友在问，观众老爷们最大所以还是花时间把这系列做完了，嘛，这里奉上给大家尝尝咸淡（第二集那机器人一句打拳的话"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/tong-ren-dong-hua-zi-zhi-zhong-zi-japs8005-ntr-house-robot-1-5-du-pan-2-29gb-03DA","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无码】Girls of the Lust City and the Avenger"}],["$","p",null,{"children":"\n玩家将在游戏中扮演一名赏金猎人，并在梦之都生活和工作。因为一次偶然的委托，揭开了他的复仇之旅。 本作一共有四名女性角色登场。除了表面的身份以外，她们的背后还隐藏着其他的秘密。而这些秘密似乎都指向了这座城市最大的集团——菱井集团。\n名称: Girls of the Lust City and the"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/wbY8RVitz6Yd","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/官中】月の女、河の天使、神めくとき。【Mega/298MB】"}],["$","p",null,{"children":"https://store.steampowered.com/app/2503780/_/ 关于这款游戏：   「月之少女、河中天使与成神之刻。」是一款以现代日本为舞台的18禁视觉小说。 由女主角，左的第一视角进行叙事。 心病缠身又孤独的烦恼，与第一次遇到理解自己青年的恋情，推荐给那些想窥视因为破灭"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/OvxvAXP75Kj4","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

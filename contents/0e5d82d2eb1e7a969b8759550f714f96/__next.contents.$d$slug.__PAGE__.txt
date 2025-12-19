@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/官中】NTR幻想之我的藤木同学 [PC安卓双端]"}],["$","p",null,{"children":"名称: NTR幻想之我的藤木同学类型: 冒险, 休闲, 独立开发商: Kurenaibook发行商: Sekai Project发行日期: 2023 年 4 月 8 日Steam 上的 NTR幻想之我的藤木同学 (steampowered.com)苦主的NTR天堂还是纯爱的地狱？ 你有写日记的习惯。而当与藤木同学相识并逐渐熟络，成为恋人后，你日记里的文字却从开心、期待、不安、紧张、躁动、惊讶、难以理解、愤怒、不理智，逐渐变成了……兴奋？ 故事“你喜欢水族馆吗？”一个僻静房间里，你与一位名叫藤木的"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/0e5d82d2eb1e7a969b8759550f714f96","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【射击ACT/全动态】努力工作吧 梦魔酱！Get To Work, Succubus-Chan! 官中正式版"}],["$","p",null,{"children":"故事你進入夢鄉後，一隻楚楚可憐的夢魔，跑來找你。求求你幫幫我！她甜美的聲音向你哀求，你的答應了她。你開始配合夢魔將自己的夢境創造成春夢般的環境，你開始幫助這隻小夢魔工作，你發現這是個收集“精氣“的工廠，她有位老大要求屬下交出高標準的業績，你心想著能順利幫助到小夢魔還是自己被榨成乾呢？特色這就是一款直向射擊遊戲，但是在一個美妙的夢境中進行著。你可以褪去關卡上女主角的衣服，讓他們越來越暴露。你可以組裝自己的攻擊模式，在裝備中可以調整八種裝備進行組合，想要強而有力的直線射擊，還是多範圍的散射，都可以由"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/147cff1ed3df36b573e739815d6218e5","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

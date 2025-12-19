@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[ACT/官中]Alice in Cradle 摇篮中的爱丽丝 V0.25 存档+步兵补丁 体验版 PC[490MB/百度]"}],["$","p",null,{"children":"[ACT/官中]Alice in Cradle 摇篮中的爱丽丝 V0.25 存档+步兵补丁 PC[490MB/百度]入正：https://ci-en.dlsite.com/creator/12611游戏介绍：成人探索性 2Dact 游戏“摇篮中的爱丽丝”以柔软的 Ryona 和异种奸为主，可能会在 2025 年左右发布  解压出的图片改成zip或rar接着解压链接：https://pan.baidu.com/s/11YSj9YNKFDQHUYytf2KmMg?pwd=e690 解压密码：ssyx"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4a8aa12c6c5b9e832bc88e7b6463c211","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/AI内嵌翻译/PC/安卓】1天后会死的妹妹(1日後に死ぬ妹)[度盘/145MB+55MB]"}],["$","p",null,{"children":"为叶酱使用AI翻译+自移植游戏名1日後に死ぬ妹（1天后会死的妹妹）入正地址：https://www.dlsite.com/maniax/work/=/product_id/RJ01187884.html资源来自站内“羁绊龙剑士艾拉”大佬！链接：【自购】【SLG/生肉】おさわりJ◯トレイン  社团名にちゃにちゃソフト贩卖日2024年04月27日更新信息2024年05月07日 更新信息作品类型模拟有音乐分类触摸/抚摸 断面图 萝 妹妹 日常/生活 睡奸/迷奸 内射/中出 血液/流血游戏介绍正在寻找一"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/9237f52a316335d8962988d2b2fe07d4","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

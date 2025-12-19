@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[遠野すいか] 無垢なる花が牝吹くとき [中国翻訳] [DL版]"}],["$","p",null,{"children":"作品内容:(下面内容为机翻) 免费试阅包含《百合花园羊》第一章的全部内容 不道德的爱溺水女人的狂喜……遠野すいか 老师的最新作品，以女校为背景的“リリーガーデンの羊たち”全集！严谨的寄宿制传教学校圣乌尔苏拉学院，究竟有着怎样不为人知的现实……？！这是一个奇怪的虐待故事，女学生和其他学校工作人员相继落"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/vKQrFSExu_FK5sPo","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/部分无码/汉化】対魔忍アサギZERO/对魔忍阿莎姬ZERO PC[3.4G/度盘]"}],["$","p",null,{"children":"社团名Lilith [リリス] 贩卖日2018年08月31日系列名対魔忍剧情飯田和彦插画カガミ声优高梨はなみ / 黒岩心々 / 水瀬沙季 / 佐倉もも花 / 児玉さとみ年龄指定R18作品类型冒险 有声音 有音乐   游戏简介： 从『対魔忍アサギ』『対魔忍アサギ 2』『対魔忍アサギ 3』到ZERO……対魔忍アサギ10周年纪念作品开发决定！ 累计销售超过36万部的超人气作品『対魔忍』系列进入新章！ 本作的主人公为「不打算成为对魔忍」的，率领井河一党在黑暗都市与邪恶对峙的井河アサギ！ 年轻的アサギ、さ"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/d43889676f9b20191ca81cb106cf73ff","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

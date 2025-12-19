@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[武田弘光] ツンデロ傲嬌情色 新装版 [中国翻訳] [DL版]"}],["$","p",null,{"children":"華人最喜愛的成人漫畫家之一．武田弘光老師的傳說級名作。曾獲得成人漫畫年度銷售第四名，超越世代，被眾多讀者一路推崇的人氣單行本，收錄了早已成為經典的10部短篇傑作，並追加了全新繪製的插畫後，以新裝版的姿態全新登場!!【收錄作品】可愛的♡魅魔愛情♡吝嗇鬼Doppler Lesson姊控激凸♡公主傲嬌情色傲嬌情色2新婚妻子是我學生麗香式不及格克服技巧會長的社團活動純愛度及實用度無話可說，變態等級更是無與倫比的傳說級成人漫畫。請各位盡情享受，由《魔劍姬》作者武田弘光老師所描繪的好色女主角們的原點，足以在"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/758362","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

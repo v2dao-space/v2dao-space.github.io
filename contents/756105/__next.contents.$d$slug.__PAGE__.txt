@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【里番/吃枣药丸】メイド教育。－没落貴族 瑠璃川椿－ THE ANIMATION[合集][4K/1080P/60FPS 修补][CUGAN超分/VSR++超分/GmfSs补帧]【度盘】"}],["$","p",null,{"children":"名門貴族『瑠璃川』家は没落した…。 その娘で絶世の美少女である『椿』は絶大な権力を持つ大貴族『ポイマン』卿に拾われ、新たな人生を歩むこととなる。 …ただし彼専属の『メイド』として。 逆らうことが許されぬ状況の中でも、貴族の誇りを失わぬように気丈に振る舞う椿だったが、ご主人様の変態的な “メイド教育で心と身体を徹底的に嬲られ、穢され、そして望まない絶頂を無慈悲に刻み込まれる。 一人前の『メイド』になるため『没落貴族 瑠璃川 椿』はどこまでも堕ちていく…。       中文名: 女仆教育。－没落贵族"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/756105","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】 打倒魔王的转生勇者异世界后宫后日谈~女神赐予的专属生育村全员妊娠生活 魔王を倒した転生勇者の異世界ハーレム後日譚～女神さまからもらった俺専用の子作り村でヒロイン全員孕ませ性活始めます!～ 【2.4G/度盘】"}],["$","p",null,{"children":"◆故事概要◆由于女神搞砸了，勇者被转生到了异世界，经过一番波折终于打倒了魔王。本以为可以就此悠闲度日，却被告知为了防止魔王复活，必须在这个世界留下后代！？为了造人，被召集来的女孩子们，都是过去与勇者相遇并暗生情愫的各种职业和种族的女主角们！凭借作弊能力“绝对命中”，勇者将女主角们一个不漏地搞怀孕，转"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/8zADuo6ArHXc","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

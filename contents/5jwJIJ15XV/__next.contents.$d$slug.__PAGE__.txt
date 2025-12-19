@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"限制级特工"}],["$","p",null,{"children":"他，是一名不良特工，也是一名犯了罪判了死刑的特工，在临上刑场的那一刻，他想到的不是自己年轻的生命走向了尽头，而是为自己还是处男心怀遗憾，当执行死刑的监督官让他提出最后的要求时，他毫不犹豫说出了最后的心愿，嫖妓！！但就这小小的最后心愿他也实现不了，在死刑监督官遗憾的目光下，行刑武警手中的枪无情的瞄准了他……\n人生苦短！如果，上天再给他一次活着的机会重新回到花花世界，这名有着不良血液的过气精英将选择什么样的人生道路？如果，众多的优秀美女出现在他的生活中，他又如何周旋？如何面对？如果……\n特工，不良特工，不一样的特工，惊险、刺激、铁血、香艳、幽默的都市奇情大餐，本书将带着您一一领略！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/5jwJIJ15XV","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

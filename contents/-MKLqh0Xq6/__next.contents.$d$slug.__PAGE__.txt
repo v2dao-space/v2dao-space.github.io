@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中】影に染まりゆく~アスリントの妹神官~/影色渐染~阿斯林顿的妹神官~ 0.603【度盘/2G】"}],["$","p",null,{"children":"https://store.steampowered.com/app/3111930/_/ 学到了，到时说要等所有语言翻译完再上架。找个理由跳票是吧！！ 又是被游戏厂商骗的一天，我的世界下雨了.GIF    岁月史书   25.9.8 最新版 别跳票啊！十月份务必发售，别跳票啊！十二月份务必发售 S"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/-MKLqh0Xq6","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无码】妖谈：百鬼夜行V2.4.1.002+沙滩大乱斗"}],["$","p",null,{"children":"\n名称: 妖谈：百鬼夜行\n类型: 动作, 冒险, 休闲, 独立, 策略\n开发商: Secret Labo\n发行商: Secret Labo\n系列: Yokai Art\n发行日期: 2022 年 9 月 29 日\n故事\n你无意中打破了你家储藏间那本神秘书的封印。这本神话书有一股巨大的魔力，辅助使用者可"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/pPA9egVnx_nO","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

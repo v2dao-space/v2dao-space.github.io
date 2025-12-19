@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC/安卓RPG游戏] [萝莉RPG汉化]乡村学校生活1.0"}],["$","p",null,{"children":"米拉库镇是一个宁谧的乡村小镇，自然风光旖旎。在那里，不曾有过一个女孩踏入学校的门槛。男学生们的生活似乎与女性无缘，他们只是在校园里无忧无虑地度日。然而，某一天，三位名叫蓝、莉娜与唯的女孩转入了这所学校。起初，男孩们并不认为他们身边需要有女孩的存在，他们满足于仅与同伴们玩耍。然而，男孩们与这些女孩们相处得越多，他们的身体也开始悄然发生着些许变化"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/257569816b362dc15107cbd10eee5a4c","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

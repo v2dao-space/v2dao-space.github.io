@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[3D同人/无修正]bamhor大佬作24年6-7月作品（10V/472M）"}],["$","p",null,{"children":"坏消息是：67月的作品还是短的一b，好消息是：八月的新作阿狸会是超过一分钟最长作品还在进步嗷动画做的海星，就是短了点，差分是阴毛差分预览图  作者链接点击此处跳转至该作者的Patreon商店页面下载"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/f1162fc7173454dd69503ab956c6687b","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

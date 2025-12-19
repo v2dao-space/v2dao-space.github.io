@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【同人图集/有修正】うー☆月 大佬 fanbox合集 至24.12【度盘/1G】"}],["$","p",null,{"children":"大佬巨喜欢画绫波，如果不摸鱼图量应该特别大（今年一半时间在摸鱼），这龟头打一个横杠的马赛克饭盒居然能过审！！ 隐藏剧情; 这位藏的巨深，以前一直以为是日本的，结果他道心破碎那次把停更通知用中文发出来了大伙才知道是国人，停更通知大概意思就是＂学画画死路一条，莫得钱＂，然后跑回家当老板了，当完后觉得还是"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ca08Rg2C-ooCg89r","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/机翻/安卓】空气进化/AIRevolution [v0.3.4]【1.2G】"}],["$","p",null,{"children":"  \n游戏简介\nAIRevolution 是一款视觉小说游戏，科幻小说中充满了一层闪亮的幻想。这个世界充满了人工智能，它们中的大多数看起来像人类，甚至在“不久的将来”拥有与人类相同的权利。\n你会平等地接受它们还是选择另一条道路？你最好快点决定，一场人工智能革命即将到来。没有 NTR。任何 NSFW "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/YwPIkQGXwZRK","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

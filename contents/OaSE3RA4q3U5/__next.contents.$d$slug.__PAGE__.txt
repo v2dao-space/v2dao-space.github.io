@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】 恶德监察官与战争中的少女们 悪徳監督官と戦火の少女達 【386M/度盘】"}],["$","p",null,{"children":"概要：・作为恶德监察官    这是一款为了保护小镇而与魔物军团作战的RPG。  利用作为监察官的权力，    征召自己喜欢的少女组成骑士团。    在工作间隙，可以享受借助权力进行的    性骚扰和性招待。   为了小镇，为了家人，为了自身安全，    白天与魔物作战，夜晚面对低贱的权力者，    "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/OaSE3RA4q3U5","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

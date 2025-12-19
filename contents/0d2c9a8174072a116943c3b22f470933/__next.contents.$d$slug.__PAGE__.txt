@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/ADV】聖奴隷学園2"}],["$","p",null,{"children":"2024.7.2补档整理，永爱特典打入游戏并更换最新的机翻补丁（补丁兼容特典）3个月后会出（聖奴隷学園2完全调教版），比这个版本多了些HS&HCG，新加学院长2HS，永爱特典免费追加到时候重新更新或者会有勤奋的人发布完全版文章注意：若在DMM购买旧版的情况下，可直接购买追加补丁进行升级，追加补丁DMM有直售旧版 聖奴隷学園2+追加补丁（dmm直售）=聖奴隷学園2完全调教版个人建议：若喜欢这部作品的，在经济允许的情况下，鼓励入手正版购买时注意旧版+追加补丁价格与新版价格，挑便宜的买附加消息：与（聖"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/0d2c9a8174072a116943c3b22f470933","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

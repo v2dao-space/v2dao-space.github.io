@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/ADV】姦染2 ～淫罪都市～"}],["$","p",null,{"children":"前言姦染系列第二部作品  背景協和学園的二年级学生，大倉浩和速水ありす，两人虽然互有好感，但却是还没有实质性进展的好朋友。大倉他们在修学旅行时来到了千台市，在那里遭遇了突然的地震。奇迹般没有受伤的大倉和速水，还有同班同学小林裕樹三人，在崩溃的街道上徘徊，寻求帮助。但是，在那里看到的，是被欲望支配的人们！遭到袭击被逼入了绝境，大倉他们逃入了购物中心……系统“切换视点”的选项，这次也依然健在。和前作一样，可以看到主人公的视点没有看到的别的地方发生的事件。不仅如此，在本作中被感染者袭击时会出现“时间限"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/36557d0578dc05ca2061081778ffbda0","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

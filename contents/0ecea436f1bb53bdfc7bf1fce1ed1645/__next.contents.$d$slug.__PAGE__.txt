@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/无码/GAL】Secret Agent（2部）"}],["$","p",null,{"children":"2024.7.2整理补档&更换网盘  Story1主人公御影迅是从江户时代开始就肩负国防任务忍者的子孙，在这样世家中成长的迅还在以忍者为目标修行，目标是秘密谍报员母亲的继承人。为了解决引起社会骚动的“蝙蝠事件”，他奉命转入冬華学園。同搭档AIモモカ一起潜入学园后的讯，与同学カノン・メイフィールド、骑士白鐘神楽、骑士团长蓮城寺舞、以及后辈雨ノ森ゆい等人加深了关系，在不被怀疑的情况下进行着任务.。但是，由于某个意外事件，カノン发现了迅的真实身份。对讯来说身份暴露就意味着任务的失败，但カノン没有把迅的"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/0ecea436f1bb53bdfc7bf1fce1ed1645","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

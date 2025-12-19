@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】催淫性活【1.17G/度盘】"}],["$","p",null,{"children":"  \n概要：“我”被公司解雇后，暂时寄住在哥哥家里。哥哥的家里有一个极其厌恶我的女儿九条爱，她把我视为害虫，因此我不可避免地与她一起生活。\n对于不断表现出敌意的爱，我下定决心拿出“催淫手机”来给予她应有的惩罚。在和爱同处一个屋檐下的日子里，我计划不断进行催淫，完全支配她。\n\n\n\n\n社团名\n出た、見た"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/I2sUFqQzALgq","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

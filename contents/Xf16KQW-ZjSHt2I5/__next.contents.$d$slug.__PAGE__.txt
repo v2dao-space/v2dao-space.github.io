@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【步兵SLG/安卓+PC+MAC】忠诚的妻子 v0.48 官中步兵版【更新/4.6G】"}],["$","p",null,{"children":"给大家带来一款想被绿的欧美SLG游戏 忠诚的妻子 v0.48 安卓+PC 官中步兵版 （Devoted Wife） 游戏介绍 一对新婚夫妇和一个年轻男子意外进入他们的生活。 这个年轻人的到来让主人公意识到自己有一种奇怪的癖好，他希望妻子也能\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Xf16KQW-ZjSHt2I5","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

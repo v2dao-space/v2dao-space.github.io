@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】战斗吧!赚钱吧!阿露托姆!/戦え!稼げ!あるともふ!【1.29G/度盘】"}],["$","p",null,{"children":"  \n☆情节概要☆关于首都中传闻的火龙讨伐传言……与此无关的阿露托姆（あるともふ）像往常一样，阿露托姆前往商人那里采购食品，得知商人正计划采购火龙的霜降肉。据说火龙肉可以保存半个世纪不腐烂，无论哪种烹饪方式都能美味享用……据说。然而，火龙肉价格高昂，需要100万G，这笔钱不是一时半会就能凑齐的。于是"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/wwQWIdtJpsLE","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

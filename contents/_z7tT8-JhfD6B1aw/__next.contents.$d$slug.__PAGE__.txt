@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/AI汉化】 繁殖哥布林 联合共和国100日限制 繁殖ゴブリン エルゴル共和国100日リミット 【度盘/1.6G】"}],["$","p",null,{"children":"故事背景在人类的侵攻下，精灵族被逼入绝境，最终选择与哥布林结盟。情报显示，100天后人类将发动大规模进攻。为了让精灵与哥布林共同建立的“联合共和国”得以存续，必须利用哥布林的繁殖能力来对抗人类。 游戏系统游戏以主房间为核心，玩家可以自由行动并提升各项参数。通过增加哥布林数量，在100天内夺回被人类占"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/_z7tT8-JhfD6B1aw","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

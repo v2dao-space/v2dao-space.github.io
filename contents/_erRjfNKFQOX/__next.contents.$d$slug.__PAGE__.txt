@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/ADV】イノセントバレット -the false world-"}],["$","p",null,{"children":"这部作品帅是真的帅\n少女+枪械+科幻+战斗\n置身于硝烟弥漫战场之上的少女们的物语――\n剧中将会大量采用以电影的演出手法来演绎战场枪战画面以达到最动感的临场效果、冷静的计算着残弹的数量小心\n的盘算着进攻撤退的最佳路线、以求最真实的再现出战场上那令人窒息的危机感与慑人紧迫感的表现力\n  \nStory\n时"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/_erRjfNKFQOX","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

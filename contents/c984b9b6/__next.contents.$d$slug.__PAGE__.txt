@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG/汉化] 反乌托邦的掠夺者-1.02-PC+安卓官方中文版全DLG"}],["$","p",null,{"children":"这是狗叫社【ONEONE1】的一款制作非常出色的大作RPG游戏。销量很高很棒！业界闻名，超多CG事件，都有语音，还有即时战斗エロ动画。特点是在有很多NTR、凌X辱、c手、乱O、露出、机械卖银、肉便器….的同时含有纯爱结局和处X女结局！游戏自带全回想存档，并且游戏女主全程全语音！！剧情还是黑暗类，还….有NTR内容，纯爱勿下"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/c984b9b6","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

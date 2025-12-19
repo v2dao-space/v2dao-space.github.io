@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中/动态】Summer~乡间性活~ +Outing/SUMMER-田舎の性活-【PC+安卓】【M/移动/1.1G】"}],["$","p",null,{"children":"安卓未汉化             在寒假中，你再次去乡下看望你的表妹叶月。自从夏天见到她之后，应该发生了不少变化吧。不知道她最近过得怎么样……就在我想着这些的时候，我就已经在准备行李准备出发… 名称: Winter~乡间性活~ 开发商: Dieselmine 发行商: Dieselmine 系列:"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/VBtRydJl7p_vjDGU","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

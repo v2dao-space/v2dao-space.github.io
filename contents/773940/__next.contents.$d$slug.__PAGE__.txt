@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/ADV】拔作小合集（2部）"}],["$","p",null,{"children":"前言高考结束，回家站撸，直接2部拔作打包分享本作女主逆天，直接求男主和其他女的H，还主动联系其他女的貌4个end全是后宫，不容错过小资讯（廃村少女）&（何処へ行くの、あの日）&（PP -ピアニッシモ- 操リ人形ノ輪舞）贴吧有宣布汉化1、廃村少女（红茶汉化组），似乎准备将append一起汉化（1-23宣布汉化），但感觉错过了最佳时间廃村少女第一次人流是首次发布，第二次是出机翻补丁，第三次是append追加，汉化时间已近半年其他网站也均已append机翻版为主，除非汉化水平高，否则很难分到羹若汉化推"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/773940","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

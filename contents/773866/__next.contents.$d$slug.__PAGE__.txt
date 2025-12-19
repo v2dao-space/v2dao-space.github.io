@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【单行本合集/微码/部分汉化】エロッチ本子合集（30本/131M）"}],["$","p",null,{"children":"エロッチ是我很早就在pixiv上就关注的画师，作品主要是小情侣间的各种调情和腻腻歪歪。作画风格略微偏向线稿，题材上基本都是小萝莉主动的play（不过并没有到S女M男的程度，更像是单纯的欲求不满小萝莉），表情和汁液表现非常色气，各种play里身体骨肉的用力姿势也很真实，散图就很好用的类型。他画了非常多的隐姦，也就是并不直接画出结合部，但是百分百是插进去了的那种R17.9，对于整天看大山雀小猫咪特写的人来说可能也别有一番风味。依然是后缀去V解压。预览：        列表在次页列表：[あめじすとダー"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/773866","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

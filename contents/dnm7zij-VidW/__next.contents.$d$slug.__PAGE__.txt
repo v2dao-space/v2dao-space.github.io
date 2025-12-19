@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【AI翻译/GAL】妹汁"}],["$","p",null,{"children":"来份妹汁，要摇的不要搅拌\n有出过番，可以去看看\n作品虽然偏老，但画风还行\n  \nStory\n再婚的父亲邀请主人公小日向　晶（こひなた）搬来一起生活，虽然心里并不是很愿意，晶还是答应了下来。过来后发现，后母竟然带着三个女儿，更糟糕的是，父亲和后母出国旅行去了……事情突然发展成了要和三个妹妹在一起生活的"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/dnm7zij-VidW","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

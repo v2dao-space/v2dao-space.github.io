@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【RPG/体验版/生肉】風紀委員は女淫魔の夢を見るか？（v1.08）"}],["$","p",null,{"children":"自购证明：  更新时间：24/6/216/23第一次补cien链接:https://ci-en.dlsite.com/creator/627/article/1169914首先是个人评价：这个作者也是和x兔、にんじんパスタ一样的牙膏仙人。从20年1月开始第一篇制作报告一直写到24年六月，两周一篇写了足足116篇，也是个神人了我看是。にんじんパスタ的家里蹲吸血鬼18年12月发售，搜查官24年3月发售。这家作者上一部作品女盗贼是19年9月发售，估计现在这部风纪委员今年年底也能发售吧。就游戏内容而言还"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/7b2718a81ec663ad6b41fdb67d0ce0c7","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

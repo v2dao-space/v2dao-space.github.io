@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/汉化】異種族シスターの試練～人間とのHな交流～ 异种族修女的试炼 [双端/1.5G/百度盘]"}],["$","p",null,{"children":"シスターメス堕ち探索RPG姐妹修女陷落探索RPG人类与异种族联盟之战结束，半个世纪过去了。人类与其他种族之间的鸿沟仍然很深，但为了加深与人类的关系，异种族修女被派往人类城市。被派遣的异种族修女【艾丽卡】和女主角们通过与人类的H交流，逐渐沉溺于快乐之中。由污猪汉化组出品入正：https://www.dlsite.com/maniax/work/=/product_id/RJ01174229.htmlキャラクター本作の主人公【エリカ】CV星野天とっても元気で優しいが頭を使って考えることが少し苦手。大"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/dd0ffe10083dd716ac0593ed5b1222bd","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

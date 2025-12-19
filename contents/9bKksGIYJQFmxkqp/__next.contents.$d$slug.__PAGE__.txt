@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/AI汉化】她的提线木偶命令 #彼女のマリオネットコマンド 【度盘/300M】"}],["$","p",null,{"children":"游戏流程  【探索】  在发生异变的都市“比武野市”中探索，收集信息。  有时可能会灵光一闪，想到与色情场景相关的点子？ 【特训（催眠色情）】  通过施加催眠进行色情训练。  获得的点数可用于解锁色情CG。 【能力提升（催眠深化）】  使用特训中获得的点数解锁色情事件。  催眠越深入，特训的效率越高"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/9bKksGIYJQFmxkqp","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

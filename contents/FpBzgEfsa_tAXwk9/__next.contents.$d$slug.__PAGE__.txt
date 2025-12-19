@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无修】女冒険者の集うエッチな宿"}],["$","p",null,{"children":"游戏介绍 作为旅店老板，打造最顶级的旅店吧！ 提升满意度、吸引力和声誉，增加客流量，扩展旅店设施！ 在日常经营中，触发大量随机事件！每次游玩都能保持新鲜感！ 接受讨伐魔物的委托，为旅店赚取资金！还能作为正宗战斗游戏享受乐趣！ 与入住旅店的女冒险者们展开无数色色剧情 随着旅店成长，各种女冒险者会前来入"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/FpBzgEfsa_tAXwk9","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【探索RPG/骨科护士】小桃的纠结（搾精外科に異動させられたモモの葛藤）Build.9220041 STEAM官中【PC+安卓】"}],["$","p",null,{"children":"「哎・・・我要去外科吗?」在春风综合医院内科工作的新人护士小桃。热衷学习又孝敬母亲的她的弱点，就是自幼形成的男性恐惧症。某天，由于她的失误，被命令调去了外科。究竟小桃能否跨越心理阴影，去拯救所有的患者呢・・・"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/GbDsJwT0JDSP","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

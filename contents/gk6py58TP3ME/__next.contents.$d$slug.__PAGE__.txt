@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】 桃前辈与野球拳 もも先輩と野球拳 【293M/度盘】"}],["$","p",null,{"children":"被迫在众目睽睽之下玩野球拳的桃前辈。如果猜拳输了，就要在令人厌恶的萝莉控粉丝面前暴露内衣甚至裸体，并被拍照。如果一直输到最后，就会成为众多男人的玩物…… ・游戏时长大约10分钟的短篇游戏。・和过去作品的野球拳系列采用相同的形式，这是桃前辈的版本。     社团名 輪々処  关注3,162      "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/gk6py58TP3ME","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

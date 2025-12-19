@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/未汉化】龟仙人/カメ PARADISE1-3【度盘/946MB】"}],["$","p",null,{"children":"第一部：小悟空为了让龟仙人教武功，必须满足这个色老头的愿望：帮他找许多女孩子回来一起居住。小悟空可以乘坐筋斗云四处冒险找各种女孩子，有许多简易迷宫，而打BOSS则是猜拳玩法。\n打败BOSS后把女孩带回龟仙人处，可控制龟仙人再次和女孩决斗，战斗中可让女孩爆衣！打败女孩后就能欣赏喜闻乐见的エロCG动画！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/jq7a9DxZvcFu","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

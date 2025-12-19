@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/中文】魔王的冒险者小镇/魔王のハーレムは冒険者町にて Ver1.02 官中步兵版+存档+全DLC PC[3.6G/百度]"}],["$","p",null,{"children":"[SLG/中文]魔王的冒险者小镇/魔王のハーレムは冒険者町にて Ver1.02 官中步兵版+存档+全DLC PC[3.6G/百度]入正：Steam 上的 魔王的冒险者小镇 (steampowered.com)游戏概述：这是[ダイジョビ研究所]社一款DL超过35000销量的超爆款经营SLG游戏。现在于2022年1月25日上架STEAM发售，并且是官方中文的步兵不骑马版~这个中文版整合了原版V2.02+Append群体乱来日记DLC的最终全部内容。游戏全程高能エロ，各种翻白眼，各种多人群体活动，可以"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/97bdc29f842e5b33c4b4c1672b266591","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/启蒙神作】沙耶之歌 汉化版【PC/安卓】"}],["$","p",null,{"children":"【ADV/启蒙神作】沙耶之歌 汉化版【PC/安卓】 跟缘之空一样是很多年前的经典启蒙神作了，说是最强纯爱作品也不为过，也是非常虐的作品之一 游戏介绍： 医大生匂坂郁紀在一场严重的交通事故中幸运的存活了下来。经过一起脑外科手术后，郁紀在昏迷后"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/0a4789358c9c74744ed5f1e8bf7d9743","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

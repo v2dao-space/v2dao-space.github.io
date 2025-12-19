@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/机翻】腐败王国 Corrupted Kingdoms V0.22.1【百度/UC/1.8G】"}],["$","p",null,{"children":"入正：https://thearcadean.itch.io/corrupted-kingdoms\n  \n概述：\n你是这个故事中的英雄——也可能是恶棍——最初踏上旅程是为了发现你的家人为何被赶出家乡，但很快就陷入了你无法想象的事件中。随着人类与潜伏在视线之外的神话生物之间的紧张局势加剧，你会成为希望"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/bv0L8OGqRpwl","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

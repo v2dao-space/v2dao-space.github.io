@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/个人汉化】特命少女アイギス・ピンク【度盘/1.05G】"}],["$","p",null,{"children":"[RJ01158977][No Future]特命少女アイギス・ピンク渣p汉化封面  入正link喜欢这个社团的话，可以在这里入正！作品信息社团名No Future 关注15,163 贩卖日2024年05月30日 0点剧情端音乱希插画ぷりんぷ声优藤村莉央 / 梅原亜衣年龄指定18禁作品类型角色扮演有声音有音乐文件形式软件支持的语言日文分类女性视角 连续高潮 变身女主 羞辱 捆绑/紧缚 拘束 多人运动 触手文件容量1.09GB作品内容捕らわれた先輩を救出するため、少女は単身悪の組織に立ち向かう!ぴ"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/c59adfbb61fd08eebb6c7d2d29e0f651","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

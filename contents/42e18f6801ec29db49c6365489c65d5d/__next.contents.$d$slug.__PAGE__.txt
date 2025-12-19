@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【PC/NTR/爆款RPG】战甲机索尔冈特V1.0 Steam官中无码版+全CG存档"}],["$","p",null,{"children":"剧情简介： 经历多年战争，世界格局趋于稳定，各国终于实现了和平，并组建了联合政府。但并不是所有人都对现状感到满意，一股自称“自由联邦”的恐怖势力叫嚣着要继续为自由独立而战。 纳达尔塔，世界上最强大的军事国家，任务就是追捕自由联邦的残余势力。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/42e18f6801ec29db49c6365489c65d5d","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

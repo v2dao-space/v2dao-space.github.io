@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[きょくちょ] 楓と鈴 (全) [中国翻訳] [無修正] [DL版]"}],["$","p",null,{"children":"きょくちょ老師「BAVEL（巴別塔）」單行本！ 內容全數無修正!! 全彩內封 大尺碼無修正書衣海報!! 滿滿都是大家喜歡的 楓與鈴♡ 作風強勢卻意外傲嬌的小楓， 生性內斂卻古靈精怪的小鈴， 儘管這對雙胞胎姊妹性格迥異， 但她們想侍奉的對象都只有一人♡ 只要有這對姊妹在身邊， 不管任何場合都是性愛天堂"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/han-hua-dan-hang-ben-kyokucho-feng-to-ling-quan-zhong-guo-fan-yi-wu-xiu-zheng-dl-aNi_","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

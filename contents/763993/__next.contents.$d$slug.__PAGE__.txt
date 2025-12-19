@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG/机翻]生化危机：春药幸存者/~サイレントピル エロサバイバー~ 全回想 PC+安卓"}],["$","p",null,{"children":"社团サークル1号日期2023年08月18日 0点年龄18禁类型角色扮演有音乐形式软件 / txt jpeg mp4语言日文标签女主人公 胸部/奶子 制作大师 警察/刑事 科幻 怀孕 出产 异种奸大小2.25GB  これは前作サイレントピルの裏側で起こっていたもう一つの物語……。主人公:冴木里香(さえきりか)は、静丘警察署に所属する新人警察官。警察官として静丘市の平和を守っていた。だが突然、平和な日常は崩れ去った。襲い掛かる正体不明の生命体。男は殺され、女は犯され怪物の仔を産んでいく。通信設備は機"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/763993","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

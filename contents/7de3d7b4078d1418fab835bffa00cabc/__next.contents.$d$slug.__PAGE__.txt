@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无修/动态】Secret Toy"}],["$","p",null,{"children":"游戏简介有一天，主人公收到了他的商业大亨父亲的一项特别命令，要开始一个成人产品开发业务。主人公心中涌现出新的动力，对于一直无所作为的日子感到厌倦…*执行指令通过点击鼠标左键执行每个指令*玩法说明1. 通过点击鼠标提升销售、设计和技术的每个等级。2. 当进入开发菜单时，你将能够开发新的成人产品。3. 开发的产品会自动交付并产生利润。* 失败条件在每月结算中记录财政赤字时* 出现六名女性角色。* 如果在雇佣女主时开发了一个超过一定等级的新产品，你将收到一部电影。  涩涩预览"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/7de3d7b4078d1418fab835bffa00cabc","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

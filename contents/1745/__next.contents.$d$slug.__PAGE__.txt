@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[扭蛋RPG/汉化] 玉魔王系列 4部汉化合集 [安卓/2.59G]"}],["$","p",null,{"children":"\n\n\n\n[游戏介绍] ：\n\n\n\n在凭借着抽扭蛋得到的魔物军团，成功上位当上魔王以后\n\n\n\n这个残念的家伙就开始了吃喝玩乐每天PAPA的神仙生活……\n\n\n\n但是，在残念少女醉生梦死的这段时间里面\n\n\n\n世界各地出现了奇怪的生物\n\n\n\n《机械军团！》\n\n\n\n这些身上不知为何融合了各种奇怪机械的怪物们渐渐的占据了整个地图\n\n\n\n而在敌人推掉外塔冲上高地的时候\n\n\n\n魔王才反应过来\n\n\n\n于是为了干掉这些"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1745","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

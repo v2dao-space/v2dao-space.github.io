@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中无修】释放自我！户外直播体验"}],["$","p",null,{"children":"白天直播，晚上拍视频！在这款RPG游戏中，一步步打造你的超高人气！化身现实主播莱卡，在游戏里透过不断提升自己的技能以创作有趣内容及吸引更多的订阅者。探索城市，挑战自我，为了取悦飞速增长的观众群体，全力展现他们最想看的刺激瞬间吧！                         作为一名写实主播，莱卡"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Ty6SFx6F34rwohW7","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

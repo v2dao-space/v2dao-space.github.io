@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中】【Ason】蒼色之光與魔劍鍛造師 V1.01(自制魔改版)【度盘/4.78G】"}],["$","p",null,{"children":"这个是楼主期待很久的游戏，最近出了正式版，楼主在周末打了一会儿过后，给楼主打红温了，于是自己动手弄了一个修改版，修改了回血药，破损项链和碎块魔石，的锻造效果，现在打造的刀再也不怕动不动就烂掉了（项链直接加了2000负重而且加了谨慎项链的效果，配合魔石强化能把耐久弄很高，这项链没了就会在床头刷新），可"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/rpg-guan-zhong-ason-cang-se-zhi-guang-yu-mo-jian-duan-zao-shi-v1-01-zi-zhi-mo-LT6O","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/GAL】追奏のオーグメント"}],["$","p",null,{"children":"前言本站没人发布这个作品，我试个水游戏附v1.01强化补丁+机翻补丁本作印象最深的是男主和死神的相声+偶尔来的搞笑片段+最后姐姐线的反转人懒上的官图  Storyかつて少年だった男───河嶋秀弥は、死ぬことを望んだ。既に80を超える老齢となり、身体も満足に動かない。生きる目的を見失っていた男はついに、自らの喉へナイフを突き立て、この世と決別する。若かったあの頃に戻れたら、もう一度青春時代を過ごせたなら……そう願いながら。だが意識が途切れる直前、少女のような声が耳に入った。「ボクがその願いを叶えて"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/768358","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

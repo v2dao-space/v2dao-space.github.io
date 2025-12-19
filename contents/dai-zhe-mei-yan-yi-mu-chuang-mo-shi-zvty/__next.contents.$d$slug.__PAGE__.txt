@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"带着美艳医母闯末世"}],["$","p",null,{"children":"某座小岛挖出的东晋墓穴，竟成了引起S市乃至整个世界陷入丧尸末日的根源。落魄的打工青年意外的艳遇，却成了他在末日生存的开始。温婉的未亡人邻居，爆乳肥尻的大洋马母女，娇俏的小护士，丰腴的刑警队长。。。我全都要，当然美艳的各位血亲自然也逃不掉，美艳医母、高冷大姨、风韵犹存的外婆、隐藏巨乳的姐姐。。。占据仇家的据点，享受对方的美母艳妻和可爱的女儿，末世之中与丧尸斗，亦要与人斗！且看男主如何末世争雄！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/dai-zhe-mei-yan-yi-mu-chuang-mo-shi-zvty","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

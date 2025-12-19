@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】 色情学校的怪谈2 エッチな学校の怪談2 ～ボクと怖～いお姉さんたち～ 【1.5G/度盘】"}],["$","p",null,{"children":"  \n概要：某所学校流传的怪谈――「紫镜」\n据说在深夜两点站在「紫镜」前，会被引入镜子的世界。\n为了验证这个传言，我被同班同学惠美邀请，在深夜偷偷溜进学校。在那儿，惠美看到了紫镜，结果消失在了镜子的世界里……！！\n为了拯救惠美，我也进入了镜子的世界！这个地方和我平常的学校以及小镇没什么不同……但是，"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/c2Ylk641_A8-","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

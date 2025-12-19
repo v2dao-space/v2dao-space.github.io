@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/ADV】姪少女"}],["$","p",null,{"children":"前言一夜物语，第5弹tanuki soft最古老的一作，野々原幹来tanuki的首作本作登场女主们均成年（不清楚耶）  Story季節は春。目的も未来もなく、ただ生活のためだけに無気力な日々を送る主人公。そんなある日、妹から双子の娘「亜耶と沙耶」を預かってほしいと連絡が入る。春から通うことになった「双星女子学園」に近い主人公宅へ下宿させたいとのこと。根っからのロリコンである主人公は、初めて会う姪に危険な感情を抱くが、親戚という立場もあり手を出せない。しかし次第に我慢できなくなり、優しくしたりそそ"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/772093","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

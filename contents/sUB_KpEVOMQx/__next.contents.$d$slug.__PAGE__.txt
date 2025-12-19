@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【资讯】《穿越黃遊開後宮》意外獲得黃遊人生 20 天體驗卡，三位美女等待你的追求"}],["$","p",null,{"children":"由 LemonTart 開發的《穿越黃遊開後宮》，是 PlayMeow 在 2 月 19 號發行的視覺小說黃遊。是想，如果有一天，你意外被轉生到了黃遊異世界，異世界的系統告訴你有 20 天的時間可以體驗，那在這個世界出現的三位美女，你會選擇追誰呢？ 说到后宫也给大家介绍一款后宫游戏，这里有着风格迥异"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/sUB_KpEVOMQx","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

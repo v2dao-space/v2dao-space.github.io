@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/PC】伊芙物语2 Story Of Eve 2 v1.0.3"}],["$","p",null,{"children":"游戏简介：继【伊芙物语 勇者的修行】之后，梦魔卡珊卓说服了你用一些“特殊”的方式来训练伊芙。因此被纹上了淫纹的伊芙，为了变强努力配合著，然而随著训练的进行，伊芙似乎...也开始喜欢上了这个过程，究竟你的特殊训练，会把伊芙带向何方呢..."}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/66cec37f3b37dc9a929fb1789f05d986","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

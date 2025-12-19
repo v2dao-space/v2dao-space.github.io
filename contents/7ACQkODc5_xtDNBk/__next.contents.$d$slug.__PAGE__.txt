@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】现世村轮辱纪行 うつせみ村輪辱紀行 【度盘/1.1G】"}],["$","p",null,{"children":"两名女大学生踏入的地方是……“无法逃离的村庄”。  T大学考古学研究社团的成员“果步”和“凛”。  两人为了毕业研究而造访了一个留有古老传说的废弃村庄——现世村。  然而，那里却居住着本不该存在的“村民”。  他们带着温和的微笑，热情地欢迎两人……  挥之不去的不安与违和感……  于是，果步和凛漫长"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/7ACQkODc5_xtDNBk","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

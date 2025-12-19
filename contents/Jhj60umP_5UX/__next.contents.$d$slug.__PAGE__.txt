@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化/步兵】腐败之道/Way of Corruption【1.66G/度盘】"}],["$","p",null,{"children":"  \nv0.24版本更新（2024/11/21）本次更新共包含7个H事件：按摩院 4个事件贫民窟 1个城市事件多米尼克 1个事件米勒娃和流浪者 1个事件\n游戏介绍：发现一个故事的开头，该故事涉及政府的腐败以及试图阻止他们的主人公的不断腐败。我们的女主人公为了达到目的，会不断地处于变态的境地。\n有漏词"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Jhj60umP_5UX","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

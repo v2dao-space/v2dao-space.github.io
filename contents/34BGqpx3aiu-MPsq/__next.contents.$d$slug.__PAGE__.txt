@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/AI机翻】僕に抱かれ喘ぐ妻は、他の男に抱かれた話を紡ぐ ～妻の綺麗な肉ビラが他の男のイキリ棒に押し広げられているのを見て、ガチガチにカンカン棒を膨張させる～+DLC【OD/2.9G】"}],["$","p",null,{"children":"18/02/23  作品内容 Getchu界面：点击 游戏官网：点击 作品紹介 STORY バツイチの深川賢一は仕事で出会った女性・佳乃と一年の交際の後に再婚する。 賢一は、前妻の浮気現場の目撃で、知らずに寝取られ属性が開花していた。 それを自覚するようになると、悩んだ末に賢一はネット掲示板で相談す"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/34BGqpx3aiu-MPsq","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

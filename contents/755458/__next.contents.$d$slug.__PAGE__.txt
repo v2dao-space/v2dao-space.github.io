@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【图集/AI/无修正】Effect_488制作作品合集（797P+11GIF/1.15G）"}],["$","p",null,{"children":"［本合集为AI制作图］你别管是不是AI，你就说好不好冲吧。先前整理过的小萝莉双插的AI图里，制作水平最高的那一批。能明显感觉到他最初的图是比较经典的那个AI模型，但后期显然加入了类似Alpha这种画师的图集着重训练。他的作品都经过了精修，没有什么多指啦不明肉块啦奇怪阴影啦之类的bug，质量非常高了。与其它AI作者制作差分是通过一套tag来生成一组图不同，他的差分完全像是独立画师的差分，即身体结构完全固定，只变换关键部位的插入状态液体状态等。所以，如果能接受这种仍然带有AI的画风，那么他的作品其实"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/755458","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

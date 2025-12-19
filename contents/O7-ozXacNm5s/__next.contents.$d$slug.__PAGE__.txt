@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/汉化】风雷战姬 神梦/風雷戦姫 神夢（汉化/全CG存档）"}],["$","p",null,{"children":" \n我不知道那个犄角旮沓里下来的。站里有资源但是没汉化。虽然这作从画风上看好像有些年头了，但其实是LiLiM2020年发行的，还算新。不得不说这种古早的画风加上这种经典的题材还是有点味道的。我还没玩，但是看评价是有ntr的，还有恶堕，LiLiM的作品，没有才奇怪了。纯爱线有没有牛就不知道了，玩过了可"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/O7-ozXacNm5s","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

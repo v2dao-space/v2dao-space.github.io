@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG/中文/PC/安卓]郊野大漂客/Prince of Suburbia (Part1&amp;Part2&amp;V1.0 Beta整合版) 步兵版[5.1G]"}],["$","p",null,{"children":"PS：这次作者重构了游戏，将原来的Part1、Part2以及V1.0 Beta合并到了一起。游戏介绍：我是个那方面非常旺盛的年轻仔性格体贴，长相将就，唯一的特点就是那根堪比非洲鬼佬的棒棒但是生活却一直没有想象中那么一帆风顺火辣风搔的姐姐总是时不时的挑逗我！前凸后翘的金发淑女邻居更是经常盯着我一脸坏笑！就连温柔的母亲也总在我喝牛奶的时候鹿出奇怪的表情！我无时无刻不在和自己的人性做斗争但在今天，最信赖的妈妈却背着我做了一件背德感爆炸的事情忍耐许久的想法再也无法关进名为理智的牢笼！这个家庭的关系，即将"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/763963","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

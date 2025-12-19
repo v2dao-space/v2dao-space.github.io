@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"在柯南里选择当渣男"}],["$","p",null,{"children":"一觉醒来，发现穿越到柯南世界。\n随后，他将面临着决定人生走向的选择。\n【这段时间，米花町经常有色狼出没，某日晚上你刚出门，便遇到神志不清地小兰跟园子，她们误喝了不明饮料，并向你求救，你该怎么做？】\n【一，向她们伸出援助之手，及时地把她们送到医院去，并且帮助她们找出色狼……选择这项，你会成为超越福尔摩斯的存在。】\n【二，冷漠地拒绝她们的请求，无视她们的困境………选择这项，你将会成为世界最恶的犯罪。】\n【三，带她们回家，在药效发作的时候，做一些不可描述的事情……选择这项，你将会成为地表最强的渣男。】"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/zai-ke-nan-li-xuan-ze-dang-zha-nan-fisQ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【里番/超分修复教程】[个人修复合集](120FPS/4K2K修补/)【度盘】"}],["$","p",null,{"children":"！！！ai超分暴力画质修复，不喜的请直接出门左转\n由于私信的人不少，我发个合集出来，授人以鱼不如授人以渔\n顺带我把ai画质修复的教程手把手从下源，压制，修复，混流一套流程全部教学一下，以后有条件的网友可以自己修复喜欢的作品了，没条件的也可以收藏一下链接，了解了解也不吃亏\n这次作品包含\n村上恒一 个人"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/kgKPgu2yGboL","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

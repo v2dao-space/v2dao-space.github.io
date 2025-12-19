@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/汉化/动态】粗俗的遐想/Vulgar Reverie [v0.04]【PC+安卓/890MB】"}],["$","p",null,{"children":"作者主页  游戏简介“爱能战胜一切”一句简单的话。如果两个人彼此相爱，任何障碍都可以克服。但问题是……为了这份爱，你们愿意走多远？《Vulgar Reverie》是一款Netorase成人视觉小说游戏你的妻子是前黑手党家庭成员，当你向她表白爱意时，她就和你一起逃跑了！        出错的重下或者换解压"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/a6e1d552d7cc2f809a538a7d57c570a2","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/无码/像素动态/日文】[ごめんねカール]王女的复国运动/王女のレコンキスタ Ver0.3【377MB】"}],["$","p",null,{"children":"『王女のレコンキスタ』0.3配布『王女的复国运动』0.3版本闪亮登场！这次的更新还蛮大的！可以打BOSS战咯！可以购买和使用道具了！最初的【城下町】区域基本上已经完成咯~增加了大概 8 个 H 动画！详细说明在下面…或者直接实践出真知（开玩）！战斗！爽！关注我喵，并从粉丝限定文章中获取游戏！请随时留下您的感想、建议或故障反馈。您的评论对我们来说是非常宝贵的鼓励。本次体验版和免费游玩内容到此为止！接下来我们将在制作下一地区的同时，逐步扩展地区1未实装的元素和事件。至少还会加入两个小事件。也想尝试加"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/748269","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

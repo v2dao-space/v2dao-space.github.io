@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/生肉/动态/更新】 我的电羊女仆梦 My Maid Dreams of Electric Sheep v0.6.3 【PC】"}],["$","p",null,{"children":"只有PC电脑版本，没有翻译——该游戏并没有做完，内容有限版本内容结束后左上角？号显示End of current version.——英文苦手要搭配截图翻译（百度翻译之类的软件）实时翻译软件（可以到B站搜实时翻译）下面是更新内容  作者地址：https://dodonga.itch.io/my-maid-dream-of-electric-sheepv0.6.3Added 4 new main eventsAdded 3 new repeatable H-events for Ako (Quee"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/9300f4a96a0a565ab837d85877b6130d","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

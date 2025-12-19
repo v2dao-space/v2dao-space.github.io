@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【生肉/ARPG】ラストタウン: フェリクシアの滅亡【百度网盘】"}],["$","p",null,{"children":"这次的游戏有些小特别，因为他已经被下架了，在购物车里突然发现，想买的时候点进去看发现社团销号跑路了，点进详情链接很尴尬的发现跳转到dl主页了，所以我绞尽脑汁给你们搞了这些预览图声明：  自购证明：  另外曝光一个爬虫网站：https://www.v2dao.com/原封不动的搬，然后声称是自制，能搬的全搬了，早期作品要私信我询问提取码的，没有提取码挂个空链接搁那分享，笑死    联系了对方的站长，目前没有答复  请大家多多留意，我估计剧情会这么发展      在通常情况下，解压密码第二层固定是在"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/772513","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

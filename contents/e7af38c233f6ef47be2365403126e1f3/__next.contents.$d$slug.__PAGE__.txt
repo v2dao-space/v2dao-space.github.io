@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/PC】美少女万华镜异闻 - 雪女 v1.1补丁【c3AI汉化/免dvd/全存档CG】"}],["$","p",null,{"children":"• 品牌：ωstar• 发售日期：2024/04/26• 类型：ADV / #日文原版• 原画：八宝備仁• 剧本：吉祥寺ドロレス▼ 故事简介：妖异，即迷人又令人恐惧。一心专注武术的主人公莲佛雪之进，曾被求学的武馆寄予厚望，不料却输给了对手。为了自我反省，主人公离开了尘世，在深山闭门修行。孤独的修行渐渐迎来瓶颈，不觉间山中已隆冬。某天，在雪山的主人公为了救助被熊袭击的雪白小动物，孤身向熊奋战，不料遭到反扑，命悬一线。旋即，伴随着天意的邂逅，主人公的全新人生揭开序幕。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/e7af38c233f6ef47be2365403126e1f3","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

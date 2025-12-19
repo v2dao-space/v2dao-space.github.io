@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/生肉】赤蓮忍法帖 V0.10"}],["$","p",null,{"children":"更新日志-0.10 序章・第1章场景已重制。相关事件尚有未实装部分，将逐步追加（还请稍候）。新增动作”攀爬”。现在可以移动到更高处的落脚点了。新增要素”隐藏通道”。能躲在密道里，用屁股色诱吸引敌人。新增卷轴技能切换UI。新增忍术”回复之术”。实装了序章・第1章部分CG。优化了游戏流程。通关后无需返回"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1dNdR-AKnz","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

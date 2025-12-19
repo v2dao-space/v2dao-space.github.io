@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【生肉/ACT】The Curse of Island【百度网盘】"}],["$","p",null,{"children":"銷售數量：1,563評價：4.36 (822)收藏數：2,061鑒賞數：10 (鑒賞)社團名D.R. 關注1,385 販賣日2019年12月24日年齡指定18禁作品形式角色扮演有音樂檔案形式應用程式對應語言日文分類女性角度 少女 金髮檔案容量166.67MB     自购证明：  声明：  第一三层密码错误请私信我，私信前再三检查是否是自己的问题。第二层密码错误请自行翻阅置顶教程关于隐写文件，在教程里有同步更新，不明白情况的自己去翻教程处于未知原因，第一层解压码很有可能实际上并不存在，如第一次解"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/770435","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

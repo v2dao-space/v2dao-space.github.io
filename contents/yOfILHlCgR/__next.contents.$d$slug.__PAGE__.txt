@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中无修】マ男ニ染マル純白ノ彼女"}],["$","p",null,{"children":"在像北奥拉王国这样的阶级社会中，身为平民的隼人必须崛起，以保护自己的村庄。 与青梅竹马莉亚一同，他踏上了成为圣骑士的修炼之路——然而，其他男人的欲望却威胁着她的纯洁。 你能否实现自己的目标，守护莉亚？还是会让她被其他男人夺走？ 在这款NTR RPG中，你的每个决定都将决定他们最终的命运。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/yOfILHlCgR","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

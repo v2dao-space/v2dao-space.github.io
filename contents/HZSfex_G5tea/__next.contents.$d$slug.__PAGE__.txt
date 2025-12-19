@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/机翻】爱情与诱惑 Love And Temptation Ep.5 S2 【双端-2.50G/百度】"}],["$","p",null,{"children":"  \n    《爱与诱惑》（家庭剧诱惑）是一部带有互动元素的小说，让玩家可以影响接下来的剧情，并决定主角将会发生什么事件。该项目的一个特点是大量色情内容且不受审查。游戏玩法围绕情色展开，玩家需要完成任务并加强与次要角色的关系，以解锁性爱场景。\n爱情与诱惑（家庭剧诱惑）中的玩家任务：\n\n你需要控制一个"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/HZSfex_G5tea","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【3D动画/无修正】SoftShikiOni：红P10元档视频全合集【度盘/UC/28G】"}],["$","p",null,{"children":"入正：红P\n[3D][无修正][部分日配英配][有长有短片][很润][-]\n预览图：\n\n\n\n\n不知道为啥gif搞得像在蹦迪\n自购：\n\n作者分类纯纯有病，红P上不放链接也就算了，到了mega盘里一看头都晕了名字对不上日期也没有，找了半天才发现有些东西10元档里还没有非得去5元里翻烦死了,这次只在10档"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/TFlxeip1nFd1","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

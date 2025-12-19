@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【AI翻译/无码/ADV】あまたらすリドルスター"}],["$","p",null,{"children":"以纯爱为理念的softhouse-seal新品牌，seal-QUALIA首作\n在保持以往的喜剧+H的风格的同时，本作是以星和童话为关键词的重视故事性的正统派作品\n游戏中的星空CG很美，剧本是以童话为主\n有很多搞笑的地方，且本作设定是架空世界，因此会出现一些不科学的桥段\n  \nStory\n主人公，童本"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/lMpFY_eMpATF","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

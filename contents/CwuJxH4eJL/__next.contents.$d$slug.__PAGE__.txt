@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"白领丽人"}],["$","p",null,{"children":"我一生的遭遇起伏很大，在我二十八岁那年，因为个性太直太好强，所谓的宁折勿弯，得罪人而不自觉，事业因此沉到谷底，经营不到两年的公司垮了。虽然没有负债，可是看到朋友同学在事业上都有了相当的成就，觉得自己实在太不争气了。而且有许多以前称兄道弟或者受过我帮助的朋友，在我的公司垮了之后，都以为我有负债，不敢或者不愿接近我，使我的心里更加不平衡。把自己关在三十坪大小的居处，足不出户，一天到晚恨天怨地，又染上了吃镇定剂才能入眠的恶习，坐吃山空花尽了所有的积蓄，连自己在镜子里看到原本壮硕的身体也一天一天的瘦弱下来，都感到无限的怜惜。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/CwuJxH4eJL","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【RPG/生肉/マジカルぽんぽん】魔法少女セラフィエールIF・悪夢のバッドエンド"}],["$","p",null,{"children":"只有BD，只有BD，要的就是这种绝望感和无力感捏。    作品内容       描绘《魔法少女塞拉菲尔》Bad结局的禁闭情色动画RPG本作品是描写“魔法少女塞拉菲埃”（RE333934）主线被敌人击败后的故事的IF短篇。由于它不是追加，因此可以自行启动。本作品大量使用视频，因此如果您不确定自己的电脑规格，请检查与《魔法少女塞拉菲埃》试用版的兼容性。正如标题所暗示的那样，这是一款注定会有坏结局的RPG，所以我不推荐给那些想要魔法少女来拯救他们的人。【剧情简介】失败的魔法少女们过着屈辱的禁闭生活。 "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/765562","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

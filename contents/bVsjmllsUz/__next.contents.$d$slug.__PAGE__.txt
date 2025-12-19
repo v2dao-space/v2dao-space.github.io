@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"魔王重生"}],["$","p",null,{"children":"在床上，一对男女正在享受着云雨之欢。少年是少女的亲哥哥，两人正在做着社会所不容的事情。男子名字是草剃光，是位拥有“魔王”力量的少年；而少女则是他妹妹草剃玲。因为魔王“红瞳”的力量，玲身体深处对哥哥光的情欲完全被解放开来，结果显而易见地，玲不仅心里就对光有着超乎寻常的爱意，连身体也因为如此而完全献给了光。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/bVsjmllsUz","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购/MMD/有码】男湯で美遊ちゃんと（2D/VR）"}],["$","p",null,{"children":"搜索商品搜到了一个作者 随便先买了一部 感觉还不错  画质是高清2D和4KVR 视角大部分为摄像机视角 有时候也会有第一视角稍微会有穿模 模型不算很精细 不过我是比较喜欢二次元建模的比较遗憾的是骑兵 然后码也比较厚接下来是一个足以薄纱上面一切遗憾的优点  50円！还要啥自行车？！  每个月也有一些投稿 100円就能下8K（不过是类似我之前patreon上初始会员的那种限量）作者主页：ちっぱいMMDファンクラブ (ちっぱいMMD)｜ファンティア[Fantia]度盘炸了随缘补"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/766135","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

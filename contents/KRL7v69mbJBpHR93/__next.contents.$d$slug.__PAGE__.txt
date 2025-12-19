@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【同人图集/有修正】E.C.HO 大佬 合集 至25.7【度盘/1G】"}],["$","p",null,{"children":"什么东西，好大，我要看不见前方的路了 作者简介，https://www.pixiv.net/users/105463181只是个画色图的，没有靠色图吃饭的打算，色图就是看的人越多越好，所以欢迎转发，欢迎分享，欢迎关注没有什么需要花钱赞助的，以后也不会有。会发一些pixiv上的投稿以及没放出来草稿。也"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/KRL7v69mbJBpHR93","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

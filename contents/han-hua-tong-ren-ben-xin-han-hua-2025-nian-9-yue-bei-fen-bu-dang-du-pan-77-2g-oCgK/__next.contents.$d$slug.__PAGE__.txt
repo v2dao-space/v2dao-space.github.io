@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化同人本/新汉化】2025年9月备份补档【度盘/77.2G】"}],["$","p",null,{"children":"不记得从何时开始，站里开始有新汉化本搬运，大概是去年？经过一次交接棒，今年也发生交接棒，为什么是补档9月，因为之前的我都阅完既焚，更重要的是9月开始主要都是mega盘，到现在我的免费mega账户也是下载受限，反正手上9月开始的资源都还在，随便存个档，致敬前面几位互联网精神老哥。    当然，阅后即焚"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/han-hua-tong-ren-ben-xin-han-hua-2025-nian-9-yue-bei-fen-bu-dang-du-pan-77-2g-oCgK","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

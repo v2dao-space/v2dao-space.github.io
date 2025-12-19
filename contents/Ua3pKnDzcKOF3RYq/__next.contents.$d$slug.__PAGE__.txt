@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无修】邂逅书店v1.01"}],["$","p",null,{"children":"简介： 受朋友所托，你代为照看一间小小的书店。 每天总有一位女孩静静坐在角落读书，仿佛早已成为店里的一部分。 她叫——冬乃。 柔顺的长发、细声细语，却始终保持着一段微妙的距离。 在这段时间里，你有机会靠近她，触碰她内心柔软的角落。 是温柔地引导她敞开心扉，还是悄悄将她引入更私密的深处——由你来决定。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Ua3pKnDzcKOF3RYq","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【里番/魔穗】異世界ヤリサー [合集1-2][2K/1080P/60FPS 修补][CUGAN超分/V2/V3/VSR++/GmfSs补帧]【PIKPAK/度盘】"}],["$","p",null,{"children":"販売数6万超え！異世界転生の金字塔サークル『ろくまる荘』の人気同人を完全アニメ化！不慮の事故でファンタジー感あふれる異世界に転生した大学生ヤリサーグループはこの世界でも本能の赴くまま生きていた。その性欲はとどまることを知らず、やりたい放題の彼らは気づけば懸賞首に、しかしここでやられるヤリサーではない！ヤリサー目当ての賞金稼ぎレズカップルに極太生チンポで逆成敗！更にはその母親までも…「これってもしかして…異世界転生じゃね？」大学で多くの女の子たちを喰い物にしてきた超肉食系でおバカな大学生ヤリサーグ"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/e66b0f6ffaa45f10054ddd1dab1191fd","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

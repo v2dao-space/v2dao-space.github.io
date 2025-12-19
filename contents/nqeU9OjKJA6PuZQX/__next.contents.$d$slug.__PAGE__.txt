@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[Ash横島] 曲尺手さんと大縄くん～むっつりドスケベな彼女と俺～ 曲尺手同學與大繩君 [中国翻訳] [無修正] [DL版]"}],["$","p",null,{"children":"居然能夠讓優等生班長滿臉恍惚沉迷於高潮之中♥ 主要角色介紹大繩君——男主角。悶騷色狼男學生。曲尺手同學(幾乎可說是跟蹤狂)偷偷的喜歡著他。 曲尺手真子——認真耿直的班長。超喜歡副班長大繩君起初只有傲沒有嬌、後來逐漸顯現出變態痴女的本性……♥ 豐丘老師——主「推」曲尺手同學的爆乳女教師。私下被愛稱為「"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/nqeU9OjKJA6PuZQX","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

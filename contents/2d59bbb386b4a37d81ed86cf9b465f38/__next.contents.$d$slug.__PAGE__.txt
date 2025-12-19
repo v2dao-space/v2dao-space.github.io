@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/PC]巧合英雄 Hero.by.Chance.v1.2.4"}],["$","p",null,{"children":"在游戏中你将扮演莫名其妙当上英雄的人渣男主巧妙运用手上的资源攻下一个个火辣妹子的城池，之后…游戏采用了非常少见的“造兵攻城”玩法指定战术、加固堡垒、看准时机攻破对方的城堡,整体的游戏性非常高，而且优化到位玩起来丝滑流畅，十分难得，推荐尝试一番~游戏包含五位个性鲜明，且扮演着不同战斗角色的美妙女主. 所有女主都具有HD分辨率下的精美live2D动画效果，让你怦然心动！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2d59bbb386b4a37d81ed86cf9b465f38","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

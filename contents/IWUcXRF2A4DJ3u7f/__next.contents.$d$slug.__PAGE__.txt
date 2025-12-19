@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【同人图集/无修正】NT00 大佬 合集 至25.6【度盘/40G】"}],["$","p",null,{"children":"牛头人纯爱领域双重大佬。一篇故事发两个版本，两种梦想一起满足。大佬这能画啊。这是所有图片文件，按时间排序               别举报了，投降喵，放二维码下载。国内图床"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/IWUcXRF2A4DJ3u7f","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

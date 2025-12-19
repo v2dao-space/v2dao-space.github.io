@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/生肉】天川紗雪と屋敷の九怪奇（RJ01047297）"}],["$","p",null,{"children":"社团名おあきゲーミング 贩卖日2024年09月21日 0点系列名セレニアム・シリーズ作者おあき剧情おあき插画おあき年龄指定R18作品类型动作有声音有音乐文件形式软件支持的语言日文分类女主人公 动画 恐怖 超自然现象 羞辱 羞耻/耻辱 暗示 虐待/ryona文件容量2.95GB        主人公与故事【故事简介】“──这座宅邸里，有■存在……？”天川纱雪是隶属于硒教会日本分部的天才美少女驱魔师。她接到任务，前往调查充满怪异的无人宅邸“黑濑邸”。在宅邸中等着她的，是一群极其强大的“九怪异”。每当"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/a9c4ddf6","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

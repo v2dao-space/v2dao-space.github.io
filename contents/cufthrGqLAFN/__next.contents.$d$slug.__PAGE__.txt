@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"Radiant Victorias 煌星的胜利女神 v1.0.2"}],["$","p",null,{"children":"游戏简介：世界的力量之源「艾拉」与「欧柏」被企图打破均衡的帝国夺走。同时，神国亚希拉也遭到欲称霸世界的帝国袭击。国家遭到毁灭的亚希拉王子，沃尔夫，在旅途中与８位女神相遇，并踏上了阻止帝国野心的世界行旅。与有着各种故事的女主角们培养感情的即时战斗RPG！包含 煌星的胜利女神 ASMR 辛蒂篇 艾蕾欧诺"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/cufthrGqLAFN","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

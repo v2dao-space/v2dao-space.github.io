@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[画风炸裂/奴隶/神作ADV]饲养捡到的美少女～和兽人娘的亲热生活～云汉化版[安卓][780M]"}],["$","p",null,{"children":"饲养捡到的美少女～和兽人娘的亲热生活～云汉化\n\n\n\n（拾われ愛して奉仕したい ～亜人娘とのイチャエロ生活～）\n\n\n\n兽人控福利！今天给带来的是一款画风十分细腻的养成类型的ADV游戏！经典的日式剧情，我们的主角和美少女兽耳娘米娅的异界生活，玩法相当有趣尤其是游戏各种有趣的设定，与乖巧可爱的兽耳娘一起生活慢慢取得兽耳娘的信任，一点点融化她坚硬的内心~有一种希x薇的既视感哦，还是很治愈的希望大家尝试一番"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2055","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

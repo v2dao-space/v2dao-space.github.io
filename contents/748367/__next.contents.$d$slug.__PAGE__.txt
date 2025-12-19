@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[ごさいじ] 君が好きを分かるまで 直到你明白什麼是喜歡 [中国翻訳] [DL版]"}],["$","p",null,{"children":"我們用不同形式的愛在依戀彼此……，從猥褻交合的愛情是一種錯誤嗎？即使不被瞭解，或是被誤解，也將為你獻出我全部的所有，義無反顧地開始一場錯誤的愛戀……從猥褻的交合開始的愛情是一種錯誤嗎？即使不被瞭解，或是被誤解也將為你獻出我全部的所有……聲稱不跟男友以外的人做愛卻輕易鬆口做了性愛的約定碎念著與人交往很麻煩就與試探問話的處男一起上旅館喝醉讓男人撿屍回家豪放地露出內褲給人有機可趁跟偶然重逢順口約砲的熟人上床網路匿名張貼裸照與初次見面陌生網友做愛毫不避諱地展現放蕩好色的樣子《直到你明白什麼是喜歡》ごさい"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/748367","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【像素/SLG/官中】Secret Hot Springs Girl v1.0 / 秘汤女孩 v1.0"}],["$","p",null,{"children":"故事简介度过了漫长而疲惫的一周，是时候放松身心了！一位勤劳的男子发现了超越单纯是放松运动的事：一个由温泉之神经营的秘密商店！温泉之神愿意用她的祝福换取她的信仰，玩家的任务便是享受尽可能多的温泉。温泉之神的第一个祝福揭示了一个隐藏在深山中的幽静之地，在那里他注定会遇见纱耶香——一个同样热爱温泉的美丽女孩以及……她那想在布满蒸汽的浴室里做顽皮事情的欲望。这是一个关于爱、休闲和性爱，以及为了温泉之神聚集信仰的故事！ 与纱耶香一起享受浴场设施，为温泉之神聚集信仰。你可以通过多种方式赚取信仰：泡温泉、进行"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/3e7466292b2f4020ecbdd19f9af447ad","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

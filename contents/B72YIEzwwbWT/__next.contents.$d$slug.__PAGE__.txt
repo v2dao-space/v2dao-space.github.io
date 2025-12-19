@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【里番/高清】OVA 紫陽花の散ル頃に UHD 4K 60FPS"}],["$","p",null,{"children":"这次带来的是NTR类雷火剑作品紫阳花的超分\n=====文件信息=====\n文件名称：[JU] OVA紫陽花の散ル頃に\n大小：2.89 GB\n帧率：59.94 FPS\n码率：28073 kbps\n时长：00:14:46 (已剪ED)\n分辨率：3840×2160 (UHD 4K)\n源文件来源：DLsit"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/B72YIEzwwbWT","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

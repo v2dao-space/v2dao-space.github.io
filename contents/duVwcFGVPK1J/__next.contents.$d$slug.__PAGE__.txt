@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中】The Great Yokai of the Haunted Halls"}],["$","p",null,{"children":"你和你的儿时玩伴本来只是在破旧校舍中捡起了一本书，但接下来命运就此出现转折，你们被传送到了一个满是妖怪和邪灵的异次元空间。你们必须想办法逃出此地！在这个超自然维度中，你们遇到了 自称伟大妖怪的伊纲。在这位大妖和香坂姐妹的精神力帮助下，你能否逃离这个诡异的时空呢？"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/duVwcFGVPK1J","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

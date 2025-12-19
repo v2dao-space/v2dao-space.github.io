@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中】[PC+安卓joi]琴子最近有点怪/琴子ちゃんはちょっと変。"}],["$","p",null,{"children":"所发布资源不得用于商业盈利，否则产生的一切后果将由您自己承担！制作介绍（#F87）  琴子一直过着一成不变的生活，努力做一个完美的好学生和好姐姐。但这就是她生活的全部吗？某天，琴子忽然决定给单调的日常增添一点色彩……她会重新回归自己的平凡人生，还是找到一个全新的自我呢？全部评测:多半好评发行日期:2024 年 3 月 16 日开 发 商: shinachiku-castella发 行 商: Kagura Games系    列: Kagura Games该产品的热门用户自定义标签：休闲 角色扮演"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/755299","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

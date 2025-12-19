@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"妈妈最终还是离开了这个家"}],["$","p",null,{"children":"办公室里空荡荡的，只有荧光灯嗡嗡作响，照得整个空间冷冰冰的。我，戴天霸，坐在妈妈郭凤琴的办公桌旁，埋头写著作业。晚自习还有半个小时才结束，学校里安静得像坟墓一样，只有远处操场上传来几声零星的狗叫。妈妈是这所职高的老师，平时管得严，我爸戴草清那王八蛋出轨后，她离婚了，现在一个人拉扯我这个初中生儿子，日子过得紧巴巴的。我低头刷着数学题，心里却有点烦躁，总觉得最近妈妈不对劲，回家总晚，眼神也躲闪。\n忽然，门口传来窸窸窣窣的声音。我抬头一看，一个瘦弱的身影在门框边探头探脑的，正是张浩然。那小子是妈妈的学生，21岁了，还在职高念书，家里穷得叮当响，父母早死，跟爷爷过。身材瘦，但听说挺有劲儿的，平时憨憨的，不爱说话。他鬼鬼祟祟地往办公室里张望，像是在找什么宝贝似的，眼睛眯成一条缝，额头冒着细汗。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ma-ma-zui-zhong-hai-shi-li-kai-le-zhe-ge-jia-IUeA","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

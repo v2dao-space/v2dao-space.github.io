@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/双端/官中】シスターと光の届かぬ森/修女与无光之森【度盘/秒传/728MB】"}],["$","p",null,{"children":"\n\n  \n\n\n\n\n\n社團名\nnikukyu \n\n\n販賣日\n2020年11月30日\n\n\n更新資訊\n2021年02月23日 \n\n\n劇本\n佐々木篠\n\n\n插畫\nしにま\n\n\n年齡指定\n\n18禁\n\n\n\n作品形式\n\n角色扮演有音樂\n\n\n\n檔案形式\n\n應用程式\n\n\n\n對應語言\n\n日文\n\n\n\n分類\n\n男主角 修女 純愛 NTR 阿黑顏 內射/中出 輪姦 異種姦\n\n\n\n\ndl链接：点我\n故事\n村庄因哥布林、兽人和所谓的亚人类的袭击而陷入危机。意识到需要大规模清理，村民们制定了一个烧毁亚人类巢穴的计划。\n然而，受国家"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/rpgshisuttonokanu-728-mb","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

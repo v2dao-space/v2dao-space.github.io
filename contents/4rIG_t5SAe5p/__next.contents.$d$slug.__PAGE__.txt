@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【AI翻译/GAL】ぶるぶる"}],["$","p",null,{"children":"妹系+灯笼裤+后宫 游戏中出现中断auto情况，为slg部分，需要touch妹妹才可以进入后续部分 至于怎么touch就需要各位在游戏中摸索一番    Story 请赐我灯笼裤……绀野家是有名的体育用品制造商。作为新企划，主人公·庵的妄想中的“终极灯笼裤”得以实现。伸缩自如有合身。根据人的特性而变化"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4rIG_t5SAe5p","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

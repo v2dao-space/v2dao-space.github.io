@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无修】FEMBOY FUTA HOUSE"}],["$","p",null,{"children":"恭喜，你已被魔法技艺学院录取！沉浸在充满魔法、激情和冒险的丰富学生生活中。结识 9 ¾ 宿舍的古怪住户，并尽可能深入了解他们…… 欢迎来到魔法技艺学院——在这里，要么成为天赋异禀的魔法奇才，要么……搬进 9¾ 号宿舍和一群奇人共度余生。 在所有入学考试中全军覆没、又被家族扫地出门之后，你的人生已经跌"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/SqirKTANaC","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

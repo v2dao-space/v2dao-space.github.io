@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"无人深空 No Man’s Sky v5.10版|集成全DLC|官方中文"}],["$","p",null,{"children":"游戏介绍 无人深空从经典科幻小说中汲取灵感，囊括了大众喜爱的冒险和天马行空等元素。呈现给玩家一个充满独特行星和生命形式的星系。游戏中危机重重，无尽的探索等着你 下载地址: 注意：本站大部分游戏文件下载好了需要修改文件后缀（压缩包的文件后缀是\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Ipn_UDT56Cs5","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/AI汉化】110 ～産婦人科 死刑囚 病院ジャック～+GPT机翻补丁+全cg存档【度盘/uc盘/936M】"}],["$","p",null,{"children":"\n\n \n  \n \n\n制作厂商：G.J?\n剧本编辑：草薙\n原画设计：佐野俊英\n主要声优：御苑生メイ、手塚りょうこ、羽高なる、星空ユメ\n发行日期：2014年02月28日\n\n故事介绍\n\n\n死刑囚・毒蝮鬼助（どくまむし きすけ）用充满肉欲，布满血丝的双眼在住宅区里物色着猎物。\n强暴，强暴抢劫，入侵私宅，强暴"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/WsWwj79kNYus","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

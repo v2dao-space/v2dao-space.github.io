@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[越山弱衰] 艶事に染まる 艷事染惑[中国翻訳] [DL版]"}],["$","p",null,{"children":"  \n  \n  \n  \n  \n\n\n\n\n並非妻子、亦不是母親、更遑論女友。純粹身為雌性、墮落沉淪的喜悅。\n女人沉溺於本能欲望而主動扭腰擺臀、將雄性的滋味烙印在子宮、初次露出雌性的表情\n為了男友被輕浮渣男擁抱的女友…墮落成為洩欲用道具賢淑的義母…屈服於雄性被強奪睡走憧憬的女師傅…與義兄簽訂性契約無奈墮落"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/tCQ8-C-8qQXJ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

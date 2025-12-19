@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D/生肉/动态】いたずらっ娘 ～うちの娘にかぎって～（DLC patch1.01）"}],["$","p",null,{"children":"前言考古定义：20-24 现代物品    15-19 近代产物    10-14 中古文物    05-09 上古文物    00-04 远古文物   00之前  太古文物本期分享一部来自Real的3D“鬼父”游戏本作ADV部分会与女儿们进行实时联动，看到儿女们的各种表情，也可以选择服装给女儿们进行打扮毕竟是老物偶尔抽风那么一下下要原谅，无其他修正补丁安装教程：游戏附DLC patch1.01补丁，补丁在根目录里                 点击IHS.exe进行安装（非中文路径），直接点击"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/764498","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

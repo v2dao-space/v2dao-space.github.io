@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】-ローグライトRPG- 霧中ノ塔【1.9G/百度】"}],["$","p",null,{"children":"  \n剧情概要：\n这是一个剑与魔法的世界。\n这个世界有四个太阳照耀着，人们在得到它们的恩惠下，勇敢地生活着，尽管屡次面临着像魔物等威胁。\n然而有一天，其中一个太阳被暴风雨和雾气笼罩的魔法海域中的巨塔所包围，沉没了，再也无法升起。\n受到这个太阳恩惠的地区被黑暗所笼罩，气温下降，环境逐渐恶化。\n许多人自"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ueGT9OOvBRJA","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

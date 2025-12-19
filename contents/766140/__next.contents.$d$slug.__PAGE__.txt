@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购/MMD/有码】イリヤちゃん3P（2D/VR）"}],["$","p",null,{"children":"商品页往前翻的第一件  明显可以看出和上一篇发的有差距 穿模更明显一些 码也大的有些离谱（成长弧线出现了！）这篇打包完才发现投稿里面好像还有赞助的追加音声版（直接写出了更实用）累了 有点懒得再重新整 这部就算了买后续作品的时候我再看看投稿里面 把一部的版本补齐打包吧  作者主页：ちっぱいMMDファンクラブ (ちっぱいMMD)｜ファンティア[Fantia]度盘炸了随缘补"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/766140","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

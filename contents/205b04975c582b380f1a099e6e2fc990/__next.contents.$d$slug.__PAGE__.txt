@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"幸存者少女/Survivor Girls"}],["$","p",null,{"children":"游戏简介：《幸存者少女》是一款美少女类幸存者游戏，在传统的幸存者游戏上增加了多种策略路径，多达13名不同的角色+上百种的武器和物品给本作带来了更多的可能性。入正地址 (https://store.steampowered.com/app/2679200/Survivor_Girls/)分享文件：127 幸存者链接：https://pan.xunlei.com/s/VNuloIV6vd_u6cKSAyx2qKqEA1#提取码：zupw"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/205b04975c582b380f1a099e6e2fc990","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

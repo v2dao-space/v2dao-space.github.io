@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"再世情仇"}],["$","p",null,{"children":"《伊底帕斯之镜》（又称《再世情仇》）可以称得上乱文中的精品，虽然作品的年代发表比较早，但已经深刻得体现出了秦守独特行文的风格。一般的乱文无外乎是描写一种突破禁忌的快感，看得多难免会有审美疲劳之感，而且也未必会去探究作品背后隐藏的韵味（或者很多乱文本身只是为性而性）。而《伊底帕斯之镜》则不然，作品不仅给读者带来突破禁忌的快感，而且细细品味之下，则会发现作者对文章的布局相当巧妙，其中之一就在于秦守没有按照一般的乱文思路来写，而是精心挖了个坑，全文就围绕着这个坑来填。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/WAEAk_3sJM","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

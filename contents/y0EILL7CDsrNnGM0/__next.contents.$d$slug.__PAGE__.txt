@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D游戏/ACT/官中】SWORD x HIME v1.11.1 / 百鬼夜行 剑姬无双 【度盘/8.4G】"}],["$","p",null,{"children":"这个之前看大佬有在站里发布过，但惨遭和谐，秒传也陷入停摆，那就来补个档ლ(´ڡ`ლ) 记得看文章末尾解压教程 简单介绍 这是一款由[ 赤いトンボ ]社团出品的大型ARPG游戏 社团技术丰富，之前也有作品 游戏简介 超过100种怪物与500种以上色情场景。总H场景数达950张！包含旧作《剑姬百鬼夜行》"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/y0EILL7CDsrNnGM0","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

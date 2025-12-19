@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"成龙记"}],["$","p",null,{"children":"主要讲述了红莲教妖言惑众，贤王周义为破除其假像，出兵铲除其分坛，擒住使者秋菊。为了问出更多的秘密以绝其教派，周义毫不软手地施出残酷手段对付秋菊。表面上顺应皇心，勤俭节欲的生活，其实不过是个表象，压抑在强健身躯里的欲火，在眼前擒拿的红莲妖女前，也无须隐瞒…边陲色毒生乱，在受命出兵之前，却是有一行人先周义而至。色毒公主安莎自信其美色无双，绝能说动周义不发兵。眼前美人计风火般袭来，周义是否能顺利完成平定色毒的任务？一步步踏上成龙之路…"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/SguJpOLTg3","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

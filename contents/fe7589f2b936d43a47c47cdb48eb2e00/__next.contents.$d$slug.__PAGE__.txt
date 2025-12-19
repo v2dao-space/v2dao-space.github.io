@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】上司育成的全记录/マル秘 冴えない上司育成の全記録 PC[1G/百度]"}],["$","p",null,{"children":"[RPG/机翻]上司育成的全记录/マル秘 冴えない上司育成の全記録 PC[1G/百度]入正：【10%OFF】マル秘 冴えない上司育成の全記録 [ピルメニコン] | DLsite 同人 – R18社团名ピルメニコン 贩卖日2024年04月06日声优鳴森りいあ年龄指定R18作品类型模拟有声音有音乐文件形式软件支持的语言日文分类特殊癖好/变态 OL 自慰 SM 教育 放尿/小便 巨乳/爆乳 丰满文件容量377.09MB游戏介绍：这个游戏的主人公是一位名叫Satomi的女性，她抛弃了朋友、恋爱和兴趣，将"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/fe7589f2b936d43a47c47cdb48eb2e00","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

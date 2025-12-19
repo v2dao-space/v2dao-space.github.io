@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/生肉/PC】执圣官阿尔特西亚 ─ 黄金的沙弗里瓦尔 ─/執聖官アルテシア ─ 黄金のシャフリーヴァル ─"}],["$","p",null,{"children":"所发布资源不得用于商业盈利，否则产生的一切后果将由您自己承担！制作介绍（#F142）  社团名シコリーター三世 贩卖日2024年07月21日 0点系列名シコシコサーガ作者シコリーター三世剧情シコリーター三世插画シコリーター三世年龄指定18禁作品类型角色扮演有声音有音乐文件形式软件支持的语言日文分类女主人公 胸部/奶子 淫语 卖春/援交 高潮脸/阿黑颜 淫乱 哦吼淫叫 乳头/乳晕文件容量1.6GB配置要求グラフィック: OpenGL 4.4以上が動作するグラフィックボード ストレージ: 8 GB "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ebcfcf9d6b0a8e040e3e852809b1c91f","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

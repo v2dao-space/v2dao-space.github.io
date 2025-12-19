@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RJ01323392][みなづき茶房] ゆりっ娘ぐらし (JP, R18 Censored)"}],["$","p",null,{"children":"“嘿，我可以一起去吗？”“什么？！那样会很无聊的。”主角（双性人）和女主角（女性）在乡下过着悠闲的生活，仅此而已。像素动漫H x 农场模拟！该游戏在侧视地图和俯视地图之间切换。H 场景使用侧视地图上的像素动画来描绘。精心手绘的地图也不容错过！俯视地图是一款真正的农场模拟游戏。它是一个沙盒，您可以在其"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/QNZUzN9JfR7t","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

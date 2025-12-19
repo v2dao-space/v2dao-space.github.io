@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/PC/安卓Joi】绯月仙行录/绯色修仙录 v0.54A【更新】"}],["$","p",null,{"children":"【RPG/PC/安卓Joi】绯月仙行录/绯色修仙录 v0.54A【更新】 这是由 [蓝月虫]制作组出品的国人自制的超高质量古风RPG游戏 游戏采用了非常少见的玄幻仙侠题材，十分与众不同 非常精细的2D手绘制作，女主的气质真的非常惊艳 游戏性"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/03416eac92b0593f1b25ce8552316296","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

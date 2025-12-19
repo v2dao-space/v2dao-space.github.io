@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】 魔法少女るなとななみ-悪の遺伝子を孕まされる母娘-ver1.0.23 含存档【度盘/1.67G】"}],["$","p",null,{"children":"【RJ01467184】魔法少女るなとななみ-悪の遺伝子を孕まされる母娘-ver1.0.23含存档  入正链接: https://www.dlsite.com/maniax/work/=/product_id/RJ01467184.html 作品信息:      社团名 溺水船リリオン       "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/rpg-ai-han-hua-mo-fa-shao-nv-runatonanami-e-no-yi-yun-zi-wo-yun-masareru-mu--Vjn","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

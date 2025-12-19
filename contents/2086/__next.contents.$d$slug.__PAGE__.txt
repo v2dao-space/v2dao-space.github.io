@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[沙盒SLG/汉化/动态]支配女巫DominantWitches-0.8.5 汉化版[安卓][4.1G]"}],["$","p",null,{"children":"支配女巫DominantWitches-0.8.5汉化版[PC+安卓]Dominant Witches [v0.8.5] [NikociantGames]\n\n\n\n这是一款由[NikociantGames]制作的已调教为主的亚洲风SLG游戏这个游戏算是H类型比较全的了，类型太多了！正常男女、女女、调教、喝尿、舔O、舔菊、乳交、肛交、扶她、伪娘这里就不再列举了！反正你能想到的，这里基本都有！也可以关闭"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2086","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

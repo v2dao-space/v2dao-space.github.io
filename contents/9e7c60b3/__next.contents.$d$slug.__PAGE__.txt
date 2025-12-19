@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中无修】Night Bloom [v0.353]"}],["$","p",null,{"children":"概述： 这是一个平常的夜晚，突然间教室外传来一声刺耳的尖叫。女主角担心男友的安危，走出去查看，却落入恶魔的陷阱，最终丧命。然而，当闹钟再次响起时，女主角毫发无伤。这是时间的循环，还是一个蓄意已久的陷阱在等待着她……      ↓开发中的牙膏 作者支援地址↓SSDog | 正在创作 18X RPG游戏 Creating 18X RPG game | Patreon 提取码"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/9e7c60b3","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

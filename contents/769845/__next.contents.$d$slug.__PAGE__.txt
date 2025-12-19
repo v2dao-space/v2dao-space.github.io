@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[日吉ハナ] 廻夜のケモノ廻夜的人外神 [中国翻訳] [DL版]"}],["$","p",null,{"children":"汝已然成為妾身的俘虜[所有物]——極流麗繪師、眾所期待的最新作超越時代與場所的異常存在——其之誘惑[美姿]——盡皆妖豔、傾刻狂悅——全新單行本繪稿&全篇大幅加筆修正230P!!【未來數位發行】 bookwalker：d我有爱自取"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/769845","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

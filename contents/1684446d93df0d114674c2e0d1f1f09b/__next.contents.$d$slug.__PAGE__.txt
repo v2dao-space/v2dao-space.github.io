@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【日式RPG/汉化/PC+安卓】公主的反击！精翻汉化作弊版"}],["$","p",null,{"children":"<p>感谢SSTM汉化组带来的高质量汉化RPG游戏： 公主的反击：PRINCESS GO ROUND 精修汉化作弊版【PC+安卓】+全CG存档 内容包括游戏本体【PC+安卓】+自带攻略+作弊神器（PC+安卓都是作弊版）+全CG回想。 安卓版破解全</p>"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1684446d93df0d114674c2e0d1f1f09b","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

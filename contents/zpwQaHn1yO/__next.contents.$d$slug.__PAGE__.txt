@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"血雨沁芳"}],["$","p",null,{"children":"如意楼系列的新连载，血雨沁芳，正式与大家“江湖再见”了。\n此次是为了韩小贼而先发的广告更。之后还是会周六定期与大家见面。\n关于这个开头略写过去的部分，不是因为我转性了或者是节约字数，而是那个场面更适合在一代大侠那本里细写。\n如影逐形时主次不分按照癖好任性胡来的毛病，我正在努力改掉XD\n总之，如意楼鼎盛时期的双雄，另一位就此登场。\n故事的风格会随主角的变化而和暮霭、窃玉稍微有些不同。\n希望大家喜欢。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/zpwQaHn1yO","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D/无码】Lazysoba至今视频合集及Japs8005中的教程补充"}],["$","p",null,{"children":"作者红P被封了，23年后半段是去推上扒的。没有泥哥差分。通知：度盘和樱盒都要下，樱盒请挂梯子用idm工具，下完之后放到同一个文件夹按教程进行解压。觉得自己很牛凭感觉去解压又失败的，能不能好好看看我的教程？这是一个文件经过bandizip的7z和zip分卷压缩之后的分卷格式，某些人用的某些软件可能缺少分卷也能解压导致其坚信光靠一个盘就能完成。 真有问题我也不能隔空就诊，请加频道提供截图，没截图不管。  如你所见有图标的是压缩分卷的启动解压的文件，樱盒里的一般是XXX.ZIP.PNG,也就是zip分"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/729366","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

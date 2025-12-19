@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D游戏/TPS/生肉】《SecretSurvey 秘密调查》最终支持者版【度盘/2.4G】"}],["$","p",null,{"children":"使用说明  已经用7zip打包成自解压程序 此为DL最终支持者的测试版本，22年7月12日更新的最后一个版本 游戏还没有发售，以后也不会发售 这是DL预览版的链接（作者介绍很详细 可以直接去官网点翻译看）：SecretSurvey [SaltBake] 预告作品 | DLsite 同人 – R18 "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/WgaR_cA7rc4bJf63","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

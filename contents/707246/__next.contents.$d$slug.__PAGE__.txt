@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/生肉】VS 寝たふりシスター"}],["$","p",null,{"children":"社团名 星屑ガレージ  关注46 贩卖日 2023年07月23日 0点 作者 y4k0 年龄指定 18禁 作品类型 模拟有声音 文件形式 软件 支持的语言 日文 分类 触摸 像素 萝莉 妹妹 亲热/甜蜜 同居 睡眠奸 调教 文件容量 70.15MB 寝たふり妹いたずらシミュレーター 近親+睡姦風のおさわりコマンド風+同棲シミュレーション風ゲーム風ゲームです。普段は仲の冷え切った兄妹が夜になると欲望に負けてあれやこれやする日常を体験します。 全12コマンド+メイン8(差分x5)パターン アニメーシ"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/707246","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

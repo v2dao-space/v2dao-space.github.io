@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/汉化/安卓】BFブレイブ/BF勇者 完整汉化版 【162M】"}],["$","p",null,{"children":"游戏介绍类似ROBF世界观和玩法的冒险RPG游戏。  内容介绍国王附近出现了魔物，许多商人和居民被魔化或者杀死。主角本是一个普通居民但父亲生病需要草药。为了救治父亲主角来到王国学习了打败魔物的方法。在一次一次拯救了被魔化的人见到了元凶。  游戏帮助游戏特色的战斗系统，对战的时候血量消失不会死亡，但会消耗你的蓝条也就是精力精力没有了会筋疲力尽导致死亡，每个敌人都有弱点需要你发现要注意更新装备不然你的伙伴没法对新的敌人造成伤害（一定要用商店新的装备！！）  入正https://www.dlsite."}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/773878","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

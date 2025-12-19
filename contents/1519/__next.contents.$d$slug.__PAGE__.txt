@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[拔作ADV/汉化] 最凶暴的魔王大人女体化1.2.5 汉化版 [PC+安卓/1.2G/新作]"}],["$","p",null,{"children":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n最凶暴的魔王大人女体化1.2.5 汉化版 PC+安卓\n\n\n\n[游戏介绍]：\n\n\n\n最凶暴的魔王大人女体化讲述了曾经最最恐怖的魔王，\n\n\n\n用残暴手段支配世界百年的魔界之王贝鲁法露特因为某种奇怪的原因，变成了女人。\n\n\n\n我们主角的另类征服计划就从此开始。\n\n\n\n我告诉你!我可是男人中的男人!无可争议的魔界之王!贝鲁法露特!你!不许再用看女人的眼神看着我!!!"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1519","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

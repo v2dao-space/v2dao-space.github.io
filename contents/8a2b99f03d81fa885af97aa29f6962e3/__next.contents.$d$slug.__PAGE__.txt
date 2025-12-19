@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG/PC电脑/安卓] 我的乡村生活 / 我的乡村日常生活  V0.3.0"}],["$","p",null,{"children":"你叫卡勒姆，某个暑假里面，你回到了小时候一直住着的农场里面。跟着姨妈黛西一起居住，她是个超级性感淑女~而且对你完全不设防~当然还有你的表妹~可爱的安娜！在跟这对母女同居的日子里面，会发生一些什么样奇怪的事情呢？不要忘了，村子里还有一些需要人怜爱的女人们在等着你哦~"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/8a2b99f03d81fa885af97aa29f6962e3","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

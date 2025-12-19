@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"地下城4 v1.7.3（Dungeons 4）官方中文版"}],["$","p",null,{"children":"游戏介绍 曾几何时，在一个非常遥远的国度，一切都是那么的郁郁葱葱。独角兽的身影经常出现在森林之中，精灵和人类也与周围的环境和谐相处。 然而在树林中一片若隐若现的空地边缘，有一座饱经风霜的小屋。这座屋子散发出的阵阵迷雾将这片土地笼罩在阴森朦胧\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/oT_nHPmCQSnN","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

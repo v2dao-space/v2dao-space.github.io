@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/官中&amp;生肉】クリミナルボーダー 四部曲【度盘/OD/15.33G】"}],["$","p",null,{"children":"大家的踊跃支持让厂商看到了支持中文的必要性，已经有许多自带官中游戏在steam上发售，只要大家继续购买正版中文版，以后肯定有更多的官中游戏，以后就不再仅仅依赖汉化组慢慢地开坑填坑，我们也不再需要苦等汉化。   你那几十块一百块买来的不仅仅只是这个游戏的价值，是整个游戏业界的改变！购买正版游戏的钱能够回流到制作公司，对制作公司的下一部作品有非常积极的鼓励作用。同时能引起大量日本厂商对中文圈子的重视，让更多游戏厂商知道出官方中文的重要性。   现在游戏业界正由以前民间自主汉化往官中汉化转变的阶段，只"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/652726","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

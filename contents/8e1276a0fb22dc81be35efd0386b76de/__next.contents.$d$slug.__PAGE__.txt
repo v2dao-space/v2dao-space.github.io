@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/PC]害羞女孩的改造 (Shy Girl's Makeover)"}],["$","p",null,{"children":"中岛健太是一名普通的大学生，性格沉稳安静，在班上并不引人注目，但有一个亲密的朋友：皆见彩夏。彩夏的性格与他很像，她冷静而害羞，而且她和他一样喜欢玩电子游戏。由于共同的爱好，两人的关系越来越亲密。 健太甚至在大学期间转课并和绫香在一起。 他们作为游戏伙伴一起度过了快乐的日子，尽管他们都无法跨越界限并坦白对彼此的真实感情。有一天，这对幸福的朋友听到了熟悉而欢快的声音：受欢迎的体育生五十岚翔接近彩夏。三个学生的爱情：健太和彩夏开始了新的人生道路。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/8e1276a0fb22dc81be35efd0386b76de","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

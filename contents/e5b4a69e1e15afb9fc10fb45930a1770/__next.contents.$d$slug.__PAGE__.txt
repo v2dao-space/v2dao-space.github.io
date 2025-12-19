@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC/安卓RPG游戏] 【绿帽RPG/汉化】Fantasia～堕落的青梅竹马风俗诗～AI最新汉化版+全回想"}],["$","p",null,{"children":"這是壹個關于青梅竹馬墮落的故事。主人公右太有壹個青梅竹馬，她叫青葉奏，是住在附近的女孩子……他們從幼年時期開始就相互喜歡，但由于彼此家庭的情況，他們變成了異地戀情。多年過去了。成年後，兩人終于再次相遇，而停滯不前的時鍾瞬間加速，開始運轉起來。爲了抓住幸福，他們努力縮短彼此的距離，然而，通往幸福的道路卻成了無法實現的願望……"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/e5b4a69e1e15afb9fc10fb45930a1770","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

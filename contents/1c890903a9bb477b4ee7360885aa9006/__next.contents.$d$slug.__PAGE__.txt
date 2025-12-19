@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/PC安卓】Lost Life 迷途的羔羊/迷失的生命ver1.52【互动/萝莉】"}],["$","p",null,{"children":"这是由[Mister Gatito]创作的一款2D形式全动态+CV语音Flash游戏。简单来说，这是一款和小妹子互动并采取各种猥琐行为的游戏。你需要通过放涩涩的东西到电视给妹子看，然后，咳咳咳，继而关爱妹子的后花园...和妹子培养感情，一步一步攻陷与获得小妹的内心！你也需要多一点耐心，别一个不小心把妹子玩坏了，她也许会一口咬断你的大雕！如果左上角心标志碎裂，则意味着你已经GAME OVER！不过嘛，里面也附带了攻略就好办多啦！游戏全程社保的动态语音，一开始能做的动作很所限度~但随妹子的好感度提升，越到后面就可以随便地进行各种嘿嘿啦！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1c890903a9bb477b4ee7360885aa9006","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

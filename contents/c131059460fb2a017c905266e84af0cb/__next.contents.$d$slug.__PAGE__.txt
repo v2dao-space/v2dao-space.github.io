@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【同人图集/无修正】 カワセセイキ 作品合集  2G"}],["$","p",null,{"children":"这个作者画了很多直叶，很对我胃口。每张图都很精细，画的很顶，就是更新的太少了。有余钱的话，可以去支持一下。少部分图片没有，因为对不上XP所以没有下载。话说一张张点进去下载，属实太难搞了，大伙都是这样下载的吗？点进去然后点原始尺寸，然后保存。少部分直接给你压缩包，不得不说初次看到的时候确实惊艳。另外，图片建议按照时间排列，不然会有点乱。涩的部分，懂的都懂，第一张正经，后面全是各种涩涩。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/c131059460fb2a017c905266e84af0cb","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

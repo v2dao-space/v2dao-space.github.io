@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】College Fantasy DEMO"}],["$","p",null,{"children":"\n《校园幻想》的故事发生在一所私立大学校园，可以在这个大学城中耕种、捕鱼、烹饪、探索、解密、收集等等，最重要的是你会遇到各式各样的女孩，与她们一起度过愉快的大学时光。另外你还需要解密一个发生在这座校园的神秘事件，调查自己的身世之谜。\n报考大学失败的你突然收到了“三叶私立学院”的入学通知书…\n并且还附"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/VftzYOEXNSWb","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

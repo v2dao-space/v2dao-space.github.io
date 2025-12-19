@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"圣痕的亚莉亚"}],["$","p",null,{"children":"游戏简介：由于淫魔的诅咒，会让性欲失控并且最终化为魔物的「淫魔病」蔓延了开来。唯一能拯救病患的人是，由教会选出专门对抗淫魔病的修女，称为「淫魔祓士」。女主角亚莉亚，在幼年时被感染者袭击，幸亏在千钧一发之际，被前任淫魔祓士所救，才免于受到侵害。十年后，为了拯救人们，成长过后的亚莉亚决定成为新一任的淫魔"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/yjV6G1rHVFdy","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

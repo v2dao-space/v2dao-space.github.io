@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【里番/ai汉化/ai去码/480p/45fps】【メリー・ジェーン】ちょろ・めす・でいず 第1話 デカパイ義妹、襲来【度盘/375MB】"}],["$","p",null,{"children":"这个是最近的新番金发大奶妹妹可爱捏，动作也挺流畅我还挺喜欢的，网上的能找到的资源只有480p（感觉200买一个10几分钟的番有点消费不起捏），我用ai语音识别跑了个了字幕（我属于会认不会听，ai能跑出正确原文我就能翻译，很明显这跑的很拉跨），同时拿其他朋友推荐给我的新的ai去码软件弄了个去码版（这个"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/li-fan-ai-han-hua-ai-qu-ma-480p-45fps-merii-jeen-choro-mesu-deizu-di-1-hua-5hsv","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

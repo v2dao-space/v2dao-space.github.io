@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D/生肉】 時止めストリート～時間停止でヤリ放題!?～ 【3.8G/度盘】"}],["$","p",null,{"children":"  \n◆◆◆舞台◆◆◆\n本作是一款可以在自由移动的开放世界中进行攻略和探索的3D游戏，同时还能与女孩们交流，并利用时间停止来做一些色色的事情。\n有30位可攻略角色，她们每个人都有不同的身高和体型，拥有丰富的多样性，相信你一定能找到自己喜欢的角色！\n此外，超过90个的色情场景中，不仅有乳摇，还有“屁股"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/EIvMkQjLwv_F","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/双端】戦士ヒースと変態鍛冶師【双端/600M/百度】"}],["$","p",null,{"children":"  \n为女战士希斯装扮，帮助她踏上冒险之旅！\n女战士希斯因为有可怕的眼睛和尾鳍的传言，即使进入城市也无法正常购物。\n有一天，希斯在小镇郊区遇见了你，远离尘世，沉浸在铁匠生涯中。主角让希斯答应用自己的作品来换取制作铠甲。\n\n\n\n社团名\nえるぶ \n\n\n\n入正：https://www.dlsite.com"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/5d6bLv9ZvrUD","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

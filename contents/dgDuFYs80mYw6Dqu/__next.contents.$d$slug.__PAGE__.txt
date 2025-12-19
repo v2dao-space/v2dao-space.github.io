@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【MMD/无修正】只因你太美 作品合集 1080P 至25.7.18 【百度/7G】"}],["$","p",null,{"children":"别笑，人家就叫这个，恋活作者https://www.fanbox.cc/@twohalfyear，真正の艺术家大家好，我是個練習兩天半的個人戀活練習生，接下來會放一些日常練習作品。 想看甚麼角色或是有什麼修改建議都可以留言。作者的自我介绍是这样的，大家觉得好的话可以去打个赏，谢谢喵，为啥预览爆浆，别"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/dgDuFYs80mYw6Dqu","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[神作SLG/动态] 深度复兴 Depth’s Revival 2 [Ep.2] 汉化版 赞助版 [PC+安卓1.40G]"}],["$","p",null,{"children":"[神作SLG/动态] 深度复兴 Depth’s Revival 2 [Ep.2] 汉化版 赞助版 [PC+安卓1.40G] 概述 你将扮演一名唤醒潜意识以改变生活的大学生。 在潜意识的帮助下，他可以成为自己一直想成为的人。 游戏本身侧重于浪\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/shen-zuo-slg-dong-tai-shen-du-fu-xing-depth-s-revival-2-ep-2-han-hua-ban-zan-zhu-NZKD","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

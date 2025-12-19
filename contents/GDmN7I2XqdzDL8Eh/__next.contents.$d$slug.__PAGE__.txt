@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化同人本/新汉化】2025.8.4 73本"}],["$","p",null,{"children":"(C104) [白魚京] 澄闪遭水月触手强制○卵植入漫画 [Chinese] [XueHuKING个人自购AI汉化自嵌](C106) [蒼き星 (全白)] 紅蓮燦爛 (勝利の女神 NIKKE) [386歪汉化](砲雷撃戦!よーい!二十三戦目!) [Imitation Moon (成海優)] 装甲空母"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/GDmN7I2XqdzDL8Eh","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

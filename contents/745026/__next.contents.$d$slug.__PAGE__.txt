@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/补档/步兵/全CG存档/あせろら】魔導士ティアと不思議な大図書館～Hな鑑定と恥療で世界を救う淫乱魔導士～"}],["$","p",null,{"children":"应邀补档，官中，带有全CG存档以及步兵补丁，游戏本身也是有配音的大作，可以说是要素齐全了 作品内容※回想モードの全開放セーブデータを同梱しました!※現在のバージョンは【1.07】です。●ストーリー:魔法が当たり前のように普及する世界でのおはなし。偉大なる魔導士の末裔である双子「ティア」と「ルミエール」は、辺境の街アルメリアで自ら立ち上げた診療所を営んでいた。いつものように診療所での仕事をこなしつつ、双子で仲良くご飯を食べている時、地下から異音が。地下は先祖が過去に使用した魔導書を保管している書庫"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/745026","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

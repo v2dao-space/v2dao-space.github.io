@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/生肉/动态】 我的电羊女仆梦 My Maid Dreams of Electric Sheep v0.4.8【PC】"}],["$","p",null,{"children":"只有PC电脑版本，没有翻译\n只有PC电脑版本，没有翻译\n只有PC电脑版本，没有翻译\n——\n该游戏并没有做完，内容有限。\n——\n英文苦手要搭配截图翻译（百度翻译之类的软件）或者实时翻译软件（不知道哪搞去B站搜实时翻译）\n——\n第一次游戏在设置里找到SKIP打开第一项Unseen Text开启加速功能，但是一部分需要点击的场景如H部分记得不要按CTRL加速否则会卡UI（点H UI最下面的退出就可以解决，不影响游戏）\n——\n跟商店看板娘的H可以按CTRL加速右上角的条\n——\n卡关的时候查看左上角  ？"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/slg-sheng-rou-dong-tai-wo-de-dian-yangnpu-meng-my-maid-dreams-of-electric-sheepv0-4-8-pc","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/中文] 一个未被兑现的承诺-阿雅版 A Promise Best Left Unkept - Aya V0.6.0 PC+安卓中文版"}],["$","p",null,{"children":"游戏介绍：在一年前对女友的承诺的推动下，哈里终于在他追求成功的道路上取得了巨大的突破，为他的公司赢得了一笔大交易，从而为他不可避免的升职奠定了基础。但他没有预见到的是，他不可动摇的决心的副产品会无意中邀请一个不受欢迎的存在进入他的生活。转包公司的代表，他高中时的老同学。阿雅版本是《阿雅未兑现的承诺》"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/27rR1pjDO_Gb","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

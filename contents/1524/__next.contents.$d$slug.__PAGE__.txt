@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/大作/汉化/像素】勇者大战魔物娘！输给魔物娘就会被侵犯！全三章整合汉化版 【4.3G】"}],["$","p",null,{"children":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n【游戏介绍】：\n\n\n\n三十年之前，人与魔物之间虽有矛盾，但还能保持和平相处的状态。\n\n\n\n然而，就在那个时候，离魔王城最近的莱米纳城竟然发生了虐杀事件，\n\n\n\n据称是魔物群突袭城市，全城化为废墟，无人生还。\n\n\n\n自此，人类和魔物基本进入了敌对关系，不过世界上仍有少数地方有着人魔共存的情况。\n\n\n\n在伊莉娅丝村中的新人（伪）勇者、我们的主人公，鲁卡\n\n\n\n抱着要实现"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1524","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

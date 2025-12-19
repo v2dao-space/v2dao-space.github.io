@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[Hamao] わたあめとカラメル 棉花糖和焦糖 [中国翻訳] [無修正] [DL版]"}],["$","p",null,{"children":"想要像孩子般撒嬌的女子，想要成為成熟大人的女孩，想要被寵溺在愛情之中，然後毫無保留地輕薄衣衫獻出全部的自我♥ 「很自然地…就會叫出聲……」 ──初體驗的雙馬尾制服少女 「吃完飯就解散，我覺得好寂寞……」 ──毒舌同期的精英王牌OL 「挑這時機點講嘛你……」 ──與男友默默待在無人家中的女子 「好囉♥"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4o_qG5V7g82J5Ulr","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

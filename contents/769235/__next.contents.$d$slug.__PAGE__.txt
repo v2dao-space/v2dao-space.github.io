@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化同人本/新汉化】2024.5.21 43本"}],["$","p",null,{"children":"(C101) [ゆーき乳業 (悠木しん)] 夜空に輝く灯火 (ゼノブレイド2) [禁漫汉化组, Annoy个人嵌字] [無修正] [v2](C102) [H.B.A (うさぎなごむ)] 悠久の エルフ5 「夢幻」後編 [不咕鸟汉化组] [个人重嵌] [無修正](C103) [Cat FooD (なぱた)] シオリっぽいの! (プリンセスコネクト!Re_Dive) [blacksun30：有没有一种可能不脱袜子是作者不想画脚趾头](C103) [踏月 (えろつき)] 搾乳快楽幻想狂 (東方Proj"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/769235","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

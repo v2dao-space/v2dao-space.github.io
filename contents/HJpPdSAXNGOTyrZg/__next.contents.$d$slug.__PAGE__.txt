@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【PC/安卓模拟/SLG】欢迎来到南方岛:孕育之岛 Ver1.10 精翻汉化版+日系SLG游戏+1.67G"}],["$","p",null,{"children":"欢迎来到南方岛:孕育之岛 Ver1.10 精翻汉化版+日系SLG游戏+1.67G   游戏介绍： 《欢迎来到南方岛：孕育之岛》是一款独特的日系岛屿开发恋爱模拟SLG游戏。 玩家将沉浸在一个充满异域风情的岛屿世界中，肩负起让它重现活\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/HJpPdSAXNGOTyrZg","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

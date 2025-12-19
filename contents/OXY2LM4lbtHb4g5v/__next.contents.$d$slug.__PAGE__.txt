@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[にこびぃ] はじらいラブレンジ [中国翻訳] [無修正]"}],["$","p",null,{"children":"作品内容:(下面内容为机翻) 极度弹跳的胸部压迫感！！！充满羞涩女主角的淫荡画面……♪OL、青梅竹马、白种女孩一旦坦诚相待，便会为爱意乱情迷！！ “说出来吧，笨蛋……” 在酒会上不小心失忆，第二天，同事OL竟然对他冷淡了！？好不容易缠上她，开始重演那晚的场景♪她也渐渐对他坦诚起来……？从同一 工作单"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/OXY2LM4lbtHb4g5v","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

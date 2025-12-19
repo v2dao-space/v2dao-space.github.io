@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】Witch Trainer: Silver Mod v1.48【度盘/1.8G】"}],["$","p",null,{"children":"入正链接：https://www.silverstudiogames.org/  22 September 2025  Silver Studio Games       概述： 从本质上讲，它是一些不同的mod和一些新内容的modpack。它添加了一些新场景，地图，场景更改，药水，定制服装和不断发"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/A8YhbDUtFY","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

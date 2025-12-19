@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【MMD/有修正】μ_MMD大佬作品 2024.01合集（2D/VR/差分）"}],["$","p",null,{"children":"惊喜来咯 还记得去年十一月我发过的VR合集吗 这位大佬回归咯  上回只做了VR的合集 这回一月份的合集把2D也一起下了 不过确实2D观感没有VR那么顶就是了2D和VR只有上面那张预览图的是同一个视频  别的都是各自的差分 没有相互的版本  2D共13个视频（含差分）打包后9.76G  VR共6个视频（含差分） 打包后3.59G  作者主页：https://www.patreon.com/mu_mmd/posts度盘炸了随缘补个人感觉如果光是2D好看还是好看的 但是不到我发的标准（毕竟没有足）然后"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/739429","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

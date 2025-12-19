@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D互动/中文/全动态】极品采花郎 V24.9.21 STEAM官方中文版+步兵【PC/9月更新】"}],["$","p",null,{"children":"【3D互动/中文/全动态】极品采花郎 STEAM官方中文版+步兵【PC】 游戏故事： 你扮演的主角穿越到了异世界的一家医馆杂役铁柱的身上。为了返回现世，你需要达成一些特殊条件。 在达成条件的过程中，你将与美女们朝夕相处一段时日。期间你会了解\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/qAt2EQqqC2z0","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/安卓+PC】[H版暗黑地牢]淫欲地牢 v1.4.4  最新官中版【更新/560M】"}],["$","p",null,{"children":"给大家整来一款好像可玩性相当不错的欧美RPG游戏 淫欲地牢 v1.4.3 安卓+PC 最新官中版 （Ero Dungeons） 这是一款由[Ero Dungeons]作者在23年10月份就开始众筹的作品 玩法就像是H版暗黑地牢，但比起暗黑地\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/3waturlT0sh7","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

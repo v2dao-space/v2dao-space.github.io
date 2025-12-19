@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【里番/熟肉/自制ai解码/1080p/35fps】【ばにぃうぉ～か～】OVA 千鶴ちゃん開発日記 ＃1-6【度盘/2.29GB】"}],["$","p",null,{"children":"开发日记系列的第三个女主的系列，我觉得是开发日记这个里番系列里面最顶的一位，因为其长度支撑了描述女主一步步堕落的过程，再加上越来越变态的玩法，其实用度我觉得是能超过前面两个女主的（制作水平都是同一规格，剧情更有意思吧），从女主最开始被哄骗然后拱了第一次到最后女主得知自己的牺牲毫无卵用彻底崩坏摆烂（女"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/li-fan-shu-rou-zi-zhi-ai-jie-ma-1080p-35fps-ha-nyiuo-ka-ova-qian-he-chan-kai-fa-y3rG","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

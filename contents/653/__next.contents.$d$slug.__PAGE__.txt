@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[日系ADV/汉化/全CV] 天降虚拟偶像 汉化硬盘版+全CG存档 [2G]"}],["$","p",null,{"children":"天降虚拟偶像 汉化硬盘版(電子処女が現れた！ コマンド!?)\n\n\n\n这是[あかべぇそふとつぅ]于2020年发布的一款ADV作品。\n\n\n\n整体质量优秀，不仅画风带劲而且剧情是真的有意思\n\n\n\n你可以体会到与可爱虚拟偶像一起生活的感觉，全程超高质量CV\n\n\n\n是一款质量极高的拔作ADV游戏，强烈推荐体验一番~\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[游戏介绍] ：\n\n\n\n在离现在稍近的未来，稍微不同的"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/653","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

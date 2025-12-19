@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【步兵RPG/安卓模拟+PC】露娜莉亚幻想曲 V1.01 官方中文步兵版+存档【新作/1.5G】"}],["$","p",null,{"children":"露娜莉亚幻想曲 V1.01 官方中文步兵版+存档 （LunariaFantasia） 游戏介绍： 露娜莉亚——萨吉塔里兹的宫廷法师——与同伴们被派往调查古老的遗迹。 然而这个看似简单的任务却困难重重。 遗迹中满是怪物，并且出现了夺取她与同伴\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/qd9JCqQpLI8eh71x","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

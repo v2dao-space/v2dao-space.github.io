@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/ADV】Lowすぺっく!? ～オレと年下妹とせいきょーいく！～"}],["$","p",null,{"children":"2024.6.27更新1、sakura机翻补丁，根据翻译补丁上传者所述，更新后的补丁减少了出错问题2、新上传的免认证能成功避开首次运行挂载光驱机制，自己实测可行3、内附保姆级安装说明  Story「お兄、なんであたしの胸さわってんの？？」『そ、それは……』「志藤がくしゅう塾」の代表代行としてそこに通う生徒の保護者役割を果たしている主人公、志藤玲児。妹の志藤李衣菜を筆頭に、同級生や仲良し姉妹たちを預かり「お兄ちゃん」として接しているうちに、可愛くて日を追うごとにだんだんと女の子らしくなっていく発達"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/cca11d14f05a1209ff2bd81236156710","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/官中】异世界丧尸前线 ISEKAI FRONTLINE V1.32 DLC PC[7.9G/百度]"}],["$","p",null,{"children":"[ACT/官中]异世界丧尸前线 ISEKAI FRONTLINE V1.32 DLC PC[7.9G/百度]入正：Steam 上的 ISEKAI FRONTLINE (steampowered.com)你是这个僵尸末日世界里唯一的“家伙”！与无尽的僵尸大军战斗，与可爱的女孩玩得开心！关于这款游戏你是这世界中唯一的男人。其余的男性皆遭病毒毒手，化为丧尸。而女性持械而出，与丧尸搏斗求生。汝可在此末世幸存耶？我们的游戏是一款肉鸽射击游戏！你可以与你的旅伴发生一些有趣的互动。此外，你可以捕获那些强而有力"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/6db10d97bee15f893abbff3685f62e5c","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

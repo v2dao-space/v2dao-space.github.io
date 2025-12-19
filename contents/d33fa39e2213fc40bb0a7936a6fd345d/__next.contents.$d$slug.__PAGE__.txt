@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【同人音声/官方简中】【RJ01229347】 纯真小○担当After&Plus  青春×フェティシズム（完整版+单音声版+单特典版）【度盘】"}],["$","p",null,{"children":"■女主角介绍  她是班长,很受大家欢迎。这样的她被任命为小○担当,真是头疼。你抢在班上的男生之前,请求她成为你专属担当。结果,认真但喜欢照顾别人,又容易被热情和强势所打动的她,成为了你独一无二的担当。和她组成学校公认的小○关系。非常色情,但又酸甜的,只有一次的色情青春。这是它的续集。■讲究的要点在这里!  不仅仅有纯真After,还有其他担当们可以一起满足你♪正式成为她的专属担当的你。我们将为您提供更多青春×恩爱淫荡的学校性生活。此外,还额外“增加”了纯爱和纯情的追加剧情♪无论是对纯真的续集感兴"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/d33fa39e2213fc40bb0a7936a6fd345d","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

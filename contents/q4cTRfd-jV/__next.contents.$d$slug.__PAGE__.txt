@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"无齿僵尸"}],["$","p",null,{"children":"在这个陌生的世界，落魄的他何去何从？\n昔日的僵尸大神，随着偶然的破碎虚空来到了一个陌生的世界。第一时间，他就喜欢上这个充满暴力、金钱、美色的世界，憧憬在这里过一个崭新的人生……\n遗憾的是，霉运随着他的破碎虚空也降临到他的头上，本以为会享受娇媚肉体，采补纯阴女体的精纯阴气，却因为一时大意，遭遇菜鸟美女的逆袭，被敲掉了两颗獠牙。僵尸最重要的獠牙被敲掉，就意味着能量骤降，大神级的人物沦落成了连阳光都害怕的小虾米……\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/q4cTRfd-jV","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

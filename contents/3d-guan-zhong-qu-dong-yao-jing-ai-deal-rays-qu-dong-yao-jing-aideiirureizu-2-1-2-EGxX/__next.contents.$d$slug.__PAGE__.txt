@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D/官中】驱动妖精 AI-deal-Rays / 駆動妖精アイディールレイズ  2.1.2+DLC 1.2 【度盘/8G】"}],["$","p",null,{"children":"嘘，说个不知道，这游戏小时候抱过我（） https://www.dlsite.com/maniax/work/=/product_id/RJ406835.html     社团名 Riez-ON  关注14,252              支援社团也可以使用viviON点数进行支援        "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/3d-guan-zhong-qu-dong-yao-jing-ai-deal-rays-qu-dong-yao-jing-aideiirureizu-2-1-2-EGxX","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

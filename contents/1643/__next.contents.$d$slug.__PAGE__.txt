@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[互动SLG/AMSR]欢迎来到充满陷阱的手充试练~精翻汉化版[安卓][500M]"}],["$","p",null,{"children":"\n\n\n\n游戏简介\n\n\n\n这是一款由[B-bishop]社团制作的日式音声互动游戏现在已经由[绒布球]汉化组译制了游戏是一款[互动音声]神奇游戏玩法有趣，爽到裂开在游戏中，你需要根据妹子的要求，以各种各样的方式手冲互动！并且拿到各种有趣的卡牌，解锁一段段奇妙无比的神奇考验！总之这就是一款打手冲模拟器。\n\n\n\n\n\n\n\n游戏特色\n\n\n\n2D”>游戏内共有10个不同的阶段超过3小时以上的游戏时间30个不同"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1643","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

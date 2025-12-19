@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/欧美]沙漠潜行者/Desert Stalker v0.16 Beta [PC/安卓]"}],["$","p",null,{"children":"游戏介绍：距离末日已经过去很多年了。旧的文明崩溃了，新的文明正在埃及某处现在的干旱荒地上慢慢兴起。《沙漠潜行者》将玩家置于名义上的 MC（一位有家室的男人和 Zeta 公民）的角色中，与各种试图在这个新世界中找到自己位置的人互动。在整个游戏中，你会遇到女孩和她们的部落、奴隶和她们的女王，无论你采取浪漫还是主导的方式，你的行为可能不仅仅决定他们的命运。特征：后宫活动和世界冒险的结合。一个精简的自由漫游结构，玩家可以选择要追求任务线和事件，没有任何磨砺机制。可选的内容过滤器和选择以满足您的喜好。完全"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/889b9596c2307c5a8c435591767e6fb8","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

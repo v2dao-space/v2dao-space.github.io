@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"风流骑士"}],["$","p",null,{"children":"亚瑟王和他引以为傲的圆桌骑士，在一个暴风雨侵袭的夜晚，共同受到女魔法师的审判；他们必须毫不保留的把自己的欲望或曾做过的败德行为全盘托出，否则亚瑟的王国必须崩溃。于是圣洁的骑士，包括亚瑟王在内的告白，令人惊恐的发现，在他们光鲜的盔甲下，都有一颗被情欲控制和折磨的灵魂，他们必须生而信守的盟约和誓言早被情欲蚕食殆尽。终于女魔法师化成他们最钟爱的情人，诅咒他们生生世世在享受情欲欢畅的同时，也承受着情欲的痛苦。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/0p-_q_QxMw","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

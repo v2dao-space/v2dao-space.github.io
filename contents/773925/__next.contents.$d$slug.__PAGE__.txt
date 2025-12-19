@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/汉化/安卓】我的新女友（My New Girlfriend）0.3Ch.1汉化版【200MB】"}],["$","p",null,{"children":"作者主页https://www.patreon.com/circlegames  游戏介绍进入诱人的我的新女友世界吧！这是一款成人色情游戏深入探讨主人公埃里克和他无法抗拒的女友维奥莱特之间的性感关系。游戏以激情、欲望和欲望为背景，邀请玩家探索埃里克内心深处的幻想。玩家扮演埃里克，在一系列诱人的场景中穿梭，每个场景都旨在测试欲望和兴奋的极限。从与紫罗兰的亲密接触到与其他迷人角色的邂逅，游戏提供了各种感官体验迎合了 NTS/NTR 世界的各种口味。      变更日志v0.3  第 1 章发布章节的"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/773925","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

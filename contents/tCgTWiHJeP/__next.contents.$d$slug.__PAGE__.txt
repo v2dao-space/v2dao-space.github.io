@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"龙血战士"}],["$","p",null,{"children":"爱瓦·霍尔维亚是哈斯帝国龙血战士后裔、家族的继承人，却在龙血基因鉴定时出现异常反应……\n面对基因鉴定委员露丝的挑逗，从东方帝国学得的淫术，能否助他闯过这一关？\n女王索菲娅为了平衡各大家族势力，达到互相牵制的目的，主动促成爱瓦与世仇赫迈尔家族女儿多莉的婚事。虽然赫迈尔家族反对，但在征服多莉四姐之后，似乎有了转机！另一方面，继母玛格丽特三番两次主动投怀送抱，爱瓦虽觉对不起父亲，但仍抗拒不了……\n爱瓦的人生似乎正往着另一条道路前进！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/tCgTWiHJeP","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

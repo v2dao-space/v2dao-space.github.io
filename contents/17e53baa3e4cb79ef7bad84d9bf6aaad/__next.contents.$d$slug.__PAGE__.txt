@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/AI汉化】存在感薄い妹との簡単生活 体验版V0.18B（RJ01175290）"}],["$","p",null,{"children":"社团名逆流茶会预告开始日2024年04月01日声优片桐秋年龄指定18禁作品类型模拟有声音有音乐有动画文件形式软件分类着衣/穿衣 触摸/抚摸 胸部/奶子 动画 RPG制作大师 长发 双马尾游戏简介玩家将扮演一位和妹妹共同生活、独立在地下城探索的冒险者为了治好妹妹特殊的体质问题，在深渊中不断寻找用于制作万能灵药“红髓液”的材料如果在时限之内不能完成的话，妹妹就会……！ 【ACT即时战斗】采用键盘和鼠标的即时战斗模式，玩家可以通过技能和装备的组合获得全新的战斗体验。地牢的每一层都是独特的挑战，只有灵活"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/17e53baa3e4cb79ef7bad84d9bf6aaad","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

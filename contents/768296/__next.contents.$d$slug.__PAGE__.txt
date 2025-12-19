@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【MMD/有码】お昼寝あかりちゃん（2D/VR）已添加高画质"}],["$","p",null,{"children":"2024.5.19 已添加高画质（视频大小将近四倍 非常的令人安心）另外这部确实是没有声音的（不知道后面会不会优化）看了眼fantia确实是解封了 然后前面的作品不少都是公开版本（有背景音或BGM 人声确实不多）应该是确实以前就有去看过 后面被冻结的时候看到作者的描述也是在近期作品都挺不错的 赞助价格也不贵 期待作者后续作品  ——————————这里是分割线——————————这个作者看了下作品列表发现我有印象 以前的作品也差不多都下了但是还没整理这回发的两篇算是个连续剧 下的I站原画 文件不"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/768296","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

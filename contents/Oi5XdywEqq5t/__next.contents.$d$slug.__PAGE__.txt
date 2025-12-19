@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/机翻/双端】スカベンジャーの姉妹 拾荒姐妹【度盘/500M】"}],["$","p",null,{"children":"官网：https://www.dlsite.com/maniax/work/=/product_id/RJ01314387.html    社团名 Are!    作品内容 寻找尸体的少女 ■被勇者攻占的迷宫 和魔族长期战斗的结果，发生了很多战争孤儿。 他们被称为“捡地牢”，聚集在危险度变少的已攻略"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Oi5XdywEqq5t","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

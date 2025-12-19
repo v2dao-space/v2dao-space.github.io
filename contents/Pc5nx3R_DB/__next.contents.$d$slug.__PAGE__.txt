@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"阿里布达年代祭"}],["$","p",null,{"children":"主角约翰·法雷尔出身于一个贵族世家，其祖父凭家传武学纵横天下二十余年未逢敌手，其父亲亦是当世最为绝顶的好手，而且手握重兵雄霸一方，连他的母亲，外公都是赫赫有名，而主角虽然由于本身身体的原因不能修习家传武学，因此武技魔法均不入流，可不想靠着家族的威名生存，因此一直没有去依托父母的力量。然而，当主角经过努力立下赫赫战功时，却遭昔日青梅竹马的女友陷害，被迫流亡大陆，走上了一条另类的传奇之路。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Pc5nx3R_DB","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

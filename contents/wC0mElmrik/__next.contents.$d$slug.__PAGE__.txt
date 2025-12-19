@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"贵妇圈"}],["$","p",null,{"children":"“爱心恒久”慈善珠宝拍卖会刚结束，席婧就气急败坏地打电话给卢琬卿，责问她为何缺席这次拍卖会。在她们这个圈子里，卢琬卿尤其深受各界顶级富豪的喜欢，有卢琬卿在，拍卖会的成交额至少能多百分之二十。虽说今天的拍卖会也达到了预期，但席婧依然不满意，她是一位追求完美的女人。顶着良州市慈善总会副主席的头衔，席婧希望每次由她安排的慈善拍卖会都是一次值得赞誉的经典。让席婧恼怒的是，卢琬卿竟然缺席了。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/wC0mElmrik","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

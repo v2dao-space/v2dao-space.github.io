@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[拔作ADV/护士制服/爆乳] 病房轶事～在凶恶护士长主宰的医院深渊中过着卧底生活～ STEAM官中版 [1.40G]"}],["$","p",null,{"children":"[拔作ADV/护士制服/爆乳] 病房轶事～在凶恶护士长主宰的医院深渊中过着卧底生活～ STEAM官中版 [1.40G] 日本超人气医院冒险游戏！主人公山田因双手骨折而住院，但负责照顾他的护士们却各个都个性差劲。 原作独特的故事设定和人物吸引\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ba-zuo-adv-hu-shi-zhi-fu-bao-ru-bing-fang-yi-shi-zai-xiong-e-hu-shi-zhang-zhu-foa-","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

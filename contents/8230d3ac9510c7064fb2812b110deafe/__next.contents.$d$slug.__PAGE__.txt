@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【MMD/有码】DDD合集【32V/18.4G】"}],["$","p",null,{"children":"https://fantia.jp/fanclubs/9720基于无心H游戏的合集弄的整合，不管你认不认他，都在心里说一句谢谢无心H游戏吧。如果你下过他的合集，同时也下了我之前发的，那么只要下载Bunny Style(新作，只是跳舞)就行了。作者是狂三单推人，从18年到现在，除了一部是BB酱，其它的全是狂三。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/8230d3ac9510c7064fb2812b110deafe","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

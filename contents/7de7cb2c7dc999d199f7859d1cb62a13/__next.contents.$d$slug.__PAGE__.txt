@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"垂死的梦 Dying Dream v0.5.3"}],["$","p",null,{"children":"游戏介绍：由于命运的意外转折，你发现自己来到了另一个完全陌生的世界。在这个充满秘密和神秘的大世界中，选择自己的道路。探索世界，发展自己的性格，与女孩约会，攀登高峰！在这个过程中，也许你还能拯救世界！这还不是全部……”这款游戏适合重视故事性、分支选择、喜剧性和戏剧性的人。更新日志：0.5.3游戏已经发生了很大的变化，如果你仍然拥有旧的存档，它们将无法使用。我对此表示歉意，以后不应再发生这种情况。我只强调了下面的主要变化，因为列出所有内容将需要很长时间。序言完成，+序言中的一个新的大事件。序幕后大约"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/7de7cb2c7dc999d199f7859d1cb62a13","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

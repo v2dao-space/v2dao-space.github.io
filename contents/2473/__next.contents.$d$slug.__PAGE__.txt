@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG/汉化/奇幻大作]神选 第二部分V0.7.6 汉化作弊版[安卓][2.5G]"}],["$","p",null,{"children":"神选 第二部分V0.7.6 汉化作弊版（Ataegina）\n\n\n\n注意：第二部分无法直接玩。\n\n\n\n你需要完成第一部分，并在游戏和你谈论玩第二幕时存档！按游戏菜单上的开始（start）以从第一部分导入你的存档，之后，存档和读档将照常工作。\n\n\n\n\n\n\n\n游戏介绍你一觉醒来的时候发现有外敌入侵了你的城市。士兵们大肆残杀你的邻居和其他的市民。形势危急万分，你的父亲拿武器为你们断后，你立刻和妈妈姐姐开始"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2473","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

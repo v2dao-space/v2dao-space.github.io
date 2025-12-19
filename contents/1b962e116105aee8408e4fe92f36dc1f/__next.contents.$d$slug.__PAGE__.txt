@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"(同人CG集) [ざれと] 金髪碧眼の義妹が生意気すぎるので催眠洗脳アプリでオナホにしてやった"}],["$","p",null,{"children":"ついこないだ俺には、金髪碧眼の義妹ができた。ウッヒョー!義妹サイコー!と俺が喜んでいたのもつかの間、その義妹・シャーリーにめちゃくちゃ嫌われていたのだった。ふつう妹ってのは『おにいちゃん大好き!』『おにいちゃんと結婚する!』って兄を慕うのが当たり前じゃないのか!?この現実をまえに、あまりにムカついた俺は、前々から構想していた催○洗脳アプリを作り始め、重なる苦労の末にやっとの完成。俺は鼻息を荒く、この催○洗脳アプリを手にしながら、憎っくき…いや、愛すべき義妹シャーリーの部屋に速歩きで向かっていく。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1b962e116105aee8408e4fe92f36dc1f","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

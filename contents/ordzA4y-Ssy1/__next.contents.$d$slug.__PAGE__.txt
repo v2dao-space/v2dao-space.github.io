@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/内置AI】奥さんは堕ちていく。【度盘/647.17MB】"}],["$","p",null,{"children":"  \n游戏介绍：\n一个朴实的处女妻子，\n为了和丈夫生孩子开始自我锻炼……\n但是，她却渐渐迷上了自慰和与“爸爸”发生关系……\n甚至学会了外遇！?\n在夏季的一个月里，这个朴实的处女妻子逐渐沉沦于她遇到的男人们，这是一个分阶段的色情RPG游戏。\n游戏玩法：\n★分阶段色情\n经历色情事件后，淫乱度会增加。\n淫"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ordzA4y-Ssy1","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

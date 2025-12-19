@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/生肉】キョウセイ支配【度盘/2.45G】"}],["$","p",null,{"children":"24/05/31请使用bandizip进行解压，链接会在更新OD或磁链后进行删除。  作品内容Getchu界面：点击游戏官网：点击作品紹介STORY養護教諭として働いていた主人公は、生死を彷徨うほどの事故から生還したことを切っ掛けに人の身体を巡る『気』を操る力を得た。特に性欲や性感に直結する『淫の気』の扱いに長け、その力を利用して勤め先の学園で女子学生の身体を弄んでいた。しかし、その悪事も長くは続かずにトラブルを起こしてしまい、別の学園へと追放されてしまう。新たな勤め先である条帝学園では失敗を繰"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/771975","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

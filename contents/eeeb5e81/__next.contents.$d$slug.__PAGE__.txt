@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【rpg/ai汉化】恥獄隷奴セレン"}],["$","p",null,{"children":"エロ改造されようが絶対にあきらめない!エロRPG今作は”最強ヒロインを玩具にして楽しむRPG”です。主人公の”暗殺者セレン”を三人称視点にて追いかけます。最強の暗殺者セレンがどうなるか見届けましょう!※この作品はRPGツクールMVで制作しています。※動作確認のため体験版で起動確認をおススメします。ーーーーーーーーーーーーーーーーーーーーーーーーーーー悪に敗れ、恥辱にまみれても絶対にあきらめない!それが最強ヒロインである!”恥獄隷奴セレン”ここに参上!!今回はこのタイトルでいくか!　byゴブリン恥"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/eeeb5e81","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

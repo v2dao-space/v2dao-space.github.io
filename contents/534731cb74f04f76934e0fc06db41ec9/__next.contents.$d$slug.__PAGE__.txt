@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】Princess Synergy 24.8月号"}],["$","p",null,{"children":"游戏内容：萝玛莎是对抗外星敌人的宇宙战队的公主战姬成员。拥有超强素质的她可以变身为超强的战姬！她每天战队总部和同伴互动生活，及外出讨伐外星怪物~然而这看似正常的总部里却隐藏的巨大的阴谋。萝玛莎每日的生活都被监控窥视着，等待她的将会是…游戏目前还在开发中  下面是作者支援地址アトリエちょいすプロフィール – Ci-en（シエン） (dlsite.com)本月更新内容如下8/1 先行体验版更新点：[新功能实现]・部分地图翻新・新增多个H场景（仅未公开部分）・最终BOSS战的演出完成（未公开部分）[系"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/534731cb74f04f76934e0fc06db41ec9","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

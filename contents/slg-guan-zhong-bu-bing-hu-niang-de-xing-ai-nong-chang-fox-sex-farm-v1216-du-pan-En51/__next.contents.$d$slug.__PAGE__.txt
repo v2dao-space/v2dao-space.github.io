@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中/步兵】狐娘的性爱农场/Fox Sex Farm v1216【度盘/1.27G】"}],["$","p",null,{"children":"狐娘的性爱农场/Fox Sex Farm v1216  入正链接： https://store.steampowered.com/app/3122920/_/ 作品信息：     开发商 R’s                发布时间 2025年12月12日   更新时间 2025年12月16日  "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/slg-guan-zhong-bu-bing-hu-niang-de-xing-ai-nong-chang-fox-sex-farm-v1216-du-pan-En51","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

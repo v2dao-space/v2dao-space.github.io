@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/GAL】キミトユメミシ（个人汉化）"}],["$","p",null,{"children":"Laplacian首作，可能是其他几作的火爆程度非常热 这作就有多。。。就连白昼梦那个bgm原来是这作的。。。才知道。。 大提示 dmm这部作品免费送，不要钱的，而且是自带r18的和某个st..m不一样，建议大伙去dmm白嫖一个正版 cpp–rar or zip or 7z    Story “窥探"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/utsDT8L-Ypgb","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

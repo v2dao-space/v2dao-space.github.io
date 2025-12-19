@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【AI翻译/GAL】ぱられるAKIBA学園"}],["$","p",null,{"children":"这是部我推完后刷新三观的拔作\n披着异世界皮的拔作…并且本以为猫咖的56个HS是极限\n这部的HS竟然有86个…\n这游戏的翻译补丁作者对剧本翻译作了相当程度的润色，为补丁作者行为点赞\n（Akiba这游戏不行的）\n  \nStory\n专职技术支持的游戏开发者的主人公突然被召唤到异世界。那里是剑与魔法的幻想世"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/0oILGtpaUvHJ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

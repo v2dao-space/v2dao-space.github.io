@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】【ARPG】获得奴隶项圈的我,成功建立美少女后宫/【ARPG】奴○首輪を手に入れた俺が美少女ハーレムを作るまで。【1.44G/度盘】"}],["$","p",null,{"children":"  \n【故事】主人公是一个住在日本的少年，为了成为异世界猎人而前往异世界之门，但却深切感受到自己的脆弱，几乎放弃了。然而，在异世界的奴隶市场上，他遇见了少女“梅洛”。对于奴隶商人的傲慢态度感到愤怒，不愿让奴隶继续增加，于是趁买下梅洛时，从商人疏忽时偷走了【雌奴隶的项圈】束，并返回到异世界，与梅洛一起"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/mCWMyd411HeV","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

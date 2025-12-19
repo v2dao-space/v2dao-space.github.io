@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[爆款RPG/姐姐X正太] 魔女・触摸・生活 うぃっち・たっち・らいふ 内嵌汉化版+作弊码 [1.20G]"}],["$","p",null,{"children":"[爆款RPG/姐姐X正太] 魔女・触摸・生活 うぃっち・たっち・らいふ 内嵌汉化版+作弊码 [1.20G] ■ 游戏概要 温馨日常系御姐正太SLG！！ 通过4阶段好感度系统，不仅正太和魔女姐姐的反应会发生变化，随着彼此关系的变化，亲密行为也\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/BhilLVUYLi","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

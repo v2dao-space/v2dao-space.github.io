@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】家务（House Chores）V0.20.1 【安卓+pc/2.82G】"}],["$","p",null,{"children":"游戏介绍：你是个高中生，跟你的妈妈，姐姐住在一起。现在是暑假期间，每天你只知道打游戏，不做作业也不干正事！妈妈一看这样下去不行，于是跟你约法三章：你只有在完成一定量的家务之后，才能玩游戏~为了心爱的游戏机，你只好跟妈妈妥协。然而跟着妈妈一起做家务过程中，反而让你某种邪恶念头觉醒了…         "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/31LXpsdDgQhA","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

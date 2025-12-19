@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/GAL】ないしょのないしょ！（ver1.1）"}],["$","p",null,{"children":"前言补档作品游戏附来自肿脸汉化组的V1.1汉化补丁+V1.04a追加补丁，在辅助包里我不是RoRi控，本游戏登场女角色均成年！！！游戏界面说了成年！！使用教程    1、现成品即汉化V1.0版本基础上进行修改    2、先将V1.04a追加补丁嵌入游戏    3、再运行V1.0汉化补丁进行汉化安装（一定要先装V1.0）    4、再运行V1.1汉化补丁，将版本升至V1.1版本    5、本资源无法运行日语原版    6、V1.1汉化完全覆盖V1.04a的追加内容注意：版本升级完毕后不要把V1.0"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/768239","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

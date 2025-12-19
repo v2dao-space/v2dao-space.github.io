@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"浑沌无极"}],["$","p",null,{"children":"故事讲述了武当少侠冷傲天、雪山派柳雪柔，从他们俩追杀褚开来这个淫贼开始，期间柳雪柔几次险些被凌辱，却又被救了下来，故事的精彩描写发生在柳雪柔身受重伤，不得不找邪医旡中大师用双修大法医治开始，以及和冷傲天的师兄交合的情节最是精彩。小说的肉戏比较真实地描写了女人的心理状态，和丈夫的甜蜜、被强暴的痛苦和无奈等等，故事和情色描写都很精彩。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/E8hWGp3W_Q","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

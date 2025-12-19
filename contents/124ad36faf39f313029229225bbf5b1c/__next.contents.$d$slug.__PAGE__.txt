@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【像素神作SLG】韩版魔改夏日狂想曲【PC/机翻】"}],["$","p",null,{"children":"【像素神作SLG】韩版魔改夏日狂想曲【PC/机翻】 这个是在韩网发布的魔改版，有人有需求我就发一下，增添了许多新事件，比如母女三人叠起来玩，当着姑父面玩和遛狗play以及乱交等等，游戏大小比原版增加了将近一倍，不过需要特别提醒的是增添了大量"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/124ad36faf39f313029229225bbf5b1c","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

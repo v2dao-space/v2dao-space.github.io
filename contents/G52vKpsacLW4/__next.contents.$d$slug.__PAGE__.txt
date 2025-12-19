@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/个人汉化/PC+安卓】破碎的梦/Broken Dreams 0.5"}],["$","p",null,{"children":"作为一个心理医生，你每天醒来，面对的却只有一如既往的无聊的生活，结束了一天的工作后，拮据的你去了一家小酒馆喝酒——但一眨眼，你就不再是你自己了。现在，好几位女生相继来到你的办公室寻求帮助，但你却开始无法控制自己的情绪，自己的想法，甚至你自己。一个漂亮的女孩出现在你的梦里，她究竟是谁，为什么你的生活开"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/G52vKpsacLW4","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

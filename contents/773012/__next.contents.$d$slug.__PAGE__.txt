@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【官中/GAL】アメイジング・グレイス -What color is your attribute？"}],["$","p",null,{"children":"前言无颜之月的特典密码，输给了AI，好气啊特典密码的出处正来源于本作的OP本作是我最喜欢的一部作品之一サクヤ最后的救赎独白+ユネ牺牲自己拯救小镇和男主愿意牺牲自己救回ユネ，最后诞生出金苹果，最为深刻此外，本作是很少见的官方认定的双女主系列（サクヤ&ユネ，1位是救赎，1位是奇迹， TE都有ed，最后1张cg有变化）PS：本作剧情+音乐+OP+ED可谓一绝，ED听了不下数次建议留到圣诞节玩，每年圣诞必备游戏，值得回温pink and white are my attribute （有没有和我一样的）"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/773012","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

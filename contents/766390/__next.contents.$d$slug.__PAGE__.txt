@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/GAL】甘えかたは彼女なりに。"}],["$","p",null,{"children":"前言发一部戯画的作品，为什么脸的画风和胸的画风不搭捏人懒截官图系列  Story「不是交不到朋友，而是不想交」自己决定了“孤独”的主人公柴宮浩斗。不过，因为他有点可怕的外表，和平时冷淡的性格，就已经够难以交往了……「别管我」主动远离周遭环境的超绝毒舌美少女新倉朋美。伴随着有些相似的两人的邂逅，故事开始了——「……能陪我吗？」（译注：老梗，音同能和我交往吗？某天午休，正在中庭一个人享受无惨的浩斗被突然出现的朋美预想外的台词震惊着。而朋美面对预料之外的误会也依然冷静地吐槽。其实她是放学后有个想去的地"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/766390","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

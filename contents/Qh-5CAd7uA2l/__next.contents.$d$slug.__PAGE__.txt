@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC-RPG游戏] 【爆款RPG/官中/步兵】魔法少女天穹法妮雅 V56.5魔改三合一版"}],["$","p",null,{"children":"天音是个相当普通的女生，住在日本最大的城市之中，而那里正日渐危险起来。市民尤其是年轻女性市民无故失踪，而在她了解到这一情况之前，她已经知道了原因：叫做魔怪的危险绑架了失踪的市民！\n某天晚上，天音回家路上被怪物袭击了，正当她走投无路时，她身上带着的一本书竟然开口了，并给她提供了一份特别的契约：成为魔法战士与魔怪战斗。\n得到了新的力量之后，她开始探索城市中每一处有魔怪出现的地点，然后逐一消灭它们以阻止它们为祸人间！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Qh-5CAd7uA2l","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

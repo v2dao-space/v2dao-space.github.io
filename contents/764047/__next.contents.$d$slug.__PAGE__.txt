@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/ADV】寝取られの学園～輪廻るサクリファイス～"}],["$","p",null,{"children":"前言突然想起的一部剧情向良作点评：本作的悬疑性非常强，普通线中个人角色的几条线是并行的，所有故事都是同时发生的，剧情中的很多地方后面都有解释，至少自圆其说。并且本作的真相线最后男主与女主站在男主妹妹病床前，女主的一番内心独白+最后1张CG，令人倒吸一口凉气。个人很喜欢元这个角色游戏附V1.01修补补丁+2DFan机翻补丁—感谢2Dfan分享大佬提供1个虚拟光驱安装软件—提供者来自本站的提莫队长666，对其表示感谢，需要者自提：点击  Story『学園都市・六道』。島内にある全ての施設は『六道学園"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/764047","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

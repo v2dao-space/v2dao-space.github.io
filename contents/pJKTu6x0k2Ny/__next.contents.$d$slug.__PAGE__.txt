@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无码】One Night ~Young Bride for One Night~"}],["$","p",null,{"children":"\n \n故事\n“请问你是？”\n“那个，我，我能在这里住……一晚吗……”\n时隔十年再次与初恋情人相遇……但是他却不认识我了……\n没关系，我这就让他回心转意！\n“……真是的。我知道了，就今天一晚上说好了”\n“太好了，谢谢你！”\n我给饥肠辘辘的他做消夜。\n俗话说要想抓住一个人，首先抓住他的胃。\n“感谢招待”"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/pJKTu6x0k2Ny","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【官中/无修/ADV】ましゅまろ☆いもうと☆さっきゅばす☆"}],["$","p",null,{"children":"前言Steam最近出了多版本的ましゅまろ，有资金的大佬可以去购买正版注意本游戏是单语言单卖的，Steam买时注意语言Steam：JUMP注意：Steam的英语和中文是无修的，日语不确定人懒随意截图了.jpg本作品传的是MEGA盘，如果1个月后失效了，联系我补  Story月川佳佑（つきかわけいすけ）が奇妙な夢を見ました。キスで赤ちゃんが出来ると信じているのではないかというくらい純真な妹、月川紗紀が夜這いにかけてくる夢だ。そんな天然な妹が、いつもと違ういやらしい眼差しで佳佑の瞳を覗き込み、ベッドに"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/768098","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

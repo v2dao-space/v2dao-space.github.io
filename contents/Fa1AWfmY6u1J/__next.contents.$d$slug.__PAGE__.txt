@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【里番/汉化合集】[ZIZ]妻ネトリ全集1-5 1080P[1.7G/度盘/UC盘]"}],["$","p",null,{"children":"高纯度的牛头人警告\n前四部为汉化，最新的第五部暂为生肉，话说这社真就一年出一部动画呀\n百度（uc一条链）分两条链，为防止文件损坏，建议保存以后下载，放在一起解压，两层压缩，去中文后缀以7z解压，建议用7-zip\n  \n1.タイトル ＝ 妻ネトリ 零 ～僕の過ち 彼女の選択～ 桜都字幕组\n発売日 ＝ "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Fa1AWfmY6u1J","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

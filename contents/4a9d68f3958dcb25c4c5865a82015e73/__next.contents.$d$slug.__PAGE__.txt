@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[调教SLG/中文/CV] 赫雷斯的角斗场Ⅱ Ver1.07 官方中文步兵版+全CG存档付前作"}],["$","p",null,{"children":"这是一款游戏性超高的经营教育SLG游戏，你将扮演黑心男主，对两名美人进行全方位的【教育】和【训练】本次第2代作品的女主换成了天然呆的岛国女忍者和高贵的金发王女，不仅要打造最强的决斗者，也要育成最柔媚的风俗娘！游戏画风质量超高，每张CG都社保无比~全程事件30+，分差200+，并且有高质量CV语音，可纯可绿可公交，玩法丰富自由度极高！绝对不能错过！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4a9d68f3958dcb25c4c5865a82015e73","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

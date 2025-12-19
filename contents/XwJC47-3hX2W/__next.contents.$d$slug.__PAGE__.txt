@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/汉化】Mama×Holic ～魅惑のママと甘々カンケイ～【1.8G】"}],["$","p",null,{"children":"\n游戏类型\n\n\n\n制作公司：アトリエかぐや BARE＆BUNNY\n \n\n\n发售日期：2020年09月25日\n\n\n汉化日期：2024年03月13日\n\n\n汉化小组：真不可视汉化组\n\n\n游戏类型：恋爱\n\n\n游戏原名：Mama×Holic ～魅惑のママと甘々カンケイ～\n\n\n游戏别名：Mama×Holic~魅"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/XwJC47-3hX2W","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

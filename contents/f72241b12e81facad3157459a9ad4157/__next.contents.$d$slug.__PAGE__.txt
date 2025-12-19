@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/生肉】My Best Deal ver3.2.5"}],["$","p",null,{"children":"你因为救一个横穿马路的女孩而不幸的被大卡车撞死了。（后来从女神那里得知这个女孩即使你不救她，也不会被撞死，你是白死了）      死后你遇到了一个女神，女神跟你提出一个交易。原来，这个女神是爱之女神，因为被众神排挤出了统治阶层，需要你的帮助      你需要收集爱的能量，然后帮助女神重新回到统治世界的众神一族之中。（你需要通过跟女神XXOO把爱的能量传输给女神，真TM社保~）      为了让你更加快速的收集爱~女神给予了你两个超能力~一个是你的触碰，会让女性对你慢慢发晴~一个是你能够进入别人的"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/f72241b12e81facad3157459a9ad4157","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

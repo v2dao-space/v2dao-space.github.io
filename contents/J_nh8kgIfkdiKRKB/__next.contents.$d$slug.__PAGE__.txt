@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【2D动画/无修】futashrine动画作品合集（截至25.06.15)"}],["$","p",null,{"children":"个其实是henkawa老师的小号，貌似是因为作者经历分手后，发现有了更多时间弄扶她视频，于是就弄了这个号专门弄扶她 作者地址：https://www.fanbox.cc/@futashrine henkawa的合集：传送门 压缩方式全为单个压缩，看看党，可以自行选择喜欢的角色下载观看或者查漏补缺。 "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/J_nh8kgIfkdiKRKB","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

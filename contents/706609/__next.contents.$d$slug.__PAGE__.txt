@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【官中/PC】巧可甜恋2【度盘/秒传/2.7GB】"}],["$","p",null,{"children":"  游戏简介 西式建筑林立的小镇——夕渚镇。一位少年邂逅长有兽耳的女孩们，并与她们一起在同一间咖啡厅打工。不过那已经是去年秋天的事了。快乐的圣诞节后的第二天，少年邂逅了一位迷路少女。少女正在寻找镇上罕见的和风糕点店。将少女送到目的地后，少年二人受到了来自少女姐姐：店长的迎接，同时，少年也察觉到了一件事情。——没错，这对姐妹竟然长了一对漂亮的兔子耳朵！在全新的邂逅中，结识畏首畏尾的妹妹，冒失鬼姐姐，打工少年在镇上颇有人气的蛋糕店“Sweet Tail”，与开业不久的糕点店“望月”两点间忙得不亦乐乎"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/706609","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

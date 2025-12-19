@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【官中/RPG】Forestia～小镇的牧场生活～【磁力/471M】"}],["$","p",null,{"children":"入正页面：点击跳转社团名/商标名：いなずまそふと支持的语言：中文(简体字)分类：男主人公 亲热/甜蜜 日常/生活 温馨 纯爱 姐姐×正太 发售时可以做到的事和做不到的事 现阶段，游戏有着约15小时的可玩容量（根据玩法不同，最多可达30小时以上）。即便如此，也有非常多尚未实现的内容和我们未来想要添加的"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/guan-zhong-rpg-forestia-xiao-zhen-de-mu-chang-sheng-huo-ci-li-471m-W09u","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

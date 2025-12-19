@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"爱，死亡和机器人 爱死机 1-4季 [WEB-DL/1080P] [内封字幕] 16.8G"}],["$","p",null,{"children":"爱，死亡和机器人 爱死机 1-4季 [WEB-DL/1080P] [内封字幕] 导演: 大卫·芬奇 / 罗伯特·比斯 / 安迪·里昂 / 吕寅荣 / 罗伯特·瓦利 / 帕特里克·奥斯本 / 蒂姆·米勒 / 迭戈·波拉尔 / 埃米莉·迪恩编剧: 罗伯特·比斯 / 安迪·里昂 / 乔·阿克罗比 / 蒂姆"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/WPg-Qd1murB1cqm5","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

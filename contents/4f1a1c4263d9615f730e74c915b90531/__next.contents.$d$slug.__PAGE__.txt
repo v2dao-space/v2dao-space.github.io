@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化同人本/新汉化】2024.8.7 55本"}],["$","p",null,{"children":"(C103) [AERODOG (inu)] モブ生徒に性欲を持て餘す 一般学生还有多余的性欲 (ブルーアーカイブ) [中国翻訳](C104) [アヘアジフ (さなつき)] Peru堕ち (ペルソナ3) [DL版](C104) [砂喫茶 (むっしゅ)] マヤカシ優男 (ブルーアーカイブ) [DL版](COMIC1☆13) [集団暴力 (むらさき朱)] 白昼に街中で全裸露出オナニーしちゃうのって気持ちいい4 [机翻](IDOL STAR FESTIV@L 12) [ねぼすけ菌 (白石Nスケ)] ミ"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4f1a1c4263d9615f730e74c915b90531","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

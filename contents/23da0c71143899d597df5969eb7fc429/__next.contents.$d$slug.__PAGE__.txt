@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/生肉】[PC+安卓joi]片桐小姐想依赖我。/片桐さんは僕に頼りたい。"}],["$","p",null,{"children":"所发布资源不得用于商业盈利，否则产生的一切后果将由您自己承担！制作介绍（#F134）  社团名プラスカゼット 贩卖日2024年07月07日 0点剧情カナミヤ插画カナミヤ年龄指定18禁作品类型角色扮演有音乐文件形式软件支持的语言日文分类男主人公 臀部/屁股 断面图 喜剧 恐怖 内射/中出 黑发 血液/流血文件容量498.46MBDL链接https://www.dlsite.com/maniax/work/=/product_id/RJ01218810.html游戏介绍ヒロインの足を引っ張るのも救う"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/23da0c71143899d597df5969eb7fc429","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

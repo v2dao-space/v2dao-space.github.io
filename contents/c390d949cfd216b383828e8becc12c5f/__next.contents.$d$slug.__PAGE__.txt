@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC-ADV游戏] 【拔作ADV/汉化】前不良人妻 雏子 ～将她的身心都睡过来！ 官方中文版"}],["$","p",null,{"children":"主角为了转学大学，搬到了新公寓。没想到隔壁邻居竟然是小时候住在附近，人人畏惧的不良少女──雏子。看到还是老样子的雏子，主角忆起小时候，对雏子的心意也就此复燃。可是，和小时候不同，雏子已经有了丈夫和女儿。然而，雏子成熟的女人味，让主角无法忘记自己的心意……"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/c390d949cfd216b383828e8becc12c5f","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/生肉][魔法少女倶楽部]ロリつき1DK～食う寝るところはするところ いちゃラブ同棲生活"}],["$","p",null,{"children":"社团魔法少女倶楽部日期2024年01月20日 0点年龄18禁类型模拟有音乐形式软件语言日文标签少女 萝莉 亲热/甜蜜 婚前同居 口交 贫乳/微乳 白虎/无阴毛大小835.86MB● ゲーム概要突然押しかけてきたロリっこをひと夏預かるシミュレーション。お出かけしたり家でまったりしたりお風呂を覗いたりえっちなことを教えたりして特別な関係を作りましょう。● あらすじ昔すごい懐かれた遠い親戚のユキちゃんが俺と結婚するって押しかけてきた。俺、ロリ漫画とか読むけどロリコンじゃないんだけど、普通にかわいいと思"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/763989","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

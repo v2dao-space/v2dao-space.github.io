@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【生肉/ACT】ベルヘイムの迷い猫【百度网盘】"}],["$","p",null,{"children":"排行榜：24小時內第2名7日內第6名30日內第14名                                總販賣數：9,818      評價：4.47 (3,118)收藏數：12,354鑒賞數：27 (鑒賞)社團名C-Laboratory 關注5,530 支援社團也可以使用DL點數進行支援販賣日2022年09月10日更新資訊2022年10月08日 更新資訊聲優森野めぐむ年齡指定18禁作品形式動作有聲音有音樂有動畫檔案形式應用程式對應語言日文分類女主角 酪梨 格鬥 幻想 羞辱 異種播種"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/768319","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

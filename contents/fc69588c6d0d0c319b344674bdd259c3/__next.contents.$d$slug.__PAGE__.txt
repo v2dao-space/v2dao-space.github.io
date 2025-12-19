@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中/动态】Angry Boy"}],["$","p",null,{"children":"『游戏概述』[故事]在自卫任务期间突然被召唤到这个世界的主人公，因某种事件仅仅成为了一个名义上的战士。他能够打败所有恶魔并返回原来的世界吗？[游戏玩法]1. 攻击接近战士的怪物以阻止它。2. 打败怪物以减少boss的体力。3. 如果怪物到达或被攻击到战士所在位置，HP会减少，所以要小心。[操作键]移动：方向键攻击：空格键火焰精华：Z键[游戏特点]游戏有三个女性角色。如果输给boss，会获得奇怪的插画。如果战胜boss，同样会获得奇怪的插画。        没点满属性之前难度有点高 可以找一个刷钱"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/fc69588c6d0d0c319b344674bdd259c3","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/无码/GAL】最高に都合のいいパイズリ上手のマリーさん"}],["$","p",null,{"children":"前言にゃんカフェマキアート ～猫がいるカフェのえっち事情～，这部推完后，感觉身体不行了正因如此，我想让大伙也和我一样（对当年那个进医院的汉化者表示心心相印）本期分享一部纯爱作，我瞎捣鼓出了无码版本，无码补丁也上传至2dfan了PS：にゃんカフェマキアート，这个续作（生肉&无码的大伙要不要推，我已经在推了，身体越来越差了）  故事介绍「嘻嘻嘻，等你好久了哦，——トモヤ·シノザキ」放课后，主人公·篠崎智哉被留学生マリー叫到体育仓库内。智哉完全不明白为何会被刚转校过来的有名人盯上，而マリー下一句话更是"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/33c3b15214f3fb29ed85efdb45590320","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"博康舒大冒险"}],["$","p",null,{"children":"这是一个“学习医术”＝“挖死人墓”的年代，所以，你现在看到我正在挖墓，一点都不用惊讶，别那嫌恶的表情，挖墓的好处可多了，除了尸体，还可以得到陪葬品，运气好的话…嘿嘿嘿嘿，就像我现在这样啦！\n一个白嫩嫩的美丽少女等着我享用，虽然冷了点又不会动，不过……我的妈啊！这…尸……尸变啊！\n魔力？那是什么？我只是个毕不了业的医学院生，和魔法师一点关系都没有…都没有……\n算了，吸血鬼少女佐菈不相信我，魔女老师丝芬妮也处心积虑想把这东西从我身上挖走！\n甚至…还要我当诱饵到巴黎去挑战大魔王……\n喂喂喂，我不想只出一集就死掉啊\n魔女、僵尸、吸血鬼\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/LXBB5wtMr4","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

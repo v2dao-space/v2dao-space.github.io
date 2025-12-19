@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"熟女警察局长林若雪"}],["$","p",null,{"children":"N市，一个繁华的都市，最近这些天被一连异残忍的杀人案笼罩在不安阴影下。\n2025年4月1日的夜晚，市公安局的办公室内，一位身着警服的成熟女性看着窗外，眉头紧锁。\n成熟女性名为林若雪，N市公安局局长，年龄42岁，岁月在她身上留下的不是风霜，而是沉淀的熟美韵味，容貌惊艳端庄，五官柔和不失英气，一头乌黑的长发一丝不苟地盘成发髻，露出修长白皙的脖颈。\n林若雪身着剪裁得体的深蓝色警服，制服下的身材曲线曼妙动人，尤其是那对丰硕的乳房，将衬衫撑得紧绷，透出令人遐想的轮廓，她脚踩一双黑色尖头细跟高跟鞋，搭配超薄油亮黑丝，纤细小腿在灯光下散发晶莹光泽，整个人既有警察的威严，又带着熟女的妩媚。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/shu-nv-jing-cha-ju-chang-lin-ruo-xue-QXle","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

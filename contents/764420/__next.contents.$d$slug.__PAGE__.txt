@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[ベコ太郎] あおのままで 停留在青澀一刻[中国翻訳][無修正][DL版]"}],["$","p",null,{"children":"偶像、人妻、水手服GK，再加上美少女幽靈……etc.超活躍的人氣插畫家，《COMIC快樂天 BEAST》的新星漫畫家ベコ太郎老師的首部單行本!!「因為我很羡慕，也很嫉妒你。」在一個熱到快溶化的夏日，知道喜歡的偶像南琹來到鄉下拍戲，一位高中男生騎著自行車到處找尋她的身影。偶然找到南栞後，卻看到她一臉憂傷地抽著菸……在盛夏夜晚的海邊和心儀偶像一起解放身心──以此主打作品〈那一天的豔陽蜃景〉為首，收錄多部讓人感傷、忍俊不禁、興奮不已的性愛短篇傑作！接了美麗可愛人妻的媽媽活……〈大人的不同之處〉和大學生"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/764420","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

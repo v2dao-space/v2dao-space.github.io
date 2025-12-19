@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D/无码】Japs8005 2023年全作品合集、24年1-4月（补档）、6月（最新）【217V/23.62G】"}],["$","p",null,{"children":"如题，应之前评论区和私信的要求补了24年1-4月的作品，和这次最新的6月作品连之前23年全年作品一起发出来。5月份的我站内已发过，这次不加入合集PS：23年中期开始质量对比往期明显高了很多，且作者23年的部分作品有分无声和有声版，我只保留了有声版本，问我要无声版的有个功能叫关闭音量，再要就让你飞起来  这样这位佬的往期所有作品都补齐了。这次还是正常预览，后续按月份正常更再附带码图                        附赞助图"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/31a2285d0a60ce844bce7c2c20cda23a","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

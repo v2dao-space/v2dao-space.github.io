@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】MiSide （全年龄）"}],["$","p",null,{"children":"\n你一定在各种游戏里有喜欢的女孩，如果你真的和她在一起了呢？\n在 Steam 上购买 米塔 MiSide 立省 10%\n\n\n\n关于这款游戏\n\n\n每天，你都会来看看我，帮我做家务，给我做饭吃，还会给我买小礼物。\n你真好！我好喜欢你！\n我好想每天都把你留在我的身边，每天都跟你一起生活~\n我知道你也想和我"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/btVWMR4D594W","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【PC/安卓/RPG】除灵猎人:第零羔羊 Ver2.15 官方中文版+RPG神作+攻略+CG包+3.3G"}],["$","p",null,{"children":"今天给各位更新一款超级高能NTR神作RPG的最新版： 除灵猎人:第零羔羊 Ver2.15 官方中文版+PC+安卓+RPG神作+攻略+CG包&补更+3.3G   本次更新后游戏已经非常稳定，所以作者连续更新告一段落。 如果你之前修修补\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4J6wPwXHMEXW","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

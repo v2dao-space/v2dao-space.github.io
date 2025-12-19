@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC-RPG游戏] 【经营RPG/汉化】能见到亚文化女子的风俗店/アット・アット-サブカル女子と会える風俗店- AI汉化版"}],["$","p",null,{"children":"游戏介绍4个女孩在读的女生有4人。请和喜欢的女孩一起度过特别的时光。她们都有各自的网络活动。加入这家店的理由和目的，请用您的眼睛直接确认。★只读多重结局4人各有3种结局，共计12种结局。没有路线分歧和攻略要素，是继续阅读最后选择结局的形式。★全员和所有的玩儿基本玩儿鉴赏·手抄·口交·派兹里·赤脚·脚抄的6种。(只穿地下脚蹬→屁股蹬→脚蹬→腋窝置换)可以要求4个人全部玩。当然哪个玩儿射精也是你的自由。而且，根据条件…?……本店禁止正式营业的行为。·身临其境的主观视角基本CG的重复使用·从脸部到局部"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4c9f3027a056c24a9e52389077b3be51","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

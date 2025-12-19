@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/汉化/PC+安卓/动态/步兵 】如此剧烈的疼痛in Ver0.10.0.38 "}],["$","p",null,{"children":"再一次，搞砸了。你为什么要那么做？你有你需要的一切！一个爱你的妻子，愿意为你做任何事。两个漂亮的女儿崇拜他们的父亲。一个成功的企业，没有财务问题。 这一次，你老婆受够了。最后，她受不了把你抱在另一个女人的怀里，干脆把你赶出家门。无法独处，你到五年未见的姐姐家避难。您是否能够与您的姐姐和侄女重新建立联系，或者您会尝试与您的妻子和女儿团聚"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4be1463396256693eecdc11d3788a4bc","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

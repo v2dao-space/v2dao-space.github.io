@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【绿色RPG/中文/CV】堕ちた聖痕：夜行伝令 v0.43 官中测试版【更新/1.6G】"}],["$","p",null,{"children":"给大家带来这款很绿很绿的日式RPG游戏 堕ちた聖痕：夜行伝令 v0.35 官中测试版 这是一款由[乳糖クエスト]制作者在6月1号发布最新版本 无需多言，该作主打的就是喜欢隐奸类型！当然也有纯爱路线 剧情细节很足，堕落的进程也是一点点的缓慢进\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/6J5CESnPwx","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

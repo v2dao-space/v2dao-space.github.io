@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【日系/SLG/动态】迷失在你心中v0.14 汉化版【PC+安卓/5.87G】"}],["$","p",null,{"children":"【日系/SLG/动态】迷失在你心中v0.14 汉化版【PC+安卓/5.87G】 注意:画廊解锁代码已修改为”666666″ 游戏介绍： 你将扮演一名 18 岁的高中生[REDACTED]，试图从坎坷的失恋经历中走出来。在虚构的日本城市 “净\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ri-xi-slg-dong-tai-mi-shi-zai-ni-xin-zhong-v0-14-han-hua-ban-pc-an-zhuo-5-87g-UJ91","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

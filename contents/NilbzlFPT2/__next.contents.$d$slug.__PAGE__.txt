@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"舞艺附中的少女"}],["$","p",null,{"children":"方芸，一个正青春的十七岁少女，拥有157cm的身高和41kg的完美体重，目前正就读于州立舞蹈艺术学院附中高中部三年级。\n坐着她那开大公司的老爸的车，很快就到了位于市郊的学校，进校门的时候，门卫看着这青春的美少女不由得狠狠地咽下了一口口水，这多美的女孩啊，可惜不是他能享用的。\n在回宿舍之前，方芸先去了她们班上的专用练功房，果然不出所料，她的舍友，也是她最好的朋友，慕容璃正在里面练功。\n慕容璃与方芸差不多高，却要比她瘦不少，但是慕容璃的双峰却丝毫不比方芸的逊色，也是本校一些男老师的最爱……"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/NilbzlFPT2","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

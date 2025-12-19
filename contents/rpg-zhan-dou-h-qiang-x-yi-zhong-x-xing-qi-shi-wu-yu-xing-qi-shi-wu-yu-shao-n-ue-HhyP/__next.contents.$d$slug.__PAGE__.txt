@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/战斗H/强X异种X】性骑士物语（性騎士物語 ～少女に迫る淫欲貴族～） Steam官中步兵版+全回想存档 [910M]"}],["$","p",null,{"children":"【RPG/战斗H/强X异种X】性骑士物语（性騎士物語 ～少女に迫る淫欲貴族～） Steam官中步兵版+全回想存档 [910M] ◆故事内容 加入骑士团的新人骑士—米莉希亚。 米莉希亚一直憧憬着骑士中最上级的「圣骑士」。 米莉希亚与上司吉赛尔\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/rpg-zhan-dou-h-qiang-x-yi-zhong-x-xing-qi-shi-wu-yu-xing-qi-shi-wu-yu-shao-n-ue-HhyP","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

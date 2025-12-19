@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D/无码】Erka至23年9月视频合集"}],["$","p",null,{"children":"部分早期视频（每个都有七八个差分，每个也就一两兆）没收录倪哥模型的没有收录部分视频并没有配音关于PD盘·每天每个IP限量下载5G（要是服务器被冲了就变成3G）·超量之前是满速，之后限速1M/s 【网好3-4M/s（使用IDM和梯子的前提下）】（这是我选择樱盒的原因）·超量了也可以继续下（但是根据你们反馈，不挂梯子就不行）·下载速度的波动（限速之后）大概率是梯子的问题，因为我也是这样·最多可并联5个同时下，但我建议你一次只下一个   等樱盒回来就换樱盒咯下半年感觉都没玩到过什么有游戏性的黄油，去年"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/745076","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

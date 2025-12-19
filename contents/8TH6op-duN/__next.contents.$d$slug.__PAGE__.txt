@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"春光无限好"}],["$","p",null,{"children":"当运气要来，拦也拦不住！\n农村少年徐子兴因一次偶发的善心，意外获得老喇嘛传授秘法，少年变得不再平凡：父母骤逝后，清贫的他沉醉练功、不问世事，闲云野鹤的生活倒也惬意。但当徐子兴再发善心，救下差点被人强 奸的美艳少妇时，在他内心中作恶的欲望之门竟因此开启了？\n想要成为人上之人、想要占得美中之美！徐子兴的发达之路，会如他自己计划那般顺利吗？"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/8TH6op-duN","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

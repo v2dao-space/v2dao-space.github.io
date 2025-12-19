@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI内嵌翻译/PC/安卓】卡琳的再燃(カリンの再燃)[度盘/458MB+367MB]"}],["$","p",null,{"children":"此为叶酱使用AI翻译+自移植游戏名カリンの再燃(卡琳的再燃）入正地址：https://www.dlsite.com/maniax/work/=/product_id/RJ01185372.html资源来自站内“咩夸～”大佬！链接：【自购】【生肉/RPG】カリンの再燃【百度网盘】   社团名†ぜろふさだーくねす†贩卖日2024年06月13日更新信息2024年06月25日 更新信息插画岡米なく作品类型角色扮演分类女主人公 臀部/屁股 兽人 沉迷快乐/快乐堕落 兽耳 贫乳/微乳游戏介绍身为战斗小队学生"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/3e30ed192682f38b046cd448f9c08f78","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[黒金真樹] 夫妻は互いの知らぬ間に -誰が一番悪いでしょうか-外遇更激情　夫妻相互偷吃究竟是誰的錯 [中国翻訳] [無修正] [DL版]"}],["$","p",null,{"children":"昨天晚上我和別人做愛了。舒服到難以啟齒的外遇性愛。起初的罪惡感，卻逐漸被悖德的快感所掩蓋。完全收錄潛藏在日常生活的禁忌情色專畫睡走人妻題材的漫畫家──黑金真樹的無修正精髓濃縮於此!!PUBU:点我有爱自取"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/739589","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

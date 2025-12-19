@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[拔作ADV/汉化] 姐姐狩猎！兴奋不已的大姐姐们接招吧！汉化版+CG+动画 [PC/2G]"}],["$","p",null,{"children":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[游戏介绍] ：\n\n\n\n我叫健太，是个看起来完全无害的小鬼。\n\n\n\n跟我的两个同班的好基友-戴眼镜的“知识分子”，身材壮硕的“大叔”，总是在搞秘密行动！\n\n\n\n那是以坏姐姐为目标的工行动！我已经非常擅长干这个了~\n\n\n\n让人苦恼的就是，姐姐们完全没有意识到自己在做坏事呀！\n\n\n\n如果穿着那样暴露的身体，毫无防备地在街上走的话，我们的欧金金一定会变大的，而且整个人变得"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1601","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

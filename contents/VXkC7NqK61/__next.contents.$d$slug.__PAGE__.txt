@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/生肉】Harem Rush Impish Fantasy"}],["$","p",null,{"children":"MenZ Studio | creating Adult Game | Patreon  概述： 本作的故事发生在一个只有女性的世界——“艾斯塔利亚”。 长久以来，这个世界因一道封印而远离魔族，和平安宁。 然而某日，封印被打破，魔族大举入侵。 居民们接连遭到袭击，并被魔王的黑暗力量所操控。 “你”则"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/VXkC7NqK61","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

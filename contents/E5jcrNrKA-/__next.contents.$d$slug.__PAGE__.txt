@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"蛮荒之吻"}],["$","p",null,{"children":"女人最大的危险就是为爱而疯狂，你也许从未读过这样一本书：大胆而疯狂，但书中所讲的故事更令你惊异！这是法国性文学作家克莉奥·柯黛的代表作，通篇都是有违伦常的性爱故事，以及性虐待性随意等描写非洲社会生活的内容。所以该书在许多国家都被禁毁或限制。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/E5jcrNrKA-","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

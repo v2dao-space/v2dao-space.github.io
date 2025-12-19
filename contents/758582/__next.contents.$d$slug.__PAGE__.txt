@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【剧场版】你想活出怎样的人生/君たちはどう生きるか"}],["$","p",null,{"children":"剧情简介 少年牧真人（山时聪真 配音）的母亲葬身火海后，他随父亲牧胜一（木村拓哉 配音）与继母夏子（木村佳乃 配音）组成新家庭。 深陷悲伤的真人阴郁孤僻，难以融入新环境。 一次意外，他跟随一只会说话的苍鹭（菅田将晖 配音）闯入废弃的神秘塔楼，却不料进入了奇幻的“亡灵世界”，开始了一场不可思议的冒险……  影片片名致敬了小说家吉野源三郎在1937年发表的同名小说，但电影故事由宫崎骏原创。   制作导演: 宫崎骏编剧: 宫崎骏主演: 山时聪真 / 菅田将晖 / 柴崎幸 / 爱缪 / 木村佳乃 / 更"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/758582","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

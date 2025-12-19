@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/AI汉化】 能让我留宿的话我可以做那个 泊めてくれるならシていいよ 【1.3G/度盘】"}],["$","p",null,{"children":"  \n■故事主人公过着靠打工往返于工作和家之间的日常生活。某天，出于一时兴起，他安装了一个约会应用程序。那天，他与一位偶然离家出走的JK匹配成功了…\n◆奇娜酱表面上看起来是个老实的JK然而，这样的女孩竟然通过约会应用去陌生男子家里留宿，这是为什么呢…？\n\n\n\n\n社团名\nなうSoS \n关注67\n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/GfK_dOHt7HoV","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

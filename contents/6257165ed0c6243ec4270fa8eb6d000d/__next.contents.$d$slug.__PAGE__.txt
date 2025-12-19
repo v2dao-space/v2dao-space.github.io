@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC-RPG游戏] 【RPG/STEAM官中】公主游记 Ver1.00"}],["$","p",null,{"children":"《公主游记/Princess Quest》是由ShiroKuroSoft制作，Sekai Project发行的一款王道复国题材RPG黄油。H方面，玩家需要通过交互各种事件（对话回应奇怪要求、被怪物击败等）来降低莉莉娅的理性值，为回应场景特定角色（头顶红色数字）的要求内容，只有理性值小于等于该红色数值才能触发h场景，而且理性值一旦降低就无法逆转。另外本作的任务类型也分为三种，第一种重要任务也可以称作主线任务，后面N任务和H任务指代的就是正常支线任务和涩涩任务两种了。综合来看，本作是同时支持玩家处女通关和H通关两种玩法的。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/6257165ed0c6243ec4270fa8eb6d000d","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

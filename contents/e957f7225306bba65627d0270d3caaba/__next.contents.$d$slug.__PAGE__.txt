@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/生肉】僕の彼女は正義のヒロイン ～そんな彼女は今日も敗れる～"}],["$","p",null,{"children":"制作介绍サークル名一歩も下がるな!!! フォローする141サークルを支援するDLポイントでも支援できます販売日2024年07月25日 0時更新情報2024年07月28日 更新情報シナリオJ.J.ドルギオスイラストなづきでこ / やづキング年齢指定R18作品形式ロールプレイング音楽ありファイル形式アプリケーションジャンル変身ヒロイン 魔法少女 寝取られ 羞恥/恥辱 トランス/暗示 触手ファイル容量741MB游戏介绍あらすじ若くして政府直属の組織を率い、正体不明の敵「バルバロイ」を追う”僕”。組織の"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/e957f7225306bba65627d0270d3caaba","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/生肉】エスケープR 【度盘/633M】"}],["$","p",null,{"children":"凌辱系谜题解密逃脱ACT注意事项体验版仅包含每个章节的前两个阶段。由于修复问题或版本升级，内容可能会发生变更。请尽量在注册会员后购买，以便支持重新下载。 作品介绍作为同人活动十周年纪念作品，本作对十年前发售的《逃脱～香织与恶灵之馆～》和《逃脱 II～夏希与不祥之村～》进行了重制。分辨率升级至1280"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/o2Dd7oRf7K1zdLe1","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

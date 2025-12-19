@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【生肉/SLG】Kasumi Rebirth（调教女忍）"}],["$","p",null,{"children":"各位看官老爷们好，这次我把之前发过的touchthegirl的前作分享给各位。这个是swf的文件格式可以用浏览器打开或者是播放器打开，可能会遇到flash版本不够的可能，之前看有人说可以断网打开，当然你也可以用flash中心打开（有点流氓软件的意思，不建议）至于游玩方式嘛。。。。就是鼠标托一托，点一点之类的。 温馨提示：吊得在设置里面开，默认是关闭的，别问我是哪个，拿翻译弄一下就行了。（考古ing） ps：最近都在找这种老游戏来考古，现在在苦苦寻求一个解谜类的，潜入到女主家里的，女主紫色头发，然"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1e5cd5aa0c025a61d8949b37b44ab89f","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

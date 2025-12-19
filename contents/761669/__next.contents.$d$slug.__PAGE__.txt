@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【GAL/生肉】ラブピカルポッピー！【度盘/3.26G】"}],["$","p",null,{"children":"24/04/26  作品内容Getchu界面：点击游戏官网：点击作品紹介STORYある日、俺の家が燃えた。共に暮らしていた妹の涼花は学園寮に預ける事が出来たが、俺は哀しき住所不定無職。そんな最中、その女子寮から住み込み寮母として働かないかとお誘いが。妹のフォローも出来るし住まいもお金も貰える。断る理由はない！と飛びつくも、なんやかんやで寮に併設されたクレープカフェの手伝いもする事に。何やら重労働の気配だが、お金が貰えるなら上等だと覚悟を決める。『なにやら昔の俺を知っているらしいムチムチな子』『集"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/761669","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

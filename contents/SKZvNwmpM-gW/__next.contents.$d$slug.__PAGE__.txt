@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【爆款RPG/爆乳/异种X】龙征服（ドラゴンコンキスタ）V1.1 内置AI汉化【PC+安卓双端】"}],["$","p",null,{"children":"在一个被人类猎杀并面临灭绝的龙的世界里，剑客弟子怜莉仍然饱受十五年前噩梦的困扰。故事中提到的《故乡变成石头》、《黑龙》和《吹笛子的人》等情节，让她深陷其中。就在她觉得一切都无望，并打算放弃时，却意外得到了有关“黑龙”出现的消息。为了寻找真相，毅然决然的决定离开熟悉的家园，踏上探索之旅。这是一次面对命运、阴谋与自我的冒险之旅。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/SKZvNwmpM-gW","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

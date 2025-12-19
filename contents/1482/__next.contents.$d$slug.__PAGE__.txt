@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG/汉化/双版本]深红玫瑰2 完结汉化版/付第一部[安卓/5.3G]"}],["$","p",null,{"children":"\n\n\n\n深红玫瑰2 V1.0完结汉化版/付第一部[PC+安卓（Crimson Roses）\n\n\n\n这是一款由[GameForRoses]制作组出品的欧美SLG游戏长篇，剧情向，而且各种转折处理的真心非常好主打复仇/调教内容，剧情满分，玩法优秀现在游戏的第二部也已经完结由[幻想岛汉化组]译制了中文汉化版不仅是完结汉化，还是[PC+安卓双版，而且还附带了第一部的资源！（第一部也是PC+安卓的）真的是一"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1482","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

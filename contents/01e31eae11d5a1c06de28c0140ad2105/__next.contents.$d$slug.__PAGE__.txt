@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/ADV】NYMPHOMANIA（HD）"}],["$","p",null,{"children":"前言本作是根据95版（魔性の貌）为基础进行改编（人物关系、姓名）的一部游戏本作画风质量极高且极具有黑暗向，很难想象是一部05年的游戏搜了一圈貌似其他站没人上传本作，萌新之乡独享作（拍手）注意：由于上传翻译者不会封包，本作是外挂机翻，包内附上luna+翻译文件本作成功之处在于：1、完美塑造了兰这个人物兰不仅在黑暗向的画风展现出极度妖艳的容貌，说话语言也极度魔性就如兰对主人公所说的（我什么都没干只是一步步诱导她们罢了）无论是兰最后的那段自嘲诉苦，还是各个end展现出的内容，无不例外的体现出兰的魅力2"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/01e31eae11d5a1c06de28c0140ad2105","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

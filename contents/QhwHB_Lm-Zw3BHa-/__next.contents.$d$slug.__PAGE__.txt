@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3d动画/无汉化/有码】【動画置場 (フリム)】fantia合集至25年4月20日 【百度网盘/20.30GB】"}],["$","p",null,{"children":"应该是完整的，我知道有人肯定只想要成品，所以我把进度视频和其他一些预览视频给分出来了，想要的可以自下，不想要的直接下载年份压缩包就行。 注意： 1.这是一个zip压缩包，修改后缀为zip，不要其他格式。 2.下载解压出错的一些解决办法： (1)改后缀为zip，不要使用其他格式。 (2)解压软件选择："}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/QhwHB_Lm-Zw3BHa-","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

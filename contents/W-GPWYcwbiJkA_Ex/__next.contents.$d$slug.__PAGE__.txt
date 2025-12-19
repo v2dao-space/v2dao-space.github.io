@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/魔改/安卓直装】Teaching Feeling/奴隶少女希尔薇 Ver4.06【多版本】【M/移动云/3G】"}],["$","p",null,{"children":"内有三个版本奴隶少女希尔薇 v4.0.6奴隶少女希尔薇2.3.1无疤美化魔改版奴隶少女希尔薇3.0无疤美化魔改版    社团名：FreakilyCharming贩卖日：2015年10月27日更新信息：2023年01月25日作者：Ray-K音乐：Ray-K / kyou1110年龄指定：18+作品类型"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/W-GPWYcwbiJkA_Ex","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

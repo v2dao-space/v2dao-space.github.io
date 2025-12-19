@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG/汉化/动态]办公室潜规则 V3.2+2番外 精翻汉化版+全CG[11月更新][安卓/4G]"}],["$","p",null,{"children":"本次资源除了最新版本的本篇，还增加了两个社保独立故事番外游戏。并且还是PC+安卓双端版本，由新的团体完成了精翻汉化版！内容包括：安卓版+目录可见全CG动画。游戏概述：这是一款建模超精美给力的欧美SLG大作，渲染极品还有大量动态作者文笔十分了得，对几个主角心理描写十分到位，文本量非常大作者加了许多内心描述，字里行间十分有代入感现在由迪克次元制作精翻汉化版，目录可见全CG和动画本次资源除了本篇，还增加"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1907","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

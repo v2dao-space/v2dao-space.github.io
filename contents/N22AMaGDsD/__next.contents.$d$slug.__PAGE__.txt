@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【官中/SLG】用洗脑APP调教清纯大小姐的模拟游戏【磁力/600M】"}],["$","p",null,{"children":"入正页面：点击跳转社团名/商标名：dobuworks支持的语言：中文(简体字) 中文(繁体字) 日语 英语分类：触摸/抚摸 淫语 大量汁/液 动画 调教 催眠 洗脑 自由度MAX！　用洗脑APP让清纯的大小姐高潮到发狂，使其堕落成淫乱的雌性奴隶吧！ 最近在漫画或CG收录集中经常见到的“催眠APP”，"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/N22AMaGDsD","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

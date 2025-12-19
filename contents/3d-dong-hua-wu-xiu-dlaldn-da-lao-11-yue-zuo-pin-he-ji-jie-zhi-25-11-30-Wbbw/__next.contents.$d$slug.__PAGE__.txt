@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D动画/无修】dlaldn大佬11月作品合集（截至25.11.30）"}],["$","p",null,{"children":"dlaldn大佬作品11月更新 赞助地址： fanbox：https://www.fanbox.cc/@dlaldn 更新：18千咲、19独角兽短视频更新：阿蒂利奥、恶毒x雅努斯 至于为什么没有更新17.胡桃，因为作者放在fanbox里面的链接不知道是不是放错了还是怎么的，明显不是高清而且没有声音，"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/3d-dong-hua-wu-xiu-dlaldn-da-lao-11-yue-zuo-pin-he-ji-jie-zhi-25-11-30-Wbbw","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

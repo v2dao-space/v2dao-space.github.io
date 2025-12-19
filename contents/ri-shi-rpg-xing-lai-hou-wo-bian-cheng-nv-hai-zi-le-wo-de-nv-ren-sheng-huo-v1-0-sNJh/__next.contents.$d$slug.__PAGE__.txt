@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[日式RPG] 醒来后我变成女孩子了 — 我的女人生活 V1.0 内嵌汉化版 [PC+安卓940M]"}],["$","p",null,{"children":"[日式RPG] 醒来后我变成女孩子了 — 我的女人生活 V1.0 内嵌汉化版 [PC+安卓940M] 游戏简介 一款真正的性别转换沙盒体验！ 一夜之间，你发现自己突然变成女孩了！ 你的生活从此进入了一个全新的维度，充满了各种淫秽事件！ 下载\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ri-shi-rpg-xing-lai-hou-wo-bian-cheng-nv-hai-zi-le-wo-de-nv-ren-sheng-huo-v1-0-sNJh","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

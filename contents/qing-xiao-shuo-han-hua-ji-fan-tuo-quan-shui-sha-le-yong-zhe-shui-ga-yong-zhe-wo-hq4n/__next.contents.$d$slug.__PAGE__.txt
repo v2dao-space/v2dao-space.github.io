@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【轻小说/汉化/机翻】【駄犬】谁杀了勇者/誰が勇者を殺したか 小说1-3卷epub【度盘/12.9MB】"}],["$","p",null,{"children":"PS：第三卷机翻，很不错的一本书，推荐喜欢轻小说的看看 简介 本书的剧情设定乍看之下有着典型的日式 RPG 游戏风格，即一位勇者肩负打败魔王的使命，并在取胜后迎娶公主成为国家的新王。但很显然，严格遵循这种固定套路并不会让故事博得诸多读者的喝彩——本以为故事将会以这条传统主线展开，讲述男主角阿雷斯作为"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/qing-xiao-shuo-han-hua-ji-fan-tuo-quan-shui-sha-le-yong-zhe-shui-ga-yong-zhe-wo-hq4n","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

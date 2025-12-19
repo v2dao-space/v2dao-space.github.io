@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/官中无修】No Alien Dating Allowed!"}],["$","p",null,{"children":"【游戏角色】 莱拉 作为人类最终兵器而存在被传送到了过去的地球，她需要从男主身上获取到繁衍人类的密码改变历史，阻止章鱼星人佔领地球的宿命。 但是作为最终兵器，她沉迷于电子游戏，希望和男主一起留在这个时代。 CV：佐京柚音 月纱 来自章鱼星的章鱼星人均为女性，只能通过依赖其他种族才能得以繁殖的物种。 "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/vpla21nCKZ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

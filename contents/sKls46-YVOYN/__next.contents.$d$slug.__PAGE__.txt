@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/无汉化】女神大陆 女神の大陸 Cum Girls Vol.3+存档"}],["$","p",null,{"children":"闲话\n2024年了,还能看到这么复古的RPG(画风复古就算了,玩法也复古),但好在cg不错,发出来给大伙们看看,Cum Girls还有另外两部前作,但质量堪忧.\n喜欢的话,可以支持一下\n入正:点我\n游戏图\n\n官方介绍\n女神「ディーテ」の司る大陸で繰り広げられる数々の騒動。\nその騒動の悪の元凶を倒せば"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/sKls46-YVOYN","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

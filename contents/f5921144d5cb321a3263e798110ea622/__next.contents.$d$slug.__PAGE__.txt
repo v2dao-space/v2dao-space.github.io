@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/汉化】[BISHOP]おっぱいハート～彼女はケダモノ発情期ッ!?～ いんもらるえでぃしょん【度盘/2.3G】"}],["$","p",null,{"children":"喜欢请入正官网：http://www.bishop.gr.jp/products/ohie/index.html感谢甜族星人赞助汉化汉化者的话：大家好，我是甜族星人。这作是bishop少有的纯爱作游戏，我一直觉得bishop的游戏画风和H度都很合我口味，就是可惜这家公司的游戏大多是催眠，复仇，威胁这类题材，对我来说算是雷区所以没法玩。知道这作是纯爱后很快就安排汉化了。而我觉得战斗中男主的CUT IN真是这作的精华，真的不知道怎样来形容初看到时的感觉，大家自己体会就可～另外这作是多年前已有H动画的"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/f5921144d5cb321a3263e798110ea622","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

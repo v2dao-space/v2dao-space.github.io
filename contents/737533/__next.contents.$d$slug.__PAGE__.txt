@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【互动SLG】睡眠姦!幻想郷の少女～怨霊も恐れ怯む少女～"}],["$","p",null,{"children":"贩卖日2023年12月14日更新信息2023年12月15日 更新信息作者赤坂砂糖剧情赤坂砂糖插画赤坂砂糖年龄指定18禁作品类型模拟 有声音 有音乐 有动画文件形式软件支持的语言中文(繁体字) 日文 英文分类着衣/穿衣 触摸/抚摸 断面图 东方Project 萝莉 睡奸 正常玩法 短发文件容量92.91MB游戏简介「睡眠姦!幻想郷の少女～怨霊も恐れ怯む少女～」、さとりとのインタラクティブな交流を楽しむエロティックなゲームです。ゲームの目標は、さとりとの寝る時に彼女の服を脱ぎ、親密な接触を行うことで"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/737533","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[日系SLG/汉化/动态]基因的爱v0.1.0 汉化版[安卓][/1G]"}],["$","p",null,{"children":"\n\n\n\n基因的爱v0.1.0 汉化版\n\n\n\n剧情介绍：\n\n\n\n在一个充满“天赋”的人的世界里，你是一个年轻的男孩，一生的梦想是成为一名英雄……遗憾的是，你没有任何能力。但是，当您的“Genex”出现时，一切都会改变！踏上“成为英雄”（或者可能是恶棍？）的旅程，同时发现更多关于你的“能力”，与漂亮女孩约会，在学校生存，谁知道……也许更多。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1540","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

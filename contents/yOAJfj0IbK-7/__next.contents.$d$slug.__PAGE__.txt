@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/汉化】龙子的隆隆声 KLK: Ryuko’s Rumble v0.4 【安卓/303M/百度/UC】"}],["$","p",null,{"children":"入正：https://hetzerino.itch.io/klk-ryuko-rumble\n汉化：海阁\n  \n游戏介绍：\n一款以 Kill La Kill 动漫的另类续集为背景的恶搞游戏。\n这款恶搞游戏将经典人物和原创人物融合在一个故事中，故事重点是百合/女同性恋内容和性斗争/摔跤。\n如果您想玩这款"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/yOAJfj0IbK-7","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

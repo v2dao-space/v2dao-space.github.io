@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D/SLG】星体欲望 Astral Lust V0.2.4"}],["$","p",null,{"children":"也是这几天看到的一个游戏 站里有一个0.2.2版本的机翻我去作者主页看了 上一次消息是一年前了 也不知道还在不在更新这个0.2.4版本只有一小部分有汉化的样子  建模感觉还是不错的 然后也有不少足的CG 配音和汉化暂时比较缺失作者patreon上最新的消息说是要直接更新到0.3.0 会加配音和汉化这种看了眼之前的消息也是隔好几个月才一条 然后有说过身体不好（在预告0.3.0之前）现在也不知道现在是不更了还是在继续做等做好了才发  CG静态+动态 卧室电脑里可以回想 不过似乎回想不能选择服装种类还"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/c485a879c2f5fe4dbc22aae64d2fb8f2","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/机翻】退魔巫女渚沙～明けない夜と鬼～【1.7G/度盘】"}],["$","p",null,{"children":"  \n概要：在某个地方城市，一种永夜怪异现象突然发生。古老的退魔巫女渚沙，隶属于与妖魔战斗的组织，在退魔协会的要求下前往城市解决这一事件。—这是一款2D动作游戏，采用关卡攻略模式。通过近距离攻击、远程攻击和利用道具，旨在征服各个Boss。当被敌人打败时，会触发失败H场景。—该游戏是用Unity制作的"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/3V6wreH25Rf8","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

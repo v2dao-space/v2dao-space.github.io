@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/生肉】Succubus: The Lustborn Curse [v0.0.11]"}],["$","p",null,{"children":"一款18+的2.5D动作Metroidvania游戏，融合了沉浸式的色情游戏体验。在这里，你将控制一名堕落的魅魔，展开一场黑暗、情色的旅程，寻找她被盗走的力量。 你将扮演Myrritha，一位曾经强大的魅魔，在一次试图诱惑一位强大祭司的失败后，她的力量被剥夺，变得虚弱且被诅咒。被困在一个腐化的领域，"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Wy0Lcep_IVYpK4Co","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

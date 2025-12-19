@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[绿帽RPG/汉化/NTR] 淫荡的妻子美纪子~我很抱歉，我掉进了深渊 PC+安卓汉化版"}],["$","p",null,{"children":"游戏说明：一款由BKYSS汉化组汉化的日系RPG，一个传统的NTR RPG故事！NTR 是可以避免的，但没有幸福的结局……游戏内容比较多，超过60个H事件，总CG数高达700+游戏介绍：男主若村太郎和妻子美希子结婚已经10年了，太郎10年以来一直面对着同一个女人，已经感到厌倦虽然美希子依然有着熟透的身体和美丽的脸庞，太郎却很难提起兴趣两个人也因为一直无法怀孕生子的事情焦虑着，然而几个黄色头发的身影，正向美希子逼近着......"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/41845b1942430ac8c508ba603dbbe142","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

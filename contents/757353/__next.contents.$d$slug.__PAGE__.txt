@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【里番/魔穗】(无修正)聖ブリュンヒルデ学園 少女騎士団と純白のパンティ THE ANIMATION [合集][4K/1080P/60FPS 修补][CUGAN超分/VSR++超分/GmfSs补帧]【度盘】"}],["$","p",null,{"children":"「甲冑お嬢様の絶頂おもらし」がOVAで遂にキタ――――――――！！！甲冑を纏った騎士たちの競技『甲冑武闘』が盛んな学園で行われる、王と騎士が権利を巡る学園祭『MWF＜ミドル・ウォー・フェスティバル＞何もかもがお上品な女の子たちが“少女騎士”として、俺を巡って争うことに！女子オンリーに男1人な寮生活で、お上品なだけじゃない学園生活がはじまる！！？    话数: 1      原作: One-up      导演: 石毛るい      脚本: 石毛るい      人物原案: オギン★バラ      "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/757353","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

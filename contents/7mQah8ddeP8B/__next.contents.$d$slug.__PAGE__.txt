@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/官中】早咲きのくろゆり+全DLC【Meag/1.82G】"}],["$","p",null,{"children":"https://store.steampowered.com/app/1931940/_/ [角色介绍]     [故事剧情] 那或许是在冬季提早绽放且格格不入的黑百合的诅咒―― 在造成半数未成年死亡的新型病毒「CLII」完全被扑灭的18年后。 人们的日常生活回归以往，但社会层面依旧残留着无法磨灭的"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/7mQah8ddeP8B","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

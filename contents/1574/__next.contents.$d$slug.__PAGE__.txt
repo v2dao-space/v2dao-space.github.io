@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[2D卡牌战斗SLG/汉化/动态] 猎魔人物语 V0.50b 机翻作弊版 [9月更新/PC/2G]"}],["$","p",null,{"children":"\n\n\n\n\n\n\n\n\n\n\n\n猎魔人物语 V0.50b 精翻汉化版（Knightly passion）佚名大佬留言：这个游戏是毛子出品的，毛子的文字我也看不懂，所以就机翻了剧情文本，但对游戏内物品、任务、战斗等进行了汉化校对，各位凑合看吧！见谅！\n\n\n\n由于安卓版本有bug，不能点击地图，暂时先取消了安卓版本的下载，待大佬修复点击问题后重新上传。\n\n\n\nPS：这是时隔4个多月的大更新，容量比上次的v0."}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1574","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

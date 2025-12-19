@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中】Blood Crawler"}],["$","p",null,{"children":"-故事- 曾经有一位叫仁斋的将军创立了一个称为「光之庭」的实验机构，聚集了一大批的战争遗孤， 让他们成为了开发研究特殊能力的实验体，最后将他们打造成士兵为他所用。 南方军谴责这个行为并且与北方军爆发了多次战争， 这些光之庭的实验体们被派遣至前线打前锋，爆发了多场战斗，包含了鼎鼎大名的魔法师露娜芙蕾雅"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/pkjioCToqu4T8tlH","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

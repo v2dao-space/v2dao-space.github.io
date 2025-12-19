@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【新作SLG/官中】火辣可爱：紫罗兰 STEAM官方中文步兵版[无码/200M]"}],["$","p",null,{"children":"所发布资源不得用于商业盈利，否则产生的一切后果将由您自己承担！\n游戏概述：\n这是【Lovely Games】在23年7月28日发布的一款精品互动SLG。\n在STEAM已经发布官方中文版，且还是步兵不骑马版本，非常良心。\n这是一款找茬类型游戏，通过点击图片区域选择左右两副图之间不同。\n过关后可解锁和美女的各种超社保互动活动，且还拥有作弊一键通关。\n游戏背景:\n今天又熬过一天……废柴的你这么想着就被自动贩卖机吞了硬币\n倒霉的事情总是一起来，大雨倾盆而下，被机车溅起的水花浇满全身。\n“喂，你没事吧”\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/xin-zuo-slg-guan-zhong-huo-la-ke-ai-zi-luo-lan-steam-guan-fang-zhong-wen-bu-bing-ban-wu-ma-200-m","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻/PC】处女时间循环：在那个女孩被强奸之前将她变成你的冒险/童貞タイムループ～あの娘がレイプされる前に自分の物にするアドベンチャー～"}],["$","p",null,{"children":"所发布资源不得用于商业盈利，否则产生的一切后果将由您自己承担！制作介绍 社团名sweetspot贩卖日2023年10月25日更新信息2023年10月31日 剧情羽黒翼插画まめでんきゅう年龄指定18禁作品类型冒险 有声音 有音乐文件形式软件支持的语言日文分类学生 制服 亲热/甜蜜 被寝取/NTR 凌辱 多p/乱交 轮奸 巨乳/爆乳文件容量665.74MBDL链接:点击这里■游戏情况〇类型 时间循环冒险〇CG数量：14张（全彩）〇结局：纯爱结局2种、Bad结局2种、后宫结局1种、奖励结局1种〇可回忆"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/724928","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

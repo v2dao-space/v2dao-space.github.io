@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"逆天邪传"}],["$","p",null,{"children":"道消魔长，魔门人才辈出，其中三大势力之一的“冥岳门”在“阎皇”君逆天的领导下，俨然已成为魔道第一大派，并隐有袭卷天下之势。白道武林虽然对前者残暴无情的统治手段感到不满，却自认无人是君逆天之敌，只能苟且偷生，也有人暗中聚集残存的反抗势力，静候一个“时机”的到来。\n君天邪，史上最恶劣的男主角，背负着伊底帕斯的悲剧宿命，逆父乱母，这样的“他”！可会是天下的唯一救星？\n玄武历三四三年，有人说这是最光明的年代，也有人说是最黑暗的时代。\n过去已经隐没在历史的洪流中，未来仍是一片浑沌不明。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/pTHgP_P6RA","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【绿色RPG/中文/动态/CV】NTR猎人：久子的秘密 V1.2【安卓+PC】官方中文正式步兵版【新作/560M】"}],["$","p",null,{"children":"NTR猎人：久子的秘密V1.2 官方中文正式步兵版 （NTRハンター：久子の秘密）  PS：可用新版JoiPlay1.20.590版本游玩  模拟器下载和教程点"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/PJOTJ56QGqX78luB","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

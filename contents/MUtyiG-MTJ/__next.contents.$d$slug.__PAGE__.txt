@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【同人动画/汉化】【Bottwo】鸣潮篇:听说黑海岸最近也有好康的?【度盘/2.82G】"}],["$","p",null,{"children":"ai中配 bottwo大佬的作品，看起来还是挺顶的，语音使用的ai配音，剧情方面是ntr，可惜楼主被各种大雷作者迷花了眼，面对这正常大小的黑雷点点（我还是喜欢粉的，喜欢粉的才是正常的吧，对吧，对吧）已经感受不到满足捏（都是大雷害了我啊啊啊啊啊啊），发给各位尝尝咸淡（8005大佬的loving mot"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/MUtyiG-MTJ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

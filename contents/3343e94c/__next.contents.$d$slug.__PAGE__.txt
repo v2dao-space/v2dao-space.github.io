@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【大型互动SLG/触摸抚摸/全动态】夏色课程～最后的夏天时光 V1.0 机翻汉化"}],["$","p",null,{"children":"■箱中千金小姐与秘密的亲密课程♪因机缘巧合，男主角成为了一位箱中千金小姐的家庭教师。在只有两人的空间里，心与身体逐渐靠近，最终发展成亲密的关系……■正宗(?)Live2D触摸游戏这是一个使用鼠标进行实时触摸的游戏。抚摸头发、脱衣服、揉胸、做爱……通过触摸提升好感度，角色的反应会随之改变。■角色介绍三宫 夏日（さんのみや なつひ） CV:明里芽依，箱中千金小姐。性格内向但温柔。对性有兴趣，但几乎没有相关知识。对自己稍微丰满的身材有些在意。 游戏特点■安心的游戏系统这是一个通过与女主角对话和亲密接触"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/3343e94c","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中无修】Monica’s Newlywed Life"}],["$","p",null,{"children":"莫妮卡终于和青梅竹马的爱人结婚了，现在他们决定在新的城市定居下来。但是获得居住权需要缴纳一百万资金！打工，讨伐怪物，不论用什么方法，莫妮卡都必须在限定时间内赚到足够的钱！名称: 买房新妻莫妮卡类型: 独立, 角色扮演开发商: Acerola发行商: Kagura Games系列: Kagura Games发行日期: 2024 年 9 月 7 日在 Steam 上购买 买房新妻莫妮卡 立省 20% (steampowered.com)故乡被魔王的军队夷为平地后，莫妮卡与儿时玩伴凯尔和索菲亚组队踏上"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/177ca3cc","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

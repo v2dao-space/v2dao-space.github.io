@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG/生肉][生まれ変わったら王様になりたい]女体化でイキなりエッチになった学園生活かよ!"}],["$","p",null,{"children":"社团生まれ変わったら王様になりたい日期2023年12月23日 0点年龄18禁类型角色扮演有音乐形式软件语言日文标签换装 日常/生活 色诱 女体化 性转换（TS） 强奸 男性受大小181.82MB女子生徒の日常生活  突然女になった男子生徒のリアルな女子生徒を体験する学園生活ゲーム美女と化した男の女性生活!元男の俺が、オンナとして、オンナならではの日常体験!【俺、いきなり美少女になる】友達と海水浴(ナンパ目的)に行って砂浜から少し離れたところに波に削られたのか洞窟があった一人であったが好奇心から洞"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/765109","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

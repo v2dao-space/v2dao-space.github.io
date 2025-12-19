@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【体验版】【SLG/生肉/I&#8217;m moralist】淫神供儀ネヲナ～TS変身退魔少女の屈服～"}],["$","p",null,{"children":"心心念念的新游戏终于出测试版了，游戏的贩售日期是七月上旬，还是可以期待下的  『淫神供儀ネヲナ～TS変身退魔少女の屈服～』体験版　５月２１日火、DLsiteで先行リリース！日曜の夜……過ぎ去っていく休日に悶絶する時間ですよね……でも今週は大丈夫！！　明後日２１日火、淫神供儀ネヲナの体験版が出ます！君もTS変身退魔少女になれる！！というわけで、ネヲナ体験版が完成したので予告申請しました！時間は随時ということなので分かりませんが、２０２４年５月２１日火曜日に出ます！！是非お試しプレイお願いします！！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/768763","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

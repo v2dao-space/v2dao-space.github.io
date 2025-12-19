@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】eNTRusted Everwhite [v0.5.8]【1.88G/度盘】"}],["$","p",null,{"children":"  \n概述：绯色是一个生活在荒凉村庄的年轻人。他渴望有一天能成为英雄。然而，他技能不足、体格薄弱、遭受恶劣的欺凌以及家人对他梦想的缺乏支持，都让他的生活充满了困难。在绯色与命运抗争的过程中，厄运不断累积，甚至将他推向绝望的边缘。这究竟是祝福还是诅咒？他在旅途中获得了珍贵的盟友，但这些盟友却吸引了他唯"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/pbsszQH3Jv5R","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

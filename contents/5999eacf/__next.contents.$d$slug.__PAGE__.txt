@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】新妻クロエが堕ちるまで【720MB/百度】"}],["$","p",null,{"children":"剧情为了帮助无辜遭遇陷害的丈夫，新婚妻子库洛艾与丈夫的朋友一起潜入地牢。然而，冒险的日子并非风平浪静，暗地里实则潜藏着一些不为人知的企图。概要玩家将以库洛艾视角在地牢中冒险以帮助她的丈夫。在随机生成的地牢中，玩家需要选择前进的目的地，时而触发事件，时而获得宝箱，更可能遭遇强大的敌人。库洛艾面对的不仅仅是袭来的敌人，还有对自己觊觎已久的同伴。与此同时，库洛艾还在城镇里进行各种“工作”，其中不乏一些不正经的内容……库洛艾究竟是在守住贞操的同时救助她的丈夫，还是会逐渐堕落呢？・H场景：36种（大部分场"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/5999eacf","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

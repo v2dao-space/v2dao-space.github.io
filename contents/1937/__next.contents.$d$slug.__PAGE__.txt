@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[日系RPG/2D/双端/机翻] 所谓的NPC强奸2-日本游戏中罕见的旅程汉化版 [PC+安卓/2.5G]"}],["$","p",null,{"children":"所谓的NPC强奸2-日本游戏中罕见的旅程汉化版这是由BKYSS汉化组汉化的日系rpg，\n\n\n\n游戏为NPC女干类型，超多女主可以上垒\n\n\n\n拥有77个基本HCG的大容量NPC强奸rpg！\n\n\n\n配备无反应状态和发情状态！\n\n\n\n在游戏版本中，有 54 个女性 NPC\n\n\n\n游戏以成功移植安卓，并给VIP用户和单买用户增加了 [作弊器+全CG回想]\n\n\n\n[游戏介绍] ：在20XX年，广泛使用全潜式"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1937","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

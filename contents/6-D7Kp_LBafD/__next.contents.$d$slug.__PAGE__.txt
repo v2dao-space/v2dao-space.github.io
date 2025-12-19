@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中无码】煌星のヴィクトリアーズ / 煌星的胜利女神"}],["$","p",null,{"children":"\n游戏概述：\n这是[Akari Blast!]在23年7月6日发布的一款大型战斗RPG。\n讲述王子沃尔夫与八位女神一起冒险旅行，阻止帝国的野心的故事。\n这是一款注重爽快感的独特活跃战斗的RPG，可操控角色非常的多。\n多个女主不同职业，每人都是各自擅长的技能和魔法，展开华丽战斗！\n当然エロ场面也十分的"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/6-D7Kp_LBafD","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

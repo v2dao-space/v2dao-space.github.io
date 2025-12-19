@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中/无修正】PrincessProject-プリンセスプロジェクト-v1.00【度盘/834 MB】"}],["$","p",null,{"children":"声明本文为补档，原文为【汉化步兵RPG】公主养成计划 – 萌幻之乡 (moe-acg.com)，是这位佬的真步合理，我看佬最后一篇文章是三年前所写的，心想秒传炸了佬可能一时半会补不上来，那我就先来补个档，正好这游戏也快下架了。入正链接：https://store.steampowered.com/app/1106080/_/DL链接：【50%OFF】PrincessProject -プリンセスプロジェクト- [とらいあんぐる！] | DLsite 同人 – R18游戏简介 社团名とらいあんぐる！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/0d1eac16e1a36009263eb5264d1dc221","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

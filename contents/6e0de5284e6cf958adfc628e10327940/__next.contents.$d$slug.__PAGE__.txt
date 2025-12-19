@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【精品SLG全动态新作】JOY LIFE 4 官方中文版"}],["$","p",null,{"children":"你的隔壁新搬来了一位邻居。她肤如凝脂，总是带着元气又甜美的笑容，柔顺的头发垂在颈侧，再往下便是曼妙的身材……她叫海曼，这个名字总是不断地浮现在你的脑海里，使你着迷。在这个看似平凡的世界，你的生活因为这位幻想中的女友而变得不再平凡。海曼的到来不仅为你的生活带来了诸多浪漫和惊喜，同时也带来了一系列挑战和冒险，你愈发沉醉在和她的相处之中。可你逐渐意识到，她似乎并不像你想象中的那么乖巧可人。海曼究竟有什么秘密呢……？"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/6e0de5284e6cf958adfc628e10327940","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

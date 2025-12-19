@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【生/探索类RPG/RJ01094646】ドレイノアクム附全CG教程"}],["$","p",null,{"children":"作品内容贩卖日2023年11月25日更新信息2023年12月01日更新信息剧情蟹紅茶插画塞翁が牛年龄指定18禁作品类型角色扮演文件形式软件支持的语言日文分类沉迷快乐 怀孕 出产 凌辱 奴隶 羞耻/耻辱 强制/硬上 兽奸文件容量277.52MB【STORY】──舞台はとある大陸。傭兵ノアは生き別れとなった弟と再び出逢うため放浪の旅を続けていた。永きに亘る冒険の果て、彼女はとうとう弟の居場所を突き止め彼のいる王国を目指す。だがその道中、補給に訪れた道具屋で盗賊団の噂を耳にし──。「彼等に捕らえられた"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/730009","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

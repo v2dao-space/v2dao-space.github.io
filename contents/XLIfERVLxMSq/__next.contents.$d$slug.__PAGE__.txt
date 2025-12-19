@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【里番/熟肉】魔法闘姫リルスティア2/魔鬥姬莉斯緹亞2 4k60fps"}],["$","p",null,{"children":"GmfSs补帧 CUGAN超分 文件信息 时长：00：16：23 分辨率：3840*2160 总比特率：27952kbps 帧率：60fps 文件大小：3.2G 汉化组：樱都汉化组          下载完后缀改为7z解压 提取码和解压码都是qurn 后续只发布1080p/2k +  60fps/1"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/XLIfERVLxMSq","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/ADV】影人葬"}],["$","p",null,{"children":"前言本游戏从安装到游玩没难度，（啃生肉的）LE勾选第二个、第三个选项本作悬疑色彩很重，一旦悬疑过重接着就是狂气（晚上慎玩）游戏附机翻，需要动手能力—-感谢2DFan分享大佬（只是搬运工）  Story絶海の孤島に、その屋敷は黒々と聳えていた。探偵・三津木を招じ入れたのは、妖艶な未亡人と愛らしい双子の兄妹。誘われるまま、けれど待ち受けていたのは現実と非現実とが入り交じる悪夢の夜。血の記憶。肉の温みと、鼓膜をつんざくあの、悲鳴。いとけない少女の声は、夕映えの中、密やかに囁く。「お か え り な さ"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/764204","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"小芳芳童话集"}],["$","p",null,{"children":"《小芳芳童话集》，一本只适宜成年人阅读的童话集。什么，情色文学也能写成童话？没错，小芳就是这么一个另类的美媚。初看她的文章时偶也吓了一跳，情色文章还能这样写啊。当然，既是童话了那情色的内容也相应少了些，不过倒是有不少的搞笑场景出现，偶尔看看绝对能令你捧腹。可惜这样的调调不太适合偶，看的也仅是零碎的几篇而已，如果你是一个岁数不大的毛头小伙还捧着安徒生的童话看的话，那么去看看小芳的文章肯定是个不错的选择。\n关于小芳：林咏芳，笔名小芳芳， 香港网上女作家。《小芳芳童话集》是她的成名作。此外，她还着有《少女冒险团》、《THREE-A》等灵异故事，及《姐姐的暑假》、《哥哥的房间》等轻松小品。她亦有把日语故事翻译成中文，她的翻译作品有《影忍》。小芳芳是恶魔岛的少见的女作家，以恶搞和戏弄男性的文章见长，号称“人见人爱，车见车载，宇宙无敌大美女”。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/x7s66j_U9r","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

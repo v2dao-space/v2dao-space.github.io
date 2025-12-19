@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/双端]重制:深度的复兴 / Depth's Revival【Rework】 Ch10.5"}],["$","p",null,{"children":"一款成人视觉小说，会随着您在游戏中做出的选择而改变。您扮演一名大学生，唤醒他的潜意识以改变他的生活。在潜意识的帮助下，他可以成为他一直想成为的人。所以继续努力，让你的梦想成真吧。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/0a8b4b60b56b3166b5a35c3f9d2e0350","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

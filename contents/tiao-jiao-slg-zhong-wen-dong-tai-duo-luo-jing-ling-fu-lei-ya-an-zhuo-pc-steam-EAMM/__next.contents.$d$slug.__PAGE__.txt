@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【调教SLG/中文/动态】堕落精灵·芙蕾雅 安卓+PC steam官中步兵版 【新作/1.4G】"}],["$","p",null,{"children":"【调教SLG/中文/动态】堕落精灵·芙蕾雅 安卓+PC steam官中步兵版 【新作/1.4G】 给大家分享一款体验当哥布林的日式SLG游戏   这是一款由[Honey Rider]作者在21号发布steam平台 咳咳，这一次你要\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/tiao-jiao-slg-zhong-wen-dong-tai-duo-luo-jing-ling-fu-lei-ya-an-zhuo-pc-steam-EAMM","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

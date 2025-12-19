@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【GAL/汉化】おにあま -わたしに甘えて、お兄ちゃん-【466MB】"}],["$","p",null,{"children":"游戏类型制作公司：プレカノ 发售日期：2020年01月31日汉化日期：2020年08月30日汉化小组：白井木学园汉化组游戏类型：后辈、青梅竹马、同居游戏原名：おにあま -わたしに甘えて、お兄ちゃん-游戏别名：尽情撒娇，请更多的依赖我吧，哥哥！/甜心萌妹~对我尽情撒娇吧，哥哥~剧本: 玉城琴也原画: 木場智士剧情介绍就职于都市的主人公因业务繁忙，日益身心惧废……有一天，走读于某个学校保育科专业的女主人公「鴨下茜」因保育实习，来到了1人住在幼儿园附近的主人公家里寄宿一周。然而，主人公毫无自立能力。扫"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/e02afc7539f7efbe93a29206232319c8","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

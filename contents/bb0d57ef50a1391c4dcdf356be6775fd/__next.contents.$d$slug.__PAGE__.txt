@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC/ADV]异想魅惑 魅惑星奏 Kimagure Temptation"}],["$","p",null,{"children":"某栋公寓里发生了一起居民4人全员死亡的事件。被发现的时候，他们的腹部被剖开，器官也已经被拿走。公寓里充满瘴气，事件背后飘荡着恶灵作祟的气息。由于已经超出警察的能力范围，负责管理和降服非人之物的机关，阴阳舍派遣年轻阴阳师巽悠久，着手调查事件。本应与因某些原因从英国跨海来到日本的恶魔 安妮丽丝一道，解开居民死亡的离奇事件的真相，巽悠久却发现夜之眷属的安妮丽丝，比起解决事件，似乎对悠久的下半身更感兴趣。面对安妮丽丝热烈的攻势，缺乏与女性的交流经验的悠久节节败退。他究竟会摆脱诱惑的束缚，还是委身于欲望呢？在这栋受诅咒的封闭公寓中，急于解明真相的阴阳师与一心渴望与他亲热的恶魔的奇妙的同居生活开始了。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/bb0d57ef50a1391c4dcdf356be6775fd","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

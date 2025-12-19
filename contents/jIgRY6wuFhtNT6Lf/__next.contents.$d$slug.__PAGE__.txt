@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】清纯女教师的本性～被奸诈正太调教堕落～ 清純女教師のメス本能～マセガキショタに堕とされて～ 【度盘/578M】"}],["$","p",null,{"children":"◆ 故事概要少年小隆和比他年长的青梅竹马弥生，从外人看来像是姐弟一般亲密。然而，实际上两人是恋人，早已私下许下未来，甚至有了肉体关系，尽管尚未发生真正的性行为。就在这时，弥生以教师身份调任到小隆的学校。可惜她并未被分配到小隆的班级，两人虽然期待关系更进一步，但弥生的状态却日渐异常。原来，狡猾的色情少"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/jIgRY6wuFhtNT6Lf","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG/汉化] 碧池外交官~ビッチガバメント V1.00 巴比伦精翻汉化版 [630M/新汉化]"}],["$","p",null,{"children":"\n\n\n\n\n\n\n\n碧池外交官 V1.00 精翻汉化版（ビッチガバメント）这是一款由[猫尺]制作组出品的日式rpg游戏\n\n\n\n发售于19年初，有着十分奇妙的剧情设定\n\n\n\n简单来说，就是走一路，卖一路（笑）\n\n\n\n整体画风有点怀旧风格，但是CG细腻实用度很高\n\n\n\n现在已经由《巴比伦汉化组》译制了中午汉化版\n\n\n\nRona老哥翻译，文本质量十分不错\n\n\n\n推荐尝试一番~\n\n\n\n戏已经解包，根目录可以欣"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1606","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

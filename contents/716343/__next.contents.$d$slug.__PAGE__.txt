@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[ACT] 血之翼V0.21"}],["$","p",null,{"children":"游戏作者:黑暗朝圣者，游戏有血源、只狼的元素，暂时只有百合CG、别的战败CG女主死的很惨，是断肢之类的。在游戏设置可以开和谐模式，和谐模式没有流血、断肢之类的画面，游戏是默认关闭和谐模式的、、、战斗：https://www.bilibili.com/video/BV1DN4y1X7YW/?spm_id_from=333.999.0.0&vd_source=af18036688eab31f3e95d7f1330c337d"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/716343","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

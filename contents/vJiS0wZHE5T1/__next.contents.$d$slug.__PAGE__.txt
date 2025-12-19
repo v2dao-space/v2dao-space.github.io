@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】 女冒险者莉丝蒂和博奇诺村 女冒険者リスティとボッキーノ村 【1.2G/度盘】"}],["$","p",null,{"children":"  \n【简介】冒険者莉丝蒂接受了来自性欲暴走的危险诺村的请求，希望她能解决这个严重问题！到达村庄后，她却频繁遭受大叔们的各种性骚扰…莉丝蒂究竟能否顺利完成任务呢？\n\n\n\n\n社团名\nエロいのあるよ \n关注92\n\n\n\n\n\n\n\n\n\n\n\n\n\n支援社团也可以使用DL点数进行支援\n\n\n\n\n\n\n\n贩卖日\n2024"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/vJiS0wZHE5T1","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

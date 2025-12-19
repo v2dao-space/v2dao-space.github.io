@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG/汉化/动态]松瀑镇：1+2部 精修汉化完结版+全CG[安卓][12G]"}],["$","p",null,{"children":"内容介绍：这是由我的失忆女友作者制作的最新作品，游戏质量非常不错。建模的CG画面精细比起失忆女友有了非常明显的进化。游戏动态CG十分生动，连游戏封面都是全动态CG做成的，太精致了！游戏里的美女们非常漂亮，确实建模都有了质变的提升，尤其格蕾丝真女神！丰富的剧情配合CV语音，H事件加上社保的动态CG，非常值得尝试！\n\n\n\n\n\n\n\n游戏介绍：你是一位成功的作家，为了寻找创作灵感，你决定离开所在的城市一段"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/659","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

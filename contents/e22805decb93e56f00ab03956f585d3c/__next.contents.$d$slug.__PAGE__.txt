@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":" [爆乳RPG/汉化/动态]菲拉的契约娼馆 内嵌AI汉化版+存档[新汉化]"}],["$","p",null,{"children":"元素家族，一个通过击败恶魔而声名鹊起的氏族。女主人费拉被称为稀有一代的法师，她整天在一座美丽豪宅的房间里安慰自己。我......我丈夫的想法，他现在已经去世了。失去配偶的悲痛给她的身心带来了巨大的失落感。我再也不会满足了...... - 在我这么认为之前，恶魔女孩提供了一份合同。“你会重新获得你的爱，还是会在孤独中颤抖...... 这取决于你......选择。对于因孤独而颤抖的人来说，这些话太甜蜜了。在与恶魔女孩达成交易并实现她的愿望后，费拉被邀请到天堂之城，一个充满欢乐和混乱的城市，以支付代价。我到达的是一家妓院。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/e22805decb93e56f00ab03956f585d3c","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"艾妮希雅与契约纹 ～马蹄大街的娇弱圣女～ v1.02"}],["$","p",null,{"children":"艾妮希雅作为一名修女过着简单而忙碌的生活，她是旧都美吉斯塔最后一座雷斯塔教堂的唯一管理者，但某天，她的生活忽然陷入了混乱。吉美特商会的商人来到教堂，不知为何对方居然拥有教堂的土地证！？对方表示可以以土地为抵押贷款让她买下这块地，这样教堂和附属孤儿院都能得以保留。但作为交换，她必须和对方签订刻印契约。偿还巨额债务的最后期限日渐接近，艾妮希雅必须想办法解决这个问题。她会怎么去赚取这笔巨款？吉美特商会是怎么拿到教堂的土地证的？为什么旧都美吉斯塔忽然同时出现了那么多问题？一切真相都有待你去发掘！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/cf33be8f3efa5efac2e10f14c4444634","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

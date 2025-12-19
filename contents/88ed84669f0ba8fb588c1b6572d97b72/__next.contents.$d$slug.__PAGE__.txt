@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【轻小说/汉化】讨厌书的我，恋上图书室的魔女 -epub-01"}],["$","p",null,{"children":"截然相反的两人透过「书籍」拉近了心灵的距离成功高中出道，被公认为是阳角的清水奏太。和朋友说的梗大都是手机上看的。手机上的内容既有趣又刺激，可以轻松享受的内容超级多。反之，在信息过剩的今天，读书又累又花时间，作为娱乐而言性价比极低，那些阅读爱好者是怎么想的，奏太实在是无法理解。直到在高一秋天，他遇到了她——  讨厌书的我，恋上图书室的魔女本嫌いの俺が、図書室の魔女に恋をした– 制作信息 –作者：青季ふゆ 插画：sune翻译：心夏嵌字：闲的无聊e书组ePub：闲的无聊e书组仅供个人学习交流使用，禁作"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/88ed84669f0ba8fb588c1b6572d97b72","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

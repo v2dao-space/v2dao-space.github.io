@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【GAL/生肉】ハッピーウィークエンド【度盘/3.4G】"}],["$","p",null,{"children":"25/06/27 资源解压方式：将文件后缀修改为zip，而后使用winrar进行解压。 网盘资源提取码：   作品内容 Getchu界面：点击 游戏官网：点击 作品紹介  『一次偶然的邂逅，便是恋情的开端……？』 「大学生略带成熟的恋爱」 HOOKSOFT 虽然推出过许多校园题材的作品，但本作将为您"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/La2gWPIoWE0bGp2f","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

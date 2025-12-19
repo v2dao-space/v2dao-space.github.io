@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/汉化】[091023][WAFFLE]巨乳幻想HD/巨乳ファンタジーHD[度盘/1.44G]"}],["$","p",null,{"children":"喜欢请入正：getchu：https://www.getchu.com/soft.phtml?id=663913DL：https://www.dlsite.com/pro/work/=/product_id/VJ004330.html红毛好涩！（所以放了多点她的预览图）感谢匿名汉化者的辛苦付出：大家好，我是甜族星人。這次的發布和我沒直接關係，是某位紳士由於喜歡這遊戲而翻譯的。他沒發布平台所以拜託我在這裡發布。大家感謝這位紳士吧9/8/2024甜族星人无法确判定是否为个人润色的机翻汉化，具体情况请"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/b1d390ec35d242a849f449a5bcffb559","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

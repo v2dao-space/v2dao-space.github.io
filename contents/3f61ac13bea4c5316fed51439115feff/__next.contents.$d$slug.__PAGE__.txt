@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC/ADV]废村少女 ～妖异魅惑的笼之乡～ 廃村少女 ～妖し惑ひの籠の郷～ 精翻汉化版"}],["$","p",null,{"children":"剧情简介（来自2dfan）：这是在一个小的地方城市所流传的，关于与世隔绝的村庄的传说。为了调查在自己生活的都市留下的古老的传承，主人公·八云一树，与自己社团的少女们一同，踏入了传说中的山涧。……这本应是，随处可见的，在青春中写下一笔的小旅行的。“……这里是，哪里？”等回过神的时候，一树等人发现自己身处一个陌生的地方。在薄雾之中腐朽的房屋。仿佛时间停止了一般的浑浊空气。虽然除了他们之外就没有其它人了，但是周围到处都残留着生活的痕迹。那就是被人们所遗弃的，深山之中的小小废村——传说中的世隔绝的村庄“"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/3f61ac13bea4c5316fed51439115feff","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

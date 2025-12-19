@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【2D动画/无码】MurPloxy合集【805MB】"}],["$","p",null,{"children":"https://ploxy.fanbox.cc/画风很萌的作者，只弄了我喜欢的。两天被康娜啃是巧合吗( ﾟ∀。)换成了国外的网盘，能裸连，速度还行，挂梯子下载速度会快一点。实在不行搞个免费的梯子弄到下载链接，再用idm下。点下载会弹出广告窗口，直接关就行了。总之就是多点几次下载，弹出的新窗口直接关。下载和问题解决的方法我都给了，下不了就是你的事了，别来烦我。以后也不会再特意说明了，这些只要是有脑子经常上网的应该都懂。（idm裸连）下不了或者嫌弃的建议买个nas造福大众。让朋友测试了，裸连+没注册"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/756751","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

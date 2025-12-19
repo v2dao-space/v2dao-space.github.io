@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】 コン恋! ~ 妖狐こんの恋愛レッスン ~ 【765M/度盘】"}],["$","p",null,{"children":"【故事简介】          大妖怪”九尾狐”用她的九条尾巴创造了九个分身。相传狐妖的分身拥有实现人类愿望的能力。它们通过实现人们的愿望，获取”代价”作为回报，从而进一步增强狐妖本体的力量。          其中一个分身来到了远东之国，不断蛊惑着人们。虽然被阴阳师识破，但由于无法杀死狐妖，只能将"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/5I4vK7V7ZJRW","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

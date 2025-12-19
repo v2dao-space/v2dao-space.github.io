@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/AI汉化】七日 与陌生JK的密室生活 セヴンデイズ 見知らぬJKと密室生活 【度盘/1G】"}],["$","p",null,{"children":"游戏介绍在幕后黑手美少女的诱惑下，你能否坚持自己的“强烈意志”并与JK一起解开谜题逃出生天？ 游戏背景你是一位拥有“强烈意志”和“使命”的人。——但是，面对各种诱惑，你的“强烈意志”能坚持得住吗？你将到达的未来是：– 逃脱和真相？– 与JK的堕落生活？– 还是对其他女孩出手？– 或者，任由欲望驱使，"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/hJLFCF8Pq_OueGik","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

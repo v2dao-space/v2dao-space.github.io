@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"尼夫海姆的猎人：阿瑟尔的烙印 V1.0 STEAM官中+DLC+本体存档"}],["$","p",null,{"children":"游戏介绍： 阿瑟尔是一名刚刚开始崭露头角的女猎人。在一次机缘巧合（或者说极度不巧）的遭遇下，她被一头魔兽在身体上留下了恶魔的烙印。这个烙印可以大幅度增强受印者的体能，并能够让受印者使用神秘的魔力。然而阿瑟尔发现，她越是激发烙印的力量，就越有"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4c2044090ea67d02f73b3e4f379c7378","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

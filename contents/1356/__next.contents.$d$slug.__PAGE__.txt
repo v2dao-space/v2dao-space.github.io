@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[汉化/RPG/动态]宝物猎人舞~传说之宝~ 完全汉化版 + 外传[1G]"}],["$","p",null,{"children":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[游戏简介]\n\n\n\n传说，有那么一个女孩，她梦想着能去最最厉害的地方冒险，\n\n\n\n传说，有那么一个世界，那里埋藏着前人留下的最最厉害的宝物，\n\n\n\n有那么一天，女孩阴差阳错下来到了那个世界，我们的故事由此展开…\n\n\n\n梅尔拉恩大-陆，地大物博，美丽富饶，\n\n\n\n位于中部大-陆的猎人之城——梅尔拉恩城则更是商人，旅者，宝物猎人们最喜爱的枢纽之城，但是，最近梅尔拉恩城内"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1356","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

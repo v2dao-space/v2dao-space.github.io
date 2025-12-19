@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3d动画/无汉化/有码】【ぱすたの動画保管庫 (ぱすた)】fantia和iwara合集至25年8月1日【百度网盘/110.92GB】"}],["$","p",null,{"children":"注意！！！！！！！ 至25年6月的合集里，里面的文件因为特殊原因只能使用winrar解压，而且要最新版，不要用旧版和其他软件，否则会解压报错，注意！ 手机解压就使用rar，苹果就使用解压专家，反正文件在这，有问题就跟我说，实在不行我抽时间再压缩上传一份。 之后的文件就可以用正常软件解压了，没有特殊要"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/X895WoELAon7Gdvb","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

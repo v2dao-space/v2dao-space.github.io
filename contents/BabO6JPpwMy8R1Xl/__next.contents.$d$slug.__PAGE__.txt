@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【安卓/ADV】甜蜜女友2 Ver1.2 安卓汉化移植版+大型日式ADV游戏+4.40G"}],["$","p",null,{"children":"甜蜜女友2 Ver1.2 安卓汉化移植版+大型日式ADV游戏+4.40G   游戏简介 这款由海豹社出品的经典ADV续作，以深秋田园为舞台， 讲述男主与三位性格迥异少女的甜蜜邂逅。 游戏凭借顶级原画与超高质量CV阵容， 成为日系纯\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/BabO6JPpwMy8R1Xl","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

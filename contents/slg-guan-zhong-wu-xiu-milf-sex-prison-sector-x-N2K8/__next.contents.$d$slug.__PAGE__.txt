@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无修】MILF Sex Prison: Sector X"}],["$","p",null,{"children":"《熟女性爱监狱：X区》—— 一部权力与欲望在秘密宇宙监狱高墙内交织的变态视觉小说。 你被随机任命为一个实验性区域的典狱长。在这里，女皇决定用一种非常特殊的方式，来“再教育”银河系中最危险的女性罪犯。 每日，你巡视牢房、审讯、检查、惩处……但这些女人绝非顺从之辈。她们嘲弄、操纵、诱惑、破坏规则——这意"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/slg-guan-zhong-wu-xiu-milf-sex-prison-sector-x-N2K8","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

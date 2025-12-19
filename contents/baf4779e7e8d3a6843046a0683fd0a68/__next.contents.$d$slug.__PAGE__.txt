@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【2D动画/动图/CG/无码】CountMoxi合集【6V/93P/872MB】"}],["$","p",null,{"children":"https://www.patreon.com/user?u=4164124像素专精的作者，可惜最近的作品都只是CG和循环动图。出自SFC圣剑传说3。左边的动画是为了骗兽人士兵开牢门搞的色诱，然后在重制版里改了演出，变得毫无色气。另外SFC原版在旅馆睡觉是会脱衣服和鞋子的，在重制版就直接睡了。真有你的啊，史克威尔.jpg"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/baf4779e7e8d3a6843046a0683fd0a68","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

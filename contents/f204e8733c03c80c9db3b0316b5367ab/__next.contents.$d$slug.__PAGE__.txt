@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【爆款RPG/中文】邪恶女干部任务 来自卡尔戈斯团的诱惑 V2.0"}],["$","p",null,{"children":"游戏简介： 邪恶的女干部×RPG！ 邪恶组织的女干部们对英雄设置了许多诱惑陷阱的游戏 不仅有女干部，还有熟悉的战队英雄，被邪恶组织操纵的城市居民也会用各种方式来诱惑主人公！ 一旦失败就会立即进入失败软萌场面！没有任何逆转机会！ 能否经受住考"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/f204e8733c03c80c9db3b0316b5367ab","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

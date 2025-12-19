@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"太空站的魔女"}],["$","p",null,{"children":"游戏简介：由于某种原因，阿波罗空间站陷入混乱。被当作  实验对象的外星人是时候揭露她作为女巫的真实身份了。你所要做的就是履行你的职责并离开这里。{collapse-item label=\"作弊\" close}・Ctrl + C + H无敌模式*因无法逃脱而游戏结束的情况仍然存在。・Ctrl + C + M无限法力模式・Ctrl + C + G获得9999个灵魂碎片如果想游戏开始时立即使用所有魔法，请使用此输入键。・Ctrl + C + O无 H 模式女主角的衣服是不能撕破的。 不會发生H事件。{"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1bcf10e4e3787529aa54ca731902ca03","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

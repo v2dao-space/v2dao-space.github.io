@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【日式SLG/中文/动态】姊妹的侍奉 官中步兵测试版 【新作/3G】"}],["$","p",null,{"children":"给大家带来一款相当涩琪的养成类SLG游戏 姊妹的侍奉 官中步兵测试版   这是一款[8cmSam, BananaKing]作者在13号上架steam平台 咳咳，这一次你居然是要当富二代！还是有两个极品女仆的富哥 游戏玩法非常简单，\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ri-shi-slg-zhong-wen-dong-tai-zi-mei-de-shi-feng-guan-zhong-bu-bing-ce-shi-ban-MqOH","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/汉化/双端】精灵蕾雅 Reya the Elf V0.6.4Special Edition【百度/夸克/3.5G】"}],["$","p",null,{"children":"入正：https://www.patreon.com/yoshimitsu\nMaxLee汉化（精翻版）\n  \n概述：\n在一个不同种族学会共存的世界里，有一个精灵女孩。她最近刚满十八岁，她的父亲让她帮忙。他欠了萨姆 – 他哥哥的钱。Reya 决定帮助她的父亲，并搬到大城市为萨姆工作。\n一个害羞又天真的"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Tp8DTsw1tbeh","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

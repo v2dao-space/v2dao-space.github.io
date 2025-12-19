@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/汉化/安卓】冰柱女骑士-琪亚娜/氷柱の騎士キアラ【233MB】"}],["$","p",null,{"children":"DL  社团名 戦争屋さん 关注 5,592支援社团也可以使用DL点数进行支援贩卖日2021年02月13日更新信息2022年06月25日更新信息年龄指定18禁作品类型角色扮演有音乐文件形式软件支持的语言日文分类着衣/穿衣 女主人公 战士 高潮脸/阿黑颜 羞辱 多p/乱交 多人运动 巨乳/爆乳  游戏剧情最强的女魔法骑士琪亚娜，接受了调查联邦国家的任务这个曾经弱小的国度最近怪事不断，很是诡异不仅魔物全部凶暴化而且民众也变得浮躁起来，治安一天不如一天而不远万里来到此处的琪亚娜，却感受到了不对劲的气氛"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/3e45148f120e5d24233205c449b3a45c","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

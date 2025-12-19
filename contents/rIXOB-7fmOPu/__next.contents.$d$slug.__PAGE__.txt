@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】Adventure With Succubus v0.11EA"}],["$","p",null,{"children":"由于是小团队经验不做且开发是小众游戏，游戏现阶段还处于抢先体验阶段， 出现问题或质量不好的地方还请各位尊贵的玩家多多包涵。 如果您能提前预购，项目资金充裕我们也能为玩家带来更多高品质的内容。 如果您没有预购，也请您点多关注，看看我们后续更新的哪些内容。 如果遇到问题也请您轻喷。在此感谢各位玩家大人的"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/rIXOB-7fmOPu","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

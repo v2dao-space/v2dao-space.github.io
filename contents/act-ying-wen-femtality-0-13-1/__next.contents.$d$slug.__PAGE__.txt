@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/英文】 FEMTALITY 0.13.1"}],["$","p",null,{"children":" \n  \n游戏简介：\n一款类似DNF的横板闯关游戏。剧情目前没完善，角色还没全做完。但非常好用（）游戏的连击浮空手感也非常不错。游戏大致玩法就是用主角打女boss 然后就能把女boss变成队友操控她，女boss可以和小怪打架赢了有奖励，输了有惩罚（有百合）要色色有色色，要打击有打击，战斗h，立绘h一应俱全.\n游戏作者的简介（机翻）\nFEMTALITY v0.13.1 由 Aerisetta 制作，FEMTALITY 是一款成人游戏，正在寻找一款令人兴奋的扭曲游戏？探索 FEMTALITY，终极无"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/act-ying-wen-femtality-0-13-1","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

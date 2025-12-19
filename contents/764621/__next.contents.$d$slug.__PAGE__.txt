@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【生肉/RPG】\t LiLy -二つの灯-【百度网盘】"}],["$","p",null,{"children":"銷售數量：103評價：3.92      (13)收藏數：700社團名うにばこ 關注50 支援社團也可以使用DL點數進行支援販賣日2024年04月30日 0點年齡指定18禁作品形式角色扮演檔案形式應用程式對應語言日文分類感動 女主角 戰鬥H 酪梨 恩恩愛愛 幻想 百合 拘束檔案容量284.65MB執行環境ツクール製のゲームが動く程度のPC         作品內容見えないからいい!?パンツを盗られて大変な目に… 短くサクっと遊べる戦闘エロRPG!◆ストーリー◆耳と尻尾が生えてしまう”獣人化”によ"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/764621","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"NTR办公室 / NTR office V20240403"}],["$","p",null,{"children":"游戏介绍：你扮演一位在公司底层求生的社畜,每天过着被经理压窄的生活,幸运的是漂亮的女友组长总是帮着你对经理拒理力争。而做为你好友兼闰蜜,公司研发骨干的女博士总是在暗中给你不少支持,让你挺过了一次又一次的危机。但这次因为一些神秘的意外导致你的工作失败,给公司欠下了一千五百万的欠款,为了替公司挽回损失,你只能更加努力的工作。而在你不知情的时候,一些不速之客正悄悄盯上了你的女友与闰蜜。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1bf50c24670995e6cd719ca49a395558","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

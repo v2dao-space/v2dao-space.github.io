@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/汉化/策略】魔剑士莉奈2 Ver.1.51 精翻汉化版"}],["$","p",null,{"children":"游戏简介：                                                             《魔剑士莉奈（魔剣士リーネ）》系列是同人游戏当中比较著名的策略游戏，含NTR成分（可回避）。在丰富世界观、细腻的剧情和虐心的NTR设定的同时，有着不错的核心玩法，这一点很难得，使其成为不少玩家心目中的经典之作。游戏的主要内容是在幻想大陆上，带领一大票妹子武将完成天下一统的大业，在一大票如狼似虎的敌人环伺之下，选择攻略某个心仪妹子的故事。2代在1代的基础上画风和游戏系"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2b39d96e7587a3becdad627b4fda6dd1","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

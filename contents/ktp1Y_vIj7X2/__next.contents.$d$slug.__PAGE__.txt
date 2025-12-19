@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中/PC/安卓】Nemurimouto v0.07【度盘/346MB】"}],["$","p",null,{"children":"  \n概述：\n你的妹妹将在大学暑假期间住在你家。\n她倾向于睡很长时间，也许你可以利用这一点一起玩得开心！\n该游戏仍在紧锣密鼓的开发中，目前仅有7个H场景。随着开发的继续进行，我将添加更多 H 场景，以及更多互动、不同的游戏特性、角色立绘、CG 等！\n版本0.07\n• 实现了商店（非常基础，对于这个版"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ktp1Y_vIj7X2","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

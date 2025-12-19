@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[石川シスケ] あなとも性愛好碰友 [中国翻訳] [無修正] [DL版]"}],["$","p",null,{"children":"【WANI MAGAZINE社正式授權　彩頁2P、合計196P無修正成人漫畫】「感情的加溫要先從身體開始…♡」《COMIC快樂天》人氣寵兒．石川シスケ老師的の首部中文版單行本！以細緻的可愛畫風畫出男女交尾的各種細節，擁有恰到好處肉感的巨乳色色女孩們邀請您成為她們的好碰友♪〈少爺不聽話〉壞心眼的女僕對任性的少爺提供濃～烈的侍奉…〈人格轉移之夜〉因為強烈的嫉妬，和高中同學們發生人格轉移而交換了身體。同學們的三位不同風格美女妻子被處男男主角玩到高潮不斷的人氣系列♪〈深夜良伴〉因為深夜廣播而成為朋友的兩"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4042a00d0498685b2757c2943a342262","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

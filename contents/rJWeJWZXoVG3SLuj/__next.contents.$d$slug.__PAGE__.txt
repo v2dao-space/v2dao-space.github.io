@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[gonza] 断れない母｜熟母欲難斷 [中国翻訳] [無修正] [DL版]"}],["$","p",null,{"children":"作品内容:(下面内容为机翻) “求你了，让今天成为最后一次……” 我，我不明白。我不能告诉我丈夫。我甚至不能告诉我的儿子。我的情欲被他唤醒了…… 原创同人圈「三崎」撰写「実母＆友達の母」4部长篇作品188页包含9页新绘制的漫画 【収録作品】 「熟れた友母」「描き下ろし」「堕ちた友母」「息子に跨る日」"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/rJWeJWZXoVG3SLuj","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[卡牌SLG中文/PC] イブストーリー 勇者の修行 伊芙物语 勇者的修行！ V1.18 STEAM步兵中文版"}],["$","p",null,{"children":"咳咳，给各位分享这款超赞的日式SLG卡牌游戏的最新更新版本！已打社保补丁，全程步兵，含全回想存档这是一款由[SmallSqurriel]社团制作的日式SLG游戏现在游戏已经上架了STEAM平台，搭载超赞官方中文！采用unity引擎制作，解压后600M左右，而且， 是全程步兵的！游戏画风亮丽，CG表情极其到位各种玩法实用性极高搭载了十分有趣的卡牌对战玩法（类似于兰斯1重置那种）换装诱人，H场景有趣整体质量很高，非常值得体验!这次给大家分享的是V1.18更新版本相对于论坛的旧版本，增加了非常多的新游"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/8360e098d6a629f5b7d71f9f75bffba7","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

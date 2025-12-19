@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D动画/官中/去码】FRIENDS MOVIE [1080P](RJ01159702)"}],["$","p",null,{"children":"社团名梅麻呂3D 【50%OFF】FRIENDS MOVIE [梅麻呂3D] | DLsite 同人 – R18贩卖日2024年02月25日声优倉浪あお音乐Violette Moth年龄指定R18作品类型视频有声音有音乐文件形式MP4支持的语言中文(简体字)日文英文分类3D作品 青梅竹马 水手服 被NTR NTR/寝取 巨乳/爆乳 白虎/无阴毛文件容量2.61GB简介女优：上泉 伊都叶 配音：仓浪葵【内容】 在寒冷的冬季，三人在放学后打算去铁夫的家玩。 主人公被派去便利店买零食，伊都叶和铁夫在房"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/5d3e1999e6061031594d494b914786d2","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

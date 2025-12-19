@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/生肉】みことのり! ～妹巫女と中出し除霊～【度盘/3.98G】"}],["$","p",null,{"children":"23/07/28 搜索引擎不是摆设。 镜像直接解压或者虚拟光驱复制粘贴文件，然后打上crack，最后按图里红框的路径和应用程序启动就行了。 这引擎一堆游戏都在用，别搞得像是第一次一样。 差不多就行了，该自立了。 作品内容 Getchu界面：点击 游戏官网：点击 作品紹介 STORY とある田舎の街に住む、玖桜兄妹は、退魔師エクソシスターだ。巫女装束を身にまとい、悪霊を直接除霊する、妹・玖桜瑞月。除霊する力は弱いけど、持ち前の直感力と術で妹をサポートする、兄・玖桜清史郎。息の合ったコンビネーション"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/708069","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

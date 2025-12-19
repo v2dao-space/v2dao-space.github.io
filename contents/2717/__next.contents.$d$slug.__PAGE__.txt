@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【欧美SLG/2D/汉化】瞳的病态快感v0.36【安卓/459MB】"}],["$","p",null,{"children":"剧情介绍：\n\n\n\n这部视觉小说探索了 NTR 类型，并以妈妈 NTR 为重点。\n\n\n\n高中生朝日在困境中挣扎。他的母亲 Hitomi 不知道邻居恶霸 Hiroto 引起的骚乱。\n\n\n\nAsahi 独自应对这场冲突，感到孤立无援，无法向母亲倾诉心事。\n\n\n\n当 Hitomi 试图了解儿子 Asahi 的痛苦根源并为他提供所需的支持时，她发现自己陷入了无尽的欲望和欲望中。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2717","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

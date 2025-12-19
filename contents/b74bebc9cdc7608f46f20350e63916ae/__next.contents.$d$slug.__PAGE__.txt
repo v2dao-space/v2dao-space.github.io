@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D动画/无码】Release the Kraken [SUPPORTER EXCLUSIVE]【度盘/453MB】"}],["$","p",null,{"children":"新作是克拉肯娘触手吸盘大战三潜水员（bushi），一个惯例百合玩法一个触手鹿管一个口加DO，羡慕最后一个哥们，具体看下图。作者是喜欢做魔物娘同居日常作品角色的，这次的克拉肯我想了半天好像原作都没这角色，有知道的可以补充，我估计是原创魔物娘。PS：我看作者红P删主页都以为不做了，结果一看之前传的作品底下有兄弟提醒才发现作者转SUBSCRIBESTAR了。这次传的作者7.29最新更新的一部，至于之前所有作品的合集我站内有传，看我作品就能看得到        最后提一嘴，S站赞助真的好麻烦，我自己是没"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/b74bebc9cdc7608f46f20350e63916ae","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

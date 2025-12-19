@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG】雪诺和樵夫的森林 【PC+安卓】"}],["$","p",null,{"children":"【RPG】雪诺和樵夫的森林 【PC+安卓】 游戏介绍： 以女仆身份在某座府邸长大的少女雪。一天，府邸周围突然暴雪，为了购买种火，她前去“伐木者之森”。但寒冷难忍，在迎接她的伐木工人面前……。所买的种火也被突如其来的暴风雪吹灭，让她不仅任务失"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/7c4c8cdd3695a9652dba8d2c9c89ce53","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

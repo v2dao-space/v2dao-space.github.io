@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D动画/AI去码】Custom Udon大佬作品AI去码~Part2【13v/度盘/萌雪云/2.16G】"}],["$","p",null,{"children":"根据上次的评论，这次去码了紫薇系列（Masturbation）、触手系列（Tentacle）、雌小鬼（Summer2）和百合（Yuri）\n很可惜由于模型对于小块马赛克的识别能力不足，处理紫薇和触手等的效果远不如插入等本番，导致此次一部分作品的部分场景的马赛克识别不到/不全，还有部分作品（Bed Ma"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/gOSDd7_07m7O","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

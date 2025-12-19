@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【生肉/RPG/母系】ままんず忍法帖"}],["$","p",null,{"children":"贩卖日2024年07月07日 0点系列名ママンズシリーズ社团名Autonoe作品类型角色扮演有音乐文件形式软件支持的语言日文分类母亲 女忍者 被NTR 姐姐×正太 故意被NTR/绿奴 骨科 反向奸文件容量657.2MB剧情忍者世代相传的秘术记载在一本书中。《秘传之书》在寻找这本书的旅途中，忍者母子红华和日向。两人因意外的失误被火付盗贼改方（类似一种特别警察）抓获。为了无罪释放，他们答应从盗贼团中夺回被盗的名刀……究竟……红华能否凭借她擅长的“房中术”，用身体诱惑男人们，成功夺回“名刀”和“秘传之"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/9a61170263d9c259de455c9f40521879","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

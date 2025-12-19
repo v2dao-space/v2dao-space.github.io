@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】寝取(ネットリ)半蔵の爆乳NTR【1.64GB/百度】"}],["$","p",null,{"children":"  \n游戏简介：过去，这个波因波因王国曾被称为平胸王国。如国名所示，平胸的人类族群当时备受推崇，而大多数公民也是人类族群。然而在数年前，现任国王发现了爆乳的价值，提升了爆乳少数民族的地位，结果，使得喜爱爆乳的人成为多数。如今，人类族群与少数民族的交流也在逐渐加深，但似乎有些传闻开始流传…\n\n\n\n社团"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/L-RRRQBUaySG","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

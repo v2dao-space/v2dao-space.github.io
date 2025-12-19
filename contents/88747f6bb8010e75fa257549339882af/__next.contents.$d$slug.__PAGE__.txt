@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/人妻/NTR】爆乳太太与夏日淫欲性活【PC/汉化】"}],["$","p",null,{"children":"【SLG/人妻/NTR】爆乳太太与夏日淫欲性活【PC/汉化】 ●故事梗概(绿帽子) 美弥子拥有令人意想不到的爆乳，她和大学时代的男友宗永直人结婚， 作为家庭主妇，她过着忙碌而幸福的新生活。 然而，直人的上司鬼头隆敏告诉他，直人的业绩不佳。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/88747f6bb8010e75fa257549339882af","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

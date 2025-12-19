@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"(同人CG集) [なのはなジャム (アカツキ)] 俺の家に突然やってきたえっち大好き姉さん女房～連日連夜で中出し連発しちゃうイチャラブ同棲生活～"}],["$","p",null,{"children":"俺の名前は「秀郎」。ニートだ。しかも、「実家からの仕送りで一人暮らし」をしている、かなりハイレベルなスーパーニート。キモオタデブのくせにニートな俺は全くモテない。でも、働く気はない。やりたくないことを進んでやるなんてありえない。このまま親の脛をかじって人生を生き抜いてやる….！？？そんな俺の元に、突然やってきたHカップの超可愛い女の子、楓ちゃん。「婚姻届も、すでに提出済みだよ〜」なんと楓ちゃんと俺は、「ニート解消サービス」という仕組みにより、すでに結婚済みらしく….？！？？「ニート解消サービス」"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/740259","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

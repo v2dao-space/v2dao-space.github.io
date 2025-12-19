@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/无码/GAL】にゃんカフェマキアート ～猫がいるカフェのえっち事情～【花火汉化】"}],["$","p",null,{"children":"前言贴吧有流传，冲绳奴隶岛（重生萝莉岛）作者似乎准备新作品了新作品舞台为温泉庄，登场角色均为古稀老大爷（草你大爷真的要来了吗），R25级（目前只是流传不确定）本作品我将汉化有修正版本+英语无修版本瞎七搭八做了拼接，结果真的搞出来了汉化无修版本！！我下cg包，skip了几个HS场景，均为汉化无修（似乎整成功了）本作的大伙似乎是首发享受汉化无修本作品的人（拍手）无修补丁也上传2dfan有问题直接做下架处理，人懒任性注意：1、运行前记得先注册表     2、日语原版&汉化版均要LE转区本游戏的汉化版本"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/321a8ee9a3cd51e4763c0241b59f95c6","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

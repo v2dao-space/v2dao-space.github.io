@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中/双端】The Lewd Corruption of the Heaven v0.2.1【度盘/7G】"}],["$","p",null,{"children":"官网：https://www.patreon.com/SedEcuStudios 人类世界的一座城市突然不再相信女神，这削弱了天使世界， 卡西尔和蓝宝石是两个天使，他们被派到人类世界帮助人类， 所以他们再次相信女神，但在他们到达那个城市的那一刻， 事情开始变得复杂，因为他们无法回到天使世界， 一种奇"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/hqCodRvO7tO3wh-9","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

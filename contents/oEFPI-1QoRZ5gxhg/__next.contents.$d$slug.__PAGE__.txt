@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D/官中】 Runaway Girl Simulator 【1.1G/度盘】"}],["$","p",null,{"children":"你握着一个来到都市的离家出走少女的命运。主人公“露娜”（名字可更改）是一个厌倦了不幸家庭环境的少女，她几乎没有经过任何思考，就离开了家，来到了都市的街头。  她没有熟人，也没有去处，这是一场鲁莽的离家出走。然而，恰好下起的雨让她幸运地找到了一处栖身之地。即便如此，在这个陌生的城市里，她不习惯的生活让"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/oEFPI-1QoRZ5gxhg","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【MMD/有码/VR】学園祭で打ち上げです（差分）"}],["$","p",null,{"children":"和上一篇差不多的类型 场景换成了教室学园祭  差分为脱衣 附加一个全年龄版的跳舞（do前热身）    采用了倒叙的手法 讲述了我和miku还在学校时的刻苦练习 表达了之前发的在大舞台上开do并且还能保持舞蹈动作的成就来之不易 从当初的只有同学加油到被那么多人打call 泪目了    作者主页：cap"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/WYJr6QMzW7lp","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

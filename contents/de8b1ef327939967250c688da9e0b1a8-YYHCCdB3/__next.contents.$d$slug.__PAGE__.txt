@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中】[PC+安卓joi]SUCCUBUS NIGHTMARE -DESIRE-/サキュバスナイトメア-DESIRE-"}],["$","p",null,{"children":"所发布资源不得用于商业盈利，否则产生的一切后果将由您自己承担！制作介绍（#F117）  社团名Animism贩卖日2024年05月25日系列名サキュバスナイトメア年龄指定18禁作品类型角色扮演 有音乐 有动画文件形式软件支持的语言中文(简体字)分类连续高潮 断面图 动画 魅魔/淫魔 色诱 足交 反向奸 男性受文件容量535.15MBDL链接https://www.dlsite.com/maniax/work/=/product_id/RJ01209337.html游戏介绍  推荐给那些对虐○或悲"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/de8b1ef327939967250c688da9e0b1a8-YYHCCdB3","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

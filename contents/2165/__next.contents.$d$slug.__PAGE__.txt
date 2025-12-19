@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美神作SLG/汉化/动态]我很荣幸 V0.30 精翻汉化版[安卓][5.7G]"}],["$","p",null,{"children":"游戏介绍你是个天天吃喝玩乐不务正业的熊孩子，整天就知道跟同学，朋友们开各种狂欢派对。。。每天头脑里面想的就是把这个还是那个妹子灌醉了，然后。。。一次在家里开派对的时候，你为了一个妹子，把爸的酒柜打开偷喝了里面爸爸珍藏的名酒！当然大发雷霆！他要跟你妈出去旅行一周，同时，也把你从家里赶出去一周！幸好还是你妈疼你，告诉你，你可以去你叔叔康奈尔家住一周，跟表妹洛丽还有她的朋友们在一起玩~你来到了你那很久没"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2165","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[堕落RPG/汉化/战斗H] 拉菲娜和生命之药 ~ 极度堕落的旅途 云汉化版 [1.2G]"}],["$","p",null,{"children":"[游戏介绍] ：\n\n\n\n这是一款喜闻乐见的绝妙恶堕rpg游戏\n\n\n\n绝妙堕落，享受高冷女主化身绝伦碧池的美妙盛宴\n\n\n\n包含了丰富的骚扰，异种，换装等玩法\n\n\n\n不仅有着超过50个堕落玩法，其他方面也十分出众\n\n\n\n包含丰富的 [H战斗] 内容，多套换装，卖身催眠\n\n\n\n实用度一流，社保程度一流，邪恶程度同样一流\n\n\n\n真的强烈推荐大家体验！\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[游戏剧"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/711","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

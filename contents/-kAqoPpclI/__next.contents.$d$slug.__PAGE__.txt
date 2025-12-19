@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"绝色保镖"}],["$","p",null,{"children":"曾经担任中南海专职保安人员的安泉因故退役成为一名商业保镖，开始保护上海文娱传媒总经理邵英齐。专业的保镖从事普通的保护工作，让一向作风严谨办事相对古板的安泉很不习惯，而邵英齐的威胁事件，更与安泉所擅长的政治斗争有着千丝万缕的联系，与此同时，父亲是副书纪的水晚照同样因为某些原因加入到了文娱传媒，成为了邵英齐的个人助理，一男二女之间，究竟会有什么样的事情发生呢？身为文娱传媒总经理第三秘书的夏依依，大学时代就有着‘色女’的称号，在她的加入下，是否会有更为香艳的事情，发生在这些年轻的饮食男女之间？"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/-kAqoPpclI","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

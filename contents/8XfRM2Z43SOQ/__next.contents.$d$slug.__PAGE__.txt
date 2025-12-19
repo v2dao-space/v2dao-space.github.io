@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/官中无码】The Knight Girl And Dungeons"}],["$","p",null,{"children":"\n游戏内容\n在游戏中你作为王国中最强的女骑士，受附近村民之讬，前往探索令人感到恐惧的地下城，\n潜入地下城的深处，打倒作恶多端的邪恶魔物。这是一款第三人称视角的3D动作游戏，\n玩家要自己孤身一人踏入战场、收集补给品并一步一步强化自身的实力。但如果被敌人抓住的话，后果将不堪设想…\nH场景\n拥有丰富的动画"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/8XfRM2Z43SOQ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/AI汉化】 巫女神大人 巫女神さま-REBOOT- 【891M/度盘】"}],["$","p",null,{"children":"  \n概要：这是一个人类与妖怪（あやかし）结束战争、携手共处的时代。出身于退魔师世家的天宫响，收到了一起未知怪异事件的通知。为了解决事件，响与祖母天宫樱一同踏上了前往濑户内海的城市“薄樱市”的旅程……。\n在那里，他们目睹了既非人类也非妖怪的、被称作“斑”的异形在夜晚的街道上横行霸道。\n响身着全新的战"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/zRcArfpwv00g","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

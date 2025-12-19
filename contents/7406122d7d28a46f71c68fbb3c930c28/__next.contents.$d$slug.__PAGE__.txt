@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/机翻]保利托农 Polyturnon v0.15 PC+安卓[7.3G/百度]"}],["$","p",null,{"children":"[SLG/机翻]保利托农 Polyturnon v0.15 PC+安卓[7.3G/百度]游戏介绍：如果你能中彩票，变得非常富有，并买下一个充满美女的岛屿，会怎样？这就是 Polyturnon 的意义所在！从您自己的巨型豪宅到任性女孩的大学，各种各样的景点和人物都可以找到。探索整个岛屿，岛上挤满了 69 名截然不同且独特的女性，她们在这个开放的沙盒中做爱。作为岛上唯一的男人，“照顾”他们所有人就是你的工作！v0.15角色：主角 + 69 个女孩事件（包括重复）：708 (+17)可重复性爱场景：2"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/7406122d7d28a46f71c68fbb3c930c28","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

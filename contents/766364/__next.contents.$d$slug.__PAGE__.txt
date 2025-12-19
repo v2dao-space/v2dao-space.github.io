@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/ADV】妖怪ゑッチ ～エチチな鬼だよう～"}],["$","p",null,{"children":"前言拔作，游戏中出现的女角色均为妖怪机翻嵌入游戏中，保持非中文路径  ストーリー田舎から転入してきた青樹は、ある日の学校帰りに友人と遊んでいるときに忘れ物をしたことを思い出す。見た目のゴツさとは違い、元来小心者の青樹は夜の学校を怖いと思いながら、急いで教室まで取りに行く。そして帰ろうとしたところで、廊下に怪しい音を聞く。それは転入当時に聞いた『夜中に、何かを嘗める音が聞こえ、それを聞くと死ぬ』という怪談。恐怖で尿意も催した青樹は、トイレに駆け込む。するとそこには男子便器を前に座り、あまつさえ人と"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/766364","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

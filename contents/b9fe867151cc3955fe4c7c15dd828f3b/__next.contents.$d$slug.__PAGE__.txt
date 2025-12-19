@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC/安卓模拟器ADV游戏] [拔作ADV/汉化]艶花サクラメント-艳花圣礼 AI汉化版+全CG存档[新汉化]"}],["$","p",null,{"children":"这个世上是确实有着『恶灵』存在的。而相对的，也存在着于不为人知的地方将他们退治的职业。人们称之为『祓魔师』。对常人来说祓魔师一般指代会进行祓禊等仪式的圣职者，然而对于会确实危害人类的灵魂……即恶灵来说，与它们战斗的圣职者也是存在的。这群战斗的圣职者因此会被称为『真祓魔师』。而男主角・清春便是其中一位真祓魔师。他有着异于他人的强力祓魔技能、即『圣技』。为此登门拜访求助于清春的人络绎不绝，而清春也在真祓魔师的业界里广为相传。不过这只是他里世界的身份。而表面身份则是位平凡无奇的神父。在他就职的教会附近，有着一所专门培育圣职者的学园『圣玛丽安娜女学园』（マリアンヌ）。而在籍于学园内的，有着高精度占卜才能的天真烂漫少女『日向』、以及将出色的圣职者双亲作为目标的、日向的闺蜜『莉莉』、还有被绝大部分学园生寄予信赖的、保护欲稍稍过剩的学园总代『咲』。她们因和清春的友谊深化而被卷入种种事件的物语即将拉开序幕。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/b9fe867151cc3955fe4c7c15dd828f3b","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

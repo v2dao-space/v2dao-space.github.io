@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【MMD/VR/无码】icedvd作品 Easy Rider"}],["$","p",null,{"children":"又是逛I站发现的VR视频  增添一些圣诞气氛（不是发晚了 是提前了三百多天的圣诞礼物）  建模还是挺精致的 就是对我来说有点不够二次元了 而且没有足 动作还算流畅 有些比较僵的也还是能让牛老爷子安心躺着不蹦起来的  作者的作品不是很多 像是在摸索着做暂时patreon的内容也是完全公开的 期待之后的发展  作者主页：https://www.patreon.com/user/posts?u=27727949度盘炸了随缘补话说大伙儿有帮我的那份一起冲了吗 我2024年禁欲至今"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/735008","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

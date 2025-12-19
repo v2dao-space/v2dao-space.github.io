@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC/安卓RPG游戏] 【RPG/汉化/动态/全CV】和姐姐们的公寓生活~お姉ちゃん達とエッチなマンションせーかつ~ AI汉化版+全CG存档"}],["$","p",null,{"children":"主人公是一个从乡村搬到这里的少年。与住在同一公寓的里奈和凌子相遇。里奈和凌子是就读于附近学校的女学生。因为一些小事情作为契机，听取了里奈和凌子的请求后，可以得到一些涩涩的回报。主人公与里奈、凌子之间的H日常开始了…"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/81d85824960ae7dbdbd62a5db8861164","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

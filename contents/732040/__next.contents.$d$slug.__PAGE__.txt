@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/生】ヤリステメスブターDLC1 メスブタ/ゲスブタ"}],["$","p",null,{"children":"にゅう工房 贩卖日2023年12月18日 0点更新信息2023年12月18日更新信息作者にゅう工房 / ぬぷ竜の里年龄指定18禁作品类型角色扮演有音乐文件形式软件支持的语言日文分类男主人公 像素 RPG制作大师文件容量591MBヤリステメスブターDLC1　メスブタ/ゲスブタ本作は、ゲーム、『ヤリステメスブター』に追加するDLCとなり、DLCのみでは遊べません。ヤリステメスブター本体の購入が前提となっております。DLCは日本語のみであり、選択言語によらず、日本語が表示されます。(英語・簡体字につい"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/732040","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

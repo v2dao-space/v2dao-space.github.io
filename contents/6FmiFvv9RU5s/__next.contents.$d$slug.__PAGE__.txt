@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【里番/魔穗字幕组】 [ピンクパイナップル]ばくあね 弟しぼっちゃうぞ! THE ANIMATION [2K/60FPS修补][rife+GmfSs补帧]]"}],["$","p",null,{"children":"  \n字幕来源：魔穗字幕组\n补帧，轻微调色，HEVC10bit视频流， 文件封装为MP4。\n这作的动作太快了，补帧很容易产生果冻，站内的星光大佬发过一版，但是观看时发现果冻效应太强了，个人一直想修补一下，但是没有高清片源一直无从下手，正好这时某背影大佬发了2K版的资源，于是果断动手，前后花了大概3天"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/6FmiFvv9RU5s","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

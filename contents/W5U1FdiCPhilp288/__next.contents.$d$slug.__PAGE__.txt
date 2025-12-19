@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【PC/3D/补更】性奋公园/亢奋公园(Gingin Park) ver1.2 官方中文版+高自由度3D互动游戏+3.7G"}],["$","p",null,{"children":"性奋公园/亢奋公园(Gingin Park) ver1.2 官方中文版+高自由度3D互动游戏+3.7G   游戏介绍： 游戏出了有一点时间了，最近刚更新了中文版 高质量3D实时大作，难度随时可以调节， 简单难度就像拔作一样简单，真\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/W5U1FdiCPhilp288","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

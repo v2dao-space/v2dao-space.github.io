@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无修/动态】Zoey Horny Roommates"}],["$","p",null,{"children":"游戏简介您刚刚搬到一个新城市，您将住在合租公寓中。火车是早上6点。赶快行动吧，你一定不能错过！进入 203 房间，在这里你所有的淫荡幻想都可以实现！与 Zoey 一起进行另一场性感视觉小说冒险，其中有真正淫荡的性爱动画和火辣场景，你能全部解锁吗？与房间互动，与 Zoey 一起过日常生活！她喜欢玩游戏和长时间洗澡，就像她喜欢做爱一样！特征充满乐趣和性的淫荡视觉小说互动公寓抓住所有隐藏的星星！淫荡动画很酷的歌曲    点点点小游戏 手绘画风"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/d942177103ef8009565e728a826a048e","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

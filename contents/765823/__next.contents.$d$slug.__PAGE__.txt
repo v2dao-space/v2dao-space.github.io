@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/GAL】妹を汚した記憶【绿茶汉化组】"}],["$","p",null,{"children":"前言补档作品，说真的这个hamuhamu真的喜欢妹本作品给我的印象很大，本以为男主是要为之前对妹妹的行为赎罪的，结果。。。本作男主在普通线和角色线给人的印象就是2个人，2个妹妹说真的挺好的游戏已嵌入汉化补丁  Story随着年龄的增长，岁数差距颇大的亲妹妹也开始渐渐散发出诱人的女性魅力，为此心猿意马的主人公・楠木亮，在一次捉迷藏和妹妹一同躲进仓库时，理智终于败下阵来的他跨过了界限的鸿沟……此后，因罪恶感的折磨，亮逃一般地搬到了城市里开始独自生活。数年时光转瞬即逝，当初事发的仓库如今也已面临拆除，"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/765823","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

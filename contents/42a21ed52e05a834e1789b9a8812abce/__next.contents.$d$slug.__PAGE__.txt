@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/PC/汉化/全CV/骑兵】蛇神大人祭～NTR银叶谭"}],["$","p",null,{"children":"简介这是由[ORCSOFT]创作推出的一款ADV游戏▎概述不再对与爱妻的星生活感到兴奋。藤尾隆彦(ふじお たかひこ)在迎来第二个结婚纪念日之夜意识到了这一点。原本以为自己对性是淡泊的。但他渐渐意识到，真正的原因并非如此。隆彦结婚后不久就开始做梦。总是做着同一个内容的梦。──自己成长的村庄那隐晦的习俗。──夏日祭期间，夜夜举行的宴会。──在黑暗中翻滚喘息的雌雄。动物般的交配散发着低俗的芬芳。离开了那个因习俗的可怕而无法忍受的故乡。隆彦意识到，在那里秘密进行的神祭典中，种下了他心底无法抹去的性癖。望"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/42a21ed52e05a834e1789b9a8812abce","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

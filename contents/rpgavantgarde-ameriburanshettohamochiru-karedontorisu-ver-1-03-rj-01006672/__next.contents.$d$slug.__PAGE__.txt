@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/生肉】[AVANTGARDE] アメリ・ブランシェットは何度も堕ちる ～カレドニー魔法学院と繰り返す一週間～ Ver1.03 [RJ01006672]"}],["$","p",null,{"children":"社团名AVANTGARDE 关注10,928   贩卖日2023年08月23日 0点剧情紅糸むそり插画Pizza声优綾音まこ / 沖内もなか / 疾風はる / 雪村とあ / かりんとうか年龄指定18禁作品类型角色扮演有声音有音乐文件形式软件支持的语言日文分类男主人公 耳环/装饰品 被寝取/NTR 内射/中出 怀孕 多p/乱交 巨乳/爆乳 乳头/乳晕文件容量1.66GB配置要求RPGツクールMVの動作環境に準ずる        グレートランド王国魔法部隊所属の若き魔法使い、香心 正宗(かしん まさ"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/rpgavantgarde-ameriburanshettohamochiru-karedontorisu-ver-1-03-rj-01006672","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

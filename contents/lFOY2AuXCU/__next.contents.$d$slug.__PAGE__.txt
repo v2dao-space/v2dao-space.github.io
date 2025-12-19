@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中/无修】ダンジョンの盗賊と大魔法使い 1+2 / 大魔法师立花 1+2【百度/400M】"}],["$","p",null,{"children":"我是椎架ゆの老粉了从小导到大。官方现在把两部加一起卖了 我是拉法姆，最最伟大拷♂股学家 目录 ダンジョンの盗賊と大魔法使い 1 ダンジョンの盗賊と大魔法使い 2 ★★「大魔法师立花」集合系列两部作品，2合1剧情，一份的价格双倍的快乐！★★为了追回领主贪污的非法财产，立花前去执行任务。 却落入领主提前"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/lFOY2AuXCU","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

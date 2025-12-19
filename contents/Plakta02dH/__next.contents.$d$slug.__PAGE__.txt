@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"亡灵沸腾"}],["$","p",null,{"children":"秦易偶然穿越到异界，发现自己终于有可能实现“布种天下”的美梦！身体的前任主人，不但给他“留下”了一个暴发户老爹，而且还顺便接收了来自巫妖王的海量精神力！一杆令天下所有男人羡慕、嫉妒、恨，女人万分渴望的三十六公分长枪！\n为了筹钱，秦易在打算变卖家产的途中被贵族少女抢劫，可不甘受辱的他却因此发现了巫妖王留下的另一个可怕遗产，结果虐奸了贵族少女。\n从贵族少女手中获取大量财富后，秦易决心开始进行败家的第一步！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Plakta02dH","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

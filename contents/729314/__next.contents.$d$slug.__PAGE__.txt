@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/無修正/官中】雪劍的布蘭狄亞"}],["$","p",null,{"children":"《スノウブランディア》｜製作社團：Riez-ON一名叫克莉絲‧提依爾的女冒險家，在某次的旅行中拯救了遇難的精靈女孩菲娜。在一番交談後，沒想到彼此的目標一樣—那就是尋找傳說中的魔法劍「布蘭狄亞」。於是兩人便組隊踏上冒險之路…遊戲/角色扮演/動作格鬥/熱血王道/繁體中文/简体中文/日語/英語/部分日文語音/無修正/女主人公/異種/觸手蘿莉/凌辱獵奇/動畫/巨乳/開發商自翻中文版boki2:https://www.boki2.fun/r18/proitem?obj_id=yg9im959a3F745r"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/729314","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

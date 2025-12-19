@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[养殖异种奸RPG/汉化/动态/双端] 地精的家畜骑士！精翻汉化版 [PC+安卓/2.6G]"}],["$","p",null,{"children":"狼人的家畜骑士！精翻汉化完结版（コボルドの家畜騎士）[当方丸宝堂]社制作的一款日系探索养成rpg\n\n\n\n本作画风带劲，主打养殖玩法，有社保的异种奸，阿黑颜，异种生殖等等刺激玩法\n\n\n\n从“少女”“成年”“中年”3个时期对女主的耻辱人生进行了追述\n\n\n\n女主有多种换装，各种事件超过40种，而且有点阵动态CG\n\n\n\n御光盟国汉化组精翻汉化，文本质量不错\n\n\n\nPC+安卓双版本，目录可看全CG\n\n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/647","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

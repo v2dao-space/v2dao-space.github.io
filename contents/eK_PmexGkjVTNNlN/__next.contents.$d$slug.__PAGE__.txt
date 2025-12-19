@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【2D动画/无修】LK00大佬动画作品合集（截至25.07.09）"}],["$","p",null,{"children":"这是LK00大佬作品合集，同样是一个弄live2D动画作者，绝大部分内容为无修，小部分有修。一共大概20G左右 因为之前的青衣视频咱很喜欢就关注了一下，本来想将文件名也整理一下，但发现绝大部分角色都貌似不认识，放弃了。但要注意咱个人感觉该作者大雷作品相对更多，虽然预览小雷多，因此不要因为咱对小雷的执"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/eK_PmexGkjVTNNlN","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

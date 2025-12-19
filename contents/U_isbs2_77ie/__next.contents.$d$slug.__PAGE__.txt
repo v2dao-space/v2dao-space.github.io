@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【图集/动画/无修正】FC倶楽部 [FCC] 2018~2021 作品合集【度盘/3g】"}],["$","p",null,{"children":"内容警告：大炮打小孩，粪便！ 应该是比较全的合集，这个工作室已经失联很久了，画功很强，动画很流畅，但是量少，而且xp有点小众。 全名【FISTICUFFS CLUB】，成员包括【Patrick Hateman】【allcharacters18】 题材范围很广，也不全是小萝莉，还有大车。 事情的起因是"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/U_isbs2_77ie","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

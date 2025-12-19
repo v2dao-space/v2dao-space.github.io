@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[一宮夕羽] 淫モラル・ゲームマスター [中国翻訳] [DL版] [超勇漢化組]"}],["$","p",null,{"children":"作品内容:(下面内容为机翻) 精灵公主、魅魔、修女……美丽的女孩在VR游戏世界中成为享乐的奴隶，同时也影响着现实世界！ 她们被迫在游戏世界中以舞妓的身份接待顾客，并逐渐接受她们。文静的丰满女学生，女战士，被触手怪兽摸索与头像链接的女孩，包括接受事物的儿时朋友身为游戏大师的年轻人沉迷于其中的快感！作者"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/IUqSRF3T6zU8aiw2","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

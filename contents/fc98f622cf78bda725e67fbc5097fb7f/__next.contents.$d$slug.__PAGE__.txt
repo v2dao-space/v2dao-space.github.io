@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/汉化】悪霊退散!おねが～い!色神様 【双端/1.56g】[百度盘]"}],["$","p",null,{"children":"讲述意志坚强、无忧无虑、消灭恶灵的女神初音的故事。 主要舞台是闹鬼的地方“四季屋”，在这里通过淘气的驱魔活动来消灭恶灵。 根本没有战斗，主要焦点是色情探索。 每个事件和性事件都有自己的图标，方便探索和流畅玩。 没有恐怖元素，整体风格明快滑稽。 （其中也有恶意的邪灵，也有淫荡的成分。）由污猪汉化入正：https://www.dlsite.com/maniax/work/=/product_id/RJ01072136.html"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/fc98f622cf78bda725e67fbc5097fb7f","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

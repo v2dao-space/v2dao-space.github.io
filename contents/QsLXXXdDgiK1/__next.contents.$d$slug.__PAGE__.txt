@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D/无码/VR】Sadako – the ghost train"}],["$","p",null,{"children":"元旦礼包第一弹\n整个VR先 这回没看到原作者链接 非VR好像就是菠菠上个月发的那个 \n11月初预告简介是这样写的：We had quite a big animation this month with Honaka and we are close to keeping the ghost tra"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/QsLXXXdDgiK1","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

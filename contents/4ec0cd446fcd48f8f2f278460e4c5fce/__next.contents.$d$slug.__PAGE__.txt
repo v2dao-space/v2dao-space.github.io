@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"星梦  [v0.50] StellarDream"}],["$","p",null,{"children":"▎简介：关于一艘殖民船的故事，该船旨在寻找适合人类殖民的新世界。球探被派往三个最合适的候选人，但与他们的沟通已经失去。玩家的任务是将侦察兵带回家，为殖民地寻找合适的家园，并与外星生命形式建立外交关系▎更新记录：v0.501) 您现在可以继续蓝星故事并在浪漫或腐败之间进行选择。2) 2 个浪漫场景，2 个腐败和新服装场景。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4ec0cd446fcd48f8f2f278460e4c5fce","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

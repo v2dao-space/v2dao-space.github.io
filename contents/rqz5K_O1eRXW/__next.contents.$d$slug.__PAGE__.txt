@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/汉化/双端】学院34 Academy34 v0.24.2.4 Public 【百度/UC/640M】"}],["$","p",null,{"children":"入正：https://young-and-naughty.itch.io/academy34\n汉化：海阁\n\n游戏简介\n在“ACADEMY34”中，您将扮演一名刚刚入读学院的学员，年轻的新兵将在这里接受训练，成为守望先锋特工。令人兴奋的学，生生活正等着您，这里有所有熟悉的角色、原创故事、大量支线任务和"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/rqz5K_O1eRXW","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

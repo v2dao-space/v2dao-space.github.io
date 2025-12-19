@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/GAL】小女ラムネ（v1.03/个人汉化）"}],["$","p",null,{"children":"前言たぬきそふと经典作品，出过番时隔多年有位大佬汉化了，感谢大佬汉化补丁已嵌入游戏，内附备份日文原版备件+汉化者声明本汉化游戏不需要升级版本（v1.00）即可V1.00汉化补丁可能有闪退现象，现补发V1.03汉化补丁，内附汉化者使用说明：JUMP个人汉化（Adachi Tenka）0.解压缩后全部替换，右键shoujoramune_chs，点击属性—兼容性—更改高DPI设置—替代高DPI缩放行为，选择应用程序，再点应用确认。就能直接开始游戏。1.本补丁由“Adachi Tenka”制作。使用前请"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/769743","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

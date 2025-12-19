@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】[PC+安卓joi]テイルズ・オブ・アリス ver1.1"}],["$","p",null,{"children":"制作介绍サークル名肉と餅 フォローする530 サークルを支援するDLポイントでも支援できます販売日2024年06月07日更新情報2024年06月13日 更新情報作者肉と餅年齢指定18禁作品形式ロールプレイング音声あり音楽ありファイル形式アプリケーションその他AI一部利用ジャンルショタ 退廃/背徳/インモラル 命令/無理矢理 トランス/暗示 触手 異種えっち 悪堕ちファイル容量1.55GB作品内容ストーリー人間界と魔界。2つの世界が繋がり、凄惨な争いを数百年にわたって繰り広げてきた。人類最強の戦士"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/556622445906403a818ffafe4e6e9b41","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

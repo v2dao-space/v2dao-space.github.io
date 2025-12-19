@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】負け確RPG3【300M/百度】"}],["$","p",null,{"children":"  \n最强勇者击败魔王后，在归途中与猫娘展开了内射战斗的故事因为是使用 RPG Maker 制作的，所以写成了 RPG只有形式上的战斗。纤细的身躯上，虽不及另外两人，却拥有丰满的胸部，这是败局已定系列的第三部作品。虽然故事从之前延续至今，但我认为即使没有玩过前作，也能享受其中的内容。感受到一种纯真与"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/f3S12KyLt7xy","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

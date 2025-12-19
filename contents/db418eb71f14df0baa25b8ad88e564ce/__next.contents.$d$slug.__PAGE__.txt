@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"风流公子 v1.3"}],["$","p",null,{"children":"慕容飞英是慕容世家的大公子，从小锦衣玉食，是云上城出了名的纨绔子弟。在一场席卷整个武林的大阴谋中，慕容家被多股江湖势力围剿，而慕容飞英成为了慕容家唯一的幸存者，无奈背负起了复兴整个家族的重担。不过幸运地是，慕容飞英在这个江湖中从来就不缺愿意替自己卖命的红颜知己。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/db418eb71f14df0baa25b8ad88e564ce","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/PC][Fox House] Mirai's Midnight Stream / 妖狐的深夜直播 官方中文版[无修正]"}],["$","p",null,{"children":"玩家将扮演被驱魔师工作所耽误的超级经纪人，帮助败给自己的二尾妖狐十七夜月 未来，恢复她原有的实力，再堂堂正正的一决胜负。 脑洞大开的你帮助妖狐恢复妖力的方式，就是进行时下最流行的「色情直播」！ 游戏中将有多达11种直播主题供玩家选择，包含「女仆、泳装、SM、兔女郎、肛交、不兽控制、双飞」等应有尽有！\n透过调教训练妖狐的魅力与色气数值，并积极的直播、更新赞助平台，提升粉丝对妖狐的信仰值。 你的选择将影响妖狐对你的好感与仇恨，当心压力的累积，一个不小心说不定会毁灭世界？ 游戏中玩家会与妖狐共度49天的直播生活，从互不相识的两人，到理解彼此背后的心意，你是否能与妖狐抓住属于两人的幸福？翻云覆雨的15种结局，一切端看你的抉择！ 本次共收录超过100张CG，含差分超过700张CG。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/VkhVgrtNoiCsKTF8","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

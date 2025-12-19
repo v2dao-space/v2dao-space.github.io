@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【欧美SLG/中文/动态】赫敏：巫师教育（银版）V1.48 官方中文版【PC+安卓/1.8G】"}],["$","p",null,{"children":"【欧美SLG/中文/动态】赫敏：巫师教育（银版）V1.48 官方中文版【PC+安卓/1.8G】 游戏概述： 它本质上是一个包含多个不同模组和一些新内容的模组包。它添加了一些新场景、一张地图、场景变化、药水、自定义服装和进化服装。目前它处于未\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ou-mei-slg-zhong-wen-dong-tai-he-min-wu-shi-jiao-yu-yin-ban-v1-48-guan-fang-43l4","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

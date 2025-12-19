@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【互动SLG/3D】魔物娘岛屿 汉化版 [1+4G] 补更"}],["$","p",null,{"children":"【互动SLG/3D】魔物娘岛屿 汉化版 【PC】 补更 游戏介绍： 意外来到岛屿的你，发现岛上全是魔物娘！自由与她们互动，换装也是可以！ 全程3D，动态CG！ 解压后有6G左右 包含了和超过18只可爱的魔物娘进行各种奇妙互动的事件 容量良心\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/hu-dong-slg-3d-mo-wu-niang-dao-yu-han-hua-ban-1-4g-bu-geng-VUhL","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

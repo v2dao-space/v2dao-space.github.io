@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【同人音声/繁中】【RJ01283953】【5小时×3人后宫×女炼金术师】授孕炼金工房～见习炼金术师的我与好色爆乳女炼金术师×3的授孕造娃练成工房♪【Mega/5.6G】"}],["$","p",null,{"children":"简体，繁体两种字幕，可自由选择，老样子含早期特典\nDL官网：\nhttps://www.dlsite.com/maniax/work/=/product_id/RJ01274210.html\n☛点击试听PV☚\n  \n\n\n\n\n社团名\n大家一起来翻译 \n关注17,166\n \n\n\n\n\n\n\n\n\n\n贩卖日\n20"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/fhR5yIbMRVFx","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

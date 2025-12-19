@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【同人音声/简中】【RJ01197062】 ELF PARADISE ～欢迎来到♪治愈身心的丰满色情精灵们的理想乡～【度盘/14.97G】"}],["$","p",null,{"children":"社团名青春×フェティシズム 系列名ELF PARADISE作者遊助Ｄ剧情雛鳥めっせ插画そらなにいろ声优陽向葵ゅか / みもりあいの音乐青春×フェティシズム年龄指定R18作品类型音声・ASMR文件形式WAV/ mp3/mp4同梱其他DLsite官方翻译支持的语言中文(简体字)分类双声道立体声/人头麦 ASMR 精灵/妖精 亲热/甜蜜 后宫 内射/中出 巨乳/爆乳 处女文件容量合计 14.52GB作品内容▼女主角介绍 ▼主旨众多身着华丽衣裳的娇艳精灵与尽数治愈来访者身心的无数乐园所编织成的理想乡──"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/e6ffe8442ea1d498c16ad604362063ff","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【MMD/2K/无修正】【xiaodidi09】根本停不下来！ Can’t stop at all【3G/2V/度盘】"}],["$","p",null,{"children":"还记得九鸽鸽的传说吗，年少时刚出道便以独特幽默的动作镜头和康熙单推的属性在早期的I站引起不小关注，五年前，以一部燃烧我的卡路里彻底威震武林，I站来了个年轻人，誓要带领武林走向辉煌，在那个时期，人们把他与统霸武林的阿姨并称I站双杰… 当然以上全是我乱编的。 要说燃烧我的卡路里是启蒙之作的话，那这一部就"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/vRfHtLqPeO","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

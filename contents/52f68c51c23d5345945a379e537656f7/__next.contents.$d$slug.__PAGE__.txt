@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻/NTR】【电脑/安卓】卑鄙的正太勇者和被引导的人妻 / ゲスショタ勇者と導かれし人妻達"}],["$","p",null,{"children":"阿—拉斯大陆……在这片大陆上，魔族与人类的争斗一直持续着……很久以前，强大的魔王率领魔族出现，使人类陷入恐惧与绝望的时代……一个男子和三名女子打破了魔王，引导世界走向和平……据说这四人手上都有奇特的纹章……从那个时候开始……人们传言，手上有纹章的人是被女神选中的人，男子被称为“勇者”，女子被称为“随从”……每当魔王复活的几百年间，他们都会聚集在一起，打败魔王，引导世界走向和平……在第三代勇者拯救世界的数百年后，魔王再次复活，第四代勇者诞生了……然而，这位勇者……却是一个喜欢女人，甚至对人妻也毫不留情的废柴正太"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/52f68c51c23d5345945a379e537656f7","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

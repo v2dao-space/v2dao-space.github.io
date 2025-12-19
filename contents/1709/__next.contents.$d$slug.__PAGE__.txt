@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG/汉化/2D]莎拉·罗斯的生死存亡v0.70 汉化版[安卓][2.6G]"}],["$","p",null,{"children":"莎拉·罗斯的生死存亡v0.70 汉化版\n\n\n\n剧情介绍：莎拉·罗斯的生存是一部史诗奇幻的情色视觉小说，讲述了罗斯王室长女的生活。当悲剧发生时，莎拉发现她曾经安全稳定的生活陷入了混乱。扮演莎拉，你必须做出决定，在一个危险无处不在的世界里保证她的安全（或不安全）。TSSR 既具有影响深远的选择系统，根据玩家的选择看到截然不同的故事情节，也具有奖励探索每条可用路径的玩家的元故事。莎拉会陷入更深的绝望，还"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1709","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/汉化] 奈绪发晴中！兽耳少女的治疗 PC+安卓汉化作弊版"}],["$","p",null,{"children":"有一种自然现象-“地宫”。这些据说是掌管天地的神一时兴起而创造的地方，俘获了许多人的心。人们最终成为了冒险家，并形成了一种挑战各种地下城的文化。有一天，有两位冒险者挑战了新建的地下城。他们就是主角(前辈)和后辈冒险者娜欧。这是一个危险而未知的地下城，研究小组已经撤离，组长博士也被恶魔带走了。途中，小直被恶魔袭击，患上了一种特殊的病症。为了治好奈绪的病，主人公拿走了被带走的博士掉落的一张纸"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/e2a16ab3b36af4a114cdadbfbb41c481","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG/汉化] 露卡和艾伦~小红帽二人组和NTR狼人们 PC+安卓 精翻汉化作弊版"}],["$","p",null,{"children":"这是一款非常邪恶的日式NTR角色扮演游戏，你将控制铁废物弱鸡男主一路和NTR男们斗智斗勇，守护大家开上大卡车还是成为废物绿帽王，就看你的操作了游戏事件40个以上，每个NTR男都有大量剧情和结局路线，搭载多套不同换装，而且各种事件上都有【❤️】型提示，简单方便"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/58620e69556bdcaae70a56163260ccab","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

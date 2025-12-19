@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中】女盗贼希露菲和不眠之岛Ver1.02/彼女が奴○になった理由-女盗賊シルフィと眠らない島-Ver1.02【度盘/910MB】"}],["$","p",null,{"children":"无需多言的一款好游戏,画风可能偏老一些,但剧情还有玩法体验上都是神仙级别的.非常非常色,希望大家冲的开心 碎碎念: 当初了解到这款游戏就一直很感兴趣,但看到小站的资源已经过期了,于是自己重新发了这一个,希望大家玩的开心 官中：https://store.steampowered.com/app/13"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/9Nb5AE-jLcU-OrOe","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

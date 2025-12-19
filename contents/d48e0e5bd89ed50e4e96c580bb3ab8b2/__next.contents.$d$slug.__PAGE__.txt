@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/生肉】 亲爱的陷阱逃脱小人一家和被囚禁的宅邸(ハニートラップ・エスケープ〜悪役一家と囚われのお屋敷〜) 【百度/迅雷/350MB】"}],["$","p",null,{"children":"分享时间：2024年7月29日 背景介绍：作者: セイヘキマスターDL链接：转正链接内容介绍：[全程顶级女主，无逆转！] [小马开大车警告!]逃离邪恶家族的计划，被高个子女管家、正太控保育员、恩德雷继母、女臭妹妹所挫败……快来躲避这座奇怪的宅邸吧豪宅里追赶我们的巨乳女仆们的性感攻击吧！！！预览图:更新日志：共有 60 多个基本 CG 图像和 30 多个 H 场景PS：对 无逆转 颓废 背德 色诱 姐姐×正太 强势女 体型差 乖宝宝游戏 这些标签有不适感的，请慎重选择是否游玩此游戏！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/d48e0e5bd89ed50e4e96c580bb3ab8b2","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

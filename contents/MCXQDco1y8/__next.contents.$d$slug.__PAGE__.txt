@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"冷香谷"}],["$","p",null,{"children":"改编：花间浪子\n忆文自第一部《飞羽令》起，接二连三推出新作，共创作四十多部武侠巨着，有许多被香港、台湾书商买断版权，连港、台影视界也同忆文签订合同。\n忆文武侠小说，内容曲折离奇，给予读者广大的幻想空间，尤其注重侠义理论与男女间的情感的谐调，被武侠界誉为金庸之后的又一位“侠坛”之星。\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/MCXQDco1y8","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

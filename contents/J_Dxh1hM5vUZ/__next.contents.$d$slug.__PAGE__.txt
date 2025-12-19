@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中】The Harem Life of Peerless Swordsmen"}],["$","p",null,{"children":"\n《无双剑士的后宫生活》是一款 纯爱风格王道RPG游戏,你可以与多达6名女性冒险者组队,一同冒险。\n当你在城市里取得一定名望后,你会在城市中大受欢迎,许多欲求不满的美少女会渴望与你来一次激情的邂逅。\n\n\n剧情概要：\n尼克为了寻找“金辉之翼”来到了“克纳比”，刚来就碰到了麻烦，遇到了出手相助的女孩莱斯"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/J_Dxh1hM5vUZ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

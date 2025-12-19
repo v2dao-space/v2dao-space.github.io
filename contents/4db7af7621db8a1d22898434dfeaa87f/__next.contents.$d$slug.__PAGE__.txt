@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC+安卓SLG] [更新]【亚洲风SLG/动态/3C】临时域/临时领域（The Interim Domain）V0.26 汉化中文"}],["$","p",null,{"children":"游戏介绍：世界末日并没有随着圣经中所说的那样，硫磺和烈火而终结。或者一声巨响。或者小行星撞击地球。它伴随着一道闪光而来，当那道明亮的光芒消逝时，一切都不再存在了。主角（以你自己的名字命名）醒来发现自己处于过渡时期，一个存在于旧世界和新世界之间的领域。不久之后，他遇到了米拉，一个安特德人——一个被派来帮助他的形而上学的人。从她那里，他了解到他是来帮助那些尚未正确前进的人的。当这些挥之不去的人类拼命地保留着他们前世的记忆时，他必须帮助他们接受他们的存在，同时了解他自己处境的原因。更新日志：v0.26"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4db7af7621db8a1d22898434dfeaa87f","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

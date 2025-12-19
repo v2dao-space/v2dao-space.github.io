@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【港漫】[溫日良、鄧志輝] 武神-300卷完-海洋創作有限公司、海洋创作有限公司-度"}],["$","p",null,{"children":"一套超时空技击武侠漫画，一套承接《海虎》强势之作。 故事发生于帝纪5021年，（即白首男统一地球后5000年），一个来自风族的不凡少年—风族武男，一个由5000年前遗留下来的灭世武器—千军武神，一切由风族武男为寻找千军武神而开始。… 一个由力量控制的时代，谁人才是主宰大地的终极霸主：武男、白愁、无相、克豹、大刀、狂风、刹暗天、刹亚或是巨鲨。…一套令你意想不到、充满迫力，诚意之作。              总感觉还是海虎更好看一些(●—●)之前不想发，因为实在太大了，考虑到今年还是过个没人陪的洋"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/733100","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

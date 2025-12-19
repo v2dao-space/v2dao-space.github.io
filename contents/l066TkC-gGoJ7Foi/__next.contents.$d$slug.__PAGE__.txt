@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/安卓模拟+PC】影色渐染~阿斯林顿的妹神官~V0.5 官方中文版【更新/1.6G】"}],["$","p",null,{"children":"影色渐染~阿斯林顿的妹神官~V0.5 官方中文版 PS：可用新版JoiPlay1.20.590版本游玩 游戏介绍： 『解开妹妹魅魔化的关键是——打倒魔王！？』 平凡不过的边境城镇阿斯林顿中，主人公罗伊德和他的妹妹托莉娜，为了根治妹妹的魅魔化\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/l066TkC-gGoJ7Foi","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

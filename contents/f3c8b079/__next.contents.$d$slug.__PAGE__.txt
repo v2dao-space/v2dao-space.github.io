@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中无码】黄金之境-埃尔德兰特-"}],["$","p",null,{"children":"名称: 黄金之境-埃尔德兰特-类型: 冒险, 独立, 角色扮演开发商: MOON KNIGHT SPARKLE发行商: Kagura Games系列: Kagura Games发行日期: 2024 年 9 月 14 日玛卡宁是一名武器商人，她搭乘的航船在途径两大洲之间时遭遇不测。海神唤起层层波涛，船只被惊涛骇浪裹挟，最终船上众人都被困在了格里姆特岛上。幸运的是，岛上的局面非常善良，很乐意为身无分文的商人指出一条明路：前往岛上迷宫，据说著名的黄金之境就坐落在迷宫深处，那里有着无尽的财富。但最有一次"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/f3c8b079","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC/安卓RPG游戏] [日系RPGAIGPT汉化]怪異覚風録 -Devil’s Evoker 怪异觉风录v1.01XY版"}],["$","p",null,{"children":"一款由XY汉化组汉化的日系RPG，讲述的是对神秘事物很感兴趣，对自己的身体也很有自信的主人公，在某个事件中与恶魔缔结契约逃离异界的故事。在与恶魔的对话、田野采集物、钓鱼等方面，主人公令人愉快的吐槽熠熠生辉，穿插其中的文字令人愉快。恶魔的种类并不是很多，但是根据剧本的进展台词会有细微的变化，这样细致的制作让人爱不释手。因为不会太多，反而会奏效。剧本也好，谁也好，文章也不长不短，读起来恰到好处。但这并不意味着内容单薄。我觉得这样的质量应该很好。总的来说，这些要素被塞得恰到好处，作为短篇RPG是一款非常浓烈令人满意的游戏。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/11dcc158654695ab96c8bd4aae905dfb","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

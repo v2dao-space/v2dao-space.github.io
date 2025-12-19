@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/AI翻译/双端】葡萄园(Виноград :: ヴィノグラード)ver1_0（r18g警告）"}],["$","p",null,{"children":"游戏为“羁绊龙骑士艾拉”大佬自购叶酱进行AI翻译+修图+润色+安卓打包游戏名Виноград :: ヴィノグラード（葡萄园）入正地址：https://www.dlsite.com/maniax/work/=/product_id/RJ01174096.html发售日期：24.07.24自购资源为“羁绊龙剑士艾拉”自购  社团名NyctoMania 关注57支援社团也可以使用DL点数进行支援贩卖日2024年07月24日作者れぇづん剧情れぇづん插画れぇづん年龄指定R18作品类型冒险有声音有音乐文件形"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/8631f5434bb8d7bc2bb4d3d17cafd61e","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

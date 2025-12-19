@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】催○バブみおじさん!～爆乳JD琴子のママ化計画!～【600M/百度】"}],["$","p",null,{"children":"\n\n  \n\n\n\n◆超爆乳女大学生二之宫琴子。梦想是成为可爱又棒的保育员。琴子以成为这样的保育员为目标身材糟糕……竟然是超爆乳的推定Q杯！那样的琴子有男人的影子全力迎接琴子的大人影。对了，前几天琴子捡到的大叔……通称巴布叔叔。哭着喊着一个人很寂寞的巴布叔叔用不可思议的力量给琴子催眠，然后啪啪 \n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/-k26d__f8dz9","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

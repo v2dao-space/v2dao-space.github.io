@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【GAL/minori贴吧交流同好汉化】トリノライン:ジェネシス/Trinoline: Genesis【4.3G】"}],["$","p",null,{"children":"トリノライン:ジェネシス/Trinoline: Genesis品牌：minori发售日期：2018-01-26原画： きのこのみ 柚子奈ひよ’本作是トリノライン/Trinoline 的FD由minori贴吧交流同好汉化故事简介—引用本篇トリノ制作完成了。又可以开始和过去一样的生活了。拥有人工智能的人形机器人——智能机器人技术突飞猛进，已经慢慢渗透到了现代社会的各个领域。在智能研究领域作出杰出贡献的紬木沙羅，制作完成了新型智能机器人 “トリノ”。就外表和行动来看，和人类没有区别。 声音和体温也和普"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/713387","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

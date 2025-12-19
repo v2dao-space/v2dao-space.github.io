@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC/安卓RPG游戏] 【RPG/官中/无码】梅露缇丝的冒险/Meltys Quest V1.2R STEAM官方中文步兵版"}],["$","p",null,{"children":"洛斯塔因王国的和平已经持续了几个世纪,但是谁也没有意识到危机正在朝着看似和平的国家逼近着。本作的女主人公梅露缇丝本是衣食无忧的公主,过着衣来伸手饭来张口的生活。然而,一直潜伏在地底的魔物帝国格罗里德不宣而战,打破了地表世界的安宁,摧毁了洛斯塔因王国,还掠走了梅露缇丝的三个姐姐。在一夜之间失去了一切,从高贵的公主变位身无分文的平民的梅露缇丝下定了决心要击败格罗里德帝国,救回姐姐们并且让国家回复正常。就这样,梅露缇丝踏上了时而轻松幽默,时而惊险刺激的冒险之旅……"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/75988561f9c1058bbefaa241898f675b","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

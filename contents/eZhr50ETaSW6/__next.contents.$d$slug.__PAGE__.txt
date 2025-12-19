@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【同人本/单行本】さわやか鮫肌老师作品合集（至C105）（60本/1063P/544M）"}],["$","p",null,{"children":"さわやか鮫肌，社团名ドットエイト，从C84起一直稳定更新至今的小萝莉画师。 画风整体上接近ふみー，不过脸盘更小。早年间主画东方，近几年转入gbf。 他的最早的三部本子偏向残虐系，之后陡然一转变成纯爱系画师并坚持至今。他的东方纯爱本大多通过几乎没有台词只靠动作和神情传达意思的默剧形式来叙事（并且夹杂车"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/eZhr50ETaSW6","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

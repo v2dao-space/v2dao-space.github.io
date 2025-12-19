@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG/汉化/NPC奸]在有魔法少女的学校自由侵犯NPC 御光精翻版安卓[1G]"}],["$","p",null,{"children":"在有魔法少女的学校自由侵犯NPC 精翻汉化版（魔法少女がいる学校に転校してNPCを犯すヤツ）\n\n\n\n这是由[シュガーボックス]社团在2021年3月13日最新发售的rpg新作类型是大家喜闻乐见的NPC自由行系列，画风非常不错而且这次是游戏内的NPC自己觉醒了，角度比较新颖御光盟国汉化组精翻汉化，文本优秀，还是安卓双版本，方便所有人玩耍\n\n\n\n\n\n\n\n剧情介绍这是一个存在着魔法少女的游戏世界你本来是一"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2354","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG/生肉][amara_amaran]《怪异觉风录》怪異覚風録 -Devil&#8217;s Evoker"}],["$","p",null,{"children":"社团amara_amaran日期2024年02月16日 0点作者amaran年龄18禁类型角色扮演有音乐形式软件语言日文标签女主人公 RPG制作大师 母乳 露出 异种奸 巨乳/爆乳大小650.3MBInformation怪異覚風録 -Devil’s Evoker-あらすじ  嚆矢濫觴、少女は「悪魔」と契約する。これは「山神　覚」の始まりの物語。■概要　悪魔を使役して異界を攻略する系の短編RPGです。■想定プレイ時間　作者補正で2～3時間くらいだと思います■体験版では一部仕様に制限があります。(引"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/765182","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

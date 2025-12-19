@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/PC]与魅魔缔结契约的同居生活 Living with a succubus v2.0"}],["$","p",null,{"children":"游戏简介：与超级可爱又色气的魅魔「诺艾尔」一起度过相亲相爱、甜甜蜜蜜的同居生活吧♪从突然被诺艾尔袭击,到变成一起生活的你(玩家名称可变更)同居生活就是...身旁有个一直想榨干你的精液吃饱饱的诺艾尔、打工赚钱买一大堆可爱的新衣服用聊天或是亲密的身体接触(就是一直做爱啦),来加深两人之间的感情…♪同居生活...不「同居性生活」想要怎么度过全看你想怎么做!此故事为透过好感度来决定的多结局游戏~入正地址 (https://store.steampowered.com/app/1997430/_/)"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/a8974cdbd6a44a8b0fdd67f3582cfccd","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

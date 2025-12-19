@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"流氓大地主"}],["$","p",null,{"children":"许平，一个吊儿锒铛，无所事事的小流氓。从小就被父母遗弃，靠着偷鸡摸狗养活自己。蹲在厕所里时却莫名其妙的穿越到了古代，一个和明朝很相似但又有些不同的异界。还幸运的成为了当今皇帝唯一的孙子。\n古代的女人就是好，三从四德，温顺体贴。\n且看一条现代色狼如何纵横四海，杀得敌人惨叫，搞得美女一个个浪叫。\n饱满而又性感的美妇。调皮可爱的小萝莉。聪慧诱人的魔教美女师傅。含苞待放的少女。温顺乖巧，几乎是逆来顺受的小丫鬟。\n许平收着一个又一个的美人儿，演绎着一个香艳无比，酒池肉林的帝王之路。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/mR4HIPliwm","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

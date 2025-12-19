@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RJ01158327]听说只要作出贡献修女就会用她的大○○替你做任何事"}],["$","p",null,{"children":"自跟魔族的大战已经过数年,人类社会渐渐恢复和平的日子。在稍微偏僻的地方有那麽一所由修道院运营的孤○院。风和日丽的今天,那裡的孤○们早已忘掉了伤痛努力地生活,并积极面对人生。就在这样的日子中,亚当斯耳中传进了一个传闻。“是哦~我只是帮了修女一点忙,她竟然就允许我摸她‘那个’了呢!”似乎只要送礼物给修女或者做了什麽有贡献的事情,她就会让你做些羞羞的事作为回礼。而嚣张自大的阿奇已经先亚当斯一步,跟修女做了不少羞羞的事了!于是亚当斯下了决心。“绝对要……把修女从那混帐手中抢回来!”一切都是为了喜欢的人身上的、那个大○○。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/d76bfcef29ccedafcf79613eeddfd432","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

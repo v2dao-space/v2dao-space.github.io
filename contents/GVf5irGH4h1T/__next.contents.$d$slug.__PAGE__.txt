@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/汉化】救赎者：Salvation+全cg存档【度盘/211MB】"}],["$","p",null,{"children":"闲话\n本来这几天放假在家,想着重温以前玩过的游戏(15年的游戏),在站里找的时候,竟然爆了(这个游戏),那只能去别的地方找了,顺带给大伙们补上缺的这一块;回想起来上一次玩到这个,已经是很久以前了.(大伙们呢)\n喜欢的话,可以支持一下\n入正:点我\n游戏图\n\n游戏概述：\n这是一款由【クリメニア】社制作的"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/GVf5irGH4h1T","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

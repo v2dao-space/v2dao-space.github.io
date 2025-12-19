@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"透明大叔的隐形NTL+全CG存档【PC+安卓kr/汉化/NTR】"}],["$","p",null,{"children":"■故事介绍： “津家卓弥”不受欢迎，也没有工作，找不到生存意义。 拯救他人生的是新人播音员“近卫雪姬”。 公开表示自己没有男朋友，毫不客气地怒斥黄段子，对男人表现出强硬的态度。 看着她作为一个对工作充满热情的女性生活，我觉得自己的人生道路也"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/f13e2b48d866093a90acf18fa4fb7e9b","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【l2d同人动画/生肉】Neneg 9月荧Lumine +25年往期1-9月作品合集【66v/度盘/17.3G】"}],["$","p",null,{"children":"Neneg一个动画制作作者。所以作品风格看起来很杂，先整理了25年作品，8月和9月的还是有修正的。分卷压缩，后缀删掉.png再解压 最近的是与MだSたろう的原神角色荧，MだSたろう大佬作品质量可是数一数二"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/7B99SPS9Mh","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

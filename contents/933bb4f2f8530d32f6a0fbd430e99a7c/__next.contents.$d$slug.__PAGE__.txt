@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/汉化/动态】新地方/A New Place [v0.6.1]【PC+安卓/451MB】"}],["$","p",null,{"children":"作者主页https://www.patreon.com/kintsugidigital  游戏简介《新地方》是一部以小乡村为背景的情色视觉小说，融合了浪漫和约会模拟元素。作为玩家，你扮演一个年轻人，刚从大学毕业，住在繁华的城市。然而，由于一些可疑的行为，你发现自己别无选择，只能逃离城市，重新开始。由于资金有限，不知道去哪里，你决定离开城市，搬到一个小乡村。当你与人互动时，你可以走不同的路，根据你的行为和答案，故事会有所不同。      更新日志：v0.6.1初始 F95 版本  出错的重下或者换"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/933bb4f2f8530d32f6a0fbd430e99a7c","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"执子之手"}],["$","p",null,{"children":"写尽了现代男女的哀乐离愁，写法雅而不俗，别有一番韵味。剧情转折却令人拍案叫绝，一波三折，哑口无言！作者文笔细腻，多重视角描写，环环相扣，很多时候，背后隐藏的故事比表面上的更令人牵肠挂肚……"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/b3fWZUCO_8","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【GAL/汉化】お兄ちゃん、教えて…… ～義妹とヒミツの保健実習～【314MB】"}],["$","p",null,{"children":"游戏类型制作公司：アンモライト 发售日期：2015年12月25日汉化日期：2019年01月10日汉化小组：心愿屋汉化组游戏类型：妹、护士、甜蜜游戏原名：お兄ちゃん、教えて…… ～義妹とヒミツの保健実習～游戏别名：哥哥、请告诉我……～和义妹秘密的保健实习～剧本: 岡下誠原画: 一河のあ音乐: AZ-MIX剧情介绍现在想起，那是发生在昨天的事。「哥哥（お兄ちゃん）你把自己的身体当教材，教我保健体育！」在籍名门护理学园的妹妹・百合。表面上看她的护士之路似乎一帆风顺，然而其实似乎「一接触到男性的身体的话"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4126c2dfd72a52d6afb65125e03a76ee","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

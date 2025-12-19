@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D动画/无修正】[HappyLambBarn]Lost life画师视频图集系列整理（包括fanbox相关更新进度等）"}],["$","p",null,{"children":"如题，又是一年圣诞节和跨年之际了…\n距离lost life上一次更新1.52版本已经过去整整两年了。时间过得太快了。\n两年以来，游戏的作者一直在fanbox几个月一更进度报告，相信各位都看见了。本帖是所有fanbox更新进度的整合，包括视频和相关图片等等。同时也包括了画师（桑）的一些lost lif"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/qCamd5orh-yo","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

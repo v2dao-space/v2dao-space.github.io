@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/无码/生肉】神作预定 Accursed: Emma&#8217;s Path"}],["$","p",null,{"children":"<p>这个RPG游戏不仅是无码动态 而且画风也非常的符合大众口味 并且战斗方面也是非常有质量的 剧情方面更是骚的一批 有触手插入后，肚皮都会动，特别真实 还有其他场景也是相当的不错 游戏介绍： 诅咒：艾玛之路是一款可选战斗色情视觉小说风格的角色扮</p>"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/eba47e62bed7f8e8d7295a082a9c93ec","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

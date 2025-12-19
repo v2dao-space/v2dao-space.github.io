@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美RPG/汉化/动态]家务 V0.10.1b 汉化版★僵尸生活作者新作[9月更新][安卓][1.8G]"}],["$","p",null,{"children":"家务：House Chores V0.10.1b 汉化版[僵尸生活作者]\n\n\n\n时隔一年半，跨了10几个版本的巨大更新，已经多了几倍内容！\n\n\n\n游戏概述：这是僵尸生活作者[Siren’s Domain]的一部最新制作的rpg新作。现在已经更新到了V0.10.1b版本，内容超级丰富了！相信大家玩过僵尸生活系列，对本作的质量自然是非常值得期待的！纯2D手绘风格，质量非常高，画风超社保，还有很多动态C"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/679","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

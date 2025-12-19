@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"黑鬼有罪之出轨无罪"}],["$","p",null,{"children":"苏妍在上海出生，年幼时随父母搬到光州这个南方的大熔炉，所幸这里已经普及国语，不至于有沟通上的障碍。\n父母都是公务员，苏妍从小衣食无忧，偶尔会犯大小姐脾气，但总的来说，在工作中，她是个女强人，生活中，是个贤妻良母。\n孩子到了上幼儿园的年龄，因为小区附近没有幼儿园，苏妍把女儿放到退休的妈妈家，平时主要由妈妈照顾。\n这一年，苏妍32岁。\n“老公，你知道吗，杜若找男朋友了？”苏妍坐在梳妆台前一边卸妆，一边说。\n“找就找了呗，都离婚一年了，该找个人了”丈夫陈志漫不经心地说。\n“她找的是个黑鬼，真不知道她咋想的”苏妍气愤地说。\n“萝卜青菜，各有所爱，她又不是咱女儿，由她去吧”陈志说。\n“可她是我最好的闺蜜啊，以后经常要见面的，万一他们结婚了，更加避免不了，不行，想想都觉得可怕，不能让这种事发生”苏妍之所以这么激动，并不是因为她多想管闺蜜的事，而是今天这个黑鬼向她表白了，但她没有和陈志说，也不知怎么说。\n第一次见面就向女朋友的闺蜜表白，铁定是渣男无疑，苏妍怎么能让这种男人和自己最亲密的朋友在一起。\n心里暗下决心要拆散他们。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/hei-gui-you-zui-zhi-chu-gui-wu-zui-_luH","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

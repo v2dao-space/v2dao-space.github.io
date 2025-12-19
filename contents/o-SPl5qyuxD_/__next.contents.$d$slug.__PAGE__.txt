@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】ないしょエッチ4 ～淫乱お姉ちゃんになってショタと遊ぼう【1.38GB/百度】"}],["$","p",null,{"children":"\n \n  \n \n\n这是秘密的エッチ系列的第四部作品，故事中的姐姐和少年秘密地进行性行为！\n这次是首次以女性主角为中心，扮演一个喜欢年轻男孩的变态姐姐，教他们一些色情的事情。\n \n※本系列作品没有连续的故事情节。\n这是一个现代背景的无战斗おねショタ角色扮演游戏。\n故事仍然发生在暑假期间，但没有时间限制"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/o-SPl5qyuxD_","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

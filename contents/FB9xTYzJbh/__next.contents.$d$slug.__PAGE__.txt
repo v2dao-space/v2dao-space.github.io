@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无修】巨乳偶像宅邸"}],["$","p",null,{"children":"「极限爆乳 × 淫靡经营 × 多重结局」──最晃最晕的娼馆经营游戏，隆重登场！  欢迎光临《巨乳偶像宅邸》──这里只有欲望，没有禁忌。 在这座为了实现梦想而诞生的娼馆中，五位拥有超越人类常识的爆乳女主角正等着你来经营、调教、解放她们的渴望。 她们的胸围……你一眼就能明白，每一次晃动都是视觉与欲望的冲"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/FB9xTYzJbh","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

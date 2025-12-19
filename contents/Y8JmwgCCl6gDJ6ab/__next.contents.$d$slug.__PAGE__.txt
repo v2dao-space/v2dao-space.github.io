@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/繁体】西瓜肚精灵勇者 びたみんクエスト Ver1.06【度盘/178MB】"}],["$","p",null,{"children":"最近看到这作的第二部忽然想到几年前发过第一部去看了看帖子发现字体有问题，翻出我的陈年网盘下回来整了半天终于给游戏打开了，想补档改帖子转半天打不开重新发一篇吧 好多年前老物了，XP合我胃口微重口，懒得玩去目录Graphics-pictures可以直接看cg 不要在线解压 不要在线解压 不要在线解压 我"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Y8JmwgCCl6gDJ6ab","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

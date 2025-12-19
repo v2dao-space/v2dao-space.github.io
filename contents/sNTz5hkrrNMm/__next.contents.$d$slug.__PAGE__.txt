@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】 淫魔女王的阴谋世界 サキュバスクイーンの陰謀世界〜色仕掛けの誘惑と6つのオーブ〜 【1.2G/度盘】"}],["$","p",null,{"children":"■内容介绍这是一个专为M男量身打造的RPG游戏，以淫魔女王的阴谋世界为舞台！本作最大的看点是所有Boss角色都实装了Live2D带来的流畅的色情场景！而且，所有Boss战失败后都有后日谈！因为轻敌而被比自己弱小的敌人榨取！因为善良放过对方，反而被反过来榨取！ 为了胜利而被提议爽一把而榨取！因为冒险的"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/sNTz5hkrrNMm","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

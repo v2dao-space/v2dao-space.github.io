@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【GAL/汉化】AMBITIOUS MISSION&amp;FD1&amp;FD2【度盘/4.23G】"}],["$","p",null,{"children":"22/05/27有磁链；度盘炸了随缘补。SAGA PLANET新作。体验版比较短，看不出端倪。虽然白毛写脸上的真女主，但也看怎么写。希望这作不会过于拉跨，起码得比青春火花强点，不然又是不如雪碧的新作了( 22/06/01 我推完了。感觉野心任务不如…苍彼EX2虽然确实是比前作那不知所谓的讴歌青春强，但这作同样是主旨不太明白。即便一直都是普通初中生作文式的点题”要珍惜自己拥有的东西”，可推完了仍旧没多大的感觉。也就粉毛线的结局前那一小段人物落差烟雾弹稍微有点这个意思。其余的线虽然是往这个主旨上靠，"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/608527","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

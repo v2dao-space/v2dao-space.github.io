@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/ADV】祝福のカンパネラ Plus Stories"}],["$","p",null,{"children":"本作为 祝福のカンパネラ 的重置版并在原版基础上增加了新的剧情\n并且本作的角色也在续作 悠久のカンパネラ 中也有客串登场\n这是一部剧情很不错的作品，似乎也出过番剧（正剧）可以去看看\n  \n Story\n故事发生在有着“世界宝物库”之称的城国【埃尔塔利亚（エルタリア）】。这个地方现在为“收获祭”而准备"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/kUKuJDRnekFu","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

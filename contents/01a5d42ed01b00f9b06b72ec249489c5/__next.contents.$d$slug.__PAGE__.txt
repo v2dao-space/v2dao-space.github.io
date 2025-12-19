@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/GAL】ちっちゃくないもんっ！（ver1.01）"}],["$","p",null,{"children":"本作所有女角色均成年，游戏界面写的很清楚2024.8.6正式更新机翻版本，但经过测试，机翻版本仍需要手动安装下面是保姆级安装教程，看不懂的建议换游戏安装教程1、本游戏对安装路径要求很严格，游戏只认初次安装路径假设初次安装路径 C–desktop–iris–game，若将游戏复制、拖拽进其他地方并将初次路径本体删除则判定游戏损坏，需要重新安装，因此请选择1个合适的路径安装本游戏，位置不要改动2、建议PC语言在日语环境下安装，中文路径安装，文件夹会出现乱码（LE转日语可运行日版）3、PC语言日语的可"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/01a5d42ed01b00f9b06b72ec249489c5","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

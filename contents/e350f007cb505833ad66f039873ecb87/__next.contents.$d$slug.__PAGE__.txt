@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"无与伦比的欲望  Peerless Lust 0.33"}],["$","p",null,{"children":"• 游戏介绍：你扮演的是一位绝世情欲魔君，在被击败后被囚禁了数千年最终逃出了牢狱，却因为一些变故，来到了异世界，拥有了弱小的人类身体。于是冒险开始了：为了重新获得权力，你必须传播欲望和腐败，幸运的是，这个世界充满了美丽的女人在等着你。这个世界上似乎只有女性才能使用魔法，但我能感觉到我的魔法，而且我的魔力似乎也起作用了。难道我是这个世界上唯一会使用魔法的男性？它提供了很多可能性！甚至还有精灵族和野兽族。我想知道是否也有恶魔更新日志：脱衣舞俱乐部新活动！现在你可以完全宣称舒雅是你的女孩，并将她的血统"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/e350f007cb505833ad66f039873ecb87","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

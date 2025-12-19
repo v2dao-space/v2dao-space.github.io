@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[さんじゅうろう] フラストレーションガールズ慾求不滿飢渴難耐的少女們 [中国翻訳] [無修正] [DL版]"}],["$","p",null,{"children":"  \n  \n  \n  \n可愛的女孩們主動示愛，留下半遮掩的禁忌門扉，純愛戰士們是否願意推開這扇偷情之門？總是不滿地想著「貴圈好亂！」卻又嚮往著純純戀情，三十郎再次畫出純愛偷情的渴望！\n以『點心時間』與『祕密x祕密』締造超快再刷紀錄成漫作家三十郎（さんじゅうろう）睽違4年推出新作！d/art於2024"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/iKI8D97W1kDQ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中无修】Aquilon’s Sex Quest"}],["$","p",null,{"children":"欢迎来到阿奎隆——一个怪物猎人与阴谋、诱惑交织的城市。 你是一名年轻而雄心勃勃的猎人，来到这里只为名扬天下，成为传奇。 你的旅程充满危险与诱惑。探索阿奎隆阴森的地下城，与可怕的怪物战斗，证明你的实力与智慧，争夺最强猎人的席位。 故事的主角是一名踏入大城市的年轻猎人。 他的目标是一个充满危险与宝藏的传"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/rqnS7QjNkao2Y53B","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

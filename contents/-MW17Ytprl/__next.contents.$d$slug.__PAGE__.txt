@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"情欲乐园"}],["$","p",null,{"children":"爱与性的差异到底在哪里？\n情与欲的界线究竟在哪里？\n两性在感情与肉体的认知上又存在着多少的距离？\n这是许多置身纷扰爱情里的人常会问的问题，但是，答案究竟是什么？\n作者鉴于现代人敢于尝试大胆狂放的性关系，却不知该如何面对内心深处里“爱”的真实力量。甚至在真爱来临时，踌躇犹豫，无法肯定……于是，她透过一男——艾略特与一女——丽莎，分章交叉刻划地将“由性而生爱”的心理与生理过程，与男女之间在接受各种情感面向时，想爱却又怕受伤害的矛盾抗拒，层次分明的将其中的微妙情绪发挥得淋漓尽致。\n想知道真爱在哪里吗？本书绝对能让你找到最完整的答案！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/-MW17Ytprl","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

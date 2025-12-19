@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/官中/补档/Chained-lily】姫恋~縛羽の欠片"}],["$","p",null,{"children":"补档，好像是有关百合和SM的，前者虽然不感兴趣但是后者非常感兴趣，按照要求补个档, 虽然说是三月会恢复，不过目前樱盒还是没开启上传    作品内容これは幼いころに散り散りにされた姉妹の再会と恋の物語。STORY新しい学校に転入することになったその日、登校中の電車の中で「痴漢」に遭ってしまう。しかしその痴漢は美少女で、しかも同じ学校の後輩。その後、彼女は実は私が小さいころに父親によって離れ離れにされた妹であったことが…。これはそんな————エッチな姉妹の禁断の恋のお話。ABOUTこれは商業ゲームで"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/748194","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

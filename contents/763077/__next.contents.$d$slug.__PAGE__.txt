@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/机翻】DEAD DAYS"}],["$","p",null,{"children":"前言分享一部几乎很少有人投稿的作品（我说少那肯定少）游戏附上V1.02修正补丁+机翻补丁+免认证补丁—-来自于2DFan，感谢2DFan上传的大佬本作海报的角色pose很帅，冻京的海报也很帅（来自场面视觉）注意事项：免认证补丁使用后会弹出认证框，随便输数字即可运行游戏  Story生きて、死んで、生きる。見知らぬ場所で目覚めた男女数人。互いに面識のない彼らはいずれも、 一度死んだはずの人間だった。混乱する彼らに、正体不明の存在から「余命を与える代償」として一方的に示された条件は、この世に存在する"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/763077","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

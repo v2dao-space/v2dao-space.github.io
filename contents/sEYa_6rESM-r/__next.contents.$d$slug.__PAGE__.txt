@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】 败给雌小鬼钱就会被收走的游戏 メ◯ガキに負けたらお金を取られちゃうゲーム 【878M/度盘】"}],["$","p",null,{"children":"■面向M的游戏场景满载！与 雌小鬼 战斗的 RPG以蛮横的 雌小鬼 们为对手，在公园里进行格斗对战！如果在与 雌小鬼 们的格斗胜负中失败，不仅会被夺走所持的钱财，还会品尝到被嘲笑的屈辱……甚至，还可能被性侵犯，大人的自尊被彻底摧毁？这是一款面向希望体验输给 雌小鬼 后被嘲笑的屈辱的成人向 RPG。H"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/sEYa_6rESM-r","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

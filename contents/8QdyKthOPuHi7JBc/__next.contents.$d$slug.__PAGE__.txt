@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】Harem of Gods"}],["$","p",null,{"children":"神之后宫是一款动作类Roguelite游戏，你将作为一个意想不到的英雄，在美丽女神们的帮助下，对抗成群的邪恶势力。规划你的装备构筑、发展与女神们的关系，并屠杀那些阻挡你的敌人。 在你征服邪恶的过程中，你将与女神们组成后宫。你伸张的正义越多，她们就越想给你特别的色情奖励！ 远古的邪恶摧毁了地表世界。但"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/8QdyKthOPuHi7JBc","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

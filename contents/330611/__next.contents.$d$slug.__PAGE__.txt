@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】シェリル～金色の竜と遺跡の島【1.06g】"}],["$","p",null,{"children":"强过MTool机翻的AI翻译省流：如何使用AI翻译:打开MTool，载入游戏，点上面菜单栏的翻译选项，加载完毕后选加载翻译文件，选1b8.json或7b.json即可，后者质量应该更高。前作是：Lizbel-リズベル-本作貌似没有翻译，由于最近看了个AI翻译视频。于是自己跑了一下，刚跑完，先上传到这里大家也可以看看质量如何。据评论区所说，1b8翻译出来效果比机翻强，但仍有地方需要思考一下，而13b能达到汉化组精翻的水平，不过嘛我的电脑带不动13b（限制较大），于是选了个7b。我的配置是16g内存"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/330611","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

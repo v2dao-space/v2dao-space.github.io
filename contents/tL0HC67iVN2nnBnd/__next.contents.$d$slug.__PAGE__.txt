@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】Delivery Hot"}],["$","p",null,{"children":"更新说明 追加內容更新 亲爱的玩家们， 很抱歉本次追加內容比预期耗时更久。 我们终于完成了承诺给各位的内容， 希望大家会喜欢~ – 新增內容 画面演出强化 全女角新增两个体位大特写视窗，共计 16 张新HCG  ◆故事： 身为一位敬业的外送师，在一次工作中邂逅了清纯可爱的女大生—奈绪 随着送餐次数的"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/tL0HC67iVN2nnBnd","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

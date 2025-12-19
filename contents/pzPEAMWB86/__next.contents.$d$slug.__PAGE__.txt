@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"灰色系列"}],["$","p",null,{"children":"天外飞星的作品《灰色轨迹》、《灰色黎明》、《灰色天堂》可以看作一个系列，不是因为它们的叙事有关联、情节有延续，而是因为它们的风格的一致和内容的相融。\n《灰色三部曲》中的每一部都描写了一个独立的、令人心弦紧扣的故事，其中包含了很多荒诞的墨色悲凉，甚至有些堪称超现实主义的东西。书中的男主角从周洋、周旭到欧阳华，无论是设定成什么身份，都有一个共同的特点：算是个失意者吧。\n他好色，对什么美女都不放过；他善良，从不超越公德底线；他多情，对（前）妻念念不忘。不管他怎样果敢，同命运奋起抗挣的结果难免终于妥协。可以理解的是，毕竟受制于人的小人物无法改变社会，就是作为雇佣兵出身的“周旭”也不例外。性格决定了他们即不是传奇中大侠式英雄，也成不了色界中的流氓大亨。但就是这样反而更使读者与书中人完全融为一体，跟男主角感同身受。尽管追求富足是每个人的本能，而平凡却是生活中大多数人不可逃脱的宿命，这正是《三步曲》最特出和耐人寻味之处。\n总体上看，作者应该是受到当年多拉家常著名硬派（也叫无情派）大师的影响，全书集惊险、人性、情爱之大成。表象上看似家庭婚外情引发的惊涑，但实质上仍然是浪漫的、唯美的。尤其是最后，众人的归宿和故事的结尾，同样延续了开头的微妙氛围。我们通常在现实生活中没有的完美结局，在这里至少寻找到了一个貌似欢乐的所在。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/pzPEAMWB86","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/ADV】僕の愛しい妹が寝取られちゃった理由"}],["$","p",null,{"children":"前言本作男主绝对是个弱智开场送1个王炸妹妹，自己作，结果被人夺走，被夺走了才知道后悔，没用完全不同情男主系列本作妹妹画风超赞游戏附机翻补丁（已嵌入游戏）+演出强化补丁（未嵌入游戏）  Story彭城 雛奈(サカキヒナ）。顔はもちろん、巨乳なうえにスタイルも完璧。身長が低くて小っちゃい事がコンプレックスみたいだけど、そんなところも可愛くてチャーミングだ。性格も明るくて、無邪気で、健気。そんな彼女は、僕と同じ私立百里（ももざと）学院に通う、可愛い『妹』だった。そんな妹から、僕はある日、告白される。彼"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/771435","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

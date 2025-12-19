@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【爆款RPG中文/PC/安卓】怪盗莲ver1.0.2"}],["$","p",null,{"children":"一款无论是画风还是玩法丰富度都属于顶级的爆款RPG新作，强烈推荐！这是【やまなし娘。】在2022年8月28日发布的一款超强日式RPG游戏。游戏在DL上发售两天就卖出超过11000+的销量，属于爆款热门佳作~游戏讲述劫富济贫的魔法怪盗艾菲在夜里和邪恶势力斗争的社保故事。主打战斗エロ，战败エロ，爆衣，陷阱エロ，动态断面，CV语音，非常强大"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/97f2711e5b31176d03f6beb12bdd80e1","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

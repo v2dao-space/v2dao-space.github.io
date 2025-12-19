@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/汉化/安卓】更好的东西/Something Better [v0.2.1]【1.4G】"}],["$","p",null,{"children":"作者主页https://www.patreon.com/detarco  游戏简介深入探讨围绕三个迷人角色的故事，每个角色都心碎，并以自己的方式面对挣扎。跟随他们面对高潮和低谷，剥去他们向世界呈现的层层面纱，展示他们内心的真实自我。当他们在逆境中找到力量并成长时，每个视角都提供了不同的棱镜，不仅可以看到他们如何看待自己，还可以看到他们周围的世界和人。当他们试图寻找更好的东西时，你会陪伴他们吗？     更新日志v0.2.1~10k 新词汇338 个新渲染图！1 个新的主菜单动画修复旧内容    "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/70f31db3f1ff7965ff636a3ad7bac390","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

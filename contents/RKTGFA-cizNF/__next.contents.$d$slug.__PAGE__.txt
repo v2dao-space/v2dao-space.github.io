@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"迷雾阳谷学院   (Solvalley School)4.0.0 已完结"}],["$","p",null,{"children":"一款融合了约会模拟和视觉小说元素的游戏。讲述了主角亚历克斯在当地的学校中展开的冒险故事。玩家需要培养亚历克斯的能力，努力赢得尽可能多的女孩青睐。游戏中共有超过30名性格迥异的可攻略女性角色供玩家了解和交往。你可以自由探索城市、酒吧打工、健身房锻炼或者选择宅在家里苦读。游戏中设有近100个事件，提供数小时内容丰富的游戏流程以及大量动画场景。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/RKTGFA-cizNF","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

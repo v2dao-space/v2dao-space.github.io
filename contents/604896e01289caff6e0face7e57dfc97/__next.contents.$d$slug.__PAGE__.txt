@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[日系SLG/汉化/动态] 真相只不过是谎言 The Truth is Nothing but Lies v.0.5 Part 3 PC+安卓汉化版"}],["$","p",null,{"children":"一个对过去没有记忆的男人在一个陌生的房间里醒来，充满了困惑和愤怒。他决心揭开自己身份的真相，开始通过唯一可用的线索拼凑他的过去——他在一所女子学院担任教授的工作。当他深入研究自己的过去时，他发现了一个令人震惊的真相，这个真相将改变他的生活——“兄弟，你在做什么？“我开始写日记了。这已经成为我的日常习惯。“我不知道你喜欢这样的事情是一种爱好。“...” “这只是日记...”"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/604896e01289caff6e0face7e57dfc97","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

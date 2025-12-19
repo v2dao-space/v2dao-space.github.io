@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化/PC】NTR騎士"}],["$","p",null,{"children":"所发布资源不得用于商业盈利，否则产生的一切后果将由您自己承担！制作介绍社团名戦争屋さん贩卖日2023年11月18日 0点更新信息2023年11月18日 年龄指定18禁作品类型角色扮演 有声音 有音乐文件形式软件支持的语言日文分类着衣/穿衣 男主人公 连续高潮 战士 被寝取/NTR 啊嘿颜 黑发 巨乳/爆乳文件容量2.27GBDL链接:点击这里游戏介绍■剧情■  主角和阿特尔从小就互相喜欢，但由于阿特尔无法表达自己的感情而分开，加入了他的梦想骑士团。然而，由于某种原因，他的青梅竹马阿泰尔回到了主角"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/726757","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

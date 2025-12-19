@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG/汉化] 极光和女神的乐园岛 机翻+原版 [2G]"}],["$","p",null,{"children":"極光和女神的樂園島機翻+原版劇情内容：住在天堂的女神奧羅拉因一場神秘的風暴墜落到一個神秘的島嶼上。爲了生存和逃脫，她開始在島上探索和生存，但有觸手生物，史萊姆和性欲強的海盜。無論是神還是非神，都瞄準了女性的身體。女神奧羅拉的命運又如何。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n奧羅拉住在天上的女神，曾經散布世界的生命之源。她本該認識世人，卻連女神也掉入了一個未知的島嶼，開始探索這座島嶼，目的是回到自己的故鄉"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1941","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

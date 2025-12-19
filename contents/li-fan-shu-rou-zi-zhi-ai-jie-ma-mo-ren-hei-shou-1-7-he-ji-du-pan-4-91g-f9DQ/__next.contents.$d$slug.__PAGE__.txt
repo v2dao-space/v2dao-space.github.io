@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【里番/熟肉/自制ai解码】【魔人】黑兽1-7合集【度盘/4.91G】"}],["$","p",null,{"children":"在有朋友留言想看黑兽的解码，于是做了一份（1，2集属于是细码所以可以用来推理的像素多去码效果好，第三集过后换了马赛克规格过后效果变一般了，码多了还偶尔抓不到），一共是1-6集加上后面出的黑兽2的第一集（讲道理当年的魔人是真的顶，后面越来越拉了，出黑兽二的时候我当时还认为黑兽这系列要复活了于是买正版支"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/li-fan-shu-rou-zi-zhi-ai-jie-ma-mo-ren-hei-shou-1-7-he-ji-du-pan-4-91g-f9DQ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

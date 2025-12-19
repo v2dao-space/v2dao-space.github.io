@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"身为金发傲娇系校花的我，竟然搬进了有男生室友的女寝当中？"}],["$","p",null,{"children":"（本篇和校花同寝是姐妹篇，可以视作续集，但是两个相互独立的故事，不影响阅读。）\n我叫李依依，是个毋庸置疑的金发大胸美女，从小到大都是人群的焦点。\n但他们都不知道，我背地里还有一个身份，是知名的黄推博主。\n我会拍摄许多不露脸的露出，自慰，生理教学视频，免费发表，这是我的爱好。\n但，在一次拍摄过程中，我的行为被室友发现了，社死之后，我换了个学校，打算重新开始我的人生。\n但为什么，才进入新学校，就给我分配到了一个有男性室友的女生寝室啊！！！\n我的新人生，一开始就朝着一个十分诡异的方向发展去了。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/shen-wei-jin-fa-ao-jiao-xi-xiao-hua-de-wo-jing-ran-ban-jin-le-you-nan-sheng-shi-I0Z_","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

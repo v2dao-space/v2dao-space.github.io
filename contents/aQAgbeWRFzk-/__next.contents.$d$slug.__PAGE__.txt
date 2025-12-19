@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ARPG/AI汉化】安娜的初次任务（アンナの初任務）V1.0 【456.26MB/百度】"}],["$","p",null,{"children":"  \n■故事\n有一天，主人公安娜被大主教卢修斯召唤，并接受了第一个任务。\n任务是在边境的小镇上寻找某个东西。\n ■系统\n本作的地图分为【城镇区域】和【战斗区域】。\n●【城镇区域】\n通过前往指定的地点或与特定的人交谈等行为来推进故事，与普通的RPG相同。\n●【战斗区域】\n添加了在城镇中不可用的指令。\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/aQAgbeWRFzk-","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

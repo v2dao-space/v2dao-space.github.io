@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【官中/GAL】ONE.（重置/全年龄）"}],["$","p",null,{"children":"前言98年（ONE ～輝く季節へ～）重置版官方简介：为纪念NEXTON创立30周年，经典的90年代催泪视觉小说《ONE：辉之季节》将以重制形式回归。在重制版中，画师樋上至再次担任原画设计，游戏开发商novamicus担任制作，以最新的技术呈现更加唯美的视觉体验。1998年的冬天，在一个平凡学生的心中，忽然出现了另一个世界——支持官方正版：JUMP封面上1张高清大海报PS：ONE有续作的，名字叫（ONE2 ～永遠の約束～），本人还没推，暂时不发  Story将我维系在这个世界的事物。1998年的冬"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/768795","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

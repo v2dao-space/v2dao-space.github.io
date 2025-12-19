@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D动画/生肉/AI去码/AI补帧】Custom Udon老师作品 保健室ひみつ【度盘/1.56G】"}],["$","p",null,{"children":"冶炼效果越来越成熟了，这次连户型💋都能看的比较清晰ᕕ(◠ڼ◠)ᕗ大家可以对比原片看一下效果。附上改进后的工艺流程工艺流程先用 JavPlayerEz 进行去码处理（①TG8XhdAF②SE-4X-S2③UE-4X，马赛克范围选auto！右上角AI识别可以看情况开） 软件下载/教程https://www.bilibili.com/video/BV1yi421Z71D然后用Topaz Video AI 进行补帧60fps处理（apollo优先）软件下载/教程https://www.bilibili"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/a5980dbef9e65fade7e071e9f896999c","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

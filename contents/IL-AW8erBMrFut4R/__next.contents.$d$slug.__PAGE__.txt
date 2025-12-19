@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/官中无修】SUCCU-MAMA"}],["$","p",null,{"children":"千晶发现自己最近常在思考人生哲理：什么时候才能真正成为大人？ 怎样成为一个男人？怎样才能让继母回应我的情欲？ 一连串怪事始于一个雨天。千晶全身湿透地赶回家，在浴室里碰到了正在换衣服的赤身裸体的继母！ 他对继母的毫无波澜感到有些失望，难道她真的不在意被他看到吗？ 这幕场景实在印象太深刻了，当他夜里默默"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/IL-AW8erBMrFut4R","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

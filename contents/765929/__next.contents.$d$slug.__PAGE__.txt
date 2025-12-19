@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/GAL】SEX戦争 ～愛あるエッチは禁止ですっ！～"}],["$","p",null,{"children":"前言随意分享一部作品，只管冲彩蛋自己找人懒不上人物介绍了  Storyどこにでもありそうな…普通の共学の学園。だがこの学園は数十年前から…男女間での対立による戦いが繰り広げられていた。『SEX戦争』それは、男と女の存在を賭けた真剣勝負。セックスで、相手を倒すしかない弱肉強食の世界。そんな学園に仲の良かった幼馴染と共に入学した主人公。「私は……君の敵だよ」幼馴染からの宣戦布告！襲いかかる女の蜜壷！回避不可！？衝突必至！？——性器の対決が今……始まろうとしている。【SEX勝負とは!?】相手or自分か"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/765929","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

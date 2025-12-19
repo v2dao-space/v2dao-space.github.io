@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"雨季三部曲/乱伦大合集"}],["$","p",null,{"children":"色中色原创优秀情色小说！\n　　　《雨季》文笔优美有创意，作者的许多生花妙笔值得我反复细读，慢慢体味；构思自有一番思量，行云流水般趟过，中间或有生涩，也是无伤大雅。至于作者在提纲中有说为色而情节，非为情节而色，依我看，大半是作者谦虚之言，文中其实已做到「情色」交融，自成一体的境界。\n　　　……\n　　　此情，有母子亲情，男女欲情，至亲温情，乱伦孽情，仇人恨情，极乐忘情，依依恋情；情之一字，充斥全文的每字每句，引导读者深深入迷其中，难以自拔，后面我会具体介绍经典的段落。之性，有洋溢着幸福的羞怯性迹，有充满着刺激的偷情性迹，有忘形而放纵的闺语性迹，有暗夜偷香的压抑性迹，有狂乱背德的极欲性迹，有姊妹双好的甜蜜性迹；也是贯穿全文，让人读来欲望勃发，恨不能身代其中，享受无与伦比的刺激性爱。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/yu-ji-san-bu-qu-luan-lun-da-he-ji-hn2z","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

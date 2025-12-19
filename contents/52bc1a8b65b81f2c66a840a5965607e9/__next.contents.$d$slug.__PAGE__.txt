@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【GAL/汉化】さみだれグローインアップ！【1.79G】"}],["$","p",null,{"children":"游戏类型制作公司：SAMOYED SMILE 发售日期：2015年11月27日汉化日期：2016年10月09日汉化小组：默示游戏类型：学园、恋爱、喜剧、青春游戏原名：さみだれグローインアップ！游戏别名：青春期的五月雨原画: 2-G、健やか牛乳、ごきれっど剧本: Hatsu、さんきちSD原画: あしおと剧情介绍――才色兼备――于这个学园里在籍的学生们，那华丽跃动而又威风凛然的身姿、那撩起发梢露出的侧脸，无人不知无人不晓。其人其名，桐生院雾叶。当然主人公也是遥望洛神的凡人之一。然而，「那个表情是装出"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/52bc1a8b65b81f2c66a840a5965607e9","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

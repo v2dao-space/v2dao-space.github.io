@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【PC+安卓/ADV/拔作】[Miel]兽娘萌娘温泉旅馆 V1.21 【双端/2G】"}],["$","p",null,{"children":"[游戏概述] ：\n\n\n\n游戏在Steam更新官方中文 (是的，官方中文它来了！)\n\n\n\n一看到这长到妈都不认得的名字大家基本就知道是哪家出品了。\n\n\n\n没错！就是那个专门以阿黑颜闻名的拔作社 [Miel] 的最新出品！\n\n\n\n虽然套路还是那个套路，但该社的质量还是一如既往的高，\n\n\n\n全程CV语音，精彩绝伦！\n\n\n\n质量绝逼是顶尖等级，毕竟~\n\n\n\nMiel社可从来没让人失望过！\n\n\n\n\n\n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1351","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

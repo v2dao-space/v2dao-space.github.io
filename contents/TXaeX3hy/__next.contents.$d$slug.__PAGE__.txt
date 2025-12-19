@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"姐夫的荣耀"}],["$","p",null,{"children":"从进入这家金融公司任职的一开始，李中翰就迷上了美丽性感的办公室女郎戴辛妮。正当他展开爱情攻势时，热辣清纯的表妹小君，却搬来与他同住。血气方刚的李中翰，不得不在两大美女和办公室数位风骚性感的女人之间放浪周旋。在一次次与美女们的激情性爱和淫乱床戏中，他一边享受肉体和欲望的狂欢，一边一步步爬上了权力的顶峰，成为名副其实的风流总裁。然而财色兼收的他，在人生最得意时，却遭突来横祸。原来这一切的背后，隐藏着一个更荒淫的秘密。\n本书堪称新世纪的《金瓶梅》与《肉蒲团》，总计有数十位女性角色与男主角共同出演这场荒淫大戏。但每个角色形象并无雷同，性格各自生动，足见作者深厚的写作功底。是一部描写当代都市生活的经典成人小说。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/TXaeX3hy","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

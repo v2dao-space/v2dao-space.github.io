@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/生肉】遥か碧の花嫁に【度盘/3.69G】"}],["$","p",null,{"children":"23/07/28 作品内容 Getchu界面：点击 游戏官网：点击 作品紹介 STORY 海底――地球にありながら、未だ全容の知れない神秘の世界。 はじまりは、とある夏休み。 船で南国に向かう最中、突然の大嵐に巻き込まれた主人公・遥生、その妹・みなも、幼馴染みのなつみたち一向は、荒れ狂う海へと転落してしまう。 死を覚悟した遥生が再び意識を取り戻した時――彼がいたのは、豪奢なベッドの上だった。 「ここは陽の光すら届かない水深5000m。　わたくしたち海底人の棲まう、　海底都市アタランシアにございま"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/707787","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D游戏/生肉/PC】[ILLGAMES/i社]ハニカム（Honey Come）"}],["$","p",null,{"children":"所发布资源不得用于商业盈利，否则产生的一切后果将由您自己承担！原ILLUSION开发组推特账号在ILLUSION官推正式宣布8月8日正式停运公告后，更改了头像，并在7月28日宣布会在8月4日公布新情报。目前该账号已正式作为“ILLGAMES”的官推开始运营。之前i社备用账号“Projecti18”称将于8月4日带来新消息、今日(8月4日)该账号宣布3D美少女游戏品牌“ILLGAMES”成立。出道作《Honey Come》将于9月1日在DLsite/FANZA发售（仅发售下载版）。新作的体验版已在"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/714815","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

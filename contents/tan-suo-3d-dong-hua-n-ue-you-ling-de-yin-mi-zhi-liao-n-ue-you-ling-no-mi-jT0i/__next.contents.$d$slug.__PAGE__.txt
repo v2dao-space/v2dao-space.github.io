@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[探索3D/动画] 女幽灵的隐秘治疗 女幽霊の秘められた治療 v0.3.0 官中版 [6.90G]"}],["$","p",null,{"children":"[探索3D/动画] 女幽灵的隐秘治疗 女幽霊の秘められた治療 v0.3.0 官中版 [6.90G] 社团名:CSGAME 发售日:2025年09月15日 分类:男主人公,动画,3D,搞笑,恐怖,野外,野战 游戏简介 ♡恐惧来自于性癖不足！♡\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/tan-suo-3d-dong-hua-n-ue-you-ling-de-yin-mi-zhi-liao-n-ue-you-ling-no-mi-jT0i","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

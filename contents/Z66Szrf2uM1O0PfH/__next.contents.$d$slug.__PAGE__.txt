@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【MMD/无码】〇〇奉仕部（2D/VR）"}],["$","p",null,{"children":"太好了 是新佬 我们有救了！ 介绍说是3月26日解冻 去年12月有一篇 然后就是去年5月以及之前了 我是I站看到的这篇 之前的作品是在fantia全公开的 感兴趣的可以去看看    侍奉部成员和部外友人其乐融融吃冰淇淋 多么甜蜜美好的画面啊 VR有两版 我不是很清楚那个元数据版本是什么差别 有知道的"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Z66Szrf2uM1O0PfH","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

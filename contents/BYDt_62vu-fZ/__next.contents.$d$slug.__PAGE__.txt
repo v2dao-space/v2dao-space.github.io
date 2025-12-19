@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ARPG/官中】D-Hospital【800M/百度】"}],["$","p",null,{"children":"  \n■剧情简介20XX年10月3日，由于T市病毒泄漏，许多市民感染了类似狂犬病的病毒。感染者肆意攻击人类，甚至动物也被感染，成为变异者。短短几天时间，繁华的T市变成了地狱。位于T市西北部，受灾最严重的K总医院情况十分危急，一天之内就有90%以上的幸存者死伤。尽管如此，那里仍然有人在死亡的泥沼中挣扎"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/BYDt_62vu-fZ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

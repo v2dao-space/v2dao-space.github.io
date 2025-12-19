@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/安卓模拟器+pc】重生之岛～寝取游戏与真爱之形～ 汉化版+存档【新汉化/2.4G】"}],["$","p",null,{"children":"重生之岛 ～寝取游戏与真爱之形～ 汉化版+存档 （リボーン・アイランド ～寝取らせプレイと愛のカタチ～） 该翻译补丁由[不肯放过]大佬制作分享 游戏介绍： 在大格兰德王国东方约100公里的海域，某天突然出现了一座岛屿。 在原本空无一物的地方\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/KuEBnMg5DqP2","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

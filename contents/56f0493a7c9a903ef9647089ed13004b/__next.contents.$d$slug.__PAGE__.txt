@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【爆款经营SLG/步兵/更新/萝莉/西瓜肚】魔王的冒险者小镇![Ver1.03/+全DLC]"}],["$","p",null,{"children":"游戏概述：这是【ダイジョビ研究所】社一款DL超过50000销量的超爆款经营SLG游戏。现在于2022年1月25日上架STEAM发售，并且是官方中文的步兵不骑马版~这个中文版整合了原版V2.02+Append群体乱来日记DLC的最终全部内容。游戏全程高能H，各种翻白眼，各种多人群体活动，可以说非常社保实用。游戏还附带各项全满，全员西瓜肚+全回想日记的存档，方便大家直接开冲！游戏简介：瓦恩本是个法力无边的大魔王，但现在他所有的魔力都被封印了起来，并被流放到了凡人的世界。幸运的是他忠实的伙伴艾拉一直陪"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/56f0493a7c9a903ef9647089ed13004b","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

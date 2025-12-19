@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【里番/熟肉/自制ai解码/1080p/30fps】【ばにぃうぉ～か～】OVA 初恋時間#1-6【度盘/2.35GB】"}],["$","p",null,{"children":"今天带来的是雷火剑的OVA 初恋時間系列的解码版（也是有朋友留言求的，但是比较长所以周末跑），口味比较清新的系列了，没有牛头人和玩的很变态的桥段，但是胜在雷火剑的常规操作，与6集的长度带来的角色丰富度，在楼主的主观xp排行榜里能t1顶接近t0（图图哥还是更喜欢玩的花的，毕竟没玩过的总是最好的），嘛发"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/li-fan-shu-rou-zi-zhi-ai-jie-ma-1080p-30fps-banyiuo-ka-ova-chu-lian-shi-jian-1-6-eSBs","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

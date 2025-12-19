@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"横行天下"}],["$","p",null,{"children":"他在因缘际会之下穿越来到大宋，成为杨家将中的杨六郎。在受伤期间，受到貌美的继母四娘无微不至的照顾，使六郎对四娘产生爱慕之情！\n六郎和大嫂慕容飞雪乔装成江湖郎中前往南唐侦探敌情，他们得知南唐大将林天虎的小妾病入膏肓后，便借机进入林天虎的府邸。\n六郎在帮林天虎的小妾看完病后，又去帮林天虎的夫人孟芸看病，他一见到孟芸不由得淫心大动，假借按摩的手法对她上下其手……"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/vzjd-0JKF-","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

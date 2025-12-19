@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中】褐色むすめ夏季ちゃん～波良間瀬村と五つの祠～ 【1.1G/百度】"}],["$","p",null,{"children":"  \n『游戏介绍』这个夏季小姐褐色系列的首部色情RPG问世了！\n◆◆基本信息和注意事项◆◆– 由主要事件和使用多个变体的立绘色情事件构成。– 诱惑、被动、爱抚等是主要情节。– 肚子鼓鼓、黑色乳头的解锁在除了一部分之外的大部分回想解锁后。适应性高潮事件的性欲等级MAX。– 由于作者防卫范围的限制，没有"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2br5OEkgRV1t","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

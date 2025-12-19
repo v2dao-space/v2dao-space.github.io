@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【GAL/AI机翻】宿りし乙女の誓いと魔法Ver1.01【度盘/4.88G】"}],["$","p",null,{"children":"作品内容 Getchu界面：点击 游戏官网：点击 作品紹介 STORY 我（明明是男生却变成魔法少女了！？） 主人公筱宫响（Shinomiya Hibiki）因修补在公园捡到的玩偶，被卷入了不可思议的事件。 这简直像是童话故事里的报恩情节—— 而响获得的回报，竟是闪耀着光芒的神秘印记【魔纹】。 魔纹"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/eTRKCZPI2qbdw0KT","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

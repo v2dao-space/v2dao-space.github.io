@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【RPG/生肉】ツルギ姫と白キ塔1.25（RJ01061088）+全CG存档"}],["$","p",null,{"children":"一款精品小游戏，画风比较有特色，也是我个人非常喜欢的一部黄油。流程不长，就是后期跑路比较折磨，建议直接看全cg。  正常游玩能解锁大部分CG，主打机械、异种、拘束等，比较有意思的是明明是凌辱女主的，但是CG要击败boss才能看，如果战败反而不会解锁CG，到是省了送人头的时间。还有一些陷阱和其他角色的事件隐藏在地图里，如果不注意可能会遗漏。  剧情方面因为日语苦手所有没怎么了解，不过也不影响游玩。自购证明：  DL入正链接：https://www.dlsite.com/maniax/work/=/"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/13b9da4450145940cd96f8aa43c80088","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

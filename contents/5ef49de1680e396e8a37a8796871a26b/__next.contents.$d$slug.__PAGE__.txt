@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/官中】Dusk City"}],["$","p",null,{"children":"在 Steam 上购买 Dusk City 立省 20% (steampowered.com)◆剧情简介在遥远的未来。繁荣的时代已经过去，地球迎来了黄昏。人们在残存的陆地上过着朴素而宁静的生活。在某个岛屿上，被称为「魔女」的存在利用类似于魔法的力量帮助城镇的居民。就在那里，您突然出现了…本作是一个侧视角度的2D动作RPG游戏。您可以探索城镇和遗迹，在获取物品和金钱的同时，可以强化攻击手段和移动方式，并推进故事情节。随着游戏的进行，店铺如「废品商店」和「美容院」也会开业。在那里，您甚至可以支付费用"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/5ef49de1680e396e8a37a8796871a26b","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

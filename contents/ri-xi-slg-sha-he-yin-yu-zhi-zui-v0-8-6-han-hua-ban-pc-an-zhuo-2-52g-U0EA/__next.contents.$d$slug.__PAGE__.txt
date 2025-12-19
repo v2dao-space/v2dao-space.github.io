@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【日系/SLG/沙盒】淫欲之罪v0.8.6 汉化版【PC+安卓/2.52G】"}],["$","p",null,{"children":"【日系/SLG/沙盒】淫欲之罪v0.8.6 汉化版【PC+安卓/2.52G】 游戏介绍： 曾经有一种强大的恶魔，能够控制他人的思想和行为，随心所欲地使用它们。数千年来，这恶魔游荡于世间，所到之处散播恐惧与恐惧。它的魔法极其微妙且有效，一旦被\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ri-xi-slg-sha-he-yin-yu-zhi-zui-v0-8-6-han-hua-ban-pc-an-zhuo-2-52g-U0EA","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

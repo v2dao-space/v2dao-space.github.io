@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【SLG/官中/PC/安卓】おしかけ少女。～手とり足とりプライベートレッスン～v1.22【百度/1GB】"}],["$","p",null,{"children":"Bro看到站里新发的这个资源突然想起之前有卖过，正好响君酱发的貌似不是最新版的，而且没有安卓版，我就放个新版的PC+安卓，给各位品尝品尝    サークル名 PROJECT KAGUYA フォローする   販売日 2021年12月31日   更新情報 2024年05月19日 更新情報   シリーズ名 "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/hf7Dir_qihUeLYLx","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

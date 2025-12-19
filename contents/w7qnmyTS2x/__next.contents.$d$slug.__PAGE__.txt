@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"圣女修道院"}],["$","p",null,{"children":"艾尔华是个没钱又不帅的男子，从未交过女友，整天都沉迷在情色小说的世界里，藉此达到抒解自己欲望的目的，不过却在一次因为欢愉所造成的意外当中，他进入了自己所阅读的小说里头，并且成为故事中的主人翁，但是他在里面第一次出现的装扮，居然是一个具有女性身体又同时拥有男性特征——喉结的人，他的身份到底是什么？他接下来又会碰到什么不可思议的事情呢？"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/w7qnmyTS2x","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

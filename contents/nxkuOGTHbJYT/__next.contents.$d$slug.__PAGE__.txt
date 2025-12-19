@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】异世界穿越后的催眠NTR!S级美少女人生破灭计划/異世界転移して催○NTR!S級美少女人生破滅計画!【2.4G/度盘】"}],["$","p",null,{"children":"  \n概要：30岁素人童贞的不起眼主人公。  一边悠闲地在网上冲浪，一边过着羡慕新闻文章中成功人士的日子。  突然，他被带到了一个神秘的页面，那里被光芒包围……。\n睁开眼睛时，发现自己来到了类似居酒屋的地方，那里挤满了穿着古老西洋服饰的人们。  向接待的女性交谈后，得知自己在一个充斥着魔物的奇幻世界"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/nxkuOGTHbJYT","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

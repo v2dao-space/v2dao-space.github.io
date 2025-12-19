@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/机翻/安卓/PC】キュウビ-神乳妖狐の慕情/九尾巨乳妖狐的爱慕 【百度/UC/1411M】"}],["$","p",null,{"children":"\n \n  \n \n  \n \n  \n \n  \n\n原名丨キュウビ-神乳妖狐の慕情\n语言丨英文、日语\n社团丨木陰の泉\n平台丨Windows, Android\n声优丨赤月ゆむ，渋谷ひめ\n \n注意：将语言切换为‘日语’将显示机翻（仅PC端有机翻）\n \n剧情：在港口城市天空苏打的对岸，有一片辽阔的竹林，若隐若现地"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/b310wnSH_dU4","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

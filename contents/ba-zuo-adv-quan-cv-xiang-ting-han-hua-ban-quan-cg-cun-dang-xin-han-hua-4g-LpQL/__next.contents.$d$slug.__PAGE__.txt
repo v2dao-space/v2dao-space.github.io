@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【拔作ADV/全CV】箱庭 汉化版+全CG存档【新汉化/4G】"}],["$","p",null,{"children":"箱庭 汉化版+全CG存档 （Hakoniwa -ハコニワ-） 游戏介绍 受大学同学榛原碧樱邀请，主人公支部雅章决定在暑假期间前往豪门『桧乃森家』的宅邸打工。 然而他在工作中不慎打碎了昂贵的工艺品，因此背负了巨额赔偿。 家主桧乃森小羽玖提出了\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ba-zuo-adv-quan-cv-xiang-ting-han-hua-ban-quan-cg-cun-dang-xin-han-hua-4g-LpQL","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

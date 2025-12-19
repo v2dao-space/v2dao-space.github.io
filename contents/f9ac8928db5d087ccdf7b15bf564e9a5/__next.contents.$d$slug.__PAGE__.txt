@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/无码/ADV】Nightmare×Onmyoji～禁断のパラドックス～ The Motion"}],["$","p",null,{"children":"本作是Nightmare系列的第二部，本作又增加1位新的炮灰点击startadv.exe运行机翻（不排除LE可能），点击adv.exe是乱码  Story主人公・葛木久遠，乍一看是个普通的女子校生，但却是陰陽師的后裔，和父亲公弘一起进行恶灵祓除，因此有着不同寻常的一面。某日，神堂悠果・刹那姐妹和青梅竹马的喜多川冬馬三人突然来到了久遠身边，刹那姐妹正在别的地区进行恶灵祓除。从三人口中听到，最近在城市附近发生年轻女性失踪事件可能和恶灵有关，并请求协助解决。久遠等人一边驱除在街上出没的恶灵一边收集情报"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/f9ac8928db5d087ccdf7b15bf564e9a5","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

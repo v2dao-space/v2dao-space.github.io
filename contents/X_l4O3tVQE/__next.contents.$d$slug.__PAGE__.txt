@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"娇妻爱女"}],["$","p",null,{"children":"讲述袁智勇从长大开始一系列的风流韵事，内容以乱伦为主线，辅以绿帽情节，风格更侧重于乱伦。袁智勇大概上了三十几个女人，数量不算多，也不算太少吧，包括娇妻，爱女，岳母，姐姐…这些女人涵盖了各种年龄、各种风格和各种关系，她们跟男人之间不但有欲，更有情。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/X_l4O3tVQE","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

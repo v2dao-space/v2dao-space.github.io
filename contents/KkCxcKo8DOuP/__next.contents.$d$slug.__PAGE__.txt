@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/机翻汉化】王都帝国もぎ戦記V1.10 +全CG+DLC【度盘/363.44MB】"}],["$","p",null,{"children":"自走棋\n \n第三部千年战争爱吉风格塔防游戏！\n这个故事是从办公室的墙壁被破坏时开始的。\n“这里是万恶之源！\n天波竟然这么粗心，什么都不透露！”\n可能仍处于敌对关系的白色帝国，遭到了武者的攻击。\n“韩，别让我告诉你，我不记得这张脸和这个美人了！\n ……是的？\n哦，我不会说我不记得了……！”\n“……你是"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/KkCxcKo8DOuP","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[井雲くす] 村又さんの秘密 村又小姐的秘密[中国翻訳] [DL版]"}],["$","p",null,{"children":"人氣女主角──蛇舌的村又小姐登場!! 在被部長一起斥責後，我與上司村又小姐決定小酌一番，以撫平疲憊的心。 常去的居酒屋意外歇業，在村又小姐的提議下，我們改成到她家喝酒。 平常露出笑容時總掩著嘴的她，在舒適的家中卸下了防備，無意間露出那令人震驚的秘密──舌尖一分為二的蛇舌！那靈活扭動的舌頭，散發出致命"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/han-hua-dan-hang-ben-jing-yun-kusu-cun-you-sanno-mi-mi-cun-you-xiao-jie-de-mi-mi-z_xn","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

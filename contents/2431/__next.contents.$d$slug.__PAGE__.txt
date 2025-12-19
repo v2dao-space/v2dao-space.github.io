@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[亚洲风SLG/汉化/动态]新征程V0.2.1 汉化版[安卓][2G]"}],["$","p",null,{"children":"新征程V0.2.1 汉化版\n\n\n\n游戏介绍：跟随弗兰德（或任何你想要的名字）适应新生活的旅程。在父母发生一次奇怪的、令人心碎的事故后，他决定忘记过去，在一个新的城市开始新的生活。但似乎过去将继续困扰着他。他将如何适应新生活？事故背后的真相是什么？他能讨回正义吗？到底是什么价格？只有一种方法可以找出答案…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2431","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/汉化/策略】魔剑士莉奈  Ver.1.27 精翻汉化版 （魔剣士リーネ）"}],["$","p",null,{"children":"游戏简介：                                                             女性武掠夺的本格派幻想战略SLG以幻想世界为舞台展开的战争为主题的战略SLG带领超过30名武将以统一大陆为目标・争夺女性武将！正宗战略SLG引进了真正的系统，是偷国型战略SLG。一边争夺据点和武将，特别是女性武将，一边压制敌国・战斗失败的女性武将全部是H场景！在与敌人的战斗中失败的武将会被敌人夺走，成为敌国的武将那个时候，女性武将全部被敌人H了特别是4个女主角武将被"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/018ec77c185c086a1fc535b922d01cb3","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化同人本/新汉化】2025.3.13 48本"}],["$","p",null,{"children":"(C103) [りとる☆はむれっと (きぃら～☆)] お兄ちゃん、ひなと一緒にビクンっしよ [仰天大笑漢化組][Armadillo (練慈、大慈)] ギャル親子のエグい稼ぎ方 [白杨汉化组][Deadflow] 努力的爱丽丝应援会 (碧蓝档案) [想嗦爱丽丝的卵管伞修订] [SAN个人汉化] [无修"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/oXI3h-cy8t8xZC8o","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【日系/图包】满载SUGAR 截止至25.09.19【无码/1.2G】"}],["$","p",null,{"children":"入正：https://www.patreon.com/manzaisugar截止时间：2025.08.28 请查看浏览图后选择是否下载 所有均已打包在一个包内，并没有分开，如果觉得慢了建议直接在我的页面购买会员下载购买SVIP 不要问我有没有UC网盘，123网盘之类的，不发就是没有。 不买慢慢下也可"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/6XYwX16Uz9","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

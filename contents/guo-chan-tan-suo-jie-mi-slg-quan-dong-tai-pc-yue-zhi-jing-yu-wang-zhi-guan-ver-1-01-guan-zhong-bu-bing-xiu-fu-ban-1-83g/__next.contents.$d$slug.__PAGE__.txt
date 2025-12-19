@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【国产探索解密SLG/全动态】［PC］月之镜：欲望之馆 Ver1.01官中步兵修复版［1.83G］"}],["$","p",null,{"children":"所发布资源不得用于商业盈利，否则产生的一切后果将由您自己承担！游戏概述：这是【DSGame】发布的一款恐怖解密SLG游戏。讲述男主被女友抛弃后加入一场神秘派对，最终被诱惑堕入深渊的故事。这是一场神秘的派对，所有参加派对的成员都将带上一个面具，失去面具也将代表著你会失去全部！游戏以解密互动为主，男主可以自由探索各处场所，寻找各种解密要素。大量探索+エロ元素，还有许多小游戏。全动态进行，官方中文步兵版！这是最新更新的Ver1.01的修复版，修复全部已知BUG。总的来说，这是一款不可多得的国产中文SL"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/guo-chan-tan-suo-jie-mi-slg-quan-dong-tai-pc-yue-zhi-jing-yu-wang-zhi-guan-ver-1-01-guan-zhong-bu-bing-xiu-fu-ban-1-83g","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

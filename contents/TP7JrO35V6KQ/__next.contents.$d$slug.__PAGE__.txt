@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【爆款SLG/动态】在员工室与 JK 度过的日常 AI汉化版【joi安卓+PC】"}],["$","p",null,{"children":"【爆款SLG/动态】在员工室与 JK 度过的日常 AI汉化版【安卓+PC】 游戏介绍： 对尚未敞开心扉的亚里沙，通过对话和赠送礼物来提升好感度吧。 礼物是通过劳动获得的收入，可以通过购买获得。 所有行为都会增加主角的X欲。 如果性欲过于强烈\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/TP7JrO35V6KQ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

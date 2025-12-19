@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无码】Aurelia"}],["$","p",null,{"children":"\n《奥雷利亚》是一款以魔法横行的中世纪世界为背景的情色游戏。\n扮演一位与神秘法师结下不解之缘的年轻人。探索这片土地，一路干遍所有的异种族美女！\n欢迎来到奥雷利亚！\n在这款让人血脉贲张的成人向冒险游戏中，你将扮演一位年轻的冒险家，回到奥雷利亚继承小时候的故居。\n但命运就在这时颠覆。你一进门就看到了一个"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/huJ1NmzBJu_H","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

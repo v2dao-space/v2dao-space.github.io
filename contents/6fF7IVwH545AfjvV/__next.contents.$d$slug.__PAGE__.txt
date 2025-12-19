@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG] STEAM官方中文  苍天煌姬拉碧丝菲莉亚  v1.4  蒼天煌姫ラピスフィリア"}],["$","p",null,{"children":"扮演正义女英雄拉碧丝菲莉亚，挑战她最艰难的冒险！盖斯塔克不甘心屡战屡败，这次他们设计了一座机关重重的地牢，试图通过布下陷阱和精心准备的对策来绕开她无懈可击的蛮力，并伺机从内心摧毁她，甚至让她堕落到敌方阵营。习惯性的蛮力不再是万能的，继续依赖将可能付出惨痛甚至致命的代价！\n在这次危险的旅途中，你将面对各式各样的陷阱、狡猾的怪物，以及阴险的盖斯塔克成员，帮助拉碧丝菲莉亚逃出地牢，重回地面吧！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/6fF7IVwH545AfjvV","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

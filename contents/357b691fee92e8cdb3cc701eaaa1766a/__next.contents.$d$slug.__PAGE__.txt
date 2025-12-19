@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【生肉/SLG】Uni [0.53.116] win+android"}],["$","p",null,{"children":"最新一期，经典挤牙膏更新日志-新增永旺主旋律。-添加永旺战斗主题。-添加幸福 3 曲目（闪烁的玻璃）-永旺新增 2 个活动。(达到第一等级阶段 – 各等级的新装备）-修改了 Kenzie 浴室伏击事件。(基本上是一个新事件）-添加了永旺标题屏幕。-在永旺活动中添加了笔记本电脑 CG 场景。-添加了 Matt/Damien NTR CG 场景的第二部分。-为马特/凯特的冲突事件添加了马特/凯特 NTR CG 场景。-对 Aeon 对话框文本位置进行了小幅编辑，使其更低。-修改凯特的路由锁介绍文字，"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/357b691fee92e8cdb3cc701eaaa1766a","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

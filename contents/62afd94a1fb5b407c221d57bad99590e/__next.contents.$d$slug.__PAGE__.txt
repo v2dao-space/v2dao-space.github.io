@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG】花痴驯兽师 / Nympho Tamer v0.64 [PC/安卓]"}],["$","p",null,{"children":"成人视觉小说《Nympho Tamer》将带您踏上腐败、诱惑和羞辱的狂野之旅。跟随一个男人与三个漂亮的女人陷入热气腾腾的三角恋的故事：没有经验的年轻花痴、她抽烟的辣妈和烦人的前女友。通过各种挑战，从底部爬到你自己的后宫。在一场严重而自我毁灭的中年危机中，你遇到了一个看似纯洁无辜的女孩，她对粗暴的性行为和羞辱有着不断的侵入性想法。巧妙地操纵她的思想，你将揭示她最深的秘密，释放她隐藏的扭结。准备好迎接过山车般的事件，将简单的浪漫转变为令人难忘、改变生活的关系，让所有相关人员都能感受到"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/62afd94a1fb5b407c221d57bad99590e","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

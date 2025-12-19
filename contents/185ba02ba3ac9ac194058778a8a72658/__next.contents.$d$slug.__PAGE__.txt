@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【2D动画/有码】（自整理）ぴあ雀 脱衣片段（800*600）"}],["$","p",null,{"children":"从游戏ぴあ雀中解包得到的视频资源一共9个人物，30个片段（里面还带一共有中文字幕的合集，但是画质比较差      游戏太老了，win10跑不起来而且官方没有更win10版，请窒息不过据说游戏巨难，对手随手打大牌（话说有没有类似的这种ty视频的游戏或者片段啊，孩子爱看请勿在线解压！请勿在线解压！请勿在线解压！炸了大概率不补，因为家里网络太慢上传得半天。。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/185ba02ba3ac9ac194058778a8a72658","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【欧美SLG/汉化/动态】丹佛女士 Ms.Denvers v0.02.0 汉化版【安卓/3G】"}],["$","p",null,{"children":"今天给大家带来一款由【BKYSS】汉化的欧美SLG/游戏：\n\n\n\n丹佛女士 Ms.Denvers v0.02.0 汉化版【安卓】\n\n\n\n游戏介绍：\n\n\n\n丹佛斯是一位 40 岁的单身母亲，有一个儿子和两个女儿。\n\n\n\n她是米德尔顿高中的校长。\n\n\n\n这个故事的重点是她离婚 5 年后的生活，因为她与必须独自照顾 3 个人的任务作斗争。\n\n\n\n现在已经很久没有过爱情生活了，她感到比以往任何时候都更加孤"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2756","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/中文/全动态】怪物导师（Monster Tutor）v0.1.3【安卓+PC/1.6G】"}],["$","p",null,{"children":"作者主页https://www.patreon.com/Nutekuu?utm_source=search  游戏介绍你将扮演一位教授，意外被派往地狱学院（一所怪物女孩的大学）任教。从一开始，你的工作就很不寻常。第一天，你会遇到惹是生非的恶魔阿撒兹勒、害羞的幽灵法塔和不太喜欢有人类老师的吸血鬼乔莎。尽管你是地狱中唯一的人类，你有能力辅导这些女孩并与她们建立联系吗？      出错的重下或者换解压"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1203a97f52414514252bfc956baadb64","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

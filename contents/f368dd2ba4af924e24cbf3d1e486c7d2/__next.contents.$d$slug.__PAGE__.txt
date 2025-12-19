@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【PC官中SLG】Handyman Legend 水管工传说V1.05"}],["$","p",null,{"children":"利用手机软体接案赚钱、在工作的同时也可以跟特定委托人”培养感情”。当感情培养到一定的程度后，可以更进一步的相处、甚至是协助委托人发掘真正的自我(笑)。游戏有天数和时间的限制，每天可以决定要做什么样的事情，包含工作、出门逛街或者是睡觉来消磨时间。透过接案工作可以赚钱以及认识特定的角色，在对方家里时可以藉由”互动”视窗选项来触摸对方、与对方调情。好感度到一定的程度时，女方会同意跟你进行成人互动行为。游戏中会有各种事件的触发，进而可以解锁更多丰富的成人互动。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/f368dd2ba4af924e24cbf3d1e486c7d2","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI翻译加润色/PC】Bug与魔法使（バグと魔法使い）[度盘/161MB]"}],["$","p",null,{"children":"此为AI翻译+叶酱个人润色游戏名バグと魔法使い(Bug与魔法使)入正地址：https://www.dlsite.com/maniax/work/=/product_id/RJ01195085.html资源来自站内“羁绊龙剑士艾拉”大佬！链接：【自购】【RPG/生肉】バグと魔法使い – 萌幻之乡 社团名フォギミ贩卖日2024年05月31日作者フシギ插画幼井osanai作品类型益智有音乐分类女主人公 魔法师/魔女 兽人 严肃/沉重 幻想 异种X 贫乳/微乳 苗条游戏介绍故事发生在一个结束战争的帝国。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/f56470be3e33af3cad4cde3428b3e5be","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

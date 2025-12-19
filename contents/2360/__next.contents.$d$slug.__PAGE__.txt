@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[日系RPG/汉化/动态] 直到我给一个已婚女人戴绿帽~到处都是戴绿帽子的生活~ 安卓汉化版[1.2G]"}],["$","p",null,{"children":"直到我给一个已婚女人戴绿帽~到处都是戴绿帽子的生活~ 汉化版[安卓]\n\n\n\n游戏介绍：主人公与女友过着相亲相爱的生活，为了寻求刺激，他开始与已婚妇女上床。已婚妇女的忧虑和问题……只要有一点儿魔力一个操蛋的男人的生活开始于一个住宅区，那里有各种环境的漩涡…？纯爱后宫的角色扮演游戏，有6个人可以攻略，还可以COSPLAY。游戏H事件高达36个，游戏可玩性也不错，总体还是不错的。\n\n\n\n\n\n\n\n\n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2360","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

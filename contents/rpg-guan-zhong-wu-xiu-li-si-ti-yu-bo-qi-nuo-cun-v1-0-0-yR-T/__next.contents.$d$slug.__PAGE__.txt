@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中无修】莉丝缇与勃奇诺村v1.0.0"}],["$","p",null,{"children":"一个破败的村庄陷入神秘异象，村民发了疯，吓得所有女人逃之夭夭。 暴脾气冒险者莉丝缇·阿赫梅接下了公会的委托，踏上调查之路。 然而她刚踏入村庄，怪事便接踵而至。 眼见情况失控，莉丝缇想要离开，却发现整个村庄被无形屏障封锁。 只能继续深入调查，她必须揭开幕后黑手，以及村民们荒唐行径背后的真正原因。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/rpg-guan-zhong-wu-xiu-li-si-ti-yu-bo-qi-nuo-cun-v1-0-0-yR-T","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

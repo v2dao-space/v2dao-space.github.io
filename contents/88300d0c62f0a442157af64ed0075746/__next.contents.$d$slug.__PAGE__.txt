@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/生肉】エロノフォビア（RJ01217651）"}],["$","p",null,{"children":"社团名ぷに工房 【20%OFF】エロノフォビア [ぷに工房] | DLsite 同人 – R18贩卖日2024年08月22日 16点更新信息2024年08月24日 更新信息年龄指定R18作品类型动作有声音有动画文件形式软件支持的语言日文分类像素 动画 萝 拘束 放尿/小便 肛交 触手 异种X文件容量298.38MB   作品介绍拘泥于真实动作的全动画从脱衣到插入，高质量送达。用简单的操作就能享受的点图像小游戏变成变态史莱姆，去狩猎四处逃窜的少女吧。脱下来，勒住，刺穿。以“色情”为目的而生存的史莱"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/88300d0c62f0a442157af64ed0075746","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

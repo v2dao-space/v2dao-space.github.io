@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"(同人CG集) [卵白堂 (過ぎた卵白)] 人類はゴブリンに支配されました。-とある領地の孕み袋-"}],["$","p",null,{"children":"孕ませた女性の形質、魔力や知力などを遺伝できるゴブリンの誕生から半年。ゴブリンたちは洞窟内で冒険者を孕ませ、戦力を用意し、一つの領国を攻め落とした。領主の邸宅を根城にし、次の作戦を考える。一国を滅ぼしたと思ったが、攻め落とせたと思ったのは国の一部でしかない領主領。ゴブリンたちは頭数を増やし、力を蓄えることにする。いつか来る人間たちとの全面戦争のために。目下、必要なのは魔力を持った人族の雌。果たして、目的通り征服範囲の拡大は出来るか?机翻简介：能遗传孕育的女性的性状、魔力和智力等的哥布林诞生后的半"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/fe8a6dc2eed3b35c0c76851d9d225ad0","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

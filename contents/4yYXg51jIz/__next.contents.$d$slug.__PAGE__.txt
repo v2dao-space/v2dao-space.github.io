@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"西游艳记"}],["$","p",null,{"children":"本书描写了主人公唐小玄穿越到《西游记》的世界成为唐三藏的故事。\n主要人物\n唐小玄\n京城唐家的四少爷，是个不务正业的浪荡公子，穿越了时空，来到《西游记》的世界中化身成唐三藏。\n唐三藏\n主人公唐小玄穿越之后来到西游记中的化身。\n父唐丰\n国家的军委常委，军衔是大将。\n大哥唐景\n驻京部队的军区司令，中将军……\n二哥唐龙\n全国武警总队的总教练，并兼任京城武警部队的大队长，也是中将军衔。\n三哥\n在外国获得了某著名大学的博士学位后，仍然在进修。\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4yYXg51jIz","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

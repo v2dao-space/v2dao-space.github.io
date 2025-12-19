@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】魔法少女リリィメア 先行体験版"}],["$","p",null,{"children":"\n先行体验版更\n让您久等了！我们实现了成人游戏中的常见功能——Ctrl 跳过！\n我想这样一来，应该能稍微更舒适地游玩了吧……！！\n这款游戏属于魔法少女这一类别，因此不存在任何近战攻击（不消耗 MP 的技能）。\n作为替代，我们计划在地图上等处大量配置 MP 恢复道具！\n场景更新\n为了使剧情更加易懂，我"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/6cpEpBokJ6M4","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

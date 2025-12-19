@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/无码/GAL】ぜったい最胸☆おっぱい戦争!!"}],["$","p",null,{"children":"前言之前大佬发过很多版本的おっぱい戦争本次分享的为目前为止的大杂烩版本游戏已嵌入OPPAIBALLパッチ（界面右下角）+おっぱい学園戦争パッチ（游戏设置中调）游戏已嵌入无码补丁，无码补丁适用于汉化+日版+英版，OPPAIBALLパッチ不通用无码补丁无码补丁我在2DFan花钱冲积分买的！！！网盘事件从百度的被举报到PD再被举报到123，这次123也被举报，我表示遗憾和无语。现在起采用磁力链接+123形式，游戏本体一律为磁力，123只存放补丁。正在联系管理员，对目前网盘事件采取手段。心愿屋汉化组（已"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/767026","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

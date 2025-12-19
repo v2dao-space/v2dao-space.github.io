@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【音声】【RJ01450990】『炉利魂村』ミニ○リっ子たちと処女膜貫通&中出しSEX♡物語もHもルート分岐あり"}],["$","p",null,{"children":"社团名 ありすほすぴたる  关注615                    发售日 2025年08月31日 0时   作者 ありすほすぴたる   剧情 病院坂   插画 兎乃ももにゃ   声优 御子柴泉 / 伊倉える / 五百崎せれん / 春乃つくし   音乐 ろりこんぽーざー   年龄指定  R"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/OI2TQEVQ_3-g1r_y","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[极品像素SLG/汉化/全动态] 乡村生活 精翻汉化版+自带全回想 [安卓][新汉化/400M]"}],["$","p",null,{"children":"给各位带来一款超高素质的像素SLG游戏的最新汉化版：\n\n\n\n乡村生活 精翻汉化版+自带全回想【安卓joi+PC】（田舎ライフ）\n\n\n\nPS：手机可用joiplay模拟器运行！\n\n\n\n\n\n\n\n这是[ピクトルサーカス]社2022年5月11日发布的一款热门像素SLG游戏。游戏在DL上发售已经卖出了近14000的超高销量，属于爆款热门新作~主题是喜闻乐见的男主回到乡下，和大姐姐们度过一个月的奇妙暑假生活。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/706","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

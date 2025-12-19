@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】纯情 X 股间 X 健身房/Love X Crotch X GYM"}],["$","p",null,{"children":"线程更新时间：2024-03-30发布日期：2024-03-29开发商：バター猫スタジオ版本：最终版本操作系统：Windows语言：英语、日语、中文声音：日语类型：2DCG、动画、大屁股、大奶、作弊、中出、约会模拟、摸索、男主角、熟女、多个结局、解谜、浪漫、阴道性交、有声入正：https://store.steampowered.com/agecheck/app/2430700/游戏介绍：有了健美的体格，浪漫邂逅的机会就会自己来。想象一下，如果有一天你可以在一个全女性健身中心度过两个月，为这些V"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/758181","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

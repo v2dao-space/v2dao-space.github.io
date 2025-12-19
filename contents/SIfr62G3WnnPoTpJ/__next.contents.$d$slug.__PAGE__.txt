@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[西沢みずき] むちゃエロっ! 色氣無極限！[中国翻訳] [無修正] [DL版]"}],["$","p",null,{"children":"西沢水木帶來全新色到爆的「幫我……的媽媽」系列!!! 為了繭居家中的繼子，年輕繼母使出渾身解數♥ 「道歉有用的話，那要警察幹嘛～」 ──刀子嘴豆腐心的姊姊閨蜜 「我可能…還是不太想矇眼…」 ──總為無能下屬收爛攤的幹練OL 「不能跟爸爸說喔！」 ──提供奮發向上熱情的年輕繼母 「你在耍我嗎？我告你性"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/SIfr62G3WnnPoTpJ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

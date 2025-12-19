@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D/无码】Cincaoizz至今视频合集"}],["$","p",null,{"children":"屮原批。删掉了倪哥。以前失效的等我容量申请到了再慢慢补。我发资源的乐子一部分来自搜集资源本身（不是直接从别人那里拿现成的），另一部分来自于喷大小脑萎缩，逻辑混乱的新时代网络巨婴和故作清高装大佬当“理中客”的傻逼。至于别的什么，我不是很在意。 某些人发些资源就想当网络皇帝，那我只能说您那发布的地方还是太封建化了。搞的发资源像社交活动一样，怎么？你老鸨啊？游说我换其他外网盘的，我已经试了十几个主流或者非主流的，无非上传慢或者性价比极低，但如果你执意如此，请每年给我打400+美刀续费费用，我家里没矿。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/738429","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

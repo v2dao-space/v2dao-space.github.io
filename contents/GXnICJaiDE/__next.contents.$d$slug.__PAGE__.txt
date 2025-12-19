@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"艳修之天地不容"}],["$","p",null,{"children":"那一年，他坠入魔道；只为万种风情、百媚横生！\n那一日，他飞向天界；只为回眸一变、欲乱仙迷！\n那一刻，他涅槃重生；只为天地不容、欲望无尽！\n这瞬间，化作永恒，他与神魔分庭，同天地抗礼，只为——泼皮无敌！\n一个市井泼皮的情色神话！\n凡人泼皮乔三巧得天地至宝十阳珠，好运连连，跳出三界，脱离五行，开始了逍遥美色修道之旅。\n各具特色的美女、美妇纷纷出现，杀机起伏！\n泼皮三经过十次不同寻常的桃花死劫后，最终成就不死不灭之“十阳不灭体”！一个凡人最终决定了天地二界神魔的命运。\n玩转人间，蹂躏地府，纵横妖界，最后亵渎天庭，逍遥三界六道……"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/GXnICJaiDE","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

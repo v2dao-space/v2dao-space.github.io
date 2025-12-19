@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/安卓/3D] 晨曦之约（Covenant of Morn）v0.3.3汉化版 [1.5G]"}],["$","p",null,{"children":"作者主页：PA  游戏简介你被一个白发女巫复活，她向你提出了一项交易。她用她的血让你活下去，作为回报，你要帮助她完成一项重要的任务。这项任务就是谋杀她自己的妹妹。很快，你就会陷入一个充满魔法和神秘的世界，了解到这一切背后隐藏着更多不为人知的东西，而接受“她的血”意味着要与女巫同床共枕。        更新日志v0.3.3新内容：地牢：地牢继续，有许多新谜题和区域可供探索，还添加了新的游戏机制。这是地牢迄今为止最大的新增内容。地牢中添加了一个全新的部分。第一次审讯。一堆新线索。新动画。性爱场景：添"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/773359","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

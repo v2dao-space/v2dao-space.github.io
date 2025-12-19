@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"左手天堂右手地狱"}],["$","p",null,{"children":"书名：左手上天堂 右手下地狱\n这是一部描写一群年轻人在广东打工生涯的优秀长篇作品，有很多人评价这是继《金鳞》之后少有的此类型的长篇佳作。\n封情老衲的这篇《天/地》继承千年的传统，也在这点上做文章。主人公石头肆意地在众多的女子阴道内播撒“自私的基因”，挑战一夫一妻制的道德传统。内心却难于摆脱传统道德的桎梏，行事时虽然常常是精虫上脑由下身的兄弟做主，事后却不得不遮遮掩掩唯恐被女友猫猫发觉。\n关于《天/地》中的性描述，作者说每一场床戏他都要深思熟虑，既要有新意，还要没重复。读完全书再来回味，当知此言不差。书中既有两情相悦也有暴力轮奸，既有壮男诱奸美女也有处子自愿献身，既有精心的性爱也有酒后乱性，既有床上的温情也有楼梯口和桥洞下的野战，再加上男娼和性虐还有兽奸……不一而足。\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/qV60lZ2wzV","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

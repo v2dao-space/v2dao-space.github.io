@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/汉化】[hyperiyon]3M-人偶们提着线的人偶/3M -Marionettes manipulate the marionette[度盘/646M]"}],["$","p",null,{"children":"喜欢请入正：digiket ：https://www.digiket.com/work/show/_data/ID=ITM0076101/gyutto ：https://gyutto.com/i/item98447?select_uaflag=1官网：http://www.hyperiyon.com/3m/血腥猎奇G18警告！！！！血腥猎奇G18警告！！！！血腥猎奇G18警告！！！！不好这口的慎看！！！不好这口的慎看！！！不好这口的慎看！！！———————————————————————————"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/9f957e42a88fa89119a287af1acb7800","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

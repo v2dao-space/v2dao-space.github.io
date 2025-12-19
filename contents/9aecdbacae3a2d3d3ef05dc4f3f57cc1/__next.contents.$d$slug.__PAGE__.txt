@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC-SLG游戏] [SLG中文国语CV全动态] 异世界猜拳勇士-Bui12376602-STEAM官方中文步兵版+DLC"}],["$","p",null,{"children":"玩家扮演一位穿越到异世界的失业男子，在异世界中女神授予他猜拳便可以解救世界的能力！？看准猜拳时机并在一次又一次的胜利之中拯救世界，击退佔领各地区的魔族并将他们收为后宫！但踏上拯救世界的旅途，但在这背后似乎有什麽不为人知的祕密..."}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/9aecdbacae3a2d3d3ef05dc4f3f57cc1","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

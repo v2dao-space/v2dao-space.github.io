@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"小青的故事"}],["$","p",null,{"children":"主要讲述了作为“张太太”的杨小青，她在一个正正经经的、循规蹈榘的富贵人家的“贤内助”的外表之下，还是一个在外头偷男人、让丈夫“戴绿帽”的、如假包换的、人尽可夫的女人，就在这“内”与“外”的“对照”之下，显得格外“讽刺”和十分耐人寻味了。当然，在这故事一开始就来检讨杨小青的“行径”，未免有些失之公道。还是让我们看看她目前的状况，再作议论吧。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/GUq3tc739M","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/生肉】亚里纱与魔典Ver2.0/アリサグリモアver.2【度盘/1.86G】"}],["$","p",null,{"children":"你知道的，这么多年来我一直都是仓库的粉丝，这家伙强得不可思议，至于这个月的闪刀姬。。。            虽然整个国庆节本修士都忙着在追捕堕天使，但生活还得劳逸结合           今天想起来这游戏我几年前开了个头就坑了，忙里偷闲捡起来通了遍主线，还是不得不感叹一下仓库哥这黄油基础功，剧情扎"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/v83OFYukH9","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

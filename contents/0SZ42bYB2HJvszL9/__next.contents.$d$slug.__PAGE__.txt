@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/生肉】[CARYO]社团游戏32部合集【百度网盘/29.4G】"}],["$","p",null,{"children":"链接秒炸，已重传     个人收集的[CARYO]社团游戏合集，1月的イミテーション・ルージェ 紅のガラテア没放进去，顺带里边古早作品根据个人喜好删除了一部分，一共剩下来32部。大部分都做了动态，质量优秀，特别是サキュバス系列很有名，酒馆魅魔和魅魔之夜。 该说不说，他家的CG是真喜欢，大部分都是少女"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/0SZ42bYB2HJvszL9","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

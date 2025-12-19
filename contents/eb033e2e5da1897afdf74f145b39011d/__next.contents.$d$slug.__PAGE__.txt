@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC/安卓SLG游戏] 【互动SLG/中文/动态】拧螺丝模拟器TMA02 把超嚣张巨乳妹监禁调教成雄性专用雌牛飞机杯/ネジ込みシミュレーターTMA02 V1.0.1 官方中文版"}],["$","p",null,{"children":"Nejicomi模拟器 TMA02 - 我自己专属的弱小猫咪牛VTuber的囚禁和训练！扼杀夹紧深挖，对她的生活进行RIP的虐待性高潮！（顽皮的大胸部自慰洞理解了她的位置）一个由浅蓝老师绘制的大胸VTuber的Live2D仿真器。完全与鼠标操作相互连接！当你插入她时，她的面部表情和声音会发生变化！她的身体会动态移动！可以更换各种部件，让她看起来符合你想要的样子。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/eb033e2e5da1897afdf74f145b39011d","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

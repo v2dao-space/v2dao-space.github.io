@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[ACT/官中][RJ256081][ミシン工場]flowerwitch/花之魔女[度盘/140M][补档]"}],["$","p",null,{"children":"喜欢请入正：DL官中：https://www.dlsite.com/maniax/work/=/product_id/RJ256081.html隔壁搬的经典老物（5年了，说长不长，说短不短），咱们站的也都失效了，补档，可以手柄，试了试ps5手柄可以适配当时还玩的有点上头基本信息社团名ミシン工場 flowerwitch贩卖日2019年07月28日更新信息2020年09月04日 更新信息系列名けもみみ姉妹剧情ミシン插画ミシン年龄指定R18作品类型动作有音乐文件形式软件其他DLsite官方翻译推荐翻译"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/62df7c61","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

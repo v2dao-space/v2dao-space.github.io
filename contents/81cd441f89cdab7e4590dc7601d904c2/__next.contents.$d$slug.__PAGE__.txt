@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/GAL】オトメ世界の歩き方（体验版）"}],["$","p",null,{"children":"前言本版本为官方提前发布的体验版本本版本的汉化补丁只覆盖目前体验版本的内容体验版大约为完整版内容的25%-30%之后正式版&汉化版完整版还需等2024-8-30，到时候再重新更正文章建议官方正版购入PS：这个画风很好（但为什么有种AI作图的错觉…）  背景公元二一某某年，极端女权主义者粉墨登场。受半世纪前颁布的”性别法案“影响，霓虹国完全成为女性优先的社会。为了维护女性优先权，男性无论长幼一律被征召至前线，与机器人进行长年累月的战斗。战争只需交由野蛮的男性！将恶心的雄性排挤出社会后，在法律庇护下"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/81cd441f89cdab7e4590dc7601d904c2","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

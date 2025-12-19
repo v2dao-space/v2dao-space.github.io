@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/无码/GAL】えろげー！～Hもゲームも開発三昧～（HD.ver）"}],["$","p",null,{"children":"前言身体健康的人随意自取，随意冲最近身体不好的人，小心取，小心冲游戏内附机翻补丁+免认证+说明文档  Story「噗哈！　太好撸辣！」清晨的阳光从窗户中射入，上午九点的6叠间。把能量注入刚刚买的黄油里的我把撸完的纸巾扔进垃圾桶。再来一发…虽然想这么说，但11点有面试。你问我明明是这么重要的日子，为什么大早上的就在撸黄油？哼哼…愚蠢的提问…。那是因为我热爱黄油！！对，我今天接受的面试是黄油公司的采用面试！…虽然这么说我不会画画。也不会写剧本，作曲也一窍不通。我拥有的只是之前玩的近千部黄油的知识，以"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/772805","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

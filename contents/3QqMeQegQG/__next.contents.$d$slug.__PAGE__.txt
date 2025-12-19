@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无修】Freestyle Man in Office"}],["$","p",null,{"children":"游戏简介: 拘束？催眠？壁尻？时间停止？变成透明人？ ！甚至连法律都能改变？ ！ 在这片自由无拘的场域中，让你的超自然力量发挥到极限！ 办公室、会议室、走廊，无论在哪里，都能尽情探索，体验前所未有的自由互动 ！ 游戏玩法: 玩家可以用滑鼠或键盘操作角色在场景中自由移动，使用超自然力量，使用停止时间、"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/3QqMeQegQG","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

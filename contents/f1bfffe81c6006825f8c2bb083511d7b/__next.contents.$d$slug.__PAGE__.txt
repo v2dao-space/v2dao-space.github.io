@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【GAL/汉化】恋狱～月狂病～REBIRTH FHD SIZE EDITION [Innocent Grey]【不化之雪汉化组】"}],["$","p",null,{"children":"恋狱～月狂病～REBIRTH FHD SIZE EDITIONカルタグラ ～ツキ狂イノ病～ ＜REBIRTH FHD SIZE EDITION＞ブランド： Innocent Grey定価： ￥13,800 (税込￥15,180)発売日： 2023/04/28メディア： DVD-ROMジャンル： 和風サイコミステリィAVGJANコード： 4560215591060品番： GUN-0106原画： 杉菜水姫シナリオ： 鈴鹿美弥、飯田和彦getchu介绍页：https://www.getchu.com/"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/f1bfffe81c6006825f8c2bb083511d7b","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

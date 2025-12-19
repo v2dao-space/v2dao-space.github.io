@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"绝世好武功 v0.16.3 免安装中文版"}],["$","p",null,{"children":"备注：站长亲测，画风不错！ 游戏介绍 这是一款基于武侠、江湖背景为基础的 开放沙盒类非传统武侠 RPG游戏，你可以在这个大荒世界之中，扮演你所幻想的任何武侠角色，这里没有任何阻挡你幻想的老套剧情，你所演绎的武侠人生就是这个你的游戏剧情。你可\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4Rafthlq2gwT","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

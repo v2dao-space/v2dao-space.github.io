@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【生肉/rpg】マホウノハナVer0.5"}],["$","p",null,{"children":"とりあえず実装予定だった要素も概ね実装でき、バグを潰しながらの通しプレイはしたのでVer0.５、公開です！ダウンロードは記事の下部の方からです。\nテスト版なためバグ等まだまだ残っていると思われますがご了承頂ければと思います…！\n  \nサキュバスポット（花）、スカベンジャー（黒い触手）、カベツクリ（穴"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/igsJd9ICGuVQ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

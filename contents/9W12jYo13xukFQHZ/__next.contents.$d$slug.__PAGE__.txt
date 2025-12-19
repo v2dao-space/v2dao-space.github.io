@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【轻小说】因为异世界转移而成为勇者。打倒魔王后“已经没有必要了”将会被处刑，用“绝对支配”的力量毁灭王国！  作者：kiki"}],["$","p",null,{"children":"異世界転移で勇者になりました。魔王を倒したら「もう必要ない」と処刑されそうなので、“絶対支配”の力で王国を破滅させます！ 须崎[すざき]恋奈[れな]受尽苦难后跳楼自尽。 但是——她并没有死。 那一瞬间，身体被光包围，回过神来已经来到这个异世界。 恋奈被认为有勇者的素质。 与公主交友，与同伴共同努力打"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/9W12jYo13xukFQHZ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

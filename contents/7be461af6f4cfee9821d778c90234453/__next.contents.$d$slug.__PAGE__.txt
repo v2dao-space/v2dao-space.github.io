@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG养成/PC】夏色四叶草 SummerClover v1.08"}],["$","p",null,{"children":"身负千万债务的你，在一间集团公司担任职员，时常被派遣到各处执行各种业务，但由于一些生理上的原因，你不断被投诉性骚扰，因此感到很鬱闷……在一次机缘巧合之下，你的上司静子推荐你到集团的宅邸担任家政，不仅包吃包住还有丰厚薪资，但是没想到……居住在宅邸的主人居然是身材姣好的三姊妹？ ！这个夏季，与三姊妹及上司共同度过脸红心跳的同居生活吧！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/7be461af6f4cfee9821d778c90234453","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[日系RPGAIGPT汉化爆款]魔法少女マジカルブレスティ 魔法少女布雷斯蒂1.0XY版"}],["$","p",null,{"children":"一款由XY汉化组汉化的日系RPG，由于各种原因作为暴露过多的魔法少女而被迫战斗的阴之女绫濑遥，为了收集魔力而努力进行暴露行为，在出演电视的过程中被班上的男生当成了自己的宠物，在这样的过程中渐渐产生了倒错的女之悦。对美觉醒，最后沦落为周围男人们的共有孕嫁的系道德崩坏型学园生活重温暴露羞耻SRPG"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/0926175468e08a6c2a2997f247855197-VaxHWily","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

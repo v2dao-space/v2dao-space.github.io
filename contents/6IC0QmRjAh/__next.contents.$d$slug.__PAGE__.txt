@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"轻歌系列"}],["$","p",null,{"children":"灵子很爱惜自己的脚。\n在这南方的小城里，周围随处可见美丽可爱又热情动人的女孩子，她们有灵子没有的漂亮脸蛋，有灵子没有的饱满胸膛。\n灵子唯一觉得她们比不上自己的部分，就只有她的脚。\n趾肚红润而饱满，趾甲象粉润的晶莹贝壳一般，修长纤细的脚趾整齐的排在一起，拢出秀美的足尖，脚掌并不比她的手掌大多少，看起来既不会太胖，也不会有半点骨感，白玉一样的脚背没有日光留下的半点痕迹，淡淡的青色脉络隐隐浮现，整只脚就好像一件完美的艺术品一样，不能再添加一点东西上去，也没有一分多余。\n美中不足的地方，大概就是这样的一双脚，对于大多数人来说，还是无足轻重的。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/6IC0QmRjAh","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

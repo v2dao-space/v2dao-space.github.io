@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[MARUTA] 空蝉 空蟬[中国翻訳] [DL版]"}],["$","p",null,{"children":"  \n  \n  \n  \n雙胞胎轉學生．優麻跟繪麻是對美麗又充滿謎團的兄妹。彷彿被他們吸引似的，一個又一個接近他們的男女被魅惑，沉溺在性愛的愉悅中。描述妖豔兄妹的光明與黑暗，還有他們出生前的故事――激烈又夢幻的性愛，用充滿透明感的線條纖細地描繪出這禁忌的故事。「空蟬」電子限定完全版增加了新的封面圖，總"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2FPghwOuAkrF","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

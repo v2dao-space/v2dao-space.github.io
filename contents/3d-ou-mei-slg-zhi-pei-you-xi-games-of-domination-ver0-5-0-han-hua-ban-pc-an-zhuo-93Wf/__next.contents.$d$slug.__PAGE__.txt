@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D/欧美/SLG】支配游戏 (Games of Domination) Ver0.5.0 汉化版+PC+安卓+欧美SLG游戏+2.11G"}],["$","p",null,{"children":"【3D/欧美/SLG】支配游戏 (Games of Domination) Ver0.5.0 汉化版+PC+安卓+欧美SLG游戏+2.11G 即刻掌权！支配游戏Ver0.5.0 AI精译版发布——四人权力修罗场+多 视角抉择，把豪宅变成支配\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/3d-ou-mei-slg-zhi-pei-you-xi-games-of-domination-ver0-5-0-han-hua-ban-pc-an-zhuo-93Wf","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

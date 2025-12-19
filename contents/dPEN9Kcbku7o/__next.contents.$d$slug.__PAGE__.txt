@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[みちきんぐ] 性活週間 性活週間 ～New Edition～[中国翻訳] [DL版]"}],["$","p",null,{"children":"  \n  \n  \n  \n讓您久等了嗎？真是抱歉——全新重磅[加量]回歸♥\nみちきんぐ傳說中的初單行本『性活週間』B5大尺寸奇跡的改版大復活!!!!\n日本單行本＆動畫相關週邊特典彩繪超美麗FullColor 18P以及各書店促販特典、完全收錄!!!!!!!!!!!!絕對不能錯過、超決定版!!!\n被多位"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/dPEN9Kcbku7o","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

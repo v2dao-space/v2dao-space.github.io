@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG/汉化/动态]麦克斯的生活 第二章 精翻汉化完结版+CG[安卓][8G]"}],["$","p",null,{"children":"麦克斯的生活 第二章 精翻汉化完结版[PC+安卓]（目录可看全CG）（Max’s life）\n\n\n\n本作女主非常多，有很多是男主的家庭成员，什么妈妈，姨妈，姐姐妹妹（基本都上垒了）~建模非常精美，画风社保，有大量上垒场景，而且H场景是动态（动态750+数量）+语音，非常赞！剧情方面非常流畅，一言不和就是嘿嘿！非常爽快！本作从0.1开始更新，这次是第二章完结版本，内容多的一批！\n\n\n\n\n\n\n\n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/718","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

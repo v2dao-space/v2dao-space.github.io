@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"妹相随～黑白世界的缤纷冒险～ Living With SIster Monochrome Fantasy v1.02.7z"}],["$","p",null,{"children":"这是由【いぬすく】社团发售的爆款游戏妹同居生活黑白色的续作。游戏依然是以黑白单色CG+日常抽象背景搭建+简单动态CG组合。这次的新作妹幻想比起前作增加丰富的新元素，尤其是RPG冒险玩法。游戏中不但可以和妹妹日常互动，还可以和众多女角在异世界冒险打怪~日常可训练攻击防御法术等个人能力，有冒险大地图，SLG+RPG结合。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/29904e56d77f1da6b4d846a005058ff8","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

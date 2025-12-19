@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【PC/安卓/SLG】命运交织(Fates Crossed) Ver0.2.4 汉化版+沙盒SLG游戏+3.07G"}],["$","p",null,{"children":"  游戏背景： 少年因母亲的神秘失踪陷入人生低谷，偶然获得神秘少女莉莉的指引。 这个只有主角能看见的灵魂体，将带领他穿梭校园与记忆迷宫， 揭开家族往事背后的惊人真相。在这场跨越现实的冒险中， 玩家将体验： 双重视角：现实校园生活与\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Ym7yFcK9FSzz5Jiq","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

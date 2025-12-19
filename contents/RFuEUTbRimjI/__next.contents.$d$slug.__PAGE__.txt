@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【同人音声/官中】【RJ01169349】【G點高潮】10分鐘讓你射出來的泌尿科女醫師【中文短篇音聲】"}],["$","p",null,{"children":"\n \n  \n故事簡介\n\n由於最近跟女朋友的床事不順,無論怎樣都射不出來,因此你去掛了泌尿科,想找出原因。\n而在泌尿科的女醫師一步一步的引導下,你也慢慢發現了自己真正的敏感點…\n長度約 10分06秒\n\n\n\n製作資訊\n\n風橙實驗室 HC Lab. 出品\n聯絡我們請洽 hclab2024@gmail.co"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/RFuEUTbRimjI","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

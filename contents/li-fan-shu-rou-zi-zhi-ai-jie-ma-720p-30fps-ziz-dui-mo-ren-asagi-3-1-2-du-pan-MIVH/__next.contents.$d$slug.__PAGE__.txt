@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【里番/熟肉/自制ai解码/720p/30fps】【ZIZ】対魔忍アサギ 3 #1-2【度盘/491MB】"}],["$","p",null,{"children":"有朋友留言的关于对魔忍里番的解码版（我找了找加上一个五分钟的特别篇一共有13个里番，大工程捏，看缘分更吧），本来我是想先发雪风3部曲的，但是效果不是很好，于是试了试比较新的対魔忍アサギ 3这个效果还行，所以我先发这个了，对魔忍系列的里番说实话画风并不是很精致，但是楼主觉得主要是看剧情，和花里胡哨的变"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/li-fan-shu-rou-zi-zhi-ai-jie-ma-720p-30fps-ziz-dui-mo-ren-asagi-3-1-2-du-pan-MIVH","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

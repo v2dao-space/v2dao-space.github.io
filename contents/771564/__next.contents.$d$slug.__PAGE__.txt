@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【MMD/有修正】ぴぴぴぴぴのyrm小合集（2D/VR）"}],["$","p",null,{"children":"去年在站里看到过有人发 然后当时皮皮佬好像销号了今年I站有看到更新 并且也有了fantia账号（投稿只有今年开始的）I站最近刚迁服务器 以前的视频还下不来 还好我VR里有存以前的那篇回归后的fantia都是公开下载 刚好站里那篇是没有把VR版放进来的 完美互补  有一说一 涩！ 而且别看文件不大 清晰度还不错的 有码但很薄包含新作一个口（有VR）两个手以及老作一个VR口 打包在一起了五月的新角色问了群里的管人领域大神做的是鹰宫莉音 再等等看有没有VR版一起打包fantia主页：ぴぴぴぴぴのファン"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/771564","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/安卓模拟/PC】爱与生活：幸福学生v0.6.3  养成互动 官方中文版【六月更新/6.6G】"}],["$","p",null,{"children":"爱与生活：幸福学生v0.6.3 官方中文版 爱与生活：幸福学生 在Reborn Entertainment，创意驱动着一切，我们致力于为玩家带来全新的游戏体验。 对我们而言，游玩乐趣不仅仅是目标，更是原则。 库存管理系统的加入，会让《爱与生\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2C38obNDN-HTEmRm","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

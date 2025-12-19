@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中/动态】夏日风情/Summer For You-v0.5【安卓+PC/1.2G】"}],["$","p",null,{"children":"入正\n  \n游戏介绍\n你是位母胎单身21年的小处男，可父亲却是位受人景仰的考古学家。在耳濡目染之下，你日常也喜欢摆弄古董。有一天，你在父亲的房间里触碰了一颗奇特的宝石，强大的魅魔哈莉奎娜随即出现，她威胁要把你带入地狱！\n然而，女巫艾丽西亚及时出现并救下了你。她促使你和魅魔之间达成了协议。作为交换，你"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/jRylbVdl2zX4","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

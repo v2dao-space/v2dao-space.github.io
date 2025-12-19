@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG/动态/高渲染]恋爱的季节：农民的追求V1.31 汉化版[安卓][4.4G]"}],["$","p",null,{"children":"恋爱的季节：农民的追求-Ver1.31 汉化版\n\n\n\n本作真的可以说是油画级别的画质渲染水平是同类中顶级的，光影效果处理的太棒每一张CG都是艺术品级别的！还有动态CG！而且新作比前作农民的梦想更加出色！\n\n\n\n\n\n\n\n游戏介绍你在一次森林休息中看到了美人鱼，美人鱼被大人说是带来厄运你本想离开却被她的美貌吸引并被她带到了一个未知的地方那里的女王告诉你，你是一个英雄这把剑在呼唤着你你拿起了那把剑，感觉"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2114","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

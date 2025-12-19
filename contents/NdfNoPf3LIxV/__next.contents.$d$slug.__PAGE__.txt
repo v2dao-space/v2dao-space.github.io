@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】欢迎来到催眠村/ようこそ!催○村【1.12G/度盘】"}],["$","p",null,{"children":"  \n游戏概要\n基本本CG：17张\nH场景：40个以上\n玩家将操作男主角悠，调查神秘的催眠村\n在村子的各个角落，被操控的同伴们被村民侵犯，或是做出异常的举动，而身为男主角的悠也同样被操控，无法阻止这一切。\n村子里除了同伴们，还有先一步来到这里的冒险者，但他们无一例外都被操控了。\n在这样一个村子里，悠"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/NdfNoPf3LIxV","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/汉化】欢迎来到后宫岛！（ハーレム島へようこそ!）"}],["$","p",null,{"children":"社团名Resta! 关注1,669   支援社团也可以使用DL点数进行支援贩卖日2023年08月09日更新信息2023年09月14日 更新信息作者URA剧情明日葉あすは / 燈縁插画oekakizuki年龄指定18禁作品类型模拟有音乐文件形式软件支持的语言日文分类后宫 内射/中出 乳交 口交 淫乱 巨乳/爆乳 西瓜肚/孕妇 褐皮/晒痕 汉化者留言大家好，我是甜族星人。之前我主要是安排翻译Ｈ漫画和自我翻译小说的，这次是我第二次安排游戏翻译。我会在伊莉论坛（eyny.com）和ggbases发布这游"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/80f3223a8688bc24a9fd2b61b701e743","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

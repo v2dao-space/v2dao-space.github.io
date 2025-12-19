@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/AI翻译】おとこの娘倶楽部作品合集补充"}],["$","p",null,{"children":"【ADV/AI翻译】おとこの娘倶楽部作品合集 – 萌幻之乡 上面是原贴地址，本帖仅作为补充。 共六部，已完成AI翻译整合。其中，《エルフ軍の姉妹》《エルフの姉弟》《エルフのお姫様》《放課後女装☆ネットアイドル》的AI翻译存在缺字现象，存在恢复原版方法将AI翻译去除。 目录 [おとこの娘倶楽部] 放課"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/3jvv8tFF0sAL","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

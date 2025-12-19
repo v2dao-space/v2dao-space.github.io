@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[互动SLG]因为他是校长Ver1.10云汉化版+CV"}],["$","p",null,{"children":"<p>、 这是一款相当相当牛头人的互动SLG游戏： 当面NTR因为他是校长Ver1.10 这款互动触控SLG已经更新到最新版本，加入了游泳系的短发少女！ 现选择女二了，和她一起在泳池边进行各种指导 并新增了大量新的交互选项和动画内容，游戏是相当的</p>"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/278199b5a7514dc6810c2509fdc1d06d","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

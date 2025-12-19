@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/生肉】The Sunken Promise [v0.1]"}],["$","p",null,{"children":"你是一位经验丰富的冒险家，最珍贵的财富是你美丽的精灵妻子米莉尔。作为虔诚的女祭司，她对你忠贞不渝。 一次前往神圣仪式的航海之旅突遭变故，狂暴的风暴将你们冲上一座未知岛屿的海岸。上岸后，发现仅有另外两名幸存者：你深爱的米莉尔，以及那艘遇难船上肥胖好色的水手博温。 本作为侧重心理张力、堕落与NTR（注："}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/-wr63SoZHA6etzm5","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

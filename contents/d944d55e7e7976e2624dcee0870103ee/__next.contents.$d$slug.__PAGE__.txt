@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】 伊莱莎的秘药(イライザの秘薬) 【百度/迅雷/600MB】"}],["$","p",null,{"children":"分享时间：2024年7月29日背景介绍：主人公是一个永远都是E级冒险者，靠着完成廉价的委托来度日。他过着底层的日子。有一天，为了工作而深入森林，他遇到了委托人，一个寡言蒙面的巨乳女性-伊蕾莎。主人公觉得这样的机会不会再来，想要和她建立联系，但却没有那种口才。即使强行进攻，面对魔法使伊蕾莎也无能为力。主人公束手无策。然而，天气突变，情况完全改变了……内容介绍：底层冒险者主人公没有战斗力。为了使强大的魔法使伊莱莎无力化，必须进行探索、采集和合成。在“探索”时，要小心避开敌人，进行“采集”以收集各种材"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/d944d55e7e7976e2624dcee0870103ee","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/个人AI嵌翻/安卓/PC】爱宠奴隶的幸福日常(愛玩奴隷と幸せな日常)（RJ01094293）"}],["$","p",null,{"children":"此内嵌汉化版本与安卓移植版由叶酱原创发布， 由本人进行了AI汉化、测试修正、UI汉化嵌图、安卓移植 游戏名：　爱宠奴隶的幸福日常(愛玩奴隷と幸せな日常) 此版本：23.11.06（发售版本） 入正地址：https://www.dlsite.com/maniax/work/=/product_id/R"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/rpg-ge-ren-ai-qian-fan-an-zhuo-pc-ai-chong-nu-li-de-xing-fu-ri-chang-ai-wan-nu-gqwK","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

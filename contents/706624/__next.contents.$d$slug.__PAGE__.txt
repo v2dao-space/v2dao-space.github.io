@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中】Senpai and the Mysterious Dungeon/前辈与不可思议迷宫【度盘/秒传/510MB】"}],["$","p",null,{"children":"游戏概述： 这是一款由【Ruhut Soft】制作【OTAKU Plan】发行的RPG游戏于2022年09月30日上架的STEAM，并搭载官方中文版。 Steam 上的 前辈与不可思议迷宫 游戏剧情 为了解救被掳走的学姐，主人公决定挑战栖息着大量魔物的地下城……。这是一款2D Roguelike RPG。每次进入地下城，地图都会发生变化！使用丰富的技能和装备救出学姐吧！！ 游戏特色 ARPG 地下城地图随机变化 丰富的换装系统 收集要素齐全 角色介绍 注：游戏为开放式战斗不是回合制 ps：今天是"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/706624","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

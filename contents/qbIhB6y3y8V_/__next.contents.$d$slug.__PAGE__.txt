@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【步兵SLG/安卓+PC】夏日风情 Demo V0.5.2 官方中文步兵版【更新/神作1.9G】"}],["$","p",null,{"children":"夏日风情 Demo V0.5.2 官方中文步兵版 （Summer For You） PS：安卓由于是32位应用，我测试出现黑屏闪退，你们可以尝试下能不能玩 游戏介绍： 《夏日风情》是一款热辣火爆的2D视觉小说游戏。 在本作中，你可以运用多种\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/qbIhB6y3y8V_","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

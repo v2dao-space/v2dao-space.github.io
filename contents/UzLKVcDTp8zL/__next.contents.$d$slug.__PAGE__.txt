@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/生肉/安卓】Oh My WaifuV3.2.5 【度盘/343M】"}],["$","p",null,{"children":"  \n  \n  \n  \n  \n！提示：PC版本的我启动时会给我弹一堆dll文件缺失的问题，重下了4遍亦是如此，可能是我电脑问题，所以我就没把PC写进标题，链接放在介绍那了可以自行尝试下，实在打不开就是PC版本的问题。\n大致剧情：没有剧情、没有中文、没有断面、没有希望也没有光明。（纯互动玩法，不需要中"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/UzLKVcDTp8zL","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

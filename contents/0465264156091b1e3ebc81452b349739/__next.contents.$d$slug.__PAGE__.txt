@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/PC安卓] 妻子的困境 重温 Wifey's Dilemma Revisited v0.53"}],["$","p",null,{"children":"这款游戏是《妻子的困境》的翻版，有许多新的升级和功能。在这个游戏中，主角娶了他的朋友，这样她就可以留在这个国家（两个角色都可以改名）。他们年轻的时候，他对她有感觉，但从未付诸行动。现在她嫁给了他……谁知道呢？游戏讲述了这个年轻人的经历。他会遇到其他女人，并能够与她们发展关系。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/0465264156091b1e3ebc81452b349739","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

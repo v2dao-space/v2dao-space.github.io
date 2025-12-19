@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D动画/无码】TDonTran大佬视频合集【87G】"}],["$","p",null,{"children":"TDonTran 是一位 3D 艺术家，他为《尼尔：机械纪元》、 《埃尔登指环》、漫威漫画、英雄联盟等原创角色和角色制作短动画和海报。更新时间：2024-05-01艺术家：TDonTran 语言：英语分辨率：1080p/4k（视频），最多 10k（图像）内容： 80+ 图片，3 个 Gif，200+ 视频长度：25 分钟以上作者主页：链接有条件的可以去支持一下预览图：        下载完后记得改后缀，把后缀改成.zip"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/766235","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

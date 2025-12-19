@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[日系RPG/汉化/双端] 与可爱的侄女同居生活V1.0.3精翻汉化版 [PC+安卓/1G]"}],["$","p",null,{"children":"与可爱的侄女同居生活1.0.3 精翻汉化版\n\n\n\n这是一款经营类rpg游戏\n\n\n\n是 [火车王社区] 汉化的第一部rpg游戏\n\n\n\n在游戏中，通过你的各种努力，用4周时间把侄女拿下！\n\n\n\n具体如何拿下，就要看各位小伙伴了！\n\n\n\n游戏的可玩性还是挺高的！\n\n\n\n算是一款不错的RPG游戏。\n\n\n\n不需要打怪，不需要升级，不需要跑图，也没有迷宫！\n\n\n\n唯一有的就是和侄女的各种日常！\n\n\n\n\n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2521","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

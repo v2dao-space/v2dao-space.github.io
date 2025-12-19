@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【ACT/生肉/PIEROCK GAMES】闇狩紅狼 Ver1.0.0"}],["$","p",null,{"children":"新游戏，如果论手感的话绝对能够薄纱其他ACT黄油一条街，直接把前辈全拍到沙滩上了。 还有就是这次不是PD了，因为PD的政策变动，如果不用邮箱等注册账号就不能够上传，倒狗估计已经乐开花了。所以只能MegaUP走起了，我尽量不分卷吧, 以后的解压码也换成通用的了。        令人兴奋的时尚2D巨乳动作！爽快的战斗系统和高清画质的流畅点动画绘制的时尚巨乳动作，将具有出色破坏力的“黑暗技巧”与用消音器吸引敌人的“抢夺”相结合，释放出极其丰富的H连击！共有33个场景！每个场景都配备了丰富的差异和结局！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/773857","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

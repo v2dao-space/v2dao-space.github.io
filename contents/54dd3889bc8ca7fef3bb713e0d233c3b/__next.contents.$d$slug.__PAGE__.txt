@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/生肉】リアとフォルトゥの運命逆転物語"}],["$","p",null,{"children":"社团 コソコソ部屋ストーリー+敗北のシンプルRPG!!▼あらすじ▼ごく普通、当たり前の日常を過ごしていた【時撫むすび】は謎の少女【ミミ】を助けようとして、命を落としてしまう。その間際、偶然手にした宝珠の力で時間のやり直しに成功した時撫むすび。無事、ミミを助ける事に成功したが、その世界線は時撫むすびが指名手配にされている世界だった。これは【時撫むすび】として生きられなくなった【クロノス・リア】が悪の陰謀を暴き、自身の生活を取り戻す物語。▼内容▼・基本50枚以上・体験版ではあらすじ部分のプロローグま"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/54dd3889bc8ca7fef3bb713e0d233c3b","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【AVG/部分汉化/无修】魅の游戏/Succubus Game【度盘/186MB】"}],["$","p",null,{"children":"游戏作者:Raay 一些内容可见：https://www.mhh1.com/613891.html 我懒得打了。 游戏已经停止更新了，在24-3-8，最终版本0.4，这里只是看站里没有补一个新的。 题材和内容我感觉是很好的，不过有点可惜。作者自己说他不太满意，没继续更新。 算是纪念这个游戏（?） 其"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/_zN7mMMDzHfmHSzS","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

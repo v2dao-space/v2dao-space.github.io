@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/生肉】Isekai Debt SLAVE"}],["$","p",null,{"children":"社团名Coccolome 关注101 贩卖日2023年08月18日作者あすのきょう插画Frinsa年龄指定18禁作品类型模拟有声音有音乐文件形式软件支持的语言日文英文分类女主人公 换装 萝莉 卖春/援交 内射/中出 奴隶 恶堕 贫乳/微乳文件容量116.46MB作品内容「Isekai Debt Slave」(デブスレ)はファンタジー異世界をテーマにした風俗シミュレーションゲーム。ゲームの流れは昼にセクスを練習して、いろんなステータスを上げて、夜に男を釣れて、お金を稼ぐ。ゲームのストーリー主人子ミ"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/716410","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

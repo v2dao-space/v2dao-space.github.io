@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC-SLG游戏] 【SLG/汉化/动态】与青梅竹马的姐姐一起过着悠闲性生活/幼馴染のヒモ姉とのゆったり"}],["$","p",null,{"children":"和青梅竹马的小白脸姐姐的悠闲性活是?是完全Live2D和完全动画的临场感充分的和海姐姐的同居模拟游戏。一边用[对话]、[触摸]、[边缘]提高好感度，一边享受海姐姐的各种反应吧!根据好感度和状态，海姐的反应也会改变!继续调情的话，作为男人的责任可能会被追究!?"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/134a99b6ba6356608a2170ef6d77499a","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

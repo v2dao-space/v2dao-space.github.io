@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【GAL/汉化】アインシュタインより愛を込めて&amp;FD【4.26G】"}],["$","p",null,{"children":"アインシュタインより愛を込めて游戏类型制作公司：GLOVETY 发售日期：2020年10月30日汉化日期：2021年04月19日汉化小组：绿茶汉化组游戏类型：女学生、学园、科幻游戏原名：アインシュタインより愛を込めて游戏原名：爱因斯坦携爱敬上/アイこ/ Einstein with Love/来自爱因斯坦之爱/爱因斯坦爱意满满的来信剧本: 新島夕音乐: 水月陵、竹下智博主题歌作曲: 竹下智博主题歌作词: 新島夕主题歌演出: Duca、水谷瑠奈、ひょん原画: きみしま青动画制作: どせい [Mju:"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/a38b9797cdf527a087ac5d503233b29e","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】寝取られ村の聖女妻【800M/百度】"}],["$","p",null,{"children":"  \nH 场景全为动画！拯救世界的圣女被夺 RPG！※※※※※※※※※※※※※※※※※※※※※※※※※※※<+注意+>本作品包含大量寝取（NTR）元素。请注意，对于不擅长的人。※※※※※※※※※※※※※※※※※※※※※※※※※※※\n■ 概要 ■击败魔王拯救世界的英雄『迪尔克』，与挚爱的妻子、圣女『玛"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/zdk2YvouWHHE","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】 女仆织梦记!  めいどいんめいど! 【471M/度盘】"}],["$","p",null,{"children":"  \n当你醒来时，发现自己身处一栋陌生的宅邸房间。身边是一位身着女仆装的女性。据她所说，你遭遇了事故，被送到了你拥有的这栋别庄宅邸。由于事故后遗症，你失去了记忆。为了疗养，你被建议暂时在这栋宅邸慢慢度过。宅邸里，有五位侍奉你的女仆。你与她们的交流时光就此展开。这个故事，讲述的是你与你的『女仆』们，共"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/3u7bTM5tu1gL","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

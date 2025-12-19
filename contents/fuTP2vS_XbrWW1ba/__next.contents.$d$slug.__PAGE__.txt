@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【轻小说】[惊悚][资源]被囚禁的唐吉坷德[更新18章][完结]"}],["$","p",null,{"children":"小说简介 在封闭的大学校园里，宁静被突如其来的死亡与失踪打破。医药系女生水玲离奇消失，其尸体被发现时身着水蓝色连衣裙，以诡异姿态陈尸于废弃钢铁厂的废旧车厢内。这起案件与 1986 年校园悬案惊人相似，仿佛历史在血色中重演。  另外下面这款游戏然道你还没玩过这款游戏吗？ 卡美琪大陆的最后一片净土，当宇"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/fuTP2vS_XbrWW1ba","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】エクリプスの魔女 Ver1.07（补档）"}],["$","p",null,{"children":"  \n\n最新版终于有AI汉化了，由[Koreyash]大佬使用claude 3haiku模型汉化！狗叫社的超级大作RPG正式版来啦！255张以上基本CG，230个H场景~各种战斗H，败北H，骚扰H，事件H，异种H，怀运…绝对的神级大作！本作从立绘到H事件到内部断面都是动态CG场景，绝对的顶级实用社保"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/VwMvLmaDmw3s","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

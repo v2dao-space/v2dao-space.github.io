@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【日系RPG/汉化/2D】再一次度过那个快乐的乡村暑假汉化版【安卓/1.2G】"}],["$","p",null,{"children":"游戏介绍：\n\n\n\n“啊… … 又开始了。”\n\n\n\n透过门，她能听到起居室里父母不耐烦的声音。\n\n\n\n由于去年开始流行的疾病，爸爸的公司业绩并不理想。……\n\n\n\n“… … 我也很辛苦，就算爸爸变傻了，我也什么都做不了。”\n\n\n\n妈妈的声音在起居室里回荡，对着电话里的外婆大吼大叫。\n\n\n\n小学的时候，去玩的爷爷家很开心..\n\n\n\n马上就要放暑假了… 爸爸妈妈看起来都很辛苦，不能说带我去什么地方的气氛."}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1830","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

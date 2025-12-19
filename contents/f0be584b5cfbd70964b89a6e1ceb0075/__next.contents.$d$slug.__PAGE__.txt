@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无码】[240726][BoRoBoRoGame]抵抗魅魔-被魔纹侵蚀的女骑士的末路 Resist the succubus—The end of the female Knight[度盘/2.6G]"}],["$","p",null,{"children":"画风还不错喜欢请入正：https://store.steampowered.com/app/1868000/_/正式版制作组使用了AI重做了美术，导致了有玩家不满意所以正式版现在更新了可以在设置里改回老美术游戏简介这是一款“美少女+自走棋+galgame”结合的游戏。玩家将在异世界扮演一名信念坚定、正义凛然的女骑士，招募伙伴，提升战力，排兵布阵，经营城镇，坚守阵地，抵抗魅魔！故事简介赛琳—横空出世的圣骑士。在人们最绝望的时候率领着联盟军击退了魔族的侵犯。有着绝不退缩的勇气与信念。直到一个魅魔——"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/f0be584b5cfbd70964b89a6e1ceb0075","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

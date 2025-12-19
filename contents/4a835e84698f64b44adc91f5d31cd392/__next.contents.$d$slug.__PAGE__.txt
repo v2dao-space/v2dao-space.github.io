@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/机翻] 宁静岛 Serenity Ch. 1 v1.4+ Ch. 2 v0.3 PC+安卓[7.2G/百度]"}],["$","p",null,{"children":"[SLG/机翻] 宁静岛 Serenity Ch. 1 v1.4+ Ch. 2 v0.3 PC+安卓[7.2G/百度]游戏介绍：在照顾母亲 5 年后，您因癌症去世。她给你留下了一本神奇的书，把你带到了宁静岛……一个拥有内科斯、浪漫和冒险的天堂。更新日志：第 2 章 0.3 版新增 1272 张图片和 9 个动画。3200 行代码。14 首新音乐（也重复使用了几首以前的音乐）。  解压出的图片改成zip或rar接着解压链接：https://pan.baidu.com/s/1kSF_VbrB6g3F"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4a835e84698f64b44adc91f5d31cd392","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

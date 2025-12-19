@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[养成SLG/中文/动态]冥婚交友中心：厉鬼恋爱指南 官方中文步兵版+存档[新作/2.5G]"}],["$","p",null,{"children":"冥婚交友中心：厉鬼的恋爱指南 官方中文步兵版+全CG存档（冥婚マッチングセンター）这是一款由[Eternal Alice Studio, Feiyu Studio]制作的碉堡题材养成互动游戏。\n\n\n\n游戏在STEAM于2022年2月8日发售了官方中文版本，而且还是步兵版。\n\n\n\n没错，这就是一款真正艹鬼的养成游戏，且画风精美，还有各种动态CG。\n\n\n\n附带全CG存档方便大家开冲，快来和鬼娘们一起愉"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1666","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

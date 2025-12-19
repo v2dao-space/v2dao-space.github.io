@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D游戏/生肉】Crystal Rose【度盘/1.65G】"}],["$","p",null,{"children":"  \n◆游戏内容\n\n意志坚强的冒险家尤娜为了获得幻宝石“水晶玫瑰”并变得非常富有，冒险进入怪物出没的洞穴。\n如果你被怪物打败，你会立即转移到H场景这是一款成人动作游戏，除了战斗之外，你还可以享受各种事件H场景。\n\n◆特色\n– H场景可以用鼠标旋转360°！放大和缩小享受你最喜欢的角度\n– 动作包括攻"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/pgqZAgDTkD56","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

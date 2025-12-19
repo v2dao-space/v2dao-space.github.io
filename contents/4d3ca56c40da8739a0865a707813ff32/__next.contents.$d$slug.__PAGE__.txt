@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】[RJ01232152][Project0.Studio]7Room[度盘/136M]"}],["$","p",null,{"children":"喜欢请入正：https://www.dlsite.com/maniax/work/=/product_id/RJ01232152.html/?utm_medium=affiliate&utm_campaign=sns_link&utm_content=RJ01232152&utm_source=none&locale=zh_CN社团名Project0.Studio   贩卖日2024年07月27日 0点年龄指定R18作品类型解谜文件形式软件支持的语言中文(繁体字)日文英文分类胸部/奶子 3D作品"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4d3ca56c40da8739a0865a707813ff32","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

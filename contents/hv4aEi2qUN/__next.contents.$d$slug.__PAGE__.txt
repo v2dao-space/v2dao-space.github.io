@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"琳海雪原"}],["$","p",null,{"children":"主要是介绍官场跟黑道的故事。徐源在夜总会的兼职很轻松，就是管管夜总会里的小姐和少爷。徐源虽不喜欢女人，可人却很机灵。做事也让海凤凰很满意，她对徐源唯一不满的就是自己好几次暗示喜欢徐源，可徐源总是躲躲闪闪的。海凤凰听说徐源只是赵梅公司里的实习生，便邀请徐源到夜总会做个兼职，徐源刚想拒绝，没想到赵梅竟然同意了。\n赵梅是个空虚的黑帮老大的情妇，虽然甚得胡彪欢心，但她对胡彪却有恨意，内心的空虚寂寞自不用说。当她知道自己公司里有个英俊少年，便想把徐源引做裙下臣。但徐源不为所动，赵梅又没有海凤凰那般的魄力，所以勾引几次，都没有成功。当海凤凰看上徐源，赵梅也有用让海凤凰去调教徐源，只是她没想到，海凤凰手段比她高明多了，送出去的徐源就此跟了海凤凰。虽然赵梅恨胡彪，但她已经习惯了胡彪带给她的奢靡生活，所以当徐源要她和海凤凰合作对付胡彪的时候，赵梅果断的拒绝了。\n赵梅同意徐源到夜总会兼职是有她自己的打算的。要是海凤凰能让徐源变成一个真正的男人，赵梅也能如愿，而且在海凤凰这里也很安全，要是徐源还是老样子，那也能让海凤凰对他死心了。再者，看海凤凰对徐源的态度，说不定徐源还能成为海凤凰身边的红人，到时候能从徐源这里打听到海凤凰的消息。徐源也不知道赵梅心里在想什么，只是这两个女人他都不好得罪，也只好硬着头皮应了下来。\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/hv4aEi2qUN","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

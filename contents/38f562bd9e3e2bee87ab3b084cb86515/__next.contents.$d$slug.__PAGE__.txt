@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】隔壁太太今天也独自一人/おとなりの奥様は今日も独り V1.2.3  全CG存档PC[280M/百度]"}],["$","p",null,{"children":"[SLG/官中]隔壁太太今天也独自一人/おとなりの奥様は今日も独り V1.2.3  全CG存档PC[280M/百度]入正：Steam 上的 隔壁太太今天也独自一人 (steampowered.com) 游戏介绍：玩家扮演身为接案工程师的主角，隔壁搬来了名为新山秋穗的人妻。秋穗的丈夫，现在正好因为长期出差不在家。在她丈夫不在的时间里，加深与秋穗的关系，相互填补寂寞，然后夺走秋穗的心吧！游戏特点：王道人妻攻略模拟游戏你的任务是攻略住在隔壁的寂寞人妻——秋穗。在超市、公园、电影院等地相遇、交流，从零开"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/38f562bd9e3e2bee87ab3b084cb86515","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

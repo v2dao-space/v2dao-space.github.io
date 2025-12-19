@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【AI汉化/ADV】星降る夜のファルネーゼ"}],["$","p",null,{"children":"这部是我少数吹爆的游戏之一\n本作的画风堪称上品\n萌系+推理+架空世界\n这作的翻译补丁是我国庆和另一个组队花2400积分悬赏的\n虽然99.9%都是我测试出的bug，补丁作者很负责，来回修改了很多次\n对于喜欢星座的朋友来说赞，很推荐玩玩\n  \nBackground\n《失去了星空的世界》很久很久以前，世界"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/U44blydIOyYZ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/Erika个人汉化】アメリ・ブランシェットは何度も堕ちる ～カレドニー魔法学院と繰り返す一週間～ Ver1.24"}],["$","p",null,{"children":"DL简介グレートランド王国魔法部隊所属の若き魔法使い、香心 正宗(かしん まさむね)とアメリ・ブランシェットはカレドニー魔法学院に潜入捜査を命じられる。任務の内容は魔法学院で悪魔の召喚が行われると言う噂を確かめること。正宗は学生が相手の楽な仕事だと考えていたが、上司は突然衝撃的なことを言い放つ「この任務に失敗したら魔法部隊は解散とする」魔法部隊は王国軍の上層部から嫌われている。結果を残せなければお払い箱になるのは当然だった。魔法使いの地位向上のためにも、絶対に成功させると意気込むアメリ。その傍ら"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/220c75df3a8d268d1003ab3801716e3d","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

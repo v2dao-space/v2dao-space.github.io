@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"DL5月新作【迷宫SLG/H版炸弹人/动态互动】爆裂少女 黑暗炼金术与羁绊之焰（爆裂少女 闇の錬金術と絆の炎）V1.0 DL官方中文"}],["$","p",null,{"children":"总是失败的新手炼金术师少女，琳。就在这一天，她又让药水爆炸了。看到那一幕的优等生朋友塞伦建议制造炸弹。建议取得成功，琳开始走上了炼金术士的道路。两人合作完成炼金术工作，为村民的生活做出了贡献。但是，有一天，塞伦被绑架了。据村民们说，突然出现了亚人族，把塞伦带到了森林里。但那片森林被视为禁忌之地......林听了那个故事，拿着与好友之间的羁绊相连的炸弹，冲向救援。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/b839b47baafb77c127d6e3dd393ce3b9","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

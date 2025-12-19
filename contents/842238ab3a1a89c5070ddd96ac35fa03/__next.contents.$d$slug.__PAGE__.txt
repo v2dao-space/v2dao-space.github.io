@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/动态/官中无码】MAGICAL ANGEL FAIRY PRINCESS Ver0.83"}],["$","p",null,{"children":"游戏概述这是一款【UMAI NEKO】最新制作组出品的神奇日式ACT游戏。该组曾经做过【魔法天使精灵心】【魔法天使精灵花】等精品佳作。本次新作女主是一身白色服装+白丝的金发马尾：魔法天使精灵公主！相比前作多了刷刷刷的要素和技能树升级等新系统，可玩内容非常多。横版街机ACT，画面流畅手感极佳，更精细建模，更丰富的技能连招。 ◆故事情节一个身份不明的改造人团体侵略了整个城市。精灵公主为了拯救这座城市而出击。◆动感十足的动作片神奇的天使精灵公主是一个带状卷轴动作游戏。可以利用冲刺攻击、魔法攻击、投掷等"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/842238ab3a1a89c5070ddd96ac35fa03","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

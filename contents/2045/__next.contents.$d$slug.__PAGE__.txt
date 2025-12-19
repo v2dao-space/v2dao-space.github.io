@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG/汉化/动态]公主万岁v1.0.0 汉化版[安卓][2.8G]"}],["$","p",null,{"children":"公主万岁v1.0.0 汉化版\n\n\n\n游戏概述游戏的设定在中世纪.各种场景也做的原汁原味，那种只存在于中世纪贵族身上的高傲态度也真的是活灵活现~反正，这玩意质量非常高的~毕竟，谁不想有一只脑子里面只有你的公主奴隶呢\n\n\n\n\n\n\n\n游戏介绍：国王去世，公主加冕途中要经过你在的小镇。有邪恶的组织要暗杀公主，偶然间你发现你是唯一能拯救这次灾难的男人但是……首先你得OOXX公主（这他喵什么鬼剧情？？）\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2045","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

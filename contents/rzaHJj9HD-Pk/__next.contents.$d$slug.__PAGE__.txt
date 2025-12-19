@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[vanilla] メルティングアイスクリーム 融化的冰淇淋～融化的少女們～ [中国翻訳] [DL版]"}],["$","p",null,{"children":"  \n  \n  \n  \n海斗與風待因為同班，座位又近，所以成為了好朋友。喜歡上了風待的海斗，因害怕被拒絕遲遲沒有勇氣表白⋯⋯\n直到風待因為父親工作的原因即將轉學⋯⋯放學後前往海邊，卻在大雨滂礡下躲進空屋裡，再也無法忍耐的兩人⋯⋯無法停下了。帶點害羞、調皮的清純性愛物語。聖光修正作品共10話\n \nbo"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/rzaHJj9HD-Pk","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

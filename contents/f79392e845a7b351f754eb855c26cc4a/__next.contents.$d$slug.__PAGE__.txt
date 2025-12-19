@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中/动态】Love n Life: Lucky Teacher Ver3.0.0"}],["$","p",null,{"children":"游戏简介69爱爱病毒大流行后，世界陷入了金融危机。你原本是那须的航空专家，却因为经济不景气被炒了鱿鱼，只能离开大城市，跑到小镇里去当老师。不过命运出现了意料之外的转折，黑暗中也有一丝光明，或许你的桃花……才刚刚绽放？做好小镇老师的工作，谱写自己的爱情故事。你将邂逅各式各样的美少女，并在交往中慢慢了解她们的故事。准备好迎接一段难忘的叙事体验吧。特点：美丽的女孩们在Live2D动画中。有趣的卡通角色，环境，和美丽的城市。用于房间装饰的礼物和迷人的服装。有趣的迷你游戏。对话选项会影响好感度。超过20,"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/f79392e845a7b351f754eb855c26cc4a","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

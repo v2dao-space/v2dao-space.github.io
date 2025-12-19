@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[武侠SLG/中文/全动态] 剑侠．风尘恋曲 Blades of Jianghu 官方中文步兵版 v1.1.9"}],["$","p",null,{"children":"游戏简介：尔虞我诈的武林，初出茅庐的少年巩真，踏进了黑白难分的江湖之中。他胸怀大志，要成为人人称善的大侠，却在一次的事件之中，意外成为当今武林神话——外号玄燕的蔚双云刺杀的目标。巩真努力解开误会，并与蔚双云一起调查发生在镇上的连环杀人案，却发现是另一个武林神话，血花榜天下第一杀手血凤所为。而人人闻风丧胆的血凤也正是代表白道正派的蔚双云最大的敌手。甫踏入武林就遇上了惊涛骇浪，他却不知道这一连串的事件全与一桩惊天大案有关。人在江湖，身不由己，一步踏错，就是身首异处的险境，巩真是否能力挽狂澜？夤夜长歌"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/661da6345d111f61ec2f10f3389d9e12","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

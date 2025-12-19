@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【2D动画/薄码/15V/40P】Suppaiファンクラブ作品合集【度盘/2.01G】"}],["$","p",null,{"children":"肉体作画风格很顶的一个作者，不管是柰子还是鲍鱼都很肉感超喜欢捏，就是现在作品偏少且时长略短，但是前后作品对比是慢慢的有加长的，且也有终结动画了。除了动画，作者的可赞助的短篇漫画也已全部加进合集        顺带一提我赞助完fantia以为红P上有额外内容又去赞助红P结果一看内容是一样的还比fantia少了点东西，太冤种辣"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/e1f4c4b0dd17ff06125905bd44a12135","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

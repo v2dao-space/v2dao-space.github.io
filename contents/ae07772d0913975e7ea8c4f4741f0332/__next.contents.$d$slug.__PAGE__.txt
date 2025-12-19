@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[ADV/汉化] 女仆来我家S メイドさんのいる暮らしS AI汉化润色版+全CG存档★全CV"}],["$","p",null,{"children":"「光志郎少爷，终于，终于见到您了一一」我叫立木光志郎，去年我从国立大学毕业，现在刚就职于一家大型企业。我从小就被告知有一位未婚妻。「在这个令和时代，竟然还未婚妻一一！？」恋爰是 NO 的！男女之间不可能有友情！这位女主角是一个女仆，同时也是订婚对象，奢华程度堪称一流！由于主人公和女主角都进行了更新，所以即使是没玩过前作的玩家也可以放心地享受游戏内容！另外，本作还引入了基于Live2D的立绘动画！不妨来体验一下进化后的“与女仆们愉快的日常”吧？"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ae07772d0913975e7ea8c4f4741f0332","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

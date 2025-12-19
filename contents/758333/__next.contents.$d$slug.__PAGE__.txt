@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/2D】【安卓直装】猎魔人物语/Knightly Passions ver0.84 官中"}],["$","p",null,{"children":"feyada作者主页入口  剧情介绍：你是一名年轻的猎魔人，和你的妹妹相依为命。而你的妹妹的职业是盗贼，生性活泼的她非常不安分。一次跟你的狩猎活动中，耐不住寂寞的妹妹离开你单独行动竟然失踪了！为了寻找妹妹的线索，你开始了你的新旅途。  更新日志：v0.84该更新与修复加载保存时的错误有关。v0.83游戏引擎已经升级到新版本的Ren’Py引擎，版本7.7.1。这将使游戏更加稳定和可玩。修正了与熟食互动时出现的错误。修正了在查看请愿书、你姐姐的肖像或书面笔记时出现的错误。修正了使用遗忘药剂时出现的与"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/758333","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

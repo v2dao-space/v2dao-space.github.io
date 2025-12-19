@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【生肉】【剧场版动画】名侦探柯南：百万美元的五菱星【百度网盘】"}],["$","p",null,{"children":"中文名名侦探柯南 100万美元的五棱星外文名名探偵コナン 100万ドルの五稜星动画类型恋爱喜剧、动作、推理 [13]原作者青山刚昌地    区日本导    演永冈智佳总编剧大仓崇裕角色设计须藤昌朋发行公司东宝制片人近藤秀峰、汐口武史、冈田悠平音    乐菅野祐悟动画制作TMS Entertainment（片尾字幕署名“TMS/第一工作室”） 剧情简介：位于北海道函馆的斧江财阀的收藏库收到了来自怪盗基德的预告函。据说这次基德盯上的是幕末的新选组副长土方岁三的日本刀。追寻大宝石的基德，为什么要以刀为"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/540090ccdfce04d531711d0b113fdf1f","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

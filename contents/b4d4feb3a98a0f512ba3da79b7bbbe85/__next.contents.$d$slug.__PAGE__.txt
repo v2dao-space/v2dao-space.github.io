@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC/安卓RPG游戏] [RPG/PC+安卓/AI汉化] 学園特警部-SIGNIT- ～催眠・寝取られ・つがいじめRPG～ ～催眠·寝取られ·双人欺凌RPG～ Ver01.6"}],["$","p",null,{"children":"纯爱有·NTR有·双人欺凌有学园战斗物语■故事这是关于未来的凶恶改造犯罪团体“GanDed”与对策团队“SIGNAL”之间的战斗故事“SIGNAL”的天才博士白根里卡每天都在为犯罪对策而苦恼着。在这个时候，她得知了在相邻县的学园成立自警活动社团的高中生们的消息，为了指导他们并进行人才培养，同时寻找可疑人物，里卡决定转学过去。■H内容催○·洗脑·人体改造·寝取られ·双人欺凌·Gay描写·M男描写·卖淫·肉便器·堕落·轮○·机械○·公开凌○·肚腹膨胀■全员处女可通关无需多次游玩！NTR路线可同时进行"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/b4d4feb3a98a0f512ba3da79b7bbbe85","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

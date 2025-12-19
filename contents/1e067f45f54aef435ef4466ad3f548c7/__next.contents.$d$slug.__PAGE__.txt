@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[galgame][ADV][PC] 痴迷的病娇后宫 AI汉化版+全CG存档+特典"}],["$","p",null,{"children":"▼故事配备“令人上瘾的射精计数器”，带领 yanderes 达到最佳射精！我要你舒适地射精 - 配备了一个充满这些女英雄健康思想的系统！ 使用倒计时显示，计数可以设置为 1~5 级！您可以立即看到距离射精场景还剩下多少次点击，当它显示在屏幕上时，它是一条直线到终点！“用精液让我受孕，为我服务！”“在我的子宫里感觉很好也没关系！”“别憋，在我的阴道里达到♪极致”一个极好的东西，让你享受被病娇美少女积极服务并被射精控制的感觉！在感受只有被引导才能体验到的深情的同时，尽可能多地把厚厚的东西拿出来吧！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1e067f45f54aef435ef4466ad3f548c7","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/生肉/全回想】[PC+安卓joi]诅咒之月～凌辱恐怖探索游戏～/祟りの月 ～凌辱ホラー探索ゲーム～"}],["$","p",null,{"children":"所发布资源不得用于商业盈利，否则产生的一切后果将由您自己承担！制作介绍  社团名つっきーのお茶会 贩卖日2023年12月16日 0点作者水名月こう剧情いづみ上総插画水名月こう年龄指定18禁作品类型角色扮演 有声音 有音乐文件形式软件支持的语言日文分类女主人公 萝莉 恐怖 蕾丝/女同 触手 兽奸 扶她 凌虐文件容量511.58MB配置要求体験版での動作確認をよろしくお願い致しますDL链接:点击这里游戏介绍■剧情■——献给需要帮助的女孩雪音，赐予孩子们祝福的仁慈之神在她居住的神社里，传来了一名女孩寻"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/731453","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

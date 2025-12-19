@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"最终幻想7：重制版丨角色扮演游戏丨官方中文"}],["$","p",null,{"children":"游戏介绍 在米德加这个拥有八座魔晄炉的阶层都市，藉由魔晄掌握世界的巨大企业神罗公司与为了保护星球挺身而出的反神罗组织雪崩爆发激烈冲突。前神罗战士克劳德，以佣兵的身份参加雪崩的一号魔晄炉引爆作战。魔晄炉爆炸的巨响响彻第八区。陷入火海的城镇中，\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/MopHO56eTzDK","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

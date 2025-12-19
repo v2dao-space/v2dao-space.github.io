@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无码】Karin’s Instruction"}],["$","p",null,{"children":"驾驶战车，轰掉一切，和教练卡琳进行亲密互动。 角色  姓名：卡琳·罗伦茨 年龄：24 看起来有点高冷，但内心有着温柔的一面，由于职业关系常常给人难以亲近的感觉，可是内心也渴望能有人能依靠。 玩法介绍  驾驶你的战车在笔直的道路上，前方有许多车辆挡在你面前，运用你高超的驾驶技巧绕过他们，或者，将战车的"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/no7BqY3sDF6A","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

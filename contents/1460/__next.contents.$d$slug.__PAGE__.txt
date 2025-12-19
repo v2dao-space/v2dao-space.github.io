@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[国产SLG/中文/动态]母上攻略 V6.0 官方中文版[8月更新][安卓][2.4G]"}],["$","p",null,{"children":"\n\n\n\n母上攻略 V6.0 官方中文版[安卓]+小说\n\n\n\n谈起不是小十七相信大家已经比较熟悉了。好涩小姨，X启蒙，金鳞等等多部非常良心的国产大作都是出自这位大佬之手~这位大佬的国产游戏最大的特点就是良心，绝对没有什么强制加群或者阉割剧情！（有些国产游戏更厉害，会设置剧情陷阱，不充值，女主就会强制NTR之类的）而且大佬制作质量一直以来是有口皆碑，大家都非常认可，你们看我的预览就知道，属于国产游戏界"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1460","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

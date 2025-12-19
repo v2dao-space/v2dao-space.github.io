@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【2D动画/CG/无码】神奈弥莎(krosa)合集【5.25G】"}],["$","p",null,{"children":"https://krosa1028.fanbox.cc/不包含动图和psd，有动画的我就懒得弄CG了。作者主业是画CG，画风不错，表情非常色。唯一可惜的是动画大部分都没有声音。另外作者的赞助有两个挡位，贵的那一档也就只是多了psd和作画过程。本来是想CG和动画分开上传，但反应过来时就一起压缩了，也懒得再压了。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/759946","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

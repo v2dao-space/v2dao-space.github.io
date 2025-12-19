@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无修/动态】Secret Psychology"}],["$","p",null,{"children":"剧情简介主修心理学，即将毕业的大四学生黑井真琴受到他的亲近朋友和后辈川村冴子的建议，学习[催眠心理学]。就在黑井经营的临床心理中心濒临破产时，他开始在患者身上使用[催眠心理学]…通过使用催眠心理学，可以进入客户的深层心理，控制他们的内心，并找到他们创伤的根源。在解决了他们的问题后，这些女性开始向黑井展现他们被压抑的欲望…移动：方向键动作：空格键重置：R催眠心理学的目标并不是简单地腐化她们，而是利用催眠来找出女性的痛苦，帮助她们克服！享受她们克服痛苦、重新站起来的故事。全语音H场景，只包含纯插入场"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/db04c50ed2f116e29cdc32280745be26","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

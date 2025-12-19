@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/机翻] Holy Hand Device 搾精仕掛けの機械人形  [5.59G/百度]"}],["$","p",null,{"children":"这新游戏是pv介绍，感觉世界观还做挺大的，还没玩多久不是很清楚可以去官网看看，不确定是不是该归到ADV类贩卖日2024年09月14日 0点插画GREENWAY CREATIVE DIVISION声优晴伊あらや / 木春ひよ / 和泉京香 / 夏埜みつき / 来見空 / 花藤米 / 伊都街秋寧 / 麻川由衣 / 縹色 / 双葉つむぎ / 髙華翼 / 亜純空 / 朔夜なつ / 海波きらら年龄指定R18作品类型冒险有声音有音乐有动画文件形式软件社团名GREENWAY入正：https://www.dls"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/64c851a8","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

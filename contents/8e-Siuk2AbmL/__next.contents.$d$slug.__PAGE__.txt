@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中】Night of The Black Goat"}],["$","p",null,{"children":"\n◼︎ 概要 ◼︎\n平凡的你某天突然被带到了梦境世界中。\n在眼前展开的，是神与神话生物乱舞，强者可以为所欲为的残酷克苏鲁神话世界。\n你在这里遇到了女主角「莎妮丝」，并要和她一起生活下去。\n回到现实世界、和莎妮丝一起获得幸福、快乐抑或是真相……\n——你会选择抵达怎麽样的结局呢？\n◼︎ 游戏内容 ◼︎\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/8e-Siuk2AbmL","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

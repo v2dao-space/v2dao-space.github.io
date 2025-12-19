@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/官中无修】GIRLDIVERS Ver 0.6.9"}],["$","p",null,{"children":"开发商：#Sweet Cakes Games名称：女潜水员原名：GIRLDIVERS版本：demo发行日期：2024 年 8 月 30 日       一支新的女性力量将在你的指挥下，从巨大而神秘的威胁中解放银河系。加入 女潜水员，成为人类对抗威胁将银河系陷入暴政的外星敌人的最后防线。解放银河系探索一个精心制作的战役，充满随机生成的挑战。在发展与小队中性感女孩的关系时，解开一个丰富的故事情节。战斗到人类从未见过的外星侵略者的占领要塞。我们独特的进展系统让你面对不断增加的难度，同时你将遇到越来越大"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/9b70dd30057972695b7b314718f7f658","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

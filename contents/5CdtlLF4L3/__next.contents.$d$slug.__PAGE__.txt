@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】理想のひきこもり生活 ～父娘イチャイチャ同棲～  V 1.0.0 体験版（RJ01452526）"}],["$","p",null,{"children":"v1.0.0 更新公告 通知 文件夹名称已更改为「RisoHiki」。  🆕 新增内容   新增语言：支持中文（繁体与简体），可在语言设置中切换（仅可在标题画面更改）。   新增物品：安眠药 仅在自宅及周边区域可赠与。赠送后，对方会立即回床睡觉。若在此期间进行睡眠性交，觉醒度不会上升。   拾取系"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/5CdtlLF4L3","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"战乱的星系"}],["$","p",null,{"children":"在遥远的银河的另一端，有一个堪与太阳系相比的美丽富饶的星系——布里斯托尔。在这里也曾有过灿烂辉煌的文明，但腐朽堕落的统治使它迅速没落了，终于成了先进强大的太阳系的一个最重要的殖民地。自从这以后，这里再没有过一天的安宁，叛乱和暗杀成了这个星系的主题，连绵的战火在各个星球上燃烧。近一百年来这里诞生了无数的乱世枭雄，他们的野心带来了无尽的杀戮和无边的苦难……"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/gEeu487KZQ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

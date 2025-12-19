@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【同人音声/简中】【RJ01308361】JK精灵的异世界孕活～性夜的圣诞节特别篇～精灵的"}],["$","p",null,{"children":"【同人音声/简中】【RJ01308361】JK精灵的异世界孕活～性夜的圣诞节特别篇\n社团名青春×フェティシズム \n已关注33,023\n支援社团也可以使用DL点数进行支援\n贩卖日2024年12月24日 0点更新信息2024年12月25日 \n更新信息\n系列名JKエルフの異世界妊活\n作者遊助Ｄ\n剧情雛鳥め"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/BbtlqVPvKJYA","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

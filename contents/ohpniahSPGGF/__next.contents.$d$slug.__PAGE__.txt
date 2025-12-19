@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[日系RPG/汉化] NTR战士：美奈 PC+安卓精翻汉化完结版 +全CG "}],["$","p",null,{"children":"由狐狸汉化组给大家带来一款绿油油的日式RPG汉化游戏：NTR战士：美奈 精翻汉化完结版【PC+安卓】（目录可看全CG）（NTRヒロイン クリスタルミナ）这是一款由[OreNo小屋]社团制作的一款日式RPG游戏。现在已经由狐狸汉化组制作了精翻汉化版本，文本质量非常给力！而且是PC+安卓双版本，目录可看全CG~方便大家玩耍~游戏汉化不易，请大家多多支持狐狸汉化组！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ohpniahSPGGF","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

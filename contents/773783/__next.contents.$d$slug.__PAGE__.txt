@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/ADV】姦染 ～淫欲の連鎖～"}],["$","p",null,{"children":"前言我们是他们的奴隶—–走错片场了姦染这个系列是我一直很想补的系列之一姦染是个大IP，不仅体现在游戏上（出了8部），里番也出了13集（整整1个季度）从剧情上看，姦染主打末世危机生存，并且每部之间都有关联性同时姦染不单单是纯拔作系列，里面的末世场景也是挺可怕的（H有风险）这个系列最经常的是末世中每部男主与其他人（其他男和女性），一边寻求逃生可能，一边克服欲望PS：取名上来看 姦染（kan sen）=感染，有异曲同工之妙也有人称本系列为H版的生化危机，个人感觉姦染世界观的感染比生化危机的恐怖多了姦染"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/773783","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

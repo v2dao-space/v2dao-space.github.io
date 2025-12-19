@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【生肉/RPG】魔法少女マジカルハート【百度网盘】"}],["$","p",null,{"children":"排行榜：24小時內第2名7日內第8名30日內第24名                            總販賣數：7,130      評價：4.5 (2,333)收藏數：9,141鑒賞數：22 (鑒賞)社團名かわいそうなのは抜ける 關注3,040 支援社團也可以使用DL點數進行支援販賣日2022年11月03日更新資訊2022年12月17日 更新資訊作者ヌケル年齡指定18禁作品形式角色扮演有音樂檔案形式應用程式其他有獵奇描寫對應語言日文分類女主角 戰鬥H 酪梨 露出 羞恥/恥辱 很過分 糞尿"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/764641","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

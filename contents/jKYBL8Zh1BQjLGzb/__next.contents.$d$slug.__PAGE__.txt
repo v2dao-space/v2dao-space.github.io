@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【2D动画/有码】移住を決心するまで終わらない勧誘【DAGASI】【2V/177MB】"}],["$","p",null,{"children":"https://dagasi.fanbox.cc/本质上我对福瑞不怎么感兴趣，但部分角色挺戳我的，就像这只埃及猫。可惜这一部男方也是福瑞，只能含泪删掉。不过下都下了，还是发出来给有需要的兄弟。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/jKYBL8Zh1BQjLGzb","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【PC/安卓/SLG】恶魔调酒师 官方中文语音版+SLG游戏+3.0G"}],["$","p",null,{"children":"恶魔调酒师 官方中文语音版+PC+安卓+SLG游戏+3.0G 游戏介绍： 是一款充满故事性的调酒师模拟游戏。 在这个设定在中世纪奇幻魔法世界中， 您将扮演酒吧的老板和调酒师， 与一群个性鲜明的魔物娘员工们一起，为了酒吧的繁荣而努力。 &nb\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/MfjjzQM4i65f","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【MMD】【Mr. No Face】6月28日新作 遐蝶 Castorice – Ahegao Sex【度盘/1.8G/4V】"}],["$","p",null,{"children":"包含4个差分，有衣和全裸，有音效和无音效。 4K版本一部总共加起来十几二十G，太几把大了就传个1080P的算了，4K还是等别的佬做的合集吧 作者红P：https://www.patreon.com/c/nofaced1/posts 后缀改为zip即可，用新版bandzip或7zip解压，不行就换新版"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/nVHikpTeefn6b4x7","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

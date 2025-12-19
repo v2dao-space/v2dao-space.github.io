@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/生肉】[PC+安卓joi]魔王的诅咒与勇者的女儿/魔王の呪いと勇者の娘"}],["$","p",null,{"children":"所发布资源不得用于商业盈利，否则产生的一切后果将由您自己承担！制作介绍  社团名ごゆるりと 贩卖日2023年12月15日 0点作者ごゆるり插画ごゆるり年龄指定18禁作品类型角色扮演 有音乐文件形式软件支持的语言日文分类无逆转 萝莉 人外娘/魔物娘 魅魔/淫魔 色诱 逆NTR 逆强奸/女上男 男性受文件容量352.4MBDL链接:点击这里游戏介绍■剧情■你，英雄的后裔和熟练的剑士，接到了王国的委托，踏上讨伐魔王的旅程。“你”走了，把你的爱人“玛雅”留在了家乡。经过长途跋涉和激战，你终于制服了魔王，"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/731241","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

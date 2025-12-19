@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】[PC+安卓joi]星月明日奈与淫欲的地下街/星月明日奈と淫欲の地下街"}],["$","p",null,{"children":"所发布资源不得用于商业盈利，否则产生的一切后果将由您自己承担！7/28 AI汉化汉化为内嵌翻译，启动即汉化 joi模拟器可玩AI汉化文件:已经下载了日语原版的直接拿文件吧建议 自行替换文件dataAI汉化:没下过的推荐直接下载这个 已替换好了 直接玩即可制作介绍（#F143）  社团名満天工房 贩卖日2024年07月26日 0点剧情満天工房 / 骨せんべい插画はなうな / フッィュー / 不随年龄指定18禁作品类型角色扮演有声音有音乐文件形式软件支持的语言日文分类女主人公 换装 RPG制作大师 "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/0ad2fafb66b901f0b37006c6795e7296","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

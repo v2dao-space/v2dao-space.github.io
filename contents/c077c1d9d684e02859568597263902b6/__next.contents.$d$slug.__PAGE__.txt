@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[拔作AVG/PC] 姐妹妻3~终结妻~ (姐妹妻3~终结妻~)"}],["$","p",null,{"children":"游戏介绍: 主角在探险家父亲和航海家母亲的教育下长大，因此体验过各种奇怪的生活，所以现在只想当一个安静的美术大学生。父母失踪后，他没有太过悲观，过着一如既往的生活。某天，主角在美术馆看到一副令他心旷神怡的日本画。“这不就是，我一直所追求的吗！”想都没有细想，主角直接联系了画家，提出想要入门当弟子，画家很快就同意了。带着满心欢喜前往未知的小镇，在那里他遇见了自己的命运对象——画家的老婆，大原葵。尽管在之后得知画家根本无意收他为徒，只是把他当作家里的劳动力，不过已被画家老婆迷得神魂颠倒的他，早已没了"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/c077c1d9d684e02859568597263902b6","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

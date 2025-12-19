@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【生/ACT】SwordsGirl Harumi"}],["$","p",null,{"children":"SwordsGirl Harumi – Adult Only  Action RPG Game !!全部评测:无用户评测发行日期:2023 年 12 月 5 日开发商:JY ACTION发行商:ERO ACTION该产品的热门用户自定义标签：动作2D 平台2D角色扮演女性主角+   0:35 / 1:54   自动播放视频  玩法展示 | demo play       此游戏标记为“仅限成人”。您看到此游戏是因为您已将偏好设置为允许此类内容。单人Steam 正在了解该游戏  语言: 界面完全音"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/729668","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【轻小说/汉化/机翻】【三河ごーすと】朋友的妹妹只喜欢烦我/朋友的妹妹只缠着我/友達の妹が俺にだけウザい 小说11卷epub【度盘/64MB】"}],["$","p",null,{"children":"ps:第11卷为机翻 简介 无须结伙，不要女友，朋友唯独真正有价值的一人。我•大星明照割舍了「没效率」的青春，然而有个人却老是窝在我房间。那家伙并非我妹，更不是朋友，而是极其烦人的学妹──朋友的妹妹•小日向彩羽。 「学长，来约会吧──！……你以为我会这么说吗？」 仿佛血管里流着能量补给饮料的这家伙老"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/qing-xiao-shuo-han-hua-ji-fan-san-he-go-suto-peng-you-de-mei-mei-zhi-xi-huan-fan-K_YG","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

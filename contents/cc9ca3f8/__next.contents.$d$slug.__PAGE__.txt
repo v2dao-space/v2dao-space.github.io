@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/生肉】負けちゃうNTR育成ゲーム「キャットファイトスラム」（RJ01222197）"}],["$","p",null,{"children":"社团名こうねつひ 贩卖日2024年08月23日作者こうねつひ剧情こうねつひ声优篠守ゆきこ / いぬです年龄指定R18作品类型模拟有声音有音乐有动画文件形式软件支持的语言日文分类动画 3D作品 被NTR 羞辱 メス堕ち 乳头刺激 猫耳文件容量964.45MB        3D动画！NTR养成游戏《败北NTR养成游戏：猫斗士斯拉姆》[Kounetsuhi]■剧情概要“我会很快打败那些家伙，然后马上回来，别担心。”擅长打架的猫娘米娅（CV:篠守ゆきこ），独自一人面对控制贫民区的黑帮，留下恋人奋力战斗"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/cc9ca3f8","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

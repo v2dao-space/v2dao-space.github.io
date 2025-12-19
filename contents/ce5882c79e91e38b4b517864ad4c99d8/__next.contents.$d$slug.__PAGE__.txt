@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/动态/个人汉化】[液魂研究会]公園おじさんのいちご狩り 公园叔叔的草莓狩猎【1.98GB/度盘】"}],["$","p",null,{"children":"dl：https://www.dlsite.com/maniax/work/=/product_id/RJ297696.html    非常感谢碎毛团子大佬提供的工具嘛，其实我连五十音都认不全，纯粹是靠谷歌和百度翻译、B站教程、玩黄油的经验、银梦BB剧场来翻译的，所以可能有股机翻味（学点五十音还是好的、自给自足不求人）除了几个找不到文本的事件和回想里的名字以外，大部分内容都已经汉化了，毕竟游戏代码不是我写的，我只是替换了文本拆包游戏后发现作者一开始是想做传统打怪看CG的RPG游戏,后面就摆烂直接"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ce5882c79e91e38b4b517864ad4c99d8","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】ランの他力本願冒険道～TSした俺は最弱女騎士、パーティーの性処理係～【1G/百度】"}],["$","p",null,{"children":"  \n作为帅哥的冒险者，我是TUEEEE的冒险者兰。但是有一天，在攻占迷宫的时候，被什么人的手受到了变性魔法。恢复意识的时候，兰成为了美丽但最弱的女冒险者…！为了回到原来的身体，兰追着对自己施了魔法的人旅行。但是失去力量的她不能一个人战斗。正是这种时候，伙伴们才应该值得信赖……伙伴们都是如果兰不做色"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/5umHPXpjnUXl","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

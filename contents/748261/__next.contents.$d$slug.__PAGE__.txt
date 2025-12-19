@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【ACT/官中/FT少女】女装探偵葉語嫣2"}],["$","p",null,{"children":"不得了，真的不得了，这游戏居然真的出了2。这个作者的售价一直都挺良心的，有能力建议也去支持下作者，目前还在促销： DL链接  PS：我不知道男娘的⚪头需不需要码，不过保险起见还是码上好了叶孤城，一个面容英俊的侦探，其实是破性犯罪案件的专家！欢迎来到《变装侦探叶无辰》！在这款动作渗透游戏中，你扮演主角叶无辰。她是一名擅长变装的侦探，利用自己的独特技能潜入犯罪窝点，营救失踪女孩，并继续寻找失踪的妹妹。游戏中有不同类型的任务，例如调查任务、营救任务、暗杀任务、追踪任务等。每一个任务都会考验你的智慧和勇"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/748261","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

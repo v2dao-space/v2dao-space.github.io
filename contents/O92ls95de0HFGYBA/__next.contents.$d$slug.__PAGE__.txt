@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【日式ADV/安卓模拟/PC】七天：与陌生JK的秘密生活 DL机翻版【新作/1G】"}],["$","p",null,{"children":"给大家整来一款绘画的相当猛的日式ADV游戏 七天：与陌生JK的秘密生活 DL机翻版 （セヴンデイズ 見知らぬJKと密室生活） 这是一款由[ぽめ屋]开发者在24号发布DL平台 现在被不知名大佬机翻汉化 首先涩涩的部分质量都是黑白色而且画风很色\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/O92ls95de0HFGYBA","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

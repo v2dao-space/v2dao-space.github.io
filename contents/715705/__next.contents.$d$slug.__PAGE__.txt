@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/官中】LUNA FIGHTER Ver23.08.18"}],["$","p",null,{"children":"社团名EROPIXEL 关注82   贩卖日2023年08月16日更新信息2023年08月18日 更新信息年龄指定18禁作品类型动作有音乐文件形式软件支持的语言日文分类女主人公 像素 格斗 淫乱文件容量142.04MBストーリー探査船「スタークエスト」のエンジンの音が宇宙の無限の空間を貫いて前進していった。ルナと彼女のクルーは、異星の生命体を見つけ、天文学的な発見を期待しながらミッションを遂行していた。しかし、彼らが到着した惑星は、彼らの期待とは異なり、脅威に満ちた雰囲気に満ちていました。不規則"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/715705","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

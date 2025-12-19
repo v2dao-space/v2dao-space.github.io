@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"官场情人"}],["$","p",null,{"children":"美丽性感的女同事孟茹的出现，让生活日渐平庸的某市宣传部科长高明重新燃起了爱的火焰：但甜蜜过后是苦涩：高明偶然得知，自己竟然和副市长丁伟民成了情敌；而不久后荣登市长宝座的丁伟民更借助手中的权力处处排挤高明，甚至唆使人绑架高明的儿子。高明为了自保，也为了自己的政治前途，在不断上访遭拒后，最终借助一次事故将丁伟民送进监狱，但更多的麻烦也接踵而至，他面临更加艰难的选择……\n高明没有想到，孟茹天使一样的容颜下面居然会提成藏着这么多的肮脏与罪恶。听着孟茹平静的诉说，高明的心一次又一次地被震撼了，他知道自己不该把这一切图景勾勒得太过于美丽，而今当所有的一切都浓墨重彩地向他扑来的时候，他感觉难以应对，就好像是小心翼翼地搭积木，眼看着一层层就要搭到了顶点，却顷刻之间訇然倒塌。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/zlzCoolle1","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

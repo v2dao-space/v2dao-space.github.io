@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中/无修】Angry Boy v1.0.1【百度/400M】"}],["$","p",null,{"children":"你也可以翻译为红温男孩（） 开发商：#Momentum Games名称：愤怒男孩原名：Angry Boy (故事)在自卫任务中突然被召唤到这个世界的主人公因为某种事件而成为了一名名义上的战士。他能打败所有的恶魔，回到他原来的世界吗? [如何玩游戏]1. 攻击靠近战士的怪物，阻止它。2. 击败怪物以减"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/nIjSdZzwZDeUSsEx","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

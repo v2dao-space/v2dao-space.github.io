@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/汉化] 淑女广场 熟女广场Milf's Plaza V14C 官方中文版+DLC [STEAM官方中文+DLC+更新]"}],["$","p",null,{"children":"淑女的广场（MILF's Plaza）、熟女满屋？浪子回头！剧情故事的主人翁是一名来自大城市、无忧无虑的冒险家。唐纳德是一个充满野心、渴求刺激的普通人，他因此惹上了当地的犯罪团伙。他想通过出老千赚快钱，却被当场抓获——这让他的处境岌岌可危。他赚来了一笔无法偿还的债务。他必须在很短的时间内还清债务，而且无处可逃。前一天，主人公的哥哥（一名国家安全局特工）请唐纳德在他出差期间照顾好他的妻子。唐纳德羞于坦白自己的问题，更难以担起兄长的信任。但他却同意了，这使得局势更加复杂。绝望和恐惧突然被欲望和激情所取代。玛丽，他哥哥的妻子，竟成为主人公挥之不去的阴影中唯一的一线曙光。他爱上了她，接着又爱上了室友克里斯蒂，而后者则改变了他对生活的看法。主人公在成长道路上还会遇见其他女性角色，她们都会推动剧情的发展以及塑造唐纳德的世界观。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/a30b0f35bcb19d89963ba0a57d94dfee","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

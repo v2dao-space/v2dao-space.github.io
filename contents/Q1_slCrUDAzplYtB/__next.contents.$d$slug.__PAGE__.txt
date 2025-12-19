@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"福利姬APP Waifu App 90 Days to Escape a Lonely Fate v1.00"}],["$","p",null,{"children":"游戏名称：游戏简介：日和一直过着宁静而孤独的生活。她早已习惯了日复一日的生活，但却并不表示她喜欢这样的日子。没有朋友可以煲电话粥，甚至想不起来上次和人愉快交谈还是多久前的事情……但是某天，她决定这一切到此为止。她决定改变这一切！虽然不知道到底该做些什么，但总之她已经产生了希望能有所改变的想法……实际"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Q1_slCrUDAzplYtB","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG/PC] 世界之卵～梦幻的白百合～ The World's Egg - For Those Who Dream v1.01"}],["$","p",null,{"children":"游戏简介：茉莉和琴音过着高中生平凡又平和的每一天。当镇上的人接连在她们眼前崩坏、转换成可怕的怪物时，茉莉发现自己丝毫没有受到这种未知现象的影响，而是被来自虚空的声音指引着，成为了莉莉姆——有能力直面怪物将其击溃的女武神。拯救小镇并没有想得那么简单：通往另一个世界的大门已开，瘴气顺着世界间的裂缝不断涌入，让她熟悉又深爱的家园变成了人间地狱……只有冒险进入未知的世界，探索自己能力的极限，茉莉才有机会阻止威胁，保护她珍视的一切。然而茉莉心中还有很多未解的疑惑，隐藏在瘴气和怪物背后的真相是什么？两个世界"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/e3c47e0ec41c9a03048198f0726ece40","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

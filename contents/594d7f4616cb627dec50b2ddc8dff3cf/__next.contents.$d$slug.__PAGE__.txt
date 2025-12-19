@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/汉化/动态CG】 魔王与猪堡【开大车RPG/2D】【新汉化/PC+安卓/1.3G】"}],["$","p",null,{"children":"这是【鬼貴族】社发布的一款大车类型的日式RPG冒险游戏。现在由BKYSS分享了汉化版本，并且是PC+安卓双端版本。这是一款大车类型RPG，游戏里多个角色都非常禸感，还有异种。多结局，剧情丰富多彩，男主变异等级会根据您的选择和行动变化。附送礼包码【全CG回想+作弊器】~在包裹内选择作弊器使用~"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/594d7f4616cb627dec50b2ddc8dff3cf","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

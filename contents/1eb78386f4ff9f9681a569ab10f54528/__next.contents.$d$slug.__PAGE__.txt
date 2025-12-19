@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】 【RPG】[お髭の獅子舞] RJ290254+RJ281895 [谷歌]"}],["$","p",null,{"children":"买单个CG送RPG启动器作品链接https://www.dlsite.com/maniax/work/=/product_id/RJ290254.htmlhttps://www.dlsite.com/maniax/work/=/product_id/RJ281895.html作品内容快楽の檻 ～淫魔姉妹調教～淫魔の姉妹による勇者の快楽調教!　心まで堕ちないように頑張るんだ!～あらすじ～ある淫魔の姉妹が次々と冒険者を返り討ちにして猛威を振るっていた。これを討伐するために、名うての勇者が名乗りを上げ"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1eb78386f4ff9f9681a569ab10f54528","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

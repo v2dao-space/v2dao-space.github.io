@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中/步兵】淫眠App~用春梦让妳成为老子的女人!~/淫眠アプリ~淫夢で俺の女になれ!~【度盘/509MB】"}],["$","p",null,{"children":"淫眠App~用春梦让妳成为老子的女人!~   入正链接: https://store.steampowered.com/app/3748230/App/ 作品信息:     社团名 見影                 剧情 gamifa   插画 全紅白子/クルー   年龄指定  R18    作"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1GQq7SO932","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

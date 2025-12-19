@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/PC】与经纪人恋爱是绝对禁止2 STEAM官方中文步冰正式修正版"}],["$","p",null,{"children":"分享一款非常高质量的中文养成互动SLG新作正式版：【新作】正式版来了！为大家送上3月14日最新的存档修正完美正式版。双女主双线均解锁通关，存档位置修正，所有CG事件全部解锁完毕！2代可比1代画风强太多了，而且还是双女主双线选择，全国语CV~内容包括：游戏本体 全CG存档，已整合。游戏概述：这是【樹懶叫工作室】在23年3月12日发布的一款养成互动SLG游戏。游戏是官方中文 全程国语CV语音，还是步冰不骑马，附带全CG存档。讲述玩家作为偶像经纪人选择和帮助自己的偶像少女逐渐成长的故事。双女主可选择双"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ea13557cdb9f73678e5a7b8635a66044","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

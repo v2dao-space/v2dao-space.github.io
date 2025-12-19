@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【PC游戏】[汉化硬盘版]爆乳妈妈的淫乱寄宿生活-常識改変！Hypno Mama v1.2.4"}],["$","p",null,{"children":"篡改常识，NTR了朋友的妈妈！通过篡改霸凌别人的人和他的母亲爱华，以及周围其他人的常识，植入「造人寄宿家庭」这一常识。把霸凌别人的送到自己孤独的家，自己则寄宿在爱华身边。只要是为了造人，什么都会答应你。跟爱华撒娇，进行色情play，让为人妻，为人母的爱华成为受虐怀孕玩物，NTR她！务必享受保持一个温柔妈妈的本性，照顾你的鸡鸡，回应你的欲望，不断沉迷于你的场景吧！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/cadecf1ffd1a6076bc87882e7a1e39f8","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

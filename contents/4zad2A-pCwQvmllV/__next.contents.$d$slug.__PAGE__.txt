@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【MMD】O-DIO  合集（至2025/3/2）（異種）【56v/度盘/20G】"}],["$","p",null,{"children":"内容異種慎下！ 这个作者老熟人了应该知道的人不少，作品很多但是质量层次不齐 之后要不要塞点其他作者的作品（不是专门做异种但有几个作品是） 如果有人发现漏的资源可以私信我，感谢         作者：Fantia 大伙的私信我也有在看，空闲的时候会回 有问题的话评论区。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4zad2A-pCwQvmllV","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

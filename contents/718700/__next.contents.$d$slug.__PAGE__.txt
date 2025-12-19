@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/生肉/NTR】戦甲机ソルガンテ Ver1.02"}],["$","p",null,{"children":"贩卖日2023年09月22日 0点剧情gre插画gre声优篠守ゆきこ / 涼貴涼音乐Shade社团GapTax作品类型角色扮演有声音有音乐文件形式软件支持的语言日文分类着衣/穿衣 男主人公 已婚者 被寝取/NTR 沉迷快乐 羞耻/耻辱 强制/硬上 巨乳/爆乳文件容量1000.9MB隶属于入侵部队并以机器人飞行员身份活跃的威尔中尉遭到了某人的陷害，并被指控犯有叛国罪。他的妻子埃莉诺也是一名士兵，她拼命寻找自己清白的证据，但当她暴露自己的弱点时，多个男人对她进行猥亵…… 序幕结束后，决定你想从这三个"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/718700","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

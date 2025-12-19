@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】【NTR×TS】リバース・ハーツ アーリーアクセス【2.31G/度盘】"}],["$","p",null,{"children":"  \n◆TS × NTR！\n你一直以来顺利地过着生活，突然有一天，一个女孩向你求婚！\n刚刚向她求婚的女友，家人，同事，朋友…都似乎认为你从前一直是个女孩…！？\n而且大家似乎比以往更加宽容于一些有点儿色情的事情…？\n你是尽快找到恢复男性身份的方法，以免让其他男人夺走女友？\n还是要接受一切，过着女孩的生"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/-Jx7M48Ohlo8","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

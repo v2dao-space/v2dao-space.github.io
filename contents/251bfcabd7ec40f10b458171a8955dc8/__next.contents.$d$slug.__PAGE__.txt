@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/GAL】神樹の館"}],["$","p",null,{"children":"前言本游戏是一部极具有文艺色彩的馆系作品，在一系列馆系作品中也别具一格中世纪风格的建筑+日本民俗&和风传奇&怪奇恐怖元素均在本作品中体现现实&虚幻&梦境，有种庄周梦蝶的感觉，此外本作品的te也带有无限遐想建议推进路线：紫织–麻子–双子–龙胆PS：神树（しんじゅ）の館＝真珠（しんじゅ）の邸，有谐音这是一部质量很高的作品，建议游玩2024.8.3正打算发布悬赏的，结果有大佬上传了机翻补丁正式更新机翻版本，测试了下，运行无异常  故事简介主人公，工月秋成（くげつ・あきなり）和大学的友人麻子（あさこ）一"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/251bfcabd7ec40f10b458171a8955dc8","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

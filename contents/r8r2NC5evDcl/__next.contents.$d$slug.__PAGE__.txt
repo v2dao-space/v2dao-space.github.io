@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/汉化】隐藏银乱女社长的体验型 H 剧情讲座 AI汉化版+存档"}],["$","p",null,{"children":"【RPG/汉化】隐藏银乱女社长的体验型 H 剧情讲座 AI汉化版+存档 游戏介绍： 虽然受到客户男性的欢迎，但由于其总裁的头衔和无懈可击的形象，至今未有人主动接近。 在一家小型剧本写作公司（员工两人）工作的主人公。 某天，唯一的上司女社长告\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/r8r2NC5evDcl","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

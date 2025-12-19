@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【AI翻译/GAL】にゃんと素敵な夏色デイズ"}],["$","p",null,{"children":"下班回家捡到3只猫，睡一觉起来全变猫娘\n与3只猫娘的后宫生活\n挺萌的一部作品\n  \nStory\n使用整座岛屿建设而成的度假中心——AQUA。笹原夏树是在AQUA从事演出工作的人员。有一天，负责人把他叫到办公室，突然对他说：“我们的室内游区人气低迷，希望你能带领团队复兴！”为了不辜负负责人的信任，夏树"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/yfqC2jU-wHoK","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

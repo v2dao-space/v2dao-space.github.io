@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/机翻】突击护士~穿着精子外套的天使~ アサルトナース ～Angels in a spermcoat～(百度盘/123盘/1.94G)"}],["$","p",null,{"children":"Rulers社团的作品合集，十分冷门的作品，剧情很好冲就是cg量太少且没有回想系统\n\n\n\nアサルトナース ～Angels in a spermcoat～ Karte1\n \n“购买链接“\n\n人々を脅かす“人類の癌”とさえ言われる狂医師の手から世界の平和を守るために戦う看護師――“アサルトナース”\nしか"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/CMmMi_qx5dxi","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

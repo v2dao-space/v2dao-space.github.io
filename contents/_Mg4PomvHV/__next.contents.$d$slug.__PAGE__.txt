@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无修】COWGIRL SEX FARM"}],["$","p",null,{"children":"厌倦了城市的喧嚣，你放下一切，前往你意外继承的乳牛场。但迎接你的不是牛，而是长着角、尾巴，还有一些非常慷慨的……奶源的可爱女孩。🥵 农场破败不堪，但你手头有工具、决心和极高的耐心。卷起袖子，开始挤奶，把这个地方变成一个源源不断的快乐和利润的源泉——💦💰 特色： 🐮 点击器游戏，性感牛仔女孩 "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/_Mg4PomvHV","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

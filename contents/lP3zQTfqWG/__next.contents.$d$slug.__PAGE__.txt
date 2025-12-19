@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"沧澜曲"}],["$","p",null,{"children":"宛若水面激起涟漪，靖雨仇从最深层的睡眠中苏醒过来，四周是一片空无的黑暗，不过这丝毫不影响他的视线。他眼中几乎可以说是冒着妖异的光芒注视着四周。\n血红色的液体充斥在身体周围，腥臭的味道他已经闻得麻木了，抱元守一，吸收药液里的精华来补充自身是他每次出完任务后必做的功课，真气畅通无阻的在体内流转，达到了平日里不易到达的一些角落经脉，可以想见，他的修为又深进了一层。他闭目养神了一会儿，排除脑内的负面情绪，两手一挥，大片水花飞溅中，他跃出血池。\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/lP3zQTfqWG","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

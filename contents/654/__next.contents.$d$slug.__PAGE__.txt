@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG/汉化]奴隶高中v0.363 精翻汉化版[安卓][2.5G]"}],["$","p",null,{"children":"奴隶高中v0.363 精翻汉化版剧情概述：《奴隶高地》讲述了一个年轻人在一个只有女人才能使用魔法的幻想世界中的故事。这个世界是一个严格的母权制，男人被当作二等公民对待。你的角色与他的母亲关系疏远，并且刚刚到达一所新学校。他会为自己创造舒适的生活，还是会陷入绝望？选择权在您手中。\n\n\n\n.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/654","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

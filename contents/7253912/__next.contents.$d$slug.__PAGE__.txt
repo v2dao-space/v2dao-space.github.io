@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【同人音声/简中】【RJ01240376】女神控心《二重(Dual)》～对力之女神施展贞操改变魔法，使其觉醒成为绝对服从的雌性！～【度盘/1.95G】"}],["$","p",null,{"children":"上方试听♪购买链接：简中  社团名大家一起来翻译 关注15,816 贩卖日2024年08月23日作者愛内なの剧情京和みかん插画カノラユ声优分倍河原シホ / 風慈宮ユキ年龄指定R18作品类型音声・ASMR文件形式WAV/ MP3同梱支持的语言中文(简体字)分类双声道立体声/人头麦 ASMR 颓废/背德 内射/中出 肛交 メス堕ち 哦吼淫叫 处女作品内容 『このあたしに、また幸せを♪』おちんぽは幸せの象徴!貞操改変魔法で全てを捧げて堕ちていく♪CV分倍河原シホ様/風慈宮ユキ様        ★本作品"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/7253912","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

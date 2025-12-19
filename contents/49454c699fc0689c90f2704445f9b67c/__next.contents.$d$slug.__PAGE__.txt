@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC/安卓RPG游戏] [日系RPGAIGPT汉化]ヤチヨノキヅナ 八代木津奈1.0 XY版"}],["$","p",null,{"children":"一款由XY汉化组汉化的日系RPG，这是一款探索类恐怖游戏，女孩们在学校里被卷入一起神秘事件，时而解开谜团，时而陷入陷阱或被怪物所困，时而遭到强奸和羞辱。已成功移植安卓，并包含【游戏作弊+全CG屋】PS:安卓端开始游戏黑屏点击手机屏幕右上角"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/49454c699fc0689c90f2704445f9b67c","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

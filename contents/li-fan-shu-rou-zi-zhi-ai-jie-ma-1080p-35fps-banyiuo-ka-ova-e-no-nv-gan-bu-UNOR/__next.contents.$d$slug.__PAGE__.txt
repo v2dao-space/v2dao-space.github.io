@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【里番/熟肉/自制ai解码/1080p/35fps】【ばにぃうぉ～か～】OVA悪の女幹部フルムーンナイトR #1-2【度盘/854MB】"}],["$","p",null,{"children":"这个是有朋友留言想看的悪の女幹部的解码版，今天发这个主要是楼主打算发一个自制翻译，跑长的系列里番时间不够，所以挑了一个比较短的，这个番还是保持了雷火剑一贯的高水准，动作流畅作画精美，但是楼主觉得其最大的问题在于，精美有余特色不足，没有那种惊艳的感觉，剧情与玩法也相对比较平淡，当然这只是相对于t0的里"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/li-fan-shu-rou-zi-zhi-ai-jie-ma-1080p-35fps-banyiuo-ka-ova-e-no-nv-gan-bu-UNOR","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

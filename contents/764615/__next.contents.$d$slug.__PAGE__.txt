@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【生肉/ACT】天才魔法少女が理不尽尊厳破壊されるおはなし【度盘】"}],["$","p",null,{"children":"排行榜：24小時內第3名7日內第12名30日內第62名                            銷售數量：2,192評價：4.54 (405)收藏數：3,883鑒賞數：10 (鑒賞)社團名oresam 關注925 支援社團也可以使用DL點數進行支援販賣日2024年04月19日更新資訊2024年04月30日 更新資訊年齡指定18禁作品形式動作有音樂檔案形式應用程式對應語言日文分類女主角 製作大師 魔法 沉淪快樂 教育 命令/半推半就 暗示 惡墮檔案容量358.82MB    ■理不尽"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/764615","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

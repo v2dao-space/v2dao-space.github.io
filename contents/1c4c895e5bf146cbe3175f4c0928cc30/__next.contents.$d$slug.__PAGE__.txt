@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG/汉化] 魔女蕾哈娜 V1.0 PC+安卓汉化版"}],["$","p",null,{"children":"这是一款搜索游戏，您必须在地图上的某个地方寻找“糖果”，同时注意各种陷阱。如果在规定时间内找不到，就会发生惩罚事件!地图上还有各种陷阱，只要您检查或触摸它们就会触发!但是，其中有些陷阱里可能会有帮助您寻找的物品……?女巫蕾哈娜独自住在森林深处。一个万圣节之夜，一群自称万圣节鬼魂的胖鬼魂来拜访蕾哈娜，向她讨要糖果，但她因为没有准备而无法给他们糖果，鬼魂们就耍了她。鬼魂们捉弄她说:”如果你不给我们糖果，鬼魂们捉弄她说:”如果你不给我们糖果，我们就整晚挠你痒痒。如果你不喜欢，可以和我们玩游戏!”蕾哈娜想逃避挠痒痒，于是决定按照鬼魂的建议玩“找糖果“的游戏。但这只会让蕾哈娜更加羞辱"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1c4c895e5bf146cbe3175f4c0928cc30","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

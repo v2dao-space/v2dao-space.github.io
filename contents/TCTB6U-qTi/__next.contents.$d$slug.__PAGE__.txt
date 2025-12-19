@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"西苑魅影"}],["$","p",null,{"children":"故事发生在现代都市，以西苑这个小区为背景，围绕着清皇宫留下的宝物，展开情节，其中穿插进了都市男女的情欲纠缠，以及在面对各种诱惑与欲望时的种种表现。\n现代都市人，生活在欲望的包围圈中，金钱、权利、感情等等，无时无刻的引诱着每个人，人们在其中沉浮。这本书就在欲望上面下足了工夫，虽然没涉及权力，但是全文中金钱和情欲的欲望是故事发展的驱动力，可以说穿插全文！\n金钱使人臣服，而性爱则可以征服人心！\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/TCTB6U-qTi","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

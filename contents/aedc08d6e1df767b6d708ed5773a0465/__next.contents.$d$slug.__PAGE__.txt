@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"转录少女拯救行动！Transpile Girl Rescue Operation!"}],["$","p",null,{"children":"游戏简介：2030年，在科技发达的现代社会，彷生机器人这项技术越发成熟。主角为了买下被称为\"棺中睡美人\"系列型号的客製化伴侣机器人HINA每天辛勤工作，终于凑够了费用，但是…没有想到居然买到了一个瑕疵品！自己花大钱买下的老婆，居然在七天之后就要停止所有机能的运作…万幸的是，彷生机器人正好是主角的专业所在！为了防止HINA的故障，为了守护珍贵的薪水，在有限的时间内修好她吧！而所有人都意想不到的是，随着这段时间的相处，少女竟产生了不该出现的\"心\"…！入正地址 (https://store.steam"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/aedc08d6e1df767b6d708ed5773a0465","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

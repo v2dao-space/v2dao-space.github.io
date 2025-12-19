@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【MMD/有码】トイレと洗面台と曙（2D/VR/差分）"}],["$","p",null,{"children":"这位作者的风格比较固定 不过还是挺好用的 有脱衣差分  还真没怎么看过2D视角 感觉一般 VR版本就是猛干 累不死的牛要把田给耕坏 舰C的好几个作品都是只透曙 然后涟和潮就在边上按着 这何尝不是一种纯爱（独处的时候别人也透）  作者主页：captein68の避難所 (captein68)｜ファンティア[Fantia]这两周很忙 更新都是抽空（周末在影之地门口了临时被喊回去加班 悲）下一篇可能就是月底的惯例合集了 应该也是再给度盘最后一次机会的时刻"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/a89b940ea6d33c48324bd8ef420f1226","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

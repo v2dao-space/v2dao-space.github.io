@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"梦魇骑士 ~圣洁少女与堕落魔法~ Nightmare Knight ~Sacred Maiden & Fallen Magic~"}],["$","p",null,{"children":"年纪轻轻便成为王都圣骑士的少女，在圣骑士长兼恋人的命令下，来到了遥远的城镇哈克德缇。\n她的任务是调查并解决该镇发生的“异变”。\n在与魔族联盟军长久的战乱中，位于战线相反方向的哈克德缇一直是个和平的城镇，然而，最近犯罪率上升，周边地区魔物肆虐，甚至还出现了神秘的地下城。\n与此同时，王都正艰难抵抗魔族联盟军的猛烈攻击，根本无力派兵前往其他地区。\n于是，作为能够独自解决哈克德缇异变的强者，被选中执行该任务。\n尽管在旁人眼中是冷酷的战斗狂，但她内心真正渴望的，是与深爱的在一起。\n压抑着这隐秘的欲望，她告别了王都，为了城镇的和平踏上了旅程。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/fmLwQPobRkZs","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

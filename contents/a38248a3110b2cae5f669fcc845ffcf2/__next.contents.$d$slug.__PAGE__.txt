@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【MMD/有修正】μ_MMD大佬作品 そに子で乗馬マシン  Riding Machine – sonico（2D/VR/差分）"}],["$","p",null,{"children":"倒叙把这个月的几部补发一下刚好VR版本也都有了 可以一起打包  大致跟上一部乘马差不多 就是换了个人 该姿势更推荐VR食用 差分里有些免费的就没下了  作者patreon主页：https://www.patreon.com/mu_mmd/posts作者fantia主页：μ（ミュー）のMMDファンクラブ (μ)｜ファンティア[Fantia]话说下载来说patreon确实比fantia方便一些 像这种差分的一般会打包在mega盘 也比网页下载更稳定些"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/a38248a3110b2cae5f669fcc845ffcf2","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

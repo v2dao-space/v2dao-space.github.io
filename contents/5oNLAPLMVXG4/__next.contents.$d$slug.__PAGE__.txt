@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/机翻/双端】沙漠潜行者  Desert Stalker v0.17 Beta【百度/5.9G】"}],["$","p",null,{"children":"入正：https://www.patreon.com/desertstalker\n  \n终于又有大佬更新了，最新的0.17版本带给大家，别看版本号很小，但是游戏内容超级丰富，文本量更是达到惊人的150w+！\n开头女儿称谓如果输入daughter而不是默认的stepdaughter，那么游戏内就是亲生"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/5oNLAPLMVXG4","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

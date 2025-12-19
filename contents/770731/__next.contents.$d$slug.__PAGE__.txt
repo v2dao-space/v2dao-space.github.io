@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/ADV】廃村少女（append追加）"}],["$","p",null,{"children":"前言炒冷饭官网：应玩家们的响应，废村少女决定追加IF线那天人们想起了被药师院、笼女榨干的恐惧游戏已打入append追加线补丁（一行人未逃离村子，酒池肉林的故事）注意：运行游戏前一定要看ZIP内的使用说明（要看的考试重点！问题都在里面！）  STORY在小地方城市流传的隐居的传说。为了调查留在自己生活的街道上的古老传说主人公·八云一树和社团活动的少女们踏上了传说中的山。那本应该是随处可见的青春一页的小旅行。“……这是哪里？”注意到的时候，一树他们在一个陌生的地方。建在薄雾中的腐朽房屋。像时间停止了"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/770731","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

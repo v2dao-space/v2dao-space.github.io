@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【SLG/生肉】凛姦小屋"}],["$","p",null,{"children":"一、游戏介绍作者TnDoys年齡指定：18禁作品形式：模擬有聲音檔案形式：應用程式對應語言：不限語言分類：大量液體 剖面圖 點陣圖 玩具 內射/中出 羞辱 拘束 口爆檔案容量：34.74MB  pixpin_2024-06-13_19-36-22.png   pixpin_2024-06-13_19222.png   pixpin_2024-06-14_18-17-40.png  pixpin_2024-06-13_19-25-09.png二、作品內容このゲームについて狭い部屋で拘束された少女に"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/085884cc156e1bb2f410f967ca2dac8d","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

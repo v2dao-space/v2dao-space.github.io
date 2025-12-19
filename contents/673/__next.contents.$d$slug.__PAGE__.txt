@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG/超能汉化/重口味]淫乱女巫 Shag the Hag 完结精翻汉化版[安卓][2.5G]"}],["$","p",null,{"children":"淫乱女巫 精翻汉化完结版\n\n\n\n这是一款怎么说呢？非常有特点的欧美SLG作品。游戏的画风非常奇特，有一些妹子的建模非常漂亮（比如女巫就很惊艳），有一些则很惊悚！整个游戏的风格也是怪诞不经，非常有趣~游戏是完结版，包含了各种成就系统，非常多的H事件和上垒剧情~超能汉化组的翻译质量想必你们不用怀疑，放心大胆的下载吧~\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/673","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

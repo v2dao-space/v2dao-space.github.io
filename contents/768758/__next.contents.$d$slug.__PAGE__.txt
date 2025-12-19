@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【熟肉/SLG/えるふ茶園】極限改変・魔法少女ミスティックルーンver.0.2.0β"}],["$","p",null,{"children":"Man！这么色的图我第一眼看到就爱上了，非常让人想要给毁掉，真是让人垂涎欲滴，茶园赛高！  玩法上就是选几个要做的事情然后就开始调教，还能塞进去一个虫子，而且你还能肉眼观察到虫子的突起，非常色，不过由于是初期的开发版本因此没有配音。不说了，我去趟撤硕！    Partial English Support / 部分支持中文※このゲームはwindows7、10の64bitで動作します。※環境問題によりゲームが正しく表示できない可能性がございますので　はじめて有料プランに加入される場合は　一度全員版"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/768758","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

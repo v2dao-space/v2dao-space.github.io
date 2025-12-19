@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"百度秒传链接怎么使用 秒传链接提取详细图文方法教程"}],["$","p",null,{"children":"经过测试，新的秒传脚本已经能用，使用下文中新的脚本就可以了 后续会找到新的资源继续更新！ 百度链接会过期，会因为不明原因被删被封禁，但是百度秒传链接会一直存在！！！ 第一步：下载firefox浏览器(毕竟很多国内的朋友访问不了google主页) 第二步：使用firefox浏览器访问 油猴插件 安装插件，安装好之后浏览器界面右上角就是插件按钮，点击会弹出下图所示 第三步：安装秒传脚本，访问链接 直接点下图的安装此此脚本就行了，安装好了之后，可以点击插件获取新脚本-已安装脚本中看到对应的插件已经安装"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/miaochuan","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

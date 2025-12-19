@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【act / 更新】GuiltyHell2_part29g"}],["$","p",null,{"children":"机翻更新内容：part25更新天体阶段重新实施。 （中途）根据上述规定，“圣缕”和“天兵”已经重新实施。新动漫添加到天兵 + 蚀刻事件中“Big Lips”与 Noir Blanc 兼容“魔鬼的嘴唇”对应于暴风雪。 Noir 也可从 25C 获得。增加了一个被“魔鬼的触手”袭击的牧师，一个被犯罪女孩强奸的普通女人和一个“流氓”驱逐舰上添加了一个新招式“铁爪”。天体舞台增加了一个新的区域和事件。 修改等。 （与拉弗兰的相遇）裸爱理的普通攻击现在是连续两次。 此外，Naked Airi 还增加了守卫"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/756636","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

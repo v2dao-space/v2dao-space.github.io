@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG/汉化]值得过的生活Ch.3.1 汉化版[安卓][4.9G]"}],["$","p",null,{"children":"值得过的生活Ch.3.1 汉化版\n\n\n\n剧情介绍：作为一名玩家，您可以控制前军人 Fred（或您选择的名字）。他的婚姻很幸福，但他的生活经历了许多起起落落。当您代表他做出重要决定时，您将成为这一旅程的一部分。游戏拥有丰富的演员阵容，每个角色都在 MC 的生活中扮演着重要的角色。这是一款基于选择的视觉小说，因此您做出的选择会影响游戏中其他角色的行为。所以要小心你所做的选择。像在现实生活中一样玩。\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2455","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

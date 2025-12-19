@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/精翻/双端] 和妹妹一起的奇妙生活 精翻汉化完结版+CG [PC+安卓/2G]"}],["$","p",null,{"children":"这是一款画风超级给力的欧美SLG游戏，但却是亚洲2D画风，还是步兵版本！\n\n\n\n所有的CG都是肉眼可见的精美绝伦~女主妹妹以及一个女仆装妹子太卡哇伊啦~\n\n\n\n主要讲述了网上写那啥小说赚钱的男主，跟最近失去工作的妹妹那奇妙同居生活~\n\n\n\n跟一般的欧美SLG一样，本作基本是线性结构，没有什么难度，让你轻松玩耍~\n\n\n\n狐狸汉化组精翻汉化，文本质量一流~\n\n\n\nPC+安卓双版本，目录可看全CG，方便"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/627","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"(同人CG集) [汁っけの多い柘榴] 新装開店!チンポまで手厚く接客するエッチな大型モール!"}],["$","p",null,{"children":"大人のための大型ショッピングモールが新装開店！エッチな接客は当たり前♪店員さんがオマンコでチンポの接客してくれる夢のようなお店が目白押し。店員一同、オマンコ濡らしてご来店をお待ちしております？机翻简介：大型成人购物中心新装开张!色情接待是理所当然的♪店员用馒头接待小鸡鸡梦幻般的店蜂拥而至。店员们都湿了期待您的光临?DMM:点我有爱自取"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/768068","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

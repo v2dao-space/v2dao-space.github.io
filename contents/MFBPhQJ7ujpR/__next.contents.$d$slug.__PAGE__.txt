@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/机翻/安卓/PC】在机械调教工厂被商品化的少女/機械調教工場で商品にされる女の子 機械○CG&被虐Voice 【度盘/567M】"}],["$","p",null,{"children":"原名丨機械調教工場で商品にされる女の子 機械○CG&被虐Voice 版本丨完整版 日期丨2016/11/25（好远古） 语言丨中文(由’绒布球‘汉化) 社团丨B-bishop 平台丨Windows, Android 剧情：在该影片中的机器工厂里，她们被各种机器加工成’商品‘，她们不被允许哭泣或乞求，"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/MFBPhQJ7ujpR","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

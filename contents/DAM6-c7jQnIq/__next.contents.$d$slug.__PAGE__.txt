@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】Sakura Hime 1-5【度盘/UC/900MB】"}],["$","p",null,{"children":"这个益智小游戏居然出了五代啦（我觉得他比其他的强就强在不需要打直接看cg，很纯粹），分享自己整的合集，2.8G压到了900M 正版入口https://store.steampowered.com/bundle/26082/Sakura_Hime_Bundle/"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/DAM6-c7jQnIq","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

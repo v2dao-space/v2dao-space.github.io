@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/汉化】 Gate of Windnest -隷属少女- （风巢之门）【度盘/1.28G】"}],["$","p",null,{"children":"本作可以看成迷宫物语的前作，没有汉化，需要自己借助工具啃生肉或者大佬直接玩 简介 英雄，你是个冒险家！\n你来到风巢，一个地牢城，用你最不竭的挖掘物品。\n冒险家聚集在这里寻找许多物品，商人聚集，奴隶贩子蜂拥而至。\n-来吧，剩下的就是你的冒险 – 训练女主角！\n主要女主角“米尔卡”是一个奴隶女孩，在早期"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ZYFNpwru66nD","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

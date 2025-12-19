@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D/动态/生肉】いたずら家庭教師 ～密室の猥褻指導～（ver1.01）"}],["$","p",null,{"children":"前言本次带来Real的第二部作品16年近代文物，本作不存在任何兼容问题，下载到游玩没阻力本作攻略对象是母女3人，注意身体健康少冲人懒就直接上官方的图了，（iso+v1.01修正补丁）自行安装附IDM多线程下载工具（内含说明）：点击    Story坂本康児（主人公）は教育者を目指し、教育学部で勉学に励む傍らアルバイトで結城家の長女・希（姉）に家庭教師をしていた。教え子の希は反抗的で、思うように指導が進まず焦っていた。そんなある日、一枚の封筒が康児の元に届く。封筒の中には一枚のDVD。恐る恐るパソ"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/764556","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/ai汉化】【超次元覚醒研究所】Succubus Reborn 淫魔再誕 v20251029a【度盘/2.37G】"}],["$","p",null,{"children":"楼主发现这个经典的打牌游戏10月26又更新了（也是个牙膏皇帝），但是没有汉化只有机翻，于是楼主用小工具跑了个ai汉化（鉴于极少部分文本xunity抓取不到文本，所以没翻译到）这游戏还是非常顶的，可惜后面的魅魔没有语音，是真滴可惜，总之发给大家尝尝咸淡(备用用了uc被退回了，重发一下) 鉴于直白的wi"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/slg-ai-han-hua-chao-ci-yuan-jue-xing-yan-jiu-suo-succubus-reborn-yin-mo-zai-dan-hkS4","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

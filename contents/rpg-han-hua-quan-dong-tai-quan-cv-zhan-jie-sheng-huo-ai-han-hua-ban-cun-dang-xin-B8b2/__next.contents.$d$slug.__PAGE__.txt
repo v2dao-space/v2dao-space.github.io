@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/汉化/全动态/全CV】站街生活！AI汉化版+存档【新汉化/2.4G】"}],["$","p",null,{"children":"站街生活！AI汉化版+存档 （立ちんぼライフ！）          游戏介绍： 街头大叔共有6种类型！ 尽情享受与个性丰富的大叔们展开的各种亲密互动。  向街边"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/rpg-han-hua-quan-dong-tai-quan-cv-zhan-jie-sheng-huo-ai-han-hua-ban-cun-dang-xin-B8b2","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

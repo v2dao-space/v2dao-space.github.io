@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"终生性奴隶"}],["$","p",null,{"children":"时间、地点不明，只知道这里大概是一个类似会议室的所在。会议室中央有一张长长的椭圆形桌子，这时在桌子的其中一端，正有三个人在围坐着，似乎正在等待着什么。这三个人都清一色穿了一件类似牧师、修道者所用的白色长袍，而袍子的后面都有一个图案：那是一条盘坐着而伸高了头在吐着舌的蛇，蛇的一左一右还分别有一男一女的全身裸像。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Q4gLxnyJ8y","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

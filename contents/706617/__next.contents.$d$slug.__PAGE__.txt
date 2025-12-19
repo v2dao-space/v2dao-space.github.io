@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/GAL】空恋【度盘/秒传/】"}],["$","p",null,{"children":"游戏简介 同年同月同日生的ヒカリ与タクト，从降于人世起便是形影相随。无论是学会说“是是”的时期，还是从尿布毕业的时期。初次受父母所托买东西时也是两人一起去的，自行车也是同时学会骑乘的。总是在一起，这对互为青梅竹马的两人来说再当然不过。所以一同进了希ノ森学園，又一同加入了电影研究会。会一直，像这样作为要好的青梅竹马相处下去，两人都如此认为……某日，在视听教室举办电影放映会时，在两人面前出现了一名神秘少女，她这般道来。「我是タクト君真正的青梅竹马！」タクト无法理解她的话语。青梅竹马明明是就在自己身旁"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/706617","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

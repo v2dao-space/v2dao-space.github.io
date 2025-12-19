@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【GAL/机翻】Liber_7 永劫の終わりを待つ君へ【2.7G】"}],["$","p",null,{"children":"此资源为Krkr吧翻译，无法判别是否为人工翻译，故标注为机翻游戏类型制作公司：Lass 发售日期：2016年12月22日汉化日期：2017年10月27日汉化小组：游戏类型：学园、传奇、战斗、轮回游戏原名：Liber_7 永劫の終わりを待つ君へ游戏别名：献给在永劫终末等待着的你剧本: LEGIOん、剣技マナ、時野つばき音乐: 坂本昌一郎主题歌作词: Fuki(天外冬黄)主题歌演出: Fuki(天外冬黄)原画: かわいまりあ、よう太、森山しじみ、酔花主题歌作曲: mao(山本真央)剧情介绍——异能体"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/d070a4deb7403e5cebb5191ecdb4e00d","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

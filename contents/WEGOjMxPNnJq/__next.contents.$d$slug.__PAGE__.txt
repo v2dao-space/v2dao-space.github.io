@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/机翻/双端】腐败的世界 Corrupted World-0.2.0 【百度/8.7G】"}],["$","p",null,{"children":"入正：https://www.patreon.com/Corrupted_World\n注意:安卓版会在选择中文之后闪退，连续进3次游戏就会正常了! !\n概述:\nMC是一个刚刚开始独立和成人生活的普通人。\nMC上学、打工、租住在一间小公寓里，甚至做梦都没想过自己会得到爱情和青睐。\n然而，一天晚上，三个"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/WEGOjMxPNnJq","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

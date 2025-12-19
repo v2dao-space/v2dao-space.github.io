@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【同人音声/官方简中】【RJ01278634】[remix]  [ 性為の戯れ] だらハメ。 ～ズボラなお姉ちゃんとの日常的なだらしないえっち～【度盘/1.18G】"}],["$","p",null,{"children":"个人remix混音作，平衡各种不好的内容，比如作者的作品音量过小，各种频段不好等问题，不贴耳，没有“冲击感”等问题 经过处理后去除了音频里的空白位置，增强了音频的节奏，但是字幕文件的位置信息就与音频不一致，但是我仍然放字幕文件在这里，又动手能力的可以自己调整字幕内容 炸了不补 改后缀为7z   ◯ご"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/dJluKE3MeS98mKCv","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/汉化】日渐堕落的苍银 体验版 V0.8 AI汉化版【更新/1.4G】"}],["$","p",null,{"children":"日渐堕落的苍银 体验版 V0.8 AI汉化版 （蒼銀の仮面）          游戏介绍： ぬこ魔神的NTR新作v8体验版，隐奸感满分。白毛无口女主。 相信玩过"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/rpg-han-hua-ri-jian-duo-luo-de-cang-yin-ti-yan-ban-v0-8-ai-han-hua-ban-geng-xin-yh6W","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

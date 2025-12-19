@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无修】Deadland: Fallen Apartment / 禁闭乐园：堕罪之寓 v1.1"}],["$","p",null,{"children":"堕罪之寓是一幢由小丑邪神掌控的奇异建筑，这里有着近乎无尽的空间、各种奇怪的房间及源源不断的怪物。 传说堕罪之寓中能找到实现任何愿望的方法，但来到这座公寓内的人大都丢失了灵魂，永生永世沦为了邪神的玩物。 不过幸运的是，我们的女主角们还没有轻易向邪神屈服，她们仍有机会直面邪神并击败他。  ○光怪陆离的故"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/_Ha3MXPCjI","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

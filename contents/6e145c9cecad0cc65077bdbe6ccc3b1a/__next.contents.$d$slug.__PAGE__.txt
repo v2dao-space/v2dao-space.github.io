@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【SLG/未汉化】思春期な黒髪少女と密室えっち!~真夏の体育館倉庫編~"}],["$","p",null,{"children":"游戏名称：【思春期な黒髪少女と密室えっち!~真夏の体育館倉庫編~】有无汉化：暂无完成程度：已完成。画风：★★★★☆（像素确实还不错）游戏性：★★☆☆☆（其实一般般，只是很简单的动画播放器，而且走路好慢啊！！！！！！！）推荐程度：★★★☆☆（嗯，不怎么样，画风还不错，但是内容却少的可怜，也就只是普普通通的动画播放器而已。）社团名ぱころっく  贩卖日2024年07月26日 0点年龄指定18禁作品类型模拟文件形式软件支持的语言日文分类像素 动画 制服 体操服 死库水/校园 学校/学园 内射/中出 处女"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/6e145c9cecad0cc65077bdbe6ccc3b1a","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

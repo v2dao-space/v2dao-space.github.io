@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"乱斗少女 SmashGirls v1.0.5"}],["$","p",null,{"children":"位于亚洲东部的海岛城市 - 港都，港都有十三个行政地区。 在繁华的表面隐藏着不少黑暗面，贫民区、黑市、邪教、杀手⋯而在地下世界当中十二个最具有权力的黑手党，有一天突然全部消失殆尽。只留下一个白衣少女与一只企鹅的京华会。权力空虚的地下世界在三年间由4个新堀起的团体群雄割据，乱世就交由你来终结。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/85ffbf4d8354adb1c4c29d99a7c7e495","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

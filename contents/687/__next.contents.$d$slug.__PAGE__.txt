@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[ACT/中文/全动态] 艾丝缇拉的遭难：异空间和魅魔的诅咒 官方中文版 [新作/1.4G]"}],["$","p",null,{"children":"艾丝缇拉的遭难：异空间和魅魔的诅咒 官方中文版\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[游戏概述] ：\n\n\n\n游戏由 [Gorogoro Games] 社制作(也是他们的第一部作品！)\n\n\n\n这款游戏是使用了特殊的回合制系统的动作游戏。\n\n\n\n盗贼、野兽、怪物……在危险重重的异空间中寻找回家的方法吧。\n\n\n\n如果输给了敌人，也能在败北H中获得“精气”来升级艾丝缇拉的战斗能力。\n\n\n\n游戏声"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/687","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

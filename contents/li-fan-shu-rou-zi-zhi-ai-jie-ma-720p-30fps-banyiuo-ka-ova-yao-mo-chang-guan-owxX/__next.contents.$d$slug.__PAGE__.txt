@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【里番/熟肉/自制ai解码/720p/30fps】【ばにぃうぉ～か～】OVA妖魔娼館へようこそ!#1-2【度盘/413MB】"}],["$","p",null,{"children":"这个是有朋友给我留言的OVA妖魔娼館へようこそ系列的解码版，一如既往雷火剑精细的画风动作，剧情嘛就是主角在魔物娘妓院游龙…在楼主的主观评价体系里能到t1（讲道理我主要是不太习惯这种画风，嘴唇…我还是更喜欢日式二次元画风，而且穿孔战士啥的，对于爱坐小朋友桌的图图哥来说还是有点太超前了），还是顶的，嘛发"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/li-fan-shu-rou-zi-zhi-ai-jie-ma-720p-30fps-banyiuo-ka-ova-yao-mo-chang-guan-owxX","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[桃月すず] 僕らのハジメテ｜我們的初體驗 [中国翻訳] [DL版]"}],["$","p",null,{"children":"裹上青澀初戀的糖衣流溢出快樂的愉悅情熱！想示愛卻不知如何啟齒的深情，在兩人的羞怯與大膽之間，充滿濃情密意的緊緊相擁，取悅彼此的情熱無法停歇♥想示愛卻不知如何啟齒的深情害怕被厭惡的心口不一明明在意得不得了卻嘴硬逞強越解釋誤會越多的笨拙失常、犯蠢、會錯意、想太多……人生許多生澀的第一次在兩人的羞怯與大膽之間充滿濃情密意的緊緊相擁取悅彼此的情熱無法停歇♥《我們的初體驗》桃月鈴第二本繁中版作品集特別收錄出道作〈全身溼透的女孩〉以及10篇短篇漫畫作品9人11篇充滿愛的快樂歡愉♥ bookwalker：点我"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/773896","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

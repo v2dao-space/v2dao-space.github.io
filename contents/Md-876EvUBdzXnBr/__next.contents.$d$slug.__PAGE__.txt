@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】王宮騎士のリスクヘッジ"}],["$","p",null,{"children":"瀧音MELOくらぶ (めろん２２)的投稿一览｜Fantia[ファンティア](综合[男性向]) ■游戏玩法 本作是一款没有战斗或等级提升要素的事件收集型游戏。 可使用上下左右方向键和 Z、X 键，也可仅用鼠标操作进行游玩。 （消息文本可按 A 键自动推进，按 S 键跳过。） 游戏中的事件文本量较少，敬"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Md-876EvUBdzXnBr","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

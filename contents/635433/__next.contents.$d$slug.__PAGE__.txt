@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/日系】サバイバルゲーム / 生存游戏 survivalsurvival_230403丨18+版饥荒 "}],["$","p",null,{"children":"更新内容 ■追加 //染め物作業台（衣装のカラー変更） ■修正・調整 //料理の効果範囲の不具合を修正 //女原住民を睡眠レイプ後、ダウンアニメーションに余分なパーツが表示されてしまう不具合を修正 //襲撃ＮＰＣを捕らえた場合、ロードを挟むまで襲撃中のパラメータが残ってしまう不具合を修正（味方なのに木の棘などに当たってしまう）   预览图： 作者CN主页 有能力的朋友可以入正支持一下 单薄的背影发表在【里番/魔穗】[ひまじん] TRUE BLUE+外传 (DVD 1920×1440 x265 A"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/635433","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

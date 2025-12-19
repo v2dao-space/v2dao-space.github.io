@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"看不见的艺术萨布丽娜 Sabrina the Invisible Art v0.77 汉化版【安卓】"}],["$","p",null,{"children":"看不见的艺术萨布丽娜 Sabrina the Invisible Art v0.77 汉化版【安卓】\n\n\n\n游戏介绍：\n\n\n\n萨布丽娜注意到发生在她身上的奇怪事情。\n\n\n\n她的阿姨没有给她一个明确的答案，所以她通过草图在她的个人日记中分享了她所有的秘密。\n\n\n\n很快，她就发现了自己的秘密，现在她必须去隐形艺术学院，她根本不喜欢呆在那里。\n\n\n\n这次她会想出什么？\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2235","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

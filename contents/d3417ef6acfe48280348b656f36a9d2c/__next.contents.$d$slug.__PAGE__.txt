@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG/汉化] 丽贝卡与淫咒之剑2 レベッカと淫呪の剣2 PC+安卓AI汉化作弊版"}],["$","p",null,{"children":"一款由XY汉化组汉化的日系RPG，这是一款情色 RPG 游戏，在广阔的领域中探索前进。在地牢和田野中使用决策键挥剑击败敌人。您可以随时在菜单屏幕上查看故事的目的地，这样您就不会迷失方向。随着剧情的发展，您还会获得一张世界地图。您可以快速穿越到曾经去过的地方，顺利地进行探索。城镇、村庄、田野和地牢等各种地方都会发生情色事件。从情色活动中获得的 “刺激 “道具可以用作强化 “下流咒魔剑 “的材料。在 BOSS 战中，游戏会切换到指挥战，在指挥战中您可以享受撕裂衣服和性骚扰的乐趣。在回忆室中可以查看每个区域错过的情色事件。在地图上可以找到各种材料，并可以出售换取金钱。该游戏已成功移植安卓，并包含[游戏作弊+全CG屋]"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/d3417ef6acfe48280348b656f36a9d2c","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

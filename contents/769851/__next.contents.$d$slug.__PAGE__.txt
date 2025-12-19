@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[doumou] 私は女の子が好きだったはずなのに我喜歡的對象明明應該是女孩子的說 [中国翻訳] [無修正] [DL版]"}],["$","p",null,{"children":"兩位女主角、複雜的情感糾葛與衝動!本該是理想中的王子殿下♀、卻被迫學會了女性的快感與喜悅——沉淪墮落到無可挽回的地步……真尋是我心目中理想的王子殿下!快樂溜進了2人之間的縫隙。這種感覺、至今為止、不曾體會過。故事概要：身為小惠男友的真尋♀。卻因為自己擁有女人味滿滿的豐滿乳房與男友角色背道而馳而感到十分懊惱、遇上痴漢後發覺身為雌性的本能。萬萬沒想到那名痴漢、竟與小惠曾經有段因緣…。畢竟、我可是小惠的理想男友♀。但是…搖擺不定震撼的轉折!最後絕對會邁向快樂的大結局!!真激大好評人氣連載、完整收錄的一"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/769851","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

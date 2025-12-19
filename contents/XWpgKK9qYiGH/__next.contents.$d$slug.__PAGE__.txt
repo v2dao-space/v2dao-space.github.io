@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【GAL/生肉】百千の定にかわたれし剋【度盘/6.47G】"}],["$","p",null,{"children":"24/08/30 资源解压方式：将文件后缀修改为zip，而后使用winrar进行解压。 25/03/04 已更新《百千の定にかわたれし剋 もしもその時出会っていたなら》&《百千の定にかわたれし剋 彼女たちの東奔西走》    百千の定にかわたれし剋 Getchu界面：点击 游戏官网：点击 作品紹介 S"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/XWpgKK9qYiGH","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

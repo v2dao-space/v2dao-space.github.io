@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【泡面番/熟肉/无修正】【Studio Hōkiboshi】洗浴屋先生!～我和那傢伙在女浴池!? / アソコ洗い屋のお仕事～片思い中のアイツと女汤で～ 全8集 720P【度盘/280M】"}],["$","p",null,{"children":"感谢AHU字幕组，考个古。  为啥想起这个番呢，因为我朋友在群里发了一张吊图↓↓↓↓↓↓↓  〖介绍〗 洗浴服务！～我和那家伙在女浴池！？～ “这真的是按摩吗……?” 奏太在自己家的澡堂里做了兼职做工人， 隐瞒真身并给同年级的少女葵背后冲去……。 我每天都从仇恨中进行近似性骚扰的瘦身按摩， 事实上却"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/pao-mian-fan-shu-rou-wu-xiu-zheng-studio-h-kiboshi-xi-yu-wu-xian-sheng-wo-he-na-3zeO","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

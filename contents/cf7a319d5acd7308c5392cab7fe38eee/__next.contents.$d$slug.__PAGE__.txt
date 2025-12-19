@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[mogg] 裸の学校 赤裸學園[中国翻訳] [無修正] [DL版]"}],["$","p",null,{"children":"用超能力盡情透視與玩弄純潔的女孩子們、讓一位文靜的家庭教師在變態的家庭中逐漸被調教墮落為淫亂的色女、惡搞童話故事的雜交派對、海邊野外性愛與幹到壞掉的超敏感女孩♥在《COMIC快樂天》長期發表作品的mogg筆下姣好身材的女體廣為粉絲所喜愛d/art於11月將推出mogg三本繁中版作品集！《雞雞☆珍藏》《赤裸學園》《配種計畫》《赤裸學園》收錄了同名的短篇妄想作用超能力盡情透視與玩弄無知純潔的女孩子們引起大人氣的迴響♥〈家庭X教師〉系列則是以四個篇幅讓一位文靜的家庭教師在變態的家庭中逐漸被調教墮落為淫"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/cf7a319d5acd7308c5392cab7fe38eee","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

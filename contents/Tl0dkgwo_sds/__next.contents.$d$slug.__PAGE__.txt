@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【RPG/生肉/I’m moralist】2025/03/02更新 淫神供儀ネヲナ～TS変身退魔少女の屈服～"}],["$","p",null,{"children":"想我了吗，孩子们 最近日版的这个游戏更新了新的CG和一个类似之前的人柱阿拉卡的那种充满绝望感的小游戏，但是其他语言的版本还没有更新，所以又买下来了日版的这个来尝尝鲜   不得不说我真是喜欢极了这个在绝望里抵抗的感觉，就是这个味道，有比如抵抗，或者主动排出金叶等卡片，但是最终毫无意义，会被强制受孕  "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Tl0dkgwo_sds","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

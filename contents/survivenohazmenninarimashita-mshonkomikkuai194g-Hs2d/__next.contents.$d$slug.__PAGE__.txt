@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【同人动画/自制中字】【survive】姫の無垢穴は魔物ザーメン専用便器になりました モーションコミック版(原版+ai解码版)【度盘/1.94G】"}],["$","p",null,{"children":"这个是楼主以前闲着没事做的动态漫画的中文字幕版质量还是挺顶的（沾点猎奇），由于今天实在是有点忙，所以没时间做新的字幕，所以拿出来顶个缸捏（就拖到最后署了个名，因为是以前做的耐心还没练好没咋修改，所以可能有ai幻觉大家多多担待），一边工作一边挂着跑了个ai解码版（鉴于很多朋友说我传的资源有点大，所以这"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/survivenohazmenninarimashita-mshonkomikkuai194g-Hs2d","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

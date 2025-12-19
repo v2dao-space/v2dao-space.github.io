@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【act/更新】GuiltyHell2_p24d"}],["$","p",null,{"children":"新任务“「奴隷にされた妹」”性奴隷结局: 可以被卖到 村人、貴族 、娼館如是处女价格会更高且不会被强上其他详看Part. 24解説！ 奴隷市場と性奴隷アイリ詳細！存档：选第一个自动存档，一路往右走就到奴隶市场了"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/726183","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

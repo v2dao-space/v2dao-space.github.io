@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化同人本/新汉化】2024.8.11 62本"}],["$","p",null,{"children":"(C102) [未来のタコス屋さん (mu)] 貫禄ちんぽでメロメロ爆イキ才女さん (プリンセスコネクト!Re Dive) [角都九阳个人汉化](C104) [つけまゆげ (柚銀)] この素晴らしい足裏に屈服を！為美好的腳底獻上屈服 (この素晴らしい世界に祝福を!) [沒有漢化](C90) [蛸壷屋 (TK)] テートクの決断 鉄底海峡 (艦隊これくしょん -艦これ-) [v2] [LSJ TKTK, 1epP-I](C92) [蛸壷屋 (TK)] テートクの決断 絶対国防圏 (艦隊これくしょん"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/3fcef8438c4b78d1f797bdddd34b9a01","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

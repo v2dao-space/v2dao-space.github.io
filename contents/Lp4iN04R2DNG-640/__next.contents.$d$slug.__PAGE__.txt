@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【音声】【RJ260122】【雨声沏茶】道草屋 清白7-雨后天晴之日【蒙眼按摩】【度盘/4.9G】"}],["$","p",null,{"children":"系列名 【耳かき】道草屋【安眠】 作者 桃鳥 声优 御崎ひより / 真宮ひいろ 年龄指定 R18 作品形式 音声・ASMR 文件形式 WAV/ MP3同梱 支持的语言 日文 分类 治愈 双声道立体声/人头麦 ASMR 和服 掏耳 温馨    作品内容： 梅雨结束、盛夏来临。今晚有烟花大会。 听屋外小"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Lp4iN04R2DNG-640","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

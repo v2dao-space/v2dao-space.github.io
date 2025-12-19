@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】从暴露诱饵搜查开始… 露出囮捜査からの… 【度盘/433.54MB】"}],["$","p",null,{"children":"  \n游戏简介：\n故意穿着暴露的服装在夜晚的街头游荡,持续吸引跟踪者和痴汉的注意!\n注定会卷入犯罪的繁华街徘徊游戏…?\n——————————————————————\n剧透1:—-前半部分是暴露搜查—-\n【徘徊的女人】\n和妹妹相依为命的女警官。\n几个月前,妹妹遭遇了严重的强奸,之后便下落不明。\n起初以"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/NeczDcEyCIZ8","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

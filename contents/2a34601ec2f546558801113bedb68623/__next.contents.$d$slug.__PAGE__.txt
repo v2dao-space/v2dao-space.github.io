@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/PC安卓】完美家庭：变态家族 / Perfect Family: A Family of Perverts Rework Update 1.2(重置更新 1.2)"}],["$","p",null,{"children":"此游戏是一款乱伦天堂游戏。游戏背景设定在一个精灵的奇幻世界。你是一个年轻人，在昏迷了 10 年后醒来，发现自己的家庭发生了很大变化。你能组建自己的后宫吗？（是的。是的，你会的。）"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2a34601ec2f546558801113bedb68623","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

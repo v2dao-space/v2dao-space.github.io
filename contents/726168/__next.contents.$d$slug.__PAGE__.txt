@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【rpg】退魔女神v07ez"}],["$","p",null,{"children":"流程有点逆天，我总结一下攻略：先换警服到警局接任务->换便服去地铁触发痴汉->再换警服抓->接着审问，到化学工厂抓人->接着去谜之森林清掉所有狗3次->进左下角洞穴打boss两次->回警局接任务->诅咒森林清掉所有哥布林3次->回谜之森林清右下洞穴3次->清诅咒森林打左下boss战败开新角色。官方存档 一共三个档，18、19、20。18、19都是再打boss前19技能比较多。20是打到新角色的档"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/726168","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

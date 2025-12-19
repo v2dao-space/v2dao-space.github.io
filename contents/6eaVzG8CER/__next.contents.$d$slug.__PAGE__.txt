@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"日出之王"}],["$","p",null,{"children":"通常替身的下场都不是很好，当有钱人的替身会更惨。\n左尼本来只是想上豪华客船骗吃骗喝，却没想到竟卷入了场桃色交易。\n替代王子与美若天仙的公主狂欢之后，接着来的就是被人砍一刀推下海，毁尸灭迹。\n惨啊惨啊！\n本来以为有幸躲过海上的漩涡暗流，却没想到竟然飘流到传说中的死亡皇后岛！？\n人家说大难不死必有后福，就是不知道在这白骨遍野的死亡皇后岛，他能遇见啥“福”……\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/6eaVzG8CER","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

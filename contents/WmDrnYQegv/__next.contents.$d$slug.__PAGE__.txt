@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"妙手神织"}],["$","p",null,{"children":"欧格里皇朝最高军事学院－－喀得尔皇家军事学院里最最最资深的“老”学生，古奇·凡塞斯。原本打着如意算盘就此在这所学院混吃终老，谁知一道神秘的军令，让他的梦想破碎！\n好吧！是他不该为了通过留校考验，就把那女少校剥得精光。不过也得给他个上诉机会吧！连夜被踢出学院，连个鲜花也没献上的就被强迫毕业。\n神秘的军令、美丽的女上尉与凶巴巴的女兵。拥有让女人为之疯狂的“神之手”，他该如何运用，完成困难重重的军令？\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/WmDrnYQegv","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/ADV】えろまんが！ Hもマンガもステップアップ♪（HD）"}],["$","p",null,{"children":"前言上期分享的是搞工口游戏的，本期分享的是搞工口漫画的本作无无修正补丁本作开场剧情和游戏一毛一样，33332注意：本作有带趴萌妹本作有前作工口游戏的園野 寧々客串PS：編集クイズ有存在闪退可能，建议将机翻删除，用日文过編集クイズ（3个），再机翻  Story「はぁ、はあっ……やるな！ この作者っ！」飛び散った精液をティッシュで拭き、俺はエロマンガの単行本を閉じる。抜いてスッキリしてしまうと、その後に訪れるのは賢者タイム。大学卒業を目前にした俺に、現実という壁が圧し掛かってくる。「……まだ就職決ま"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/773002","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

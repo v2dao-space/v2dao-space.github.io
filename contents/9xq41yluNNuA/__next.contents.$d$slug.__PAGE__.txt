@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】夫のためなら。～順風満帆な豊満妻が、最愛の夫以外の孕み袋に堕ちるまで～【800M/百度】"}],["$","p",null,{"children":"  \n【剧情简介】\n面对比丈夫年轻且精力不衰的情人……。在大公司工作的丈夫“明夫”和他的妻子“晴惠”。二人是从学生时代开始的恋爱结婚，晴惠过着一帆风顺的全职主妇生活。然而，丈夫的单位发生了不祥事件……。打工、兼职……甚至到了与富人的情人契约。为了支撑与失业的挚爱丈夫的生活。\n晴惠将她的全部身心奉献…"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/9xq41yluNNuA","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【国风神作SLG/中文/动态】V.I.R.T.U.E.S. 美德 V17 单独章节【安卓】官方中文版【2月更新/1G】"}],["$","p",null,{"children":"【游戏介绍】：\n\n\n\n你是首都数一数二的富豪的独生子！\n\n\n\n毫无疑问你超级有钱，长的又高大帅气！\n\n\n\n但是，你的人生目标非常远大，不准备做一个嚣张跋扈的富二代。\n\n\n\n你想成为“美德”，成为一个品德高尚的人！\n\n\n\n在你的父亲陷入困境后，你突然失去了所有的收入来源。\n\n\n\n你一个人在这个城市怎么生存?\n\n\n\n这将是一场噩梦还是一个天堂?\n\n\n\n\n\n\n\n有动态CG，人设风骚\n\n\n\n而且，剧情真心"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2603","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

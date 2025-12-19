@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/AI汉化】Isekai Awakening Ver 1.18"}],["$","p",null,{"children":"简介:你扮演的角色是一个年轻的男人召唤的性少女奴役所有的女性在镇上，与邪恶的少女战斗，让她跪下，成为新的国王!更新日志： 1.18为玛丽的裸体和穿衣状态添加了2个新表情为玛丽的红色围裙装添加了新的对话立绘为花的奴隶装添加了新的对话立绘添加了3个新物品:红色围裙、奴隶装和恶魔植物为与玛丽一起睡觉时添加了新选项(早上做饭)为玛丽添加了新的性爱场景,在红色围裙装下操她(2个动画:性交和内射)为地下室的花添加了2个新的性爱场景(2个动画用于打击和撕毁她的臀部衣物,1个动画用于拳交,1个动画用于肛门脱垂,"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/b60cdeb1bde73330bd240de8f629a56f","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

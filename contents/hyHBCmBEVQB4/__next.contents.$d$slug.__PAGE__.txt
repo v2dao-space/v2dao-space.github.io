@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】状態異常 =Abnormal Condition= ～弱体化/薬物中毒/恐怖/魅了編～【2.2G/度盘】"}],["$","p",null,{"children":"  \n概要：■HCG40 枚/全 64 场景 H 场景均为插入&凌○且动画化！可进行断面图的 ON/OFF 切换、内衣更换、H 状态及称号等多种自定义设置！■日志 H 系统 包含 220 种无需操作即可推进的日志格式 H 事件。随着进程的推进，速度、喘息声及游戏内容等会逐渐变化！雫所经历的种种结局后"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/hyHBCmBEVQB4","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

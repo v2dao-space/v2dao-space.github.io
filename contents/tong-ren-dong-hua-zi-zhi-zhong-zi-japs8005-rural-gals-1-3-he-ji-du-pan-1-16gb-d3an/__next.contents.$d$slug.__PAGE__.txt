@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【同人动画/自制中字】【japs8005】Rural Gals 1-3合集【度盘/1.16GB】"}],["$","p",null,{"children":"这个是japs8005大佬的的Rural Gals 系列的1-3自制中字合并版，这个系列还是挺顶的，尤其是最后猫娘play配合对话非常的刺激，而且男主不是龟龟，挺好，从大到小透了个遍，发给大家尝尝咸淡（话说不知道是哪个朋友转存了我的资源拿去分享的时候（也不排除是倒狗，倒狗不是我朋友）然后网盘被封了，"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/tong-ren-dong-hua-zi-zhi-zhong-zi-japs8005-rural-gals-1-3-he-ji-du-pan-1-16gb-d3an","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

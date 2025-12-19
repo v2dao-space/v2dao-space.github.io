@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG/中文/NTR] 榨晶恶魔酱的五日寸止游戏 V1.10 官方中文步兵版+全存档+音声 [安卓] [新作/6G]"}],["$","p",null,{"children":"榨晶恶魔酱的五日寸止游戏~最后一天输掉的话会迎来悲惨结局哦~ Ver1.10 官方中文步兵版\n\n\n\n内容包含PC版+安卓手机版+全回想存档+ASMR音声制品版\n\n\n\n这是由【BBQ大好き】社团在今年8月发布的一款极品新作rpg游戏。对的，就是制作【触尾少女】的那个超赞社团的又一超强力作~高质量官方中文，超赞画风+高清步兵CG+极品ASMR配音+奇妙玩法。\n\n\n\n绝对是实用度MAX的极致佳作！NTR"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/733","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

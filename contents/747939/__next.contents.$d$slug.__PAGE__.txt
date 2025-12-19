@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/生】初体験から始まる同棲ライフ"}],["$","p",null,{"children":"大学生カップル同棲SLG◆注意事項自動セーブ機能があります。画面のサイズや全画面表示の切り替えはオプションで変更可能です。体験版では一部のCGが黒い影になっています。製品版では通常に表示されます。◆ 操作方法左クリック:決定右クリック:キャンセル◆ ゲームの内容主人公は大学生から付き合い始めた彼女月島加奈子と同棲生活を始めます。甘々な恋愛と比べて、同棲生活では多くの現実的な問題に直面しなければなりません。プレイヤーは学業・生活・恋愛のバランスを取る日常生活の計画を立てます。彼氏として加奈子の体と"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/747939","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无码】My Newborn Life In A Harem"}],["$","p",null,{"children":"\n游戏故事：这是怎么一回事?我………发生什么事情了?低头看,大肚楠完全消失,养了30年的啤酒肚呢?为什么我会瘦成这样?难道…我穿越到了异世界?重生了??想太多.又不是烂俗的轻小说,什么被车撞死转生到异世界的桥段…所以…你救了我?恩~算吧,把你的脸修好并看护你的是我没错.那为什么要救我?难道我是什么天"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/qC397XFLrTEy","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

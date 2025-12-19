@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【RPG/生肉】【体验版】駆錬輝晶 クォルタ アルミネス&タンジェルEG(仮)_0.0.11"}],["$","p",null,{"children":"前几天重新打了一遍駆錬輝晶 クォルタ エメロード，感觉这个战斗系统真的瑟爆了，遂去看了看『下り坂ガードレール』社团最近在干什么……    哇，原来是下一个游戏的饼画的太大了做不完了 以下是cien对于下一部作品的介绍（诸位自行机翻吧，原贴链接：点我 今作の特殊システム 1.連れ去りシステム 敵の攻撃"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/lrhlD-158tdlyhaD","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

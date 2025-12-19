@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【未汉化/ADV】サイレン鳴ったら、2秒でえっち!?"}],["$","p",null,{"children":"理屈じゃない・・・考えるな! 音で感じろッ!!今作もAftereffectsによるエロアニメーションをフル画面で搭載卑語・淫語はもちろん無修正ッ!!  Story — 鳴り響く淫笛に街をあげての大乱交フェスティバル!?　この春、大学を卒業した、主人公『境みなぎ』。　憧れのデザイナー『城之崎　永子』がいる　『URABEデザイン』に入社するためこの街へ引っ越してきた。　そして、初出勤中のバスで、聞きなれない『サイレン』の音を耳にする。　防犯警報か何かか? と思っていたら、身体が熱くなるのを感じて、　"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/764401","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

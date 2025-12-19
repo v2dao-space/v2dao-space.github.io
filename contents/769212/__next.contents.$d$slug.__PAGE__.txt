@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/无码/GAL】金色ラブリッチェ（2部）"}],["$","p",null,{"children":"前言有很多大佬发布过金色本篇的很多版本，FD只有1个失效的文章我就直接将2部整理一起发布了（炒冷饭）注意和安装教程一定要看（要考的！！！）注意：1、金色本篇和FD均为汉化作品，非官方正版2、金色本篇和FD均为无码作品3、金色本篇和FD均附汉化补丁+无码补丁+免认证补丁4、考虑到容量大小，2部游戏本体和2部游戏的补丁将分开2个盘进行传输5、金色本篇自带golden time 追加线，金色FD自带append 追加线6、因为容量+现实因素，金色本篇只附对汉化版的无码补丁，日版有码（FD日汉均无码）（"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/769212","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

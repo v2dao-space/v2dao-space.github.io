@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】NTR女祭司 Nymphomania Priestess v0.75"}],["$","p",null,{"children":"\n作者地址\nTechnoBrakeの記事一覧 – Ci-en（シエン）\n \n『游戏介绍』\n在一个充满西方玄幻元素的世界里，\n你作为一名初出茅庐的冒险者，\n怀揣着成为最强流星级冒险者的伟大梦想来到了冒险者公会。\n之前大多都是从事一些帮人找东西，打扫下水道垃圾之类低贱工作。\n但是今天你决定到公会里面找人"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/fEatYyk3mO7d","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

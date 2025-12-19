@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG/汉化/动态] 尼亚魔法学院1.24 PC+安卓汉化版"}],["$","p",null,{"children":"主要H场景女主角的全语音，不含脏话和隐藏词汇!副女主角也有自己的H场景!三个男人的各种NTR情景!老师和Amelie展示她们的女上位姿势，并在您面前做爱!裸体下跪救女主角的狗仔式!室友偷拍她自慰以缓解压力，混浴中的狂欢肛交，性爱课堂上模特与老师的性爱，男生在课堂上勃起后将其从口交中拉出强行播种按压离家出走的狗妖，不满足于主角的阴茎，在女性娱乐中发泄性欲在主角睡觉时，在他身边偷情做爱，在露天派对上被干，在战斗中失败，她在姐妹们的一系列调皮按摩中达到高潮。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4fb97fa3eb9968ec67779a89543512d6","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

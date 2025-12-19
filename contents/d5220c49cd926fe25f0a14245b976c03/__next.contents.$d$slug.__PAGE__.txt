@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG/汉化]米蕾娜的牧场-魔女的牧场 PC+安卓精翻汉化完结版"}],["$","p",null,{"children":"（ミレーナの館）[風間道場]社团在2021年3月13日最新发售的一款日系RPG新作，本作画风给力，主打探索解谜玩法，游戏难度很低，可以轻松通关，狐狸汉化组精翻汉化，文本优秀，PC+安卓双版本，目录可看CG"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/d5220c49cd926fe25f0a14245b976c03","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

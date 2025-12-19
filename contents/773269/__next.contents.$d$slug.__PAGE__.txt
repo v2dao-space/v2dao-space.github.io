@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官方机翻】魔法少女ティアスイート"}],["$","p",null,{"children":"[RJ01166543][Twinkle STARs]魔法少女ティアスイート  入正链接：点击访问作品信息贩卖日 2024年06月06日 0点文件容量 680.53MB图片预览        [RJ01207077][Twinkle STARs]魔法少女泪甜  入正链接：点击访问作品信息作品内容社团名Twinkle STARs 关注955 贩卖日2024年06月06日 0点剧情鈴乃宮すず插画干しガラス声优のん年龄指定18禁作品类型角色扮演有声音有音乐文件形式软件支持的语言中文(简体字)分类女主人"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/773269","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

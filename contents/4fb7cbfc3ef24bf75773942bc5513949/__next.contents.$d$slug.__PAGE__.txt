@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/PC/汉化/全CV/步兵】我上了老妈的爆乳朋友V1.0.9"}],["$","p",null,{"children":"▎简介这是由[Orcsoft]推出的一款ADV游戏▎概述长久以来，直树一直暗恋着母亲的好友诗织！一个美丽的女人每晚都来家里，像母亲一样照顾他长大，他怎么会不心动呢？但现在他已经长大成人，对她有了性的看法。诗织在他们家的客厅里和妈妈喝酒聊天，那种成熟女人的气质和略带脆弱的气息简直让人无法抗拒。一天晚上，他们三人边吃边聊，直树的母亲宣布要出差了。 但她要求诗织在她离开时关照直树！妈的！他是个成年人了，他不需要别人像照顾小孩一样照顾他，反正大部分时间都是他在照顾母亲！(而且，这完全会妨碍他的计划︰用全"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4fb7cbfc3ef24bf75773942bc5513949","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"永恒国度"}],["$","p",null,{"children":"兽遗宗族为了生存空间而和人类联盟联手消灭精灵族，而他，拥有强悍力量和血咒传承的宗主布尔，在一次与精灵女后蝶舞的激战落败下，不得不与意图同归于尽却同样幸存的翼精灵埃菲困在崖缝下求生存。\n随着战事加紧，传承的记忆与过往历史经验告诉他，精灵族已臻至末路，而兽族将会是人类联盟下一个歼灭的目标！\n为了延续宗族的生存空间，他选择将兽族血咒的传承交托予过往歼灭的对象之一\n那曾经以结界重创他的圣处女候选人，翼精灵埃菲……"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/zmGibODHNv","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

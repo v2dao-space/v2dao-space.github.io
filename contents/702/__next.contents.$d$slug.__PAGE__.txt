@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[探索RPG/汉化] 强制NTR地下遗迹～女骑士莉娜 巴比伦汉化版+全CG存档 [安卓] [2G]"}],["$","p",null,{"children":"\n\n\n\n强制NTR地下遗迹～女骑士莉娜【安卓+PC】巴比伦汉化版+全CG存档\n\n\n\n这是一款[豹兵のジャガー団]制作组出品的日式rpg游戏作为该组潜心制作1年多作品已于2月25号0点上架DL平台本作主打的NTR别人玩法，你将扮演黄毛角色有着细腻画风+超过20种丰富NTR事件，整体质量很高\n\n\n\n\n\n\n\n游戏剧情：\n\n\n\n帝都附近经常有报告出现了【不存在的迷宫】这个迷宫不断的将落单行人强行监禁又莫名"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/702","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

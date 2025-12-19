@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【捉鬼ACT/像素】欲望寻魂0.10 全cg版 汉化版+0.2英文版【PC/全动态】"}],["$","p",null,{"children":"【捉鬼ACT/像素】欲望寻魂0.10 全cg版 汉化版+0.2英文版【PC/全动态】 游戏介绍: 你将扮演一个名叫泰德的女鬼猎人，利用各种手段去追踪女鬼，降伏女鬼，然后透女鬼的故事，除了女鬼外，游戏内你的助手露娜会告诉你如何进行，实在不会玩"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2083d46f19248eb6fd5b5a8e7b2f5da3","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

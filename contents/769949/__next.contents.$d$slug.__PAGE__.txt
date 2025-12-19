@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【港漫】-[原著: 郑健和 作画: 邓志辉]西游/西行纪- 壹本創作有限公司-龙虾、百漫版混装-183卷完-度盘"}],["$","p",null,{"children":"漫画《西行纪》（原名《西游》）为香港新一代漫画作者郑健和与邓志辉继人气漫画《封神纪》后推出的又一力作。这是属于远古神明的年代：“天众”、“龙众”、“夜叉”、“乾达婆”、“阿修罗”、“迦楼罗”、“紧那罗”、“摩睺罗伽”八部神明，他们各有自己的领土，而且经常互相开战。人类对神明敬畏，从不敢接近他们管理的地域。神明以外，还有各种各样的妖物，或称为“魔”。他们的前身是飞鸟异兽，经历因缘际会，修得智慧，成人形……这是唐三藏师徒四人取得奇经交予天庭的十六年后，世界却并没有因此变好。如今奇经下落不明，天庭派大"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/769949","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

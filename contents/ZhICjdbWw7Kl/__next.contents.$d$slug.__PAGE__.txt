@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/汉化】いつか、届く、あの空に。汉化硬盘版"}],["$","p",null,{"children":"\n介绍：\n——在这个城里，有着绝对无法翻越的“云”。\n一直以来，有着遮蔽着闪耀夜空的云。\n所以，星空显得太过遥远。\n渺小的愿望，不知不觉中变成了莫大的向往。\n在这个被云笼罩着的城市中，有梦想着满天星空的少女们。\n \n——这是一个，在柔和平缓的日子里，做着淡淡的梦的故事。\n \n——无边无际，一望无垠—"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ZhICjdbWw7Kl","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[更新]【日式SLG/动态】湖景的鞋底（Soles of Lakeview）V0.1.1 汉化中文【PC+安卓双端】"}],["$","p",null,{"children":"玛德琳高中毕业后没能考上大学。不及格就是这样。受庇护的生活和秘密的迷恋阻碍了她她长大成人。这个动感十足的故事这个暑期预备班帮助年轻女性重回正轨。这个暑期预科班旨在帮助年轻女性重回正轨。但当她们与奇异、遥远而神奇的恩达拉王国联系在一起时，事情似乎总是出人意料"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/85793541f2d9a7a180f9d6a2e56d04eb","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

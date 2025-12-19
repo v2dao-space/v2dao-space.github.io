@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】福音的使徒/ 福音のアパスル 【安卓/730MB】"}],["$","p",null,{"children":"  \n\n\n\n\n社团名\n 神乳 \n关注 6,974\n\n\n\n\n\n\n\n\n\n\n\n\n\n支援社团也可以使用DL点数进行支援\n\n\n\n\n\n\n\n贩卖日\n2018年04月20日\n\n\n更新信息\n2018年06月01日\n更新信息\n\n\n\n系列名\nアパスル\n\n\n剧情\nKATO / 雨乃アリア / 明日葉あすは / 安芸沙樹\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/PEVUlSGq-EyM","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

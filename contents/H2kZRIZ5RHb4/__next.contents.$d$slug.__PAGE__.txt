@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/汉化] 时光的涟漪 Ripples v0.7 全画廊 PC+安卓[9.6G/百度]"}],["$","p",null,{"children":"[SLG/汉化] 时光的涟漪 Ripples v0.7 全画廊 PC+安卓[9.6G/百度]\n设置里调中文\n游戏介绍:该作品剧情以高中最后一年的18岁男主为中心展开。他与他的好朋友达西(Darci)团聚，像其他任何一天一样出发去上学但是随着这一天的过去，他学到了有关已故父亲的新信息这使他对死亡的真相"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/H2kZRIZ5RHb4","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/汉化/PC+安卓/动态/步兵】阳光湾恋人2 ver1.00i Extras"}],["$","p",null,{"children":"▼游戏概要你的父亲是一名光荣的海军军官。可是你的母亲在你10岁的时候就永远的离开了你！随后你11岁的时候，父亲把你的继母以及继母的女儿（你同父异母的妹妹莉莉）带来和你一起居住~这是一段你童年最值得纪念的时光~然而5年之后随着你继母和父亲关系破裂，你的妹妹和继母不得不离开你们家！之后经过9年的时光，你已经长大，并且成为了一名优秀的律师~可惜被人陷害和走后门，导致你被排挤出了公司！好你的妹妹莉莉重新联系上了你~你决定去阳光湾帮助你的妹妹经营一家大型度假酒店~您的目标是帮助她在处于破产状态的旅馆中为自"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/429f1cc3c4ea3126b09e2576e036290d","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

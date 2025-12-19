@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化同人本/新汉化】2024.3.24 62本"}],["$","p",null,{"children":"(C103) [きいろまんじゅう (ツイル)] キヴォトスに魔法があります (ブルーアーカイブ) [欶澜汉化组](C103) [ぜつえん (のいしゅてす)] わたしが彼女じゃダメですか？ 3 [白杨汉化组] [v2](ぼっち?ざ?おんりー!#2) [stellar night (SORA)] 幼馴染の独占欲が強すぎる! (ぼっち?ざ?ろっく!) [透明声彩汉化组][38] ブレマートン (アズールレーン) [黎欧出资汉化][4UU] 『カルデア学園BBちゃんねる部』シリーズ 第10話 ?後輩マシ"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/753431","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG/汉化] 我们的RBQ老师 -the GAME- 年轻妈妈教师的变态生活 官方中文版 【PC/安卓】"}],["$","p",null,{"children":"“从学校中犯下的人妻教师凌○RPG!!好好教育一下充满自信的女教师吧!!以学校为舞台的大容量的硬凌○RPG!!◆本作品是全新作品。即使不知道过去的作品也能享受◆本作是简单的探索型RPG!(战斗&不升级!)有一天，女教师被男学生抓住了弱点。不情愿地与他们签订了“某种约定”。那个约定是……“让每个人都说一句话”H欲旺盛的男生们的要求全都是庸俗和下○的东西!看着女教师平静的日常生活，也觉得很凄凉。大容量&多重结束!!屈服于学生们的教育，最终变成了毫无特色的肉○器!?你就会沉溺于禁欲的爱情中，成为儿子的手术刀!或者……你会进入一个更黑暗，更奇怪的世界吗?采用多片尾设计!!共5种你想怎么玩就怎么玩吧!!"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/376fce691f49f5a9ab4d1c47bd4fd83e","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

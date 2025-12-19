@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无码】Saku the Covert Agent"}],["$","p",null,{"children":"\n■剧情简介\n你是一名不隶属任何组织、在网络世界中来去无踪的孤狼黑客。\n行事只遵循自己的准则、坚持自己的美学与喜好的你，决定接受案件、提出报价时一向视乎自己的兴趣与心情。\n但若决定接取，必定完美达成任务——客户是否感到划算，则不在考虑之中。\n这次任务你将凭借着高深的技术知识与过人的机智反应，帮助来路"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/8qKCgU32PRgA","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

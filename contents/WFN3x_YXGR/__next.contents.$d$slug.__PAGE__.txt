@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"现代淫魔故事"}],["$","p",null,{"children":"描写一个奸魔的各种经历，并且书中被迷奸的女子，上至人妻、白领，下致学生少女，应有尽有，适合各个层面的人。从结构来看，开始和中间都是不错的，一开始是主角迷奸人妻，从前大学时没追到的女同学，中间有同公司的助手方雯，表妹的同学徐婷，都是非常不错的亮点。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/WFN3x_YXGR","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

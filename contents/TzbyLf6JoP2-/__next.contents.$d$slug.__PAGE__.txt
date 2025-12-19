@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】幼馴染はあなたの彼女ではない【600M/百度】"}],["$","p",null,{"children":"  \n游戏介绍：你喜欢的松井夏美很漂亮，成绩很好，擅长运动，胸部很大。夏美似乎也对你有感觉。你想和夏美约会，但她周围有很多男生想认识她。 而且，他们的H欲还很旺盛。如果你不小心，你的青梅竹马就会被别的男人抢走。让你的童年好友被寝取后，尽情享受被抛弃的挫败感和孤独感吧！\n在这款游戏中，你将控制主角佐佐"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/TzbyLf6JoP2-","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

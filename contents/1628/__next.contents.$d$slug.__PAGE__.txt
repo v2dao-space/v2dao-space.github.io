@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG/汉化/全动态] [神级开大车]正太岛-溺爱的大姐姐们★全员播种！汉化版[800M]"}],["$","p",null,{"children":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n正太岛-溺爱的大姐姐们★全员播种！云翻汉化版（ショタおねアイランド! -お姉ちゃんのオッパイはボクのもの!-）这是一款由[ナップルミル]制作组出品的超赞rpg游戏\n\n\n\n主打绝妙的 [小马拉大车] 玩法，全员大姐姐超绝大后宫！\n\n\n\n全程都搭载超赞动态CG，而且爽到爆炸！\n\n\n\n现在已经由《绅士回廊》制作了云翻汉化版\n\n\n\n虽然是云翻，但是因为翻译方式和其他"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1628","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

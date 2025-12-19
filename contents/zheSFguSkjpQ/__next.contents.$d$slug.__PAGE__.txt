@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【SLG/官中】Cage of Tentacles ～苗床快楽地獄の触手監獄～"}],["$","p",null,{"children":"费尽心思战斗完回头一看女主扣起来了\n关键是我刚把好牌打出去想用魔法刷新手卡，现在没能用的牌啊\n 虽然打牌只是简单的比大小，但是取舍上的搏弈干依旧不差 也有魔法这种东西需要考虑到\n游戏性很不错\n游戏的立绘与cg全都是质量不差的live2d，非常nice\n剧情就只有一个掉进触手洞窟试图逃脱的设定，没什么"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/zheSFguSkjpQ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

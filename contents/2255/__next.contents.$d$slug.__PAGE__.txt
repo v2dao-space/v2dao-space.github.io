@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【经典拔作ADV/汉化】贞操观念ZERO：和枪间一家的奇妙暑假 步兵汉化版+漫画【新作/1.2G】"}],["$","p",null,{"children":"贞操观念ZERO：和枪间一家的奇妙暑假 步兵中文版\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n这款经典拔作终于有步兵版了！！！\n\n\n\n这个跟之前的不一样，这是步兵不骑马版本，超级社保~\n\n\n\n内容包括：游戏本体+全漫画汉化版，已经整合在一起。\\\n\n\n\n【游戏介绍】：\n\n\n\n妻子失格，母亲落第…\n\n\n\n明明端庄淑女，但如果看到年轻的大雕，会瞬间变得奇怪起来的母亲。\n\n\n\n虽然是社会人，但在每天上班PAPA的时间"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2255","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

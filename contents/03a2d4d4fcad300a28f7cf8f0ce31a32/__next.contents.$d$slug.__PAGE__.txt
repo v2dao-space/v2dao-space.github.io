@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【正常向漫画/完结】青春のアフター(青春过后) 01-04卷+IF篇"}],["$","p",null,{"children":"为垃圾一般的高中生活染上“青春”之色的，只有她——。颓废的眼镜少年鸟羽，喜欢上了对周遭一切毫无兴趣、一直读着厚厚的书的樱。得知了她的秘密后，距离渐渐缩短……但是伴随着她残酷的话语，突然的意外发生了…！？===========================================================================带点胃疼的漫画，但也许这就是青春吧有穿越要素，带少量性描写"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/03a2d4d4fcad300a28f7cf8f0ce31a32","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

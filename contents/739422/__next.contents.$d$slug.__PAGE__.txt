@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【MMD/VR/有修正】FacePlan大佬作品 2024.01合集（12V/11.9G）"}],["$","p",null,{"children":"其实这个作者算是和我之前发超大合集的Lewd Fraggy差不多时间看的不过赞助模式是当月合集（月初就有 或许其实是上一月份？）当时那个月的感觉不是特别对口味也就没发最近I站看到比较喜欢的了 于是又恢复了赞助  VR确实不是很好截图 意思意思吧就  作者主页：Patreon / Fantia度盘炸了随缘补最近有点累 上回说牛牛不知道怎么受了点伤也还没好 就没怎么涩涩不过1月底2月初照例的oscarkim123打包肯定还是有的 然后快过年了也有点惊喜大礼包会整一整"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/739422","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

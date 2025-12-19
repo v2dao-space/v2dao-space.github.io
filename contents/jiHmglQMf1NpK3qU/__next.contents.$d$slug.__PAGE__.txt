@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中】You reincarnated into the game world and fucked the NPCs!-Animation-"}],["$","p",null,{"children":"转生到了游戏世界!? 全是巨乳NPC的村庄！ 在这个RPG的村庄中，你将征服所有的NPC！ 所有女性角色都采用Live2D风格动画！ 不仅H场景，全身立绘、插入、射精、余韵，全都动画化！ ★ 胸部和臀部晃动！ ★ 逼真的面部表情！眨眼、瞳孔也会动！ 原本面无表情的NPC们……她们的表情逐渐变为痴态！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/jiHmglQMf1NpK3qU","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

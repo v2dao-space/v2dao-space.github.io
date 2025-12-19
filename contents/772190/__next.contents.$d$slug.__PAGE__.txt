@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/GAL】ツルペタ！ ～ちっぱいは性交の素～"}],["$","p",null,{"children":"前言一夜物语，最后1弹第12弹大招放完了，进入了CD期ing。。。  Storyツルペタ大好きなエロ漫画家の主人公。しかし、編集の方針に従って巨乳系漫画を描かされる苦悩の日々を送っていた。「このまま、自分を偽ってまで描き上げて何になる！？」思い詰めた主人公は漫画家の廃業を決断。だがその前に自分の全身全霊を掛けた作品を描くことを決意する。そして妄想の数々を長年書き留めたネタ帳を手にして、ネームを切ろうとした主人公に転機が訪れる。突然現れたのは、絵に描いたような見事なツルペタ少女。淫魔を名乗る少女に"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/772190","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG/汉化/动态]非分之想 第三季Ep.23 SE 汉化版[安卓][3.6G]"}],["$","p",null,{"children":"非分之想 第三季Ep.23 SE 汉化版[PC+安卓]（Thirsty for My Guest）\n\n\n\n本作人物建模非常出色，全程超高清画质，画风非常社保！剧情方面主要讲述了男主和自己前女友的女儿同居的故事（其实作者大概是把这个女儿作为自己亲生女儿来设计剧情的，但是因为P站的政策不允许乱X，所以变成了前女友的女儿）\n\n\n\n目前已经更新了很多次，CG总数1万+，动态CG超过好几百，可攻略的女角色非"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1977","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】極限改変・魔法少女ミスティックルーン Ver.0.3.0β"}],["$","p",null,{"children":"作品介绍：[这是什么游戏？]在“邪恶组织”的研究所里，魔法少女成为危险实验的对象的游戏。[世界观]在一个邪恶组织反复侵略的世界中，一些充满正义感的少女们通过与异次元世界的“魔法契约”变身为拥有超人能力的“魔法少女”，以对抗邪恶组织。虽然邪恶组织对魔法少女的惊人能力感到头疼，但他们也试图通过强大的科学力量来克服这一难题。这次被邪恶组织捕获的魔法少女是“月雾 真那（つきぎり まな）”。由于魔法少女一旦死亡或陷入废人状态，魔法契约会自动转移给他人，因此必须在稳定状态下使其无力化。在这种情况下，邪恶组织"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/efd7ab69f2c78b185bd4ded9c237da8c","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

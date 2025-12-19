@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中无修】那个夏天的小岛V1.1"}],["$","p",null,{"children":"游戏简介迎来大学暑假的阿光，怀着雀跃的心情参加社团合宿。但突如其来的狂风暴雨将船吹到了一处无人烟的小岛。面对未曾预料到的遇难，在获救之前，阿光与社团的妹子们之间的关系能否更进一步呢？没锁国区 喜欢可以入正支持一波在 Steam 上购买 那个夏天的小岛 立省 10% (steampowered.com)角色介绍        色色预览提取码"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/7722c1a507eb7b485eb699934a318d9b","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【生肉/ACT】【体验版】迷宮都市アサイラム 【百度网盘】"}],["$","p",null,{"children":"体験版が出ました！！お待たせいたしました！！1ヶ月以上のバグ修正の末やっと1次体験版を出すことができましたね···。バグの大部分がUnityでツクール風のプレイを具現する基本システムを構築するのに使われたので、ある程度骨子が決まった今はもっと早く作業できると思います。…と信じたいです···。とにかく、体験版の発売が遅れてしまったことについて、改めてお詫び申し上げます。どうか迷宮都市アサイラムがどんな感じなのか、体験していただけると幸いです。:)粉丝限定こちらが体験版です！※ 現在進行不可のバグが"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/d8504f58829a2ffa572ca5c4b773e297","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

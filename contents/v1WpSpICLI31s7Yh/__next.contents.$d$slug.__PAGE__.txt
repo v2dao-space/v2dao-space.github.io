@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中无修】堕落之城莱蒂达亚 Ver1.00"}],["$","p",null,{"children":"主人公是名匕首专精的赏金猎人，但她在执行追踪一群盗贼的任务之时，却被他们偷走了自己的家传匕首。 她顺着线索来到了一个臭名昭著的小镇莱蒂达亚，这里是那些最凶险的罪犯们的巢穴。 雪上加霜的是，她还被要求必须处理掉镇上的各种悬赏任务。 她到底能否成功处理各种困难的悬赏并找回传家匕首呢？"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/v1WpSpICLI31s7Yh","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【GAL/汉化】あにまる☆ぱにっく【3.23G】"}],["$","p",null,{"children":"游戏类型制作公司：QUINCE SOFT 发售日期：2019年12月20日汉化日期：2022年05月01日汉化小组：虚空叛逆帝龙 个人翻译游戏类型：后辈、兽耳娘、学园、变身游戏原名：あにまる☆ぱにっく游戏别名：兽耳娘魔法少女/Animal ☆ Panic剧本: 山蕗順平、ワゴコロ、しげた主题歌作曲: どれちゅ主题歌作词: しらたまぷりん主题歌演出: あべにゅうぷろじぇくとfeat.佐倉紗織原画: 宮坂みゆ、宮坂なこ协力: Lump of SugarSD原画: 流かさね音乐: ココロノビートエンタ"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/cae29487252f5e0b068a3651d96483fa","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

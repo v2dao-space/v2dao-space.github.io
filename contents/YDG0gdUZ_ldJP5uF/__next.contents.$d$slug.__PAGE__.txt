@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/机翻】もしも、あの時…選ばなかった未来と、君の笑顔 Ver4.5【度盘/1.24G】"}],["$","p",null,{"children":"游玩平台: PC    偏好类型: 2D    游戏语言: 汉化   游戏类型: SLG    XP口味: 一般正常     青梅竹马的两人，不知从何时起，再也无法将彼此视为异杏… 家住在隔壁的两人，从小一起长大，却在不知不觉间失去了对彼此的杏别意识。直到某天，主人公得知夏希被高一年级的学长告白了。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/YDG0gdUZ_ldJP5uF","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

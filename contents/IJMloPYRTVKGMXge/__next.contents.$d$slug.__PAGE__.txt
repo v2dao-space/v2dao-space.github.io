@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【MMD/4K】【Bran (ブラン)】7月新作 碧蓝航线 大凤+莫加多尔 指挥官的游戏室 Commander’s Playroom【度盘/8V/10G】"}],["$","p",null,{"children":"两个版本，一个大凤一个莫加多尔，每个版本4个服装差分，总共8个差分。 一想到你我就哦齁齁齁齁齁哦哦哦齁齁~ 我最喜欢的hmv大师，哎哟我，这逼动作逼表情做得也太变态了 ，一不小心截上头了多截了几张gif作者红P：Bran 后缀改为zip即可，用新版bandzip或7zip解压，不行就换新版本。手机用"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/IJMloPYRTVKGMXge","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/生肉】dROSEra ～レディ・バッドエンドの初恋～【度盘/3.41G】"}],["$","p",null,{"children":"23/07/28 秒传10分钟内生效，别慌。 作品内容 Getchu界面：点击 游戏官网：点击 作品紹介 STORY SNSで企画された文芸合同誌に参加した、大学生の主人公。寄稿者の一人の文章に一目惚れし、打ち上げの飲み会に顔を出すことに。 打ち上げの場で、ひとりぽつんと座っている知的で可憐な女性に目を奪われ……、一緒にお酒を飲んでいたはずが、気が付いたらカラオケボックスの個室！そしてそこには淫らな妄想で自慰にふける女性の姿があった！？ PNからてっきり男性だと思っていた寄稿者は彼女で、しかもバ"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/708866","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

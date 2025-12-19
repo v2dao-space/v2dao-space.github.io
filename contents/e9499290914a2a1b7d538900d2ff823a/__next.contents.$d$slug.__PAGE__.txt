@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[日式RPG/汉化] 催眠：阿克米之书 PC+安卓完整汉化版 "}],["$","p",null,{"children":"只有拥有优秀魔法资质的人才能入学的魔法学校，尤福比亚魔法学院。主人公罗伊·布林顿也是备受期待的一员，但能力一直没有提高，现在被当作差生的对待。尤其是身为同班同学、拥有学院最顶级魔力的艾米利亚，把罗伊当作了仆人对待，作为理事长的艾米利亚的姐姐·戴安娜也因为认为罗伊是降低学院水平的存在而疏远。可是，使用由于偶然的契机得到了催眠之书，罗伊对艾米利亚和戴安娜开始了(性的)反击——!"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/e9499290914a2a1b7d538900d2ff823a","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

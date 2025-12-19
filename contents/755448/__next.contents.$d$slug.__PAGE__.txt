@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【图集/同人本/自整理/部分修正】小萝莉+双插系列资源补充~20240403（592P+16GIFS/302M）"}],["$","p",null,{"children":"［部分图为AI生成，已分别列出压缩包，请自行选择解压］好久不见！临时诈尸！我先前整理过的小萝莉双插系列，包含本子、组图（&散图）、套图、3D图和AI图迎来了一波大更新。全部资源都已经按我的命名方式重命名，按分区解压后把文件合并到我之前的包里就行，编号是连续的，不会导致错乱。依然是后缀去V解压。预览&列表：本子：5本/138P(例大祭10) [54BURGER (まるごし)] 鈴奈庵と駿○屋を間違えてエロ本を送ってはいけない(戒め) (東方Project) [中国翻訳]我自己之前发过的，我自己汉化"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/755448","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

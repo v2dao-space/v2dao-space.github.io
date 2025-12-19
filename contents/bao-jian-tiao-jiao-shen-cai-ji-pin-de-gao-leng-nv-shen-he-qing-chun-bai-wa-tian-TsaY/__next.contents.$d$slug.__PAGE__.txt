@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"爆奸调教身材极品的高冷女神和清纯白袜甜妹留学生，射满她们的鞋柜里的高跟鞋和小皮鞋"}],["$","p",null,{"children":"不列颠群岛的天气总是变化无常，前一秒还晴空万里，下一秒却是阴云密布。\n我凝望着逐渐变成黑色的天空，本就不好的心情变得更加压抑。\n家里支持我在英国留学已经整整两年，本该努力学习的我却无所事事度过了这两年，始终学无所成，情感上也是，面对喜欢的人总是望着她的背影，就连上去多搭一句话的勇气都没有，明明每天相处的机会很多，却像路人一样疏远……\n虽说家里有点小钱，自己也是成功在国外留学，还和两个美女合租在一间大房子，多少人梦寐以求的剧本，却被我一手好牌打得稀烂。\n都说男生最悲惨的事莫过于窗外在下雨，你没在看我，我没在看雨……"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/bao-jian-tiao-jiao-shen-cai-ji-pin-de-gao-leng-nv-shen-he-qing-chun-bai-wa-tian-TsaY","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

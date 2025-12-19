@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中无码】Lutnak·Quest"}],["$","p",null,{"children":"\n新手冒险者艾莱茵来到了冒险者聚集的城市「鲁特纳克」。\n她的梦想是成为最高等级的S级冒险者。\n然而，充满危险的城市，附近治安恶劣的贫民窟，\n还有地下城里会袭击女性的怪物……\n艾莱茵是否能累积冒险者的功绩，成功达到S级呢？\n多位女性角色任你挑选，\n所有色情事件都有完整配音！\n\n艾莱茵\nCV：神代 そら"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/kfCOuMWoCmFi","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

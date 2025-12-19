@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【MMD/无码】崩坏：星穹铁道银狼、花火、原神雷电影【Kotarou3990】24年2月作品合集【4V/2.79G】"}],["$","p",null,{"children":"色色预览！作者链接（点人家嘛）哦？杂鱼大叔怎么又来见人家啦？是嫌被捉弄的不够多吗？还是说…大叔离开人家就没办法自慰了呢~好可怜啊~果然是没用的大人呢~杂鱼♡杂鱼♡~收下今日份的色色然后把自己的弱弱牛奶都中出给卫生纸吧~"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/750783","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

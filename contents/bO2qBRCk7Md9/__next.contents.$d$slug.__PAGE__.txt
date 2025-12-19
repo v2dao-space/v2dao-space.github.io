@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/生肉】少年退魔伝アシタ～決戦!鬼ヶ城の段～ / Monster Fighter Boy Ashita ~ Battle at Oni-Castle ~【度盘/204MB】"}],["$","p",null,{"children":"前言：\n依旧是从其他地方的搬运。最近发现了一些老物（但也不是很老），回想起了黄油启蒙阶段的日子，便想都再玩一玩，继续发掘黄油的美（。站内没有的会再一点一点传，请大家学习品尝。\n游戏是该社团第一部act，一个中规中矩的横向卷轴，比较单调，后面关卡些微恼人，但也不难。cg倒是都是手绘，画的挺不错。总体说"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/bO2qBRCk7Md9","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

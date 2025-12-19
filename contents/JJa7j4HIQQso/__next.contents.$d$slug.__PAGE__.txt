@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/AI汉化】欢迎来到繁衍都市/種付都市へようこそ【1.1G/度盘】"}],["$","p",null,{"children":"  \n概要：种付委员的各位，这次的舞台是地方城市！恭喜您被任命为种付委员！成为配种委员的你前往的是少子化现象严重的地方城市“种名市”，这座城市背负着“无种”的污名，你为了遏制人口减少，将与城中怀有受孕希望的居民们一起努力进行配种工作！\n\n\n\n\n社团名\nmeteo.H \n关注1,276\n \n\n\n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/JJa7j4HIQQso","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

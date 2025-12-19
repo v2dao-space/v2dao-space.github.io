@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"舒适咖啡馆 Cosy Cafe v0.8.1"}],["$","p",null,{"children":"• 游戏介绍：坎坷的童年已经过去，你现在人生的十字路，心中只有一个目标成为像你祖父一样出色的餐馆老板但现在，你只能满足于开一家普通的咖啡馆虽然手头拮据，在实现梦想和完成最后一年学业之间也面临重重挑战但只要努力工作，下定决心，你就能为自己和一路上遇到的女孩们创造美好生活在舒适咖啡馆中，你将与许多女孩建立浪漫的关系，并逐渐发展关系最终成为一个家庭更新日志:v0.8.1对所有v0.8之前的渲染质量进行了小幅改进（共6830个）各种小的UI功能改进对早期对话进行了小幅改进（大约1000行）许多场景的新B"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1346bce08b39f6e4b3b571a4cc13b38d","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【官中/无码/RPG】ブレイクスルー-碧き七つの肉壺-"}],["$","p",null,{"children":"前言本期既是介绍游戏又是分享游戏（完整版的）在DL销量火爆的游戏，最近出官方中文版目前在BokiBoki Games 平台正式上架本游戏由日本同人社团「ヤン豚」开发，BokiBoki Games发行官中（发行过淫习村不能暴露性别）BokiBoki Games：JUMP大伙有能力尽量支持正版购入，BokiBoki Games发行的其他作品也不乏销量火爆的  Story（官方）背负屈辱冤罪 沦为神秘肉壶监狱的囚徒　　时值混乱的中世纪，出身贵族家庭的姊妹「希拉丝」和「蕾拉」原本过著奢华优雅的生活，却忽"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/771349","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

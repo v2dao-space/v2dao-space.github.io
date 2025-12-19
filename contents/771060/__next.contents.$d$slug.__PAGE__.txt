@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【音声】2405部分音声合集【1.33G】"}],["$","p",null,{"children":"RJ01012294ご主人様!これからも、よろしくお願いしますなのです!  社团名あまなつカフェ 关注368 贩卖日2023年01月05日作者天音みかん剧情あまなつ插画まとけち声优涼貴涼年龄指定全年龄作品类型音声・ASMR文件形式WAV支持的语言日文分类健全 皆大欢喜 女仆 日常/生活 温馨文件容量602.35MB♪♪♪トラックリスト♪♪♪「1.ご主人様!　おおみそかなのです!」(00:23:50)「2.ご主人様とはつもうでなのです!」(00:18:42)「3.ご主人様　いつもいつもありがとうな"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/771060","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

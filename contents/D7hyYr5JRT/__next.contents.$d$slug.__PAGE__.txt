@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"激情狂想曲"}],["$","p",null,{"children":"一对情人的爱恋和贪欲改变了世界……\n公元２０８０年，２１世纪末期，人类在经过一次大而剧烈的震荡整顿之后，所有的国界及种族偏见都消失了，地球只剩下一片荒芜。在人工营造的自然的当下，从此失去奋斗的目标及创造的企图。唯有情欲，亘古不变的仍在暗处滋长，于是一张将幻想与现实合成的影碟，将人们又带回最隐晦古老的欲海深处，在科技文明的一片灿烂远景中，一对情人威尔和珍妮的爱恋和贪欲，重新让人思索情、欲和爱……"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/D7hyYr5JRT","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

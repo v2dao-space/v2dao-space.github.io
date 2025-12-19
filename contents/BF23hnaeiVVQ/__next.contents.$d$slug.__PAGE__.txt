@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】Sakura Hime 1-4 / 樱姬1-4"}],["$","p",null,{"children":"游戏介绍\n在美少女们的环绕下，开始一场逐渐肾虚的异世界旅途。活泼热情的兽耳娘、傲气凌人的兔女郎、神秘莫测的巫女、捉摸不透的术士……享受各色少女一路福利的同时，要不要再顺手拯救一下世界？\n你需要做的只是交换砖块使图案完整。\n\n制作介绍\n发行：GirlGames\n开发: GirlGames\n入正链接：点"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/BF23hnaeiVVQ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

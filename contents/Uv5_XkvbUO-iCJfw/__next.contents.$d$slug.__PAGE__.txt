@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D动画/扶她/有码】Fクラブ (F-ARWN)合集【7V/1.35G】"}],["$","p",null,{"children":"https://fantia.jp/fanclubs/500526转生过的作者，以前叫アロワナ。很可惜的是老视频都找不到了，最后那一部是旧作，多谢某位不愿透露姓名的网友。很久之前就弄了文件夹，不过一直在等最新一部的完整版，结果一等就是一个月。目前作者就只是做一个人物的视频。脸看着有点呆，身体也很瘦，"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Uv5_XkvbUO-iCJfw","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

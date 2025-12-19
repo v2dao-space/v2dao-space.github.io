@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【PC/安卓/RPG】在无人岛7天尽情狂欢 Ver1.0 内置汉化版+RPG游戏+2.13G"}],["$","p",null,{"children":"在无人岛7天尽情狂欢 Ver1.0 内置汉化版+PC+安卓+RPG游戏+2.13G    游戏简介: 在无人岛7天尽情狂欢这款游戏讲述一对母子因风暴而流落到一座荒岛。。。 在七天荒岛求生结束后，两人将作出怎样的人生选择&#8230\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/lUsw7zYwivLPVqtG","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

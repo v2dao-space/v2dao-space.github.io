@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/机翻】和風苗床くりっかー 妖怪出産巫女遊戯【1G/百度】"}],["$","p",null,{"children":"  \n·故事很久以前……\n在和平之地，一种被称为怪物的奇怪怪物正在幕后工作，以防止人类世界被占领……\n与之对抗的 是被称为“巫女”和“阴阳师”的人们，她们利用“灵力”发挥超自然能力。 他们用自己的力量 消灭有害的怪物， 保护人类世界。 然而， 它充满灵力的身体，却也是 狡猾怪物的 完美滋生地……\n・"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/0kZzFL0aM-vD","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

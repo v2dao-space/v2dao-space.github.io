@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"莫加多尔直播中"}],["$","p",null,{"children":"今天的商场格外热闹，因为白天举办了一场大型漫展，各路Coser都会聚集于此，前来逛商场的人流量翻了几番。到晚上十一点半后，来商场游玩的路人才少了不少，莫加多尔刚刚从酒店的浴缸里出来，披了一件宽大的白色的浴巾就匆匆离开了房间。她脸上带着一个黑色的口罩。一头紫色的长发湿漉漉的垂在肩头，水珠顺着发梢滑落在她的香肩之上。她想要趁着这会人流少的时候去一趟商场的洗手间。\n因为举办漫展活动，来往的客人和Coser络绎不绝，因此莫加多尔这一身披着浴巾的装扮并未引起太多人质疑，大多数人只当她COS了某款游戏或动画里的角色。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/mo-jia-duo-er-zhi-bo-zhong-WQAf","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

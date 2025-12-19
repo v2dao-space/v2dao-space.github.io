@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D/生肉】援助妊娠學園"}],["$","p",null,{"children":"的小道具，提高水平，完成全体成员的妊娠任务。或者，在几个人的协助下逃离学园……。合理分配资源，开始下一代开放世界校园RPG吧！\n学生！老师！有钱的姑娘啊！风纪委员会！保健老师们！学生会长！神秘的少女……甚至是女学生的监护人、理事长、校外记者………也就是说，作为学园唯一的男子，每个子宫都需要平等地接种精液！\n使用动画来解释不同女性的各种表演和各种性体位。各种性格的女孩会对你的行为做出各种各样的反应！为了在学校生存并保护精液，我们需要合理使用小道具和金钱。\n\n  \n  \n  \n\n  \n\n \n后缀改7z！！！\n这个游戏说起来有点点渗人！但并不是恐怖游戏，渗人指的是他的角色风格和他的视角设计非常非常像psp上的弹丸论破，我刚开始玩感觉挺好的，作者后续还会更新。男主晚上睡保健室，晚上有点吓人！（tmd我玩个黄油怎么还吓人\n前作的神社的大穴女主也会登场\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/704769","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

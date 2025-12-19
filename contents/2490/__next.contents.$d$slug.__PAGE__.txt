@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【沙盒SLG/高渲染/动态】艾德里安和奥利弗 Adrianne and Oliver Final 精翻汉化版【安卓/2.5G】"}],["$","p",null,{"children":"游戏介绍：\n\n\n\n阿德里安娜的故事将感人，并专注于她生活中的关键决定。\n\n\n\n她可以盲目地追逐自己成为模特的梦想，为了得到它而牺牲她所拥有的一切，\n\n\n\n与她深爱的丈夫保持安全的关系，或者让她的心决定什么对她最好。\n\n\n\n她能够抗拒路上会发现的新诱惑吗？\n\n\n\n她的道德指南针是否足够坚固，足以使她与试图利用她的人保持安全距离？\n\n\n\n她可以对丈夫保持忠诚，还是要把自己的情感寄托在别处？\n\n\n\n我们"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2490","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

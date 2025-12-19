@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【2D动画/无码】KinkHead老师3月作品（156MB）"}],["$","p",null,{"children":"KinkHead老师作品合集更新贴 绝大部分为无修版内容，少部分为有修（24年4月） 压缩方式全为单个压缩，看看党，可以自行选择喜欢的角色下载观看。 若是收集党，可合理使用叶酱一键解压脚本。 合集版于此帖发布日期更至：25.03 纳西妲 赞助地址：https://kinkhead.fanbox.cc"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/3eRDPrryTtZUOoPW","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

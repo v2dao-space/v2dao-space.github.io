@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[PC/安卓RPG游戏] 【爆款绿帽RPG/汉化/双端】NTR 精灵娇妻洛蕾塔 V1.02 STEAM官中步兵版+存档"}],["$","p",null,{"children":"这是一款由【AVANTGARDE】发布的一款爆款精品牛头人RPG。现在STEAM于23年7月22日发布官方中文版，还是步兵不骑马版。讲述精灵娇妻出轨的故事，画风禸感十足~各种喜闻乐见NTR玩法。并且还包含崔眠、异种、多人、夫前犯，西瓜肚等等有趣的玩法~最最有趣的是，游戏还可以选择苦主和女主两种不同的视角来玩耍。带你全方位体验出轨和戴绿帽的牛头人乐趣！还是丝滑全动态CG！最新正式版，附带全CG存档，这款绿油油的NTR大作，不容错过！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/b2453f8ceecfb09c2568f668e0441c11","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【2D动画/补档/有码/B-銀河】とある秘密結社Vtuberがハメ撮り流出した件について"}],["$","p",null,{"children":"工作内容工作内容  包含 5 个大容量奇闻趣事动画！秘密社团 Vtuber 的淘气公主开始已被制作成视频！每个 Vtuber 都包含动画和差异插图。5个大容量动画和 25 个差异插图！！暂时你不’不用担心自己是个白痴……原图：B-Ginga视频：出岛马拉CV：Nekono Mimi Awayuki Mariko Akatsuki Mia Narusaka"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/755485","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

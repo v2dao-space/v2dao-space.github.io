@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D/汉化】援助妊娠學園 Ver2.20（步兵版）"}],["$","p",null,{"children":"制作：Lemon H Games  【更新内容】V2.2更新する超自然の秘薬のレベルカラーが表示されない不具合を修正一部アイテムのバグを修正新しいキャラクターの追加:1. 世にも奇妙な物語 花子2. 両親4名3. 生徒会長:神子4. 潜入した中学生:智子5. 新しいメインストーリーを追加6. ストアに4つの新しいアイテムが追加されました7. ランダム生成アイテムに6つの新アイテムを追加  【攻略】1. 精製塩は「怪談」を抑えることができ、重ねられない。2. 店舗割引クーポンは「人妻」の攻撃を軽減"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/726065","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

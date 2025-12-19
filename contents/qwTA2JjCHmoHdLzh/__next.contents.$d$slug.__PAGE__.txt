@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】 决战前夜催眠同伴的勇者 決戦前夜に仲間を暗示する勇者 【度盘/418M】"}],["$","p",null,{"children":"概要决战前夜——勇者艾伦在讨伐魔王前夕，住在最后的旅馆中。  “胜率只有50%吗……如果输了，我就会死，还是个处男。”  伙伴米蕾尤是一位穿着性感、身材火辣的半精灵。艾伦计划给米蕾尤下暗示药……试图与她发生亲密关系！  本作是一款时长约30分钟至1小时的轻量级18禁RPG。游戏中没有战斗，注重实用性"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/qwTA2JjCHmoHdLzh","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

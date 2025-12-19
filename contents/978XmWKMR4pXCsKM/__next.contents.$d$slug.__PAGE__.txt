@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/个人AI嵌翻/安卓/PC】爱丽丝与恶魔的牢狱 ～凌虐逃脱游戏～（アリスと悪魔の牢獄 ～リョナ脱出ゲーム～）（RJ01313721）"}],["$","p",null,{"children":"观前提示：该游戏含有部分血腥猎奇因素，请谨慎观看 此内嵌汉化版本与安卓直装由叶酱原创发布， 由本人进行了AI汉化、测试修正。 游戏名：爱丽丝与恶魔的牢狱 ～凌虐逃脱游戏～（アリスと悪魔の牢獄 ～リョナ脱出ゲーム～） 此版本：25.06.28发售版本（ver1.00） 入正地址：https://www"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/978XmWKMR4pXCsKM","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

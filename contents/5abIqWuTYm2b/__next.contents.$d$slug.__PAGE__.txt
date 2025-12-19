@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/机翻] 深穹69 Deep Vault 69 v0.4.3 全画廊 PC+安卓 [1.5G/百度]"}],["$","p",null,{"children":"[SLG/机翻] 深穹69 Deep Vault 69 v0.4.3 全画廊 PC+安卓 [1.5G/百度]\n入正：https://www.patreon.com/bohohon\n首次打开画廊会有些卡顿，等待一会即可\n概述：你好，伙计！我可以说，你看上去身体很好！这并不奇怪，因为你是舒适的避难所中的"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/5abIqWuTYm2b","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

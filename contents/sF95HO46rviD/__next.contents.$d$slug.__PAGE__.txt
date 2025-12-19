@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【音声】【RJ01256292】【简体中文版】【PC肌+催○法】任何人都可以做到！确定版「第一次的」颅内高潮！不用手自慰上级篇～成为没有「颅内高潮」就无法活下去的身体～ 大家一起来翻译"}],["$","p",null,{"children":"■トラック紹介\n【1】脳だけで、ずっとイケちゃう世界へ(導入・復習トレーニング)[17:42]\n左右から鳴り響く、甘く誘う美少女たちの声。\n息をつく暇もなく、その声は脳全体に広がっていき、あなたの意識を文字通り「浸蝕」します。\n基本の「PC筋トレーニング」と脳のチャンネルを切り替える「逆複式呼吸」を"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/sF95HO46rviD","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/汉化/全动态】电锯辣妹/GirlAndChainsaw 官方中文步兵版+存档★全CV【2.5G】"}],["$","p",null,{"children":"丧尸突然出现在宿木街并开始攻击人类。为了防止病毒扩散，立即实施了高强度的封锁，变成了封城状态，连通讯都不允许，更不用说交通和货物的流动了。在这样一个无法无天的城市里，等待幸存者的，不是慢慢的变成丧尸、要不就是因争夺物资而死亡！在这样街区外的宿木学园，也是本作女主角天野姬的生活的地方。某天想利用拍摄街道的影片赚钱，却发现校外发生车祸。导致路障被破坏掉，让丧尸涌入校舍内。为了逃离校舍，姬酱单手拿起电锯全力逃跑著！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/49d2b963a9b25c6d8f6eaf78eddc0d09","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

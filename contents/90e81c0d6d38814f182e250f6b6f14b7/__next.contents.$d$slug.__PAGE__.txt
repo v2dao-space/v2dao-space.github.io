@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【2D动画/有修正/survive】電脳少女は仮想世界に沈みゆく モーションコミック版"}],["$","p",null,{"children":"看了挺久了，挺想要的，所以就买了，这个漫画本体就挺色的，有了这个动画和配音就爽多了。可惜就是很少打折，还是原价买了 虽然对扶她不是很感冒，但是这个做的还不错，挺有感觉  作品内容サークル「矢印キー」の大人気フルカラーコミックが音声、動きのついたモーションコミックで登場!サークル「矢印キー」の大人気フルカラーコミックが音声、動きのついたモーションコミックで登場!原作の絵のまま、動きや音声が加わり実用感アップでお届けいたします。ぴっちりスーツの可愛い少女が、色々とデカい異種女に嫌というほど沢山可愛が"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/90e81c0d6d38814f182e250f6b6f14b7","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

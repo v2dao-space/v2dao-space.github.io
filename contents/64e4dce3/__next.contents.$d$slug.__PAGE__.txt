@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/未汉化】クルセイダー・プリンセス～闇に堕ちるココロとカラダ～ [1G/百度]"}],["$","p",null,{"children":"模拟因邪恶堕落而占有圣国而戴绿帽的。 据说是由女神创造的指路之光而诞生的王国。 长期太平，国家繁荣，人民富裕。 然而，另一方面，不同于战争世界的人性黑暗，正在化作黑暗的阴影，开始笼罩全国。 一个人有了钱，变得富有，并且花钱。 一个人变得抑郁而成为小偷并犯下恶行。 人们已经习惯了和平的世界，失去了危机感。 即使在和平的世界里，也可能发生此类事件。 时间是圣王国350年。 罗伊是皇家骑士团的一员，他正在王国各地的一个村庄执行任务。 最近，村子里开始出现土匪，时不时袭击村民，造成不少麻烦。 他被王国派"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/64e4dce3","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

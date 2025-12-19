@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中】Prison Break Princess v1.01"}],["$","p",null,{"children":"\n\n\n\n■故事梗概■\n外表端庄心灵美好的人们居住的国家【圣基恩王国】\n这个国家的公主【尼普公主】是绝世的美少女，作为难得一见的【天才魔法师】而闻名遐迩。\n才色兼备的她却有着对任何人都不能言说的秘密。\n那就是，【喜欢做特别好色的事】!!\n每个夜里，她都在阅读从护卫队长【龙斗】的祖国订购来的色情同人志，"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/zWvdQMgN5N9q","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

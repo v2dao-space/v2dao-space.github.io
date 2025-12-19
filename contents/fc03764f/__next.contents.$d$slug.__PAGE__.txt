@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/生肉】ストリップファイター5 CHIMPOCON EDITION"}],["$","p",null,{"children":"社团名StudioS 支援社团也可以使用DL点数进行支援贩卖日2020年12月26日系列名リョナ格闘ゲームシリーズ年龄指定R18作品类型动作有音乐文件形式软件支持的语言日文分类萝 正太 羞辱 造孽 强X 巨乳/爆乳 腹击 虐待/ryona文件容量578.27MB正如名字所说，是黄油界的街霸。出招有一定的复杂性，但格斗新手和老手都能愉快的游玩。本系列的一大特点就是能将敌人打至爆衣，然后进行雷普（PS：路径不要带中文"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/fc03764f","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

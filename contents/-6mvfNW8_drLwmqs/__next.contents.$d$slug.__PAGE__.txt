@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[ACT/PC/无修正/官中/补档]The shadow of Yidhra 伊德海拉之影[度盘/441mb]"}],["$","p",null,{"children":"排行榜：   24小时内第2名 7天内第3位 30天内5位 年间第44名 累计第197名       贩卖数： 30,000 评价： 4.49   (9,373)      收藏数： 27,785 赏析数： 113 (前往赏析)         社团名 WhitePeach  关注8,353    "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/-6mvfNW8_drLwmqs","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

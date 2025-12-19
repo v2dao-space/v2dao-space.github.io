@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"关于我带着脑内恋爱选项系统穿越到男女比例失调的炎孕世界成为西门孝爆炒巨乳肥臀美少女这件事"}],["$","p",null,{"children":"经常看本子的朋友都知道，本子里面有这么一类人：只要他们出现，你就知道接下来的故事会走向不太纯爱的方向。男主的笑容会转移到女主的身上，女主的理智会转移到看完本子的人身上。没错，他们就是苦主的噩梦——黄毛！ntr本的代表——肥宅！屌蘸大麻的战神——黑人！小小身体大大能量的刺客——小孩！他们就是“四大天王”，咸湿的眼神、淫贱的笑意，乞撚人憎的动作，已知他们是男人中的极品了。他们每个都有过人之处，每个都有独门绝招，斗志和耐性技惊四座，在本子界的地位，就像强者界的海虎天道一样厉害啊！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/guan-yu-wo-dai-zhe-nao-nei-lian-ai-xuan-xiang-xi-tong-chuan-yue-dao-nan-nv-bi-li-hGNm","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

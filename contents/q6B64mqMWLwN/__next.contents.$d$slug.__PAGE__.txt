@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/机翻版】ドミギャンリモート -Dominate Gamble Remote- Ver1.11 【度盘/486MB】"}],["$","p",null,{"children":"  \n赚钱追杀女总裁！\n控制主角浦海（名字可更改），打倒女社长！\n被流放到公司内孤岛、时间充裕的主人公，与罪魁祸首、女社长铁天仲展开对峙。\n我决定给他一个机会。\n正当思考这个问题时，主角遇到了一家名为“Cosmosex”的在线赌场。\n在那里，他了解到甚至他的“行动自由”也受到威胁。\n主角觉得这个可以"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/q6B64mqMWLwN","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

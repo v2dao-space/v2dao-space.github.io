@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【MMD/有码】古い合集【3.76G】"}],["$","p",null,{"children":"https://fantia.jp/fanclubs/4557下了部新作，然后就想着做格合集。但我做合集基本没有齐的情况，因为只弄自己喜欢的。这作者的碧蓝航线基本是ntr，然后我就在想一件事情，没玩过碧蓝航线手游的我，在Crosswave里摸舰娘，还和她们结婚，算不算是牛了手游玩家(｀･ω･)桀桀桀，我要成为恶毒的男人(`ヮ´ )"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/768024","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

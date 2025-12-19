@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【欧美SLG/汉化/动态】茶歇 Coffee Break v0.24 汉化版【安卓/3.5G】"}],["$","p",null,{"children":"今天给大家带来一款由【苦茶子社区】汉化的欧美SLG/游戏：\n\n\n\n茶歇 Coffee Break v0.24 汉化版【安卓/3.5G】游戏介绍：\n\n\n\n我们的世界充满了神秘的地方。\n\n\n\n有些是如此神秘，几乎不可能进入，有些是如此致命。\n\n\n\n以至于没有人有勇气这样做，而另一些则如此奇怪。\n\n\n\n以至于你甚至不会相信它们的存在。\n\n\n\n这个故事发生在一个更加特殊的地点。我想邀请您来这里坐坐！\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2705","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[たくわん] ぱぱかつ！もしパパ活相手が実は全員娘の友達と変装した娘だったら 啪啪幹活! [中国翻訳][無修正][DL版]"}],["$","p",null,{"children":"精力深不見底、瘋狂約砲發洩!!!性福美滿的爸爸活LIFE！能吃到大叔的肉棒…真是中大獎了♡為了發洩過剩性慾、逼不得已開始『爸爸活』的絕倫男。戴著『父親』[爸爸]這張面具、理性與本能來回拉扯！故事簡介：不想被發現在做爸爸活的父親‧幸次。與不信任幸次為人的義理女兒‧芽依。芽依唆使喜愛Ｈ的好友們、最後自身也進行變裝不斷的施展美人計陷害幸次。因為一場意外導致芽依對幸次的好感度瞬間達到MAX、變成真心想要誘惑他、感到困擾的幸次一心只想守護健全的親情與威嚴…但卻事與願違!!未来数位：点我有爱自取"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/748665","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【官中/无码/SLG】Mad Island（游戏宣传）"}],["$","p",null,{"children":"前言本期是游戏宣传本游戏是一款高度自由化的沙盒SLG+PRG游戏游戏玩法类似饥荒注意：下载链接是STEAM官网，建议正版购买  Story你和四个朋友在巡航时，船因碰到了巨大岩石而沉没。幸运的是你飘到了附近的一座岛上，你在海滩上醒来，并遇到了第二位男性主角，从此开始了你的求生生活。你的目标是找到你的朋友并逃离小岛。游戏详情名称: Mad Island开发商: EmadePlus发行商: EmadePlus发行日期: 2024 年 5 月 23 日抢先体验发行日期: 2024 年 5 月 23 日"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/771609","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

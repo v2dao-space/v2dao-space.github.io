@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/生肉】神彩の乙女 ～売れすぎた彩視る商人～【磁力/6.8G】"}],["$","p",null,{"children":"入正页面：点击转跳社团名/商标名：ダイジョビ研究所贩卖日：2025年04月19日 0点支持的语言：日文分类：男主人公 淫语 大量汁/液 战斗H 娃娃脸/婴儿肥 亲热/甜蜜 怀孕 哦吼淫叫 製品情報 基本CG250枚　(内えっちCG164枚)　/　差分込総枚数約3400枚 えっちシーン数150+えっち"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ZBMW3OsT8haBzDoO","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

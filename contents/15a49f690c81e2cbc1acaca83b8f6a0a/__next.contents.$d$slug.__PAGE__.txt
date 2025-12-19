@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻 】星の秘宝エリクサー～イッてもすぐに回復するから、我慢出来なくて"}],["$","p",null,{"children":"制作介绍サークル名コシもち。 フォローする207 サークルを支援するDLポイントでも支援できます販売日2024年06月15日 0時更新情報2024年06月15日 更新情報作者はぎのもち年齢指定18禁作品形式ロールプレイング音楽ありファイル形式アプリケーションジャンル女性視点 女主人公 色仕掛け 浮気 ファンタジー 寝取られ 寝取り 命令/無理矢理ファイル容量455.2MB游戏介绍その他、ゲーム概要シナリオの概要、キャラ紹介などは上記画像一覧をご確認ください。以下、ゲーム内容の概要です。・W寝取ら"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/15a49f690c81e2cbc1acaca83b8f6a0a","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

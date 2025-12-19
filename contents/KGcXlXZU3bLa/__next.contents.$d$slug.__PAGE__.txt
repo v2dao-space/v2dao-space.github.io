@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/机翻】Succubus Reborn v20250305a【度盘/1G】"}],["$","p",null,{"children":"游戏简介： 游戏为对战卡牌SLG模式，借鉴了很多游戏王、昆特牌，炉石的设定和系统， 但是，游戏的目标却是~~~榨！精！ 在游戏中，你需要搭配卡组，带上无数可爱魅魔，以及各种各样的强化卡牌， 在对战里，堂堂正正的把你的对手彻底榨干！ 可所有的卡面，互动，H，都是LIVE2D制作全动态，丝滑流畅。 超高"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/KGcXlXZU3bLa","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

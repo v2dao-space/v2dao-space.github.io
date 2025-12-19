@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/GAL】恋する気持ちのかさねかた（2部）"}],["$","p",null,{"children":"前言分享一部ensemble的作品本部作品无带趴萌妹，放心食用一花、美樱、日和党FD的时间长度真的很足汉化补丁已嵌入游戏，人懒截官图系列  Story本篇——成就最初且为最后的恋爱传统校双方的结婚——主人公·皇城蓮所在籍的清桜学園与坐落在侧旁的白羽学園。以两校的理事长互结为连理为契机，于来年度的暖春，将实行学校的合并。某日，蓮与清桜学園学生会长·月島沙織收到了清桜学園的理事长，同时又是蓮的兄长·皇城凛的传唤。「希望你们能找出学园统合所带来的，学生们的烦恼或不安，以至问题点」如此收到了这般委托。蓮"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/765940","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

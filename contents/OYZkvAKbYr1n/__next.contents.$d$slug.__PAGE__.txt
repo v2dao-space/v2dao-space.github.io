@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】 NTR欠债偶像 ネトラレ借金アイドル～僕がプロデューサーになって事務所を立て直す話～ 【1.9G/度盘】"}],["$","p",null,{"children":"  \n突然，社长连夜逃跑，只留下巨额债务的小型偶像事务所“林檎Production”。  刚刚成为新米制作人的我，与个性丰富的偶像组合『1/60（One Frame）』一起，决定以一个月后的单独演唱会成功为目标。  为了从逼近的债务追讨者手中保护偶像们，克服事务所存续的危机，我开始了倾尽全力的挑战。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/OYZkvAKbYr1n","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D动画/有码】kaos新作合集【Pixeldrain/42V/5.14G】"}],["$","p",null,{"children":"https://fantia.jp/fanclubs/20654月到6月的合集。不过除了6月，其她的是以前下的，所以没有字幕和阴毛和淦兄弟你xp好jb怪的差分。当然也只弄了我喜欢的。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/t2Y1pi7sCDLYordm","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【SLG/生肉】異界廃墟～淫靡なる闇の贄～"}],["$","p",null,{"children":"我似乎不小心买到了我最不擅长的弯弯绕绕一片漆黑没有小地图还有怪闲逛追人瞎跑只会撞机制鬼的恐怖游戏😭 虽然恐怖程度不断很高，除了初见杀后就是单纯的涩了 但耐不住我菜啊，一直迷路去不了下一关，看不到更多女鬼了😔\n\n\n\n\n社团名\nぐーすーか \n关注1,038\n \n\n\n\n\n\n\n\n\n\n贩卖日\n2024年0"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/0mT7HPCUyZa1","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

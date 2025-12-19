@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【MMD/有码】推しルビクリ（2D/VR）"}],["$","p",null,{"children":"这个作者去年赞助过一段时间 后面暂停了\n不过好像似乎大概也许没发过 也可能别人有发过我就没发\n有印象的兄弟萌帮我回忆回忆\n  \n这作者两种形态 一个是这篇一样的偏二次元一些的 另一种是VAM建模偏写实的\n然后视频都不是很大 不知道怎么压缩的 感觉清晰度还是可以的\n今天这篇是刚更新的 星野家唯一的活人"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/tFCWh1PrsY6w","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[欧美SLG/汉化/动态]圣塔县的生活V0.6.1 汉化版[更新][安卓][2.4G]"}],["$","p",null,{"children":"圣塔县的生活V0.6.1 汉化版\n\n\n\n这是一款建模很棒的沙盒类SLG游戏游戏出场人物很多，从人物看，作者对游戏的定位可能是一款大型游戏！并且CG建模也很不错，内容非常的丰富！\n\n\n\nPS：密码问题，那个密码在客厅的电视旁边的相框里，需要先去点一下相框，然后回去点报警器，密码需要输入的，直接键盘输入8423（用电脑键盘，手机点一下面的输入密码哪里会弹出键盘的。）\n\n\n\n\n\n\n\n[游戏介绍]圣塔县…"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/633","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

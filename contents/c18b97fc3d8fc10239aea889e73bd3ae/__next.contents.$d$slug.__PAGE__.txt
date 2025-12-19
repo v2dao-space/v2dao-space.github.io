@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/机翻】扭曲的记忆 Twisted Memories v0.8b PC [3.5G/百度]"}],["$","p",null,{"children":"[SLG/机翻] 扭曲的记忆 Twisted Memories v0.8b PC [3.5G/百度]游戏简介:《扭曲的记忆》是一款关于一个丑陋的混蛋穿越回过去并变回青少年时期的游戏。一个相貌平凡的少年，心智却是一个变态的老人，能做出什么事情?他过去的女人，他能腐蚀多少?他会建立他一直梦想的后宫，还是会找到他一生中一直缺少的真爱?选择权在你。更新日志:v0.8b-错误修复-为所有猥亵场景添加音频-在整个游戏中添加了一堆sfx-添加了禁用保存命名的选项-还有一些小事情     解压出的图片改成zip"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/c18b97fc3d8fc10239aea889e73bd3ae","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

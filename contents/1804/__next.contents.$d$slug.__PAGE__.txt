@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【日系RPG/汉化/双端】女骑士伊拉~王国的归来汉化版【PC+安卓/700M】"}],["$","p",null,{"children":"游戏说明：\n\n\n\n一款BKYSS汉化组汉化的日系RPG游戏，\n\n\n\n本作品只有色情事件处理的战斗。没有升级等麻烦的操作。\n\n\n\n目的地是会显示“！”标志，所以可以畅通无阻游玩。\n\n\n\n内容主打羞耻、耻辱、曝光、凌辱、被威胁的无奈，被强制的情况很多。\n\n\n\n游戏H事件高达42个，8种以上的服装，2个结局总体还是不错的。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n游戏介绍：\n\n\n\n阿尔弗洛拉王国的女骑士艾拉（处女"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1804","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

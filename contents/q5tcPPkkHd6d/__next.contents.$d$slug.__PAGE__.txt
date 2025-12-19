@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】bubble girl"}],["$","p",null,{"children":"进入一个充满泡泡、啦啦队和浪漫火花的幻想世界！ 在这款结合迷人视觉和简单有趣的益智游戏中，拯救被困在泡泡中的角色。 每通过一关，“泡泡女孩”都会用她不可抗拒的魅力让你心动不已。 而当你成功完成每位角色的第四关时，炙热浪漫的时刻即将上演！ 啦啦队登场： 6位个性鲜明的啦啦队员，每位都有独特的魅力、风格"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/q5tcPPkkHd6d","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

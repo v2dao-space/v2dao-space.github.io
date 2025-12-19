@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/像素/魔物娘/开大车】ゲームデモ_Ver1.27  补更"}],["$","p",null,{"children":"【ACT/像素/魔物娘/开大车】ゲームデモ_Ver1.27 补更 游戏介绍： 一個像素ACT小遊戲，內容不怎麽多，幾乎沒有對話，探索一個怪異的旅館， 和一些奇奇怪怪的怪物娘，機器娘，異種，全程像素動態，還在開發中 下载地址: 注意：本站部分\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/act-xiang-su-mo-wu-niang-kai-da-che-geemudemo-ver1-27-bu-geng-OAmz","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

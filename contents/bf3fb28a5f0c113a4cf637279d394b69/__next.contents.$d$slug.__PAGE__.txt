@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/无码/ADV】装甲悪鬼村正"}],["$","p",null,{"children":"9这   无   是   游   源   东   运   打   补   适   另   自   本   周   质   3   架   传   英   不   唯   留   个   码   我   戏   于   拼   行   包   丁   用   附   行   作   年   量   D   空   奇   雄   属   有   于游   补   买   本   他   西   测   上   效   本   横   配   做   大   极   机   世   站   物   "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/bf3fb28a5f0c113a4cf637279d394b69","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

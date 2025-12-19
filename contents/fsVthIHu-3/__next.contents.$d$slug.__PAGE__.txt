@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【同人动画/自制中字】【japs8005】Loving mother 1-10合集【度盘/12.13G】"}],["$","p",null,{"children":"这个是japs8005大佬的lovingmother系列，加起来一共1个小时（哇真的好长好大，因为2k的所以12G），因为大所以大家保存后再下吧，免得坏了（以前遇见过大的东西直接下下来解不了压啥的，所以大的大家还是可以保存下），大家慢慢尝尝咸淡吧 鉴于直白的winrar压缩幻影坦克已经炸链几次了为了"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/fsVthIHu-3","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

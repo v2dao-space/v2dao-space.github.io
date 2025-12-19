@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】魔法少女マジカル★リンネ 姦全敗北"}],["$","p",null,{"children":"游戏分类贩卖日2024年01月31日 0点插画寄鳥ミドリ声优笹木ころん年龄指定18禁作品类型角色扮演 有声音 有音乐文件形式软件支持的语言日文分类战斗H 魔法少女 内射/中出 羞耻/耻辱 强制/强迫 触手 机械奸 巨乳/爆乳文件容量327.19MB游戏介绍■怪人が魔法少女を倒す戦闘エロRPG!世界征服を企む悪の組織は、マジカル☆リンネちゃんの手によって崩壊寸前!組織最後の怪人となった主人公は、博士の改造とリンネちゃんへの憎しみでパワーアップ!さぁ、魔法少女をボコボコにするぞ!!※本作品の想定プレ"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/738973","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D动画/无修】SizeHonolulu 长视频合集至2025.03.05 【mega/7.7G】"}],["$","p",null,{"children":"感觉最近发的都是极巨化类型啊，其实我现在不是很爱看这种，不过既然存了就发出来分享一下。 最开始我入门这个领域还是Eskoz https://www.patreon.com/user?u=658734 这位大师的游戏Diminishment，现在手机和电脑上还存着，只不过这位老师的作品网上流传不多，现"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/EtUQ2vaRlUZqt6gI","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【官中/ADV】催眠学習 -Secret Desire-"}],["$","p",null,{"children":"前言补档系列官中链接：JUMP现在建议DL购买（DL也有官中），目前发30%的打折卷（并不歧视SM，便宜最划算）（从我这里白P最划算，嘿嘿嘿！）注意：官中（不分中英日文，都是带码的）本游戏包含大量丝袜（黑丝）元素，一脸嫌弃的穿着丝袜H~  游戏详情语言:English, 简体中文, 繁體中文容量:979.2MB发行商:Shiravune开发者:Dark One!发行:October 22, 2021Story主角「赤野聪一」是个不会读书的吊车尾学生。他因为考试的结果而与学生会长兼全校第一才女「姬"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/769573","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

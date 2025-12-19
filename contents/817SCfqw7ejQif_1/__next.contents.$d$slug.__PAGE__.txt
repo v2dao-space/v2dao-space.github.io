@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/PC/汉化】 近未来都市警察 /近未来都市ケーサツ v1.05 含存档【百度/838MB】"}],["$","p",null,{"children":"【RJ01263918】近未来都市ケーサツ v1.05    解压方法:解压工具在我简介里，把lz4解压文件下载后进行解压，把下载好的资源拖进lz4.exe文件当中即可 入正链接： https://www.dlsite.com/appx/work/=/product_id/RJ01263918.ht"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/817SCfqw7ejQif_1","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

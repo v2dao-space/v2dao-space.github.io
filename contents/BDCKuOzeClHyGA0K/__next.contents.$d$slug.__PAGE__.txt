@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[シロノマヒロ] 妻を同窓会にいかせたら [中国翻訳] [無修正]"}],["$","p",null,{"children":"作品内容:(下面内容为机翻) “同学聚会”带来的激动人心的重逢。已婚妇女的裆部因欲望而悸动和湿润…… 这些家庭主妇充满爱意并渴望欲望，她们参加同学聚会，最终与前男友、老朋友、暗恋对象，甚至曾经强奸过她们的老师发生了不正当的身体关系。虽然她辩解说只是因为怀旧和喝酒太多而一时分心，但她那充满性欲的成熟身"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/BDCKuOzeClHyGA0K","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

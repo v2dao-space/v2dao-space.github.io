@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/汉化] 黄毛漂流记 V1.091 STEAM官方中文步兵版   3月更新"}],["$","p",null,{"children":"村长热情的为你介绍岛上的其他居民：平儿，林姨，木匠...大家对于你的到来都十分欢迎。你将以建设小岛为己任，在这里展开一系列精彩的探索。通过各具特色的任务来保持与NPC们之间的好感度，性格迥异的NPC们都有不同的剧情。闲暇之余，你还可以通过钓鱼，种植，售卖等机制来赚取海岛币，购买更多建筑蓝图来建造小岛。你还可以通过码头的快艇前往其他的特色岛屿，结识更多的角色，并邀请他们共同来建设小岛。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1a8646188686324a52c490d54c8af244","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

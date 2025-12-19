@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化同人本/新汉化】[メネア・ザ・ドッグ] 瑞葉におしおき!懲罰瑞葉 [中国翻訳] [無修正] [DL版]"}],["$","p",null,{"children":"★無修正製作★雙書衣★特別收錄：作者給台灣讀者的話 離家出走缺錢的瑞葉遇到了搭訕失敗的處男大叔，兩個人打賭援交遊戲，提出「按照彼此高潮的次數付錢」的條件，想向純情處男大叔大削一筆，結果反而弄巧成拙，為了還債還拖了好友下海！超級歡樂的無修正作品。   bookwalker：点我 有爱自取"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Z95aWiDfTvof_u60","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

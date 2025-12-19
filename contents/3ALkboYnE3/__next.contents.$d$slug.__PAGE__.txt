@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/官中无修】A Promise Best Left Unkept – Aya Edition v1.0.0s"}],["$","p",null,{"children":"《一诺千劫 – 阿雅版》是硬核绿帽视觉小说《一诺千劫》的衍生版，独立成章（您无须阅读原始版本故事）。 这部情色生动、引人入胜的小说长达30万字，为您奉上更精彩的故事，更妙趣横生的新冲突，更搞怪逗趣的新人物。 尽管在本书中，阿雅将荣升为女主角，哈利依然是故事的男主角，情节围绕他为爱奋斗，却最终被带上绿"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/3ALkboYnE3","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

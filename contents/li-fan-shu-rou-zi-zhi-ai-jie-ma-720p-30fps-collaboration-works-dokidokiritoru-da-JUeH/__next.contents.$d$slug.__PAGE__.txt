@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【里番/熟肉/自制ai解码/720p/30fps】【Collaboration Works】dokidokiりとる大家さん お家賃#1-6【度盘/913MB】"}],["$","p",null,{"children":"有朋友很早给我留言要的里番解码版，小小房东，剧情是房东小姐变着方儿的cosplay着和男主深入交流，论题材楼主还是觉得可圈可点的，但是嘛（这根本就是幼女吧，我看着枪都很难提起来呀），这个楼主就不主观xp打分了，已经不在楼主的xp范围了属于是就很难主观评价孰优孰劣，嘛，希望大家喜欢吧（这个番码的格式解"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/li-fan-shu-rou-zi-zhi-ai-jie-ma-720p-30fps-collaboration-works-dokidokiritoru-da-JUeH","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

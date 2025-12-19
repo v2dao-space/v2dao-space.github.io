@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【自购】【RPG/ADV/生肉】令和DE口リホイPeppermint"}],["$","p",null,{"children":"BLACK PANDA之前作品（RJ279363）的翻版（炒冷饭？），添加了很多东西，后面一个DLC还在制作，之后有更新的话我也会同步更新  社团名BLACK PANDA 关注9,719 支援社团也可以使用DL点数进行支援贩卖日2024年06月30日 0点系列名口リホイ作者腹黒ぱんだ剧情腹黒ぱんだ插画腹黒ぱんだ声优山田じぇみ子 / 小花衣こっこ年龄指定18禁作品类型角色扮演有声音有音乐文件形式软件支持的语言日文分类像素 动画 RPG制作大师 萝 怀孕 出产 强X 平胸/飞机场文件容量1.02GB"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/b021f410c5491befa33b89c6801fe395","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

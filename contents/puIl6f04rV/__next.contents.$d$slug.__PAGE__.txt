@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"魔辱之馆"}],["$","p",null,{"children":"翻译：太阳黑子\n书名：魔辱之馆\n原名：魔馆·魔绊—白帆里　美帆—牝奴隶的轨迹\n译者序：这是继“美少女奴隶的首轮”后，第二篇翻译深山幽谷的官能调教小说。这一套作品在篇幅上、调教的深度上和苛烈度上都要更高于“美少女奴隶的首轮”，尤其文中令人眩目的各种调教方式，刺激着所有心中隐藏有肆虐欲望的读者的深度描写，堪称为硬派的SM调教小说的教典也不为过。\n而经过上次翻译的经验，这一次的翻译过程相信会更顺畅，亦会尝试用一些特别的文笔和译法，在不改原着的味道下加入一点补充的描写。欲望高胀的同好们，欢迎光临这个背德的新世界！\n第二套翻译作品《魔辱之馆》也终于完成了，篇幅上比前作《美少女奴隶首轮》还要长三分一以上，但总翻译时间却比前作短了很多，我想是因为有了上次的经验所以今次便写得更熟练和得心应手吧。\n这套作品对SM调教描写的深入和奇想百出，相信在SM小说史上是前几名的妙作，而不只是我喜欢，在连载以来也一直多得很多同好回应支持，才令我有继续写下去的动力，在此对各位曾回应支持此作的网友致谢。\n在这套超长篇作后我也要好好休息一下，至于下一套作品希望可在七、八月间和各位见面！\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/puIl6f04rV","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

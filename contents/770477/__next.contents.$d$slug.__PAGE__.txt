@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【官中/SLG】 バニーガーデン（ver1.00）"}],["$","p",null,{"children":"前言由于（ダスクパブ）与本站规定有冲突，重新发布一部作品本作品首发任天堂和SWITCH就取得火爆销量，STEAM版特别好评超94%因为非常有名，号称超越R18的全年龄作品STEAM正版：JUMPバニーガーデン（qureate）官网：JUMP有能力的大佬可贡献1份Savedata&CG包PS：玩着玩着就上瘾了  Story乾田杯人は会社での重大なミスが原因で解雇され、絶望に包まれていた。やけ酒を求め、行きつけの大衆居酒屋へ向かおうとする中、運命の出会いが待っていた。しょぼくれた表情の主人公は、自身"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/770477","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

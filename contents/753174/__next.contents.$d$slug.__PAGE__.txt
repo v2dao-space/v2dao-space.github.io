@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D游戏/SLG/生肉】屋根裏の眠り姫"}],["$","p",null,{"children":"社团名スノーフレーク 关注804   贩卖日2024年03月22日 0点作者スノーフレーク声优沢野ぽぷら / 涼貴涼年龄指定18禁作品类型模拟有声音有音乐有动画文件形式软件支持的语言日文分类触摸/抚摸 动画 3D作品 萝莉 正太 情侣 初体验 姐姐×正太文件容量合计 10.13GBゲームについて  屋根裏部屋に迷い込んだ少年「迷子」は、不思議な少女「眠り姫」と出会い、雨が降り止むまでの数日間を一緒に過ごす事になります。キス、性器監察のような[行為]を選んで、二人に色んなエッチをさせましょう。二人"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/753174","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】アースの秘宝【1G/百度】"}],["$","p",null,{"children":"  \n■地球的秘宝\n场景数86个。基本CG超过90张。总图片数（包括素材）超过700张。\n连接睦月庵三部曲的新故事…\n从前作《萨乌拉的救世主》的时间轴开始…另一个僧侣的故事…。\n战斗\n敌人、队友、无即死攻击。\n普通战斗100%逃跑，逃跑不会有惩罚，部分普通战斗无法逃跑。\n普通战斗全灭会回到基地，部分"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/DNSeXDcKI73Z","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

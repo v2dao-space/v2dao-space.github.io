@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化同人本/新汉化】侵犯催○4 身在男生仅1位的学校中被性格最差劲的霸凌者给疯狂侵犯"}],["$","p",null,{"children":"日文原名：[ぷぅのぷぅぷぅぷぅ]犯され催○4 男子1人しかいない学園で性格最悪のイジメっこに犯されまくる[中国翻訳]入正页面：点击转跳社团名/商标名：ぷぅのぷぅぷぅぷぅ贩卖日：2024年06月13日 0点支持的语言：中文(简体字)分类：系列作品 高冷攻 内射/中出 乳交 口交 多p/乱交 反向奸 无表情【故事简介】每天都被观音坂圣罗与来栖亚里莎欺负的主人公，有一天拿到一个不可思议的吊坠，把那两人的认知改写成了「欺凌」=「做爱」他向学校的修女安娜解释了情况，但没有得到她的相信。不仅如此，连修女也被"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/f265a184ef40a09b4c0dc14da7edd391","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

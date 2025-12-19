@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[经营SLG/汉化/动态/有CV] 怪物娘学园モン娘学園 V1.31 DL官方中文版"}],["$","p",null,{"children":"人类的学校以培养学生并让他们毕业为目的。然而,怪物娘学园则与人类学校有所不同。为了运营学校，必须通过卖春来筹集资金,如果与未受教育的怪物娘互动，客人有可能会受伤。如果去做H的事情就会有人受伤……这样的学校将很快倒闭"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/a4a372da4b1cb16f9fb7fce14f72531a","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

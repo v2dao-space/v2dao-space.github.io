@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【美系RPG / 开坑 / 黑卡蒂部分汉化】亨特里亚编年史3 The Peacekeepers V0.6"}],["$","p",null,{"children":"写在开头： 大家好，这回给大家带来的依旧是由【N_taii】作者的高质量新作（未完结）–亨特里亚编年史第三部的部分汉化。 目前游戏最新版本为0.7，作者表示由于他本人工作原因，接下来0.8版本更新后，将停更一段时间。 为什么不放出0.7，依旧是根据作者的意思，他本人在P站更新中表示不希望最新内容被流出，影响到游戏制作的热情。 作为一个会免费放出旧版的良心作者，我当然也不会提前放出最新版的资源。故这回放出的是0.6版本。 我的汉化并不以盈利为目标，所以希望大家也多多支持作者，支持优秀的作品完成。 "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/707709","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

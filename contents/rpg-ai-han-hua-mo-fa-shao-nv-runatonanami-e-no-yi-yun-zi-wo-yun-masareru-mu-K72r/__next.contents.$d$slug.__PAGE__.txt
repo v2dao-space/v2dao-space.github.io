@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】魔法少女るなとななみ-悪の遺伝子を孕まされる母娘-（RJ01467184）"}],["$","p",null,{"children":"社团名 溺水船リリオン           支援社团也可以使用viviON点数进行支援        发售日 2025年11月20日 0时   作者 しろやぶ   剧情 しろやぶ   插画 きーはっく / 戸ケ里 西壁 / mak066 / くまっち / なる / curv / みはむ / 松本家 "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/rpg-ai-han-hua-mo-fa-shao-nv-runatonanami-e-no-yi-yun-zi-wo-yun-masareru-mu-K72r","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

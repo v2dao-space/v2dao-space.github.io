@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】 淫眠App~用春夢讓妳成為老子的女人! 淫眠アプリ~淫夢で俺の女になれ!~【575M/度盘】"}],["$","p",null,{"children":"  \n概要：神谷惠理奈是班上的核心人物，长相出色，备受尊重，而且拥有讨人喜欢的好身材。在过去三年里，向她告白却遭遇失败的男孩不在少数，但像我这样的小子甚至都没有考虑过那方面的事情。在即将举行的毕业典礼前，虽然在一起可能不现实，但希望做个美梦，让她对我一回吧！原来是这样啊！\n我真想拥抱那样的美女，想和"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ILxISIVmi_ht","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

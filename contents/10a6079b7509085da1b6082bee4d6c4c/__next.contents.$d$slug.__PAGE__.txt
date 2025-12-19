@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"正太的任务：欧金金被瞄准了！"}],["$","p",null,{"children":"这是一款【ハリケーンドットコム】社团发布的超有趣新作游戏。游戏全部战斗都是动态H，全程动态，不仅有动态点绘CG，还有高质量LIVE2D动态CG，以及静态社保CG。游戏里不管任何女魔物还是女NPC都想吃男主的欧金金，堪比唐僧肉！可怜（令人羡慕）的男主不是被敌人榨干就是被队友榨干…她在世界各地召唤出了大量魔物娘~全部都是身材爆炸异常饥渴的碧·池！世界各地都被魔物娘占据，隻要有男人接近，就会被榨干，变得毫无斗志！者的第8代传人！小王子【屌】拿走了自己老爹的勇者剑..开始了一场名爲[找到好色大姐姐一起冒险]的丧病旅途….这个不是被队友榨干就是被敌人榨干的旅途…EMMMM…小王子【屌】的命运会如何呢？！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/10a6079b7509085da1b6082bee4d6c4c","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

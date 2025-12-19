@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【官中/SLG】私の撮影スタジオ（ver1.8）"}],["$","p",null,{"children":"前言最近站内网络连接有问题+高考，故发些不拔的游戏祝高考的各位复习顺利，别想着黄油+黄瓶有能力的大佬可贡献1份SavedataDL：JUMP 社团信息社团名カノンダ 贩卖日2023年06月07日年龄指定18禁作品类型模拟 有音乐 有动画文件容量194.69MB游戏信息「私の撮影スタジオ」は、AV映像制作会社を経営するシミュレーションゲームです。女優を雇い、AVを撮影し、スタジオを発展させて目標を達成しよう。メインターゲットであるヒロイン達を堕落させ、目指すは業界ナンバーワン!  様々な手を使って"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/773424","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

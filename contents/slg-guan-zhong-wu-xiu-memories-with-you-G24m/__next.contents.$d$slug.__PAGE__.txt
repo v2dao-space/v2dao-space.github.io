@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无修】Memories with You"}],["$","p",null,{"children":"《与你的回忆》是一款喜剧视觉小说。 再次与熟悉的角色哈雷奎娜和爱丽西亚重逢，她们将以全新身份登场，体验一系列温馨又幽默的故事，并帮助主角米奇在三位迷人的女孩中找到真爱！  主角的人生因一份残酷的诊断书而瞬间陷入混乱。 在生命最后的日子里，他流连于昏暗的酒吧，用酒精和苦乐参半的回忆麻痹自己。 他的青春"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/slg-guan-zhong-wu-xiu-memories-with-you-G24m","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

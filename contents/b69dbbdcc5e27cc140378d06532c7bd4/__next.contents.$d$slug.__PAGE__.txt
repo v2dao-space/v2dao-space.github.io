@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"澡堂女友 - 恋爱和泡澡都热火朝天 -銭湯カノジョ -恋もお風呂もアツアツで-"}],["$","p",null,{"children":"Story-为什么我一定要穿女装啊！？-正在悠闲度过暑假的“桐咲あさひ”接到了奶奶住院的消息。而又因为住院，奶奶经营的澡堂迎来了关门的危机。想做点什么的あさひ与姐姐潤商量的时候，却被问到是否是认真的。“当然是认真的！”听到あさひ的回答之后，潤把一个纸袋子交给了他。里面装的是假发和一套看起来像女装的衣服。潤为あさひ说明了早已被他抛诸脑后的规则——“公主之汤的收费台基本上都是女性坐着的。”あさひ正烦恼该吐槽哪里。而且，因为打工的桐江千佳正好是被他看到洗澡的女孩子，为了隐藏自己，他也不得不穿女装。就这"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/b69dbbdcc5e27cc140378d06532c7bd4","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

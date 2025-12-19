@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【GAL/生肉】百千の定にかわたれし剋【度盘/6.47G】"}],["$","p",null,{"children":"24/08/30  作品内容Getchu界面：点击游戏官网：点击作品紹介STORYミケルティ王国は静かに燻る“火種”を抱え込んでいた——建国60年に及ぶラウルバーシュ大陸南方セテトリ地方に位置する王国は、豊かな自然を生かした工芸品や装飾品を作り出す熟練の職人が集まり、王朝と民衆が手を取り合う笑いの溢れる国と評判であった。——しかし、そんな日々も永遠には続かず、近年様々な問題が表面化し始める。権益を独占し民衆や職人に無理をしいる王族や貴族の発言が目立ち始め、日々の苦しさを嘆いて不満を投げかけるも武"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1994ae02e523502755757d3dfa631b37","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/生肉】いんきゅばさん"}],["$","p",null,{"children":"社团名 うますぎゆ  关注929 贩卖日 2017年03月15日 年龄指定 18禁 作品类型 电子小说 文件形式 软件 支持的语言 日文 分类 人妖/双性人 肛交 褐色肌肤/黝黑 文件容量 86.06MB ちょっとした手違いで生えてしまった夢魔的な人と冒険者のちょっとエッチなSSです 制作環境はWin10、64bit　解像度は1024*768です 生えてるので注意してくださいね。音関係は入ってないです 有点gay，但又不是很gay。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/708444","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【同人动画/自制中字】【japs8005】NTR cafe waitresses1-2合集【度盘/1.04G】"}],["$","p",null,{"children":"这个是8005大佬的咖啡馆系列，感觉还是顶的，应该和前面那个到别人家牛别人最后老公是个绿帽癖的（合集里的，我没单独发过好像）是前后集，话说这个橙色头发是谁？黑崎一护儿子？（没看过死神），发给大伙尝尝咸淡 改后缀然后解压（将MP4改为zip，壳子那一定得改zip） 可能会出现的问题 1.解压不全显示文"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/tong-ren-dong-hua-zi-zhi-zhong-zi-japs8005-ntr-cafe-waitresses1-2-he-ji-du-pan-1-gs83","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

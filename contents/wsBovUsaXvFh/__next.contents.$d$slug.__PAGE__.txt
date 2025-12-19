@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/ADV】幽明境を異にする"}],["$","p",null,{"children":"美遊的最后一部作品\n美遊、Mink、M no VIOLET这3个社在20年前可谓GAL界画风高水平代表\n大伙可自行去对比20年，其他社的画风和这3个社的画风就知道什么是差距了\n本作黑暗、悬疑性作品，巧妙的融合了旧昭和时代的文化\n在旧昭和时代发生的故事与现代发生的故事，异空间的解密探索，寻找卡片的主人"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/wsBovUsaXvFh","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

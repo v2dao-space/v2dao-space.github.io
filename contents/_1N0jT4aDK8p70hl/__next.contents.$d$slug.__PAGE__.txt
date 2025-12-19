@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[あきさかやもか] 実の妹が俺に冷たいので、妹の友達に生中出ししちゃいました [中国翻訳] [DL版] [甜族星人赞助汉化]"}],["$","p",null,{"children":"作品内容:(下面内容为机翻) ★免费试阅本可阅读全篇★ ☆仅限电子版☆・书店共同纸质版 和姐姐的两个朋友一起“扮演姐姐”做任何想做的事！ 主人公巽对妹妹里穗充满欲望，当妹妹带着爱干净的优等生志保来到他家时，志保发现了巽对妹妹的渴望，于是巽帮助妹妹释放了性欲！！他还和里穗的同班同学、热爱性爱的佐野原成"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/_1N0jT4aDK8p70hl","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

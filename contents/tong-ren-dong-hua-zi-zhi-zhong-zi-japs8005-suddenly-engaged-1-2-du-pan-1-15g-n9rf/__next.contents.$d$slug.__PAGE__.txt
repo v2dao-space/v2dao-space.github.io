@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【同人动画/自制中字】【japs8005】suddenly engaged 1-2【度盘/1.15G】"}],["$","p",null,{"children":"aps8005大佬的最新系列，目前只有两集（感觉这系列至少会有三集，底线低一点把岳母主角牢妈算上可能4，5集），剧情是主角牢妈给他定的娃娃亲，然后因为里番的天意修正狠狠的拱了两个小姨子（只能假设主角建模帅的惨绝人寰了，不过感觉三女儿建模没她们牢妈好看，希望后续能供完吧，女儿要拱牢妈也要供这样才能算得"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/tong-ren-dong-hua-zi-zhi-zhong-zi-japs8005-suddenly-engaged-1-2-du-pan-1-15g-n9rf","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

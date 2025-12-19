@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】スレイブファームメーカー～肉奴隸牧場をつくろう～"}],["$","p",null,{"children":"社团名StudioS贩卖日2024年02月24日系列名超鬼畜調教シリーズ年龄指定18禁作品类型模拟有声音有音乐有动画文件形式软件其他有猎奇描写部分使用AI支持的语言中文(简体字)日文英文分类教育 拘束 造孽 触手 扶她 猎奇 拷打 虐待/ryona文件容量536.7MB游戏内容：スレイブファームメーカーは自分だけの肉奴隸牧場、人間牧場を作るためのツールです。戦士、勇者、魔法使い等の冒険者自由に配置して楽しもう。肉奴隸、人間便器、触手責め、フタナリ搾精、搾乳、異種姦、浣腸、脅制フェラ等の牧場用施設"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/758689","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

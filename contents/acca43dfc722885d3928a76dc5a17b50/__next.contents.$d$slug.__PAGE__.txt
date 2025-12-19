@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【PC/汉化/DLC更新】妹!せいかつ～ファンタジー～/妹妹幻想生活[Don个人汉化]"}],["$","p",null,{"children":"不想写文章啦~~，我觉得没人会不知道这个游戏吧~~  贩卖日2024年06月13日更新信息2024年06月19日 系列名限界!?作者いぬすく剧情いぬすく插画いぬすく / ユキヒ / ディアびろ年龄指定18禁作品类型模拟 有音乐文件形式软件支持的语言日文 汉化分类触摸/抚摸 妹妹 婚前同居 睡奸/迷奸 外射 内射/中出 自慰 肛交文件容量176.68MB 800 MB 配置要求日本語版OS部分CG预览        （带ero的图不想p了，确信）简介妹!せいかつ ～ファンタジー～DLC■ご注意本作"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/acca43dfc722885d3928a76dc5a17b50","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

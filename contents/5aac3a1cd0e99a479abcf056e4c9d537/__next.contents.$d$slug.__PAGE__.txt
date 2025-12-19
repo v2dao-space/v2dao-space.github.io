@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/汉化] 坠落街-少女异世界逃亡谭 転落街-少女異世界逃奔譚AI汉化版+全CG回想★全CV"}],["$","p",null,{"children":"游戏介绍：这是一个常见的校园传闻之一。然而，这个传闻…变成了现实。萌香、美鳥、冴結这三个人穿过门，来到了异世界。那里像电影中一样，给人一种中世纪的故事世界的感觉。在异世界的生活中，有许多与日常不同的刺激，三个人都很享受这种感觉。然而，有一天，突然发生的地裂吞噬了街道，三个人无法返回原来的世界。地裂的底部，是一个与外界隔离的城市。与幸存下来的人们一起，三个人开始了新的生活。城市中偶然滞留的自称冒险者的男人们。原本就生活在这座城市的居民们。这两个群体自然而然地分居在城市的东西两侧。在这样的生活中，美"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/5aac3a1cd0e99a479abcf056e4c9d537","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

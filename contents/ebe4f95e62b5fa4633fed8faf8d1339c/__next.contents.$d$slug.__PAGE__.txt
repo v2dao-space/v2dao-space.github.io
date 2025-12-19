@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化/无码/GAL】フレラバ ～Friend to Lover～（HD/2部）"}],["$","p",null,{"children":"前言最近搞无码搞上瘾了，可能近期均分享无码作（搬空为止）フレラバ本篇无码被我瞎七搭八搞出来了，FD的无码接积分购买（现在积分很多）3M（12魔器之1），近期可能由月见狐汉化组推出汉化补丁本作品本篇&FD均为无码版本，似乎附上了cg包PS：近期又发现了一部可以的作品，敬请期待（我的可以不是一般的可以）最近打不开dmm老闪退，不知是dmm原因还是自己原因  Story今年又迎来了春天。四处樱花飞舞，这也是一个人们对新生活寄予希望的季节。开始学园生活也到了第二个年头，终于开始有些从容的时候，一看四周…"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/ebe4f95e62b5fa4633fed8faf8d1339c","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

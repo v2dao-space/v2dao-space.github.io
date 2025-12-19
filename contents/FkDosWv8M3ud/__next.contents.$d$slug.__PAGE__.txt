@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/汉化/PC+安卓/动态/步兵 】失忆症Amnesia v0.100a  "}],["$","p",null,{"children":"你因为某个事件而昏迷了1年多，今天终于醒来了，然而你却发现自己失忆了！一个超级性感的淑女来到你的病房，自称是你的妈妈，要接你出院。\n你稀里糊涂跟着妈妈回家，发现姐姐也是美绝人寰，而你的前女友也极度性感。\n被一堆美女包围的你，既是幸运的，也是不幸的。你的前女友因为你失忆不记得她了，决定跟你先分开一段时间。而你的妈妈，姐姐对你失忆的原因支支吾吾，不愿细说。\n你火辣的妹妹跟你像是个仇人多过亲人…你能扭转跟几个亲人像陌生人一样的关系吗？你能跟你性感的前女友再续前缘吗？导致你昏迷了一年的原因到底是什么呢？到游戏里面去寻找吧！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/FkDosWv8M3ud","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/中文/安卓】揭开未知的面纱/Unveiling the Unknown-1.0.0【430M/移动盘】"}],["$","p",null,{"children":"PA主页游戏简介欢迎来到这款翻转剧本的游戏，让你扮演世界知名传奇英雄中被忽视、无能为力的双胞胎。但请抓紧，因为这次冒险发生了诱人的转折。邪恶的恶魔女王对你施下的诅咒会让你陷入强烈兴奋的境界，根据你选择扮演扶他那里、女小子还是其他身份，还会产生一系列其他潜在影响。对您来说幸运的是，整个庄园的女仆随时为您服务，随时满足您的各种需求。      变更日志1.0.0：庄园：添加了比阿特丽斯和塞拉菲娜的赛后聚会场所。+2 性爱场景 +4 CG添加了 Octavia 的第三个和第四个环聊。+3 性爱场景。 "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/765305","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

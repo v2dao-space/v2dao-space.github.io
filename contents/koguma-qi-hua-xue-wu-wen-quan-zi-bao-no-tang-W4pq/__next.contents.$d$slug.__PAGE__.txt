@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[こぐま企画] 雪屋温泉～子宝の湯～"}],["$","p",null,{"children":"游戏介绍:您将扮演送子神明， 在积雪温泉旅馆中帮助三对夫妇通过传统体位受孕。 本作为箱庭式像素互动模拟游戏。 个人评价:满分5分能给5分 操作方式:键盘     游戏信息 社团名:こぐま企画 发售日:2021年04月18日 更新信息:2021年04月26日 年龄指定:R18 作品形式:模拟/有音乐 "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/koguma-qi-hua-xue-wu-wen-quan-zi-bao-no-tang-W4pq","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

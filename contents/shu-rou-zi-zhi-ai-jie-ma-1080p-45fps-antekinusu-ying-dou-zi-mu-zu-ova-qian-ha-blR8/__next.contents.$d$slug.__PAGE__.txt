@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【熟肉/自制ai解码/1080p/45fps】【あんてきぬすっ】【桜都字幕组】OVA 茜ハ摘マレ染メラレル 1+2【度盘/636mb】"}],["$","p",null,{"children":"今天楼主来发个老番的ai解码版，这个是楼主觉得雷火剑最顶的几个番之一了，其高质量的作画，顶级的牛头人剧情，充满冲击力的动作，与阿黑颜，无一不是彰显着这个番的顶级制作水平，反正楼主是觉得香爆了，楼主有了新的玩具过后，翻出来第一个想弄解码版就是这个，一个字，顶，分享给大伙尝尝咸淡 改后缀然后解压（将MP"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/shu-rou-zi-zhi-ai-jie-ma-1080p-45fps-antekinusu-ying-dou-zi-mu-zu-ova-qian-ha-blR8","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

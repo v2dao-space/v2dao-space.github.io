@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻/双端】姐姐救援队海賊団/お姉ちゃんを助け隊!海賊団!v1.2【M/移动/1.2G】"}],["$","p",null,{"children":"社团名  みるくせーき  关注 2,406              支援社团也可以使用DL点数进行支援        贩卖日 2024年10月31日   更新信息 2025年05月17日 更新信息    系列名 寝取り・寝取られシリーズ   作者 みるくせーき   剧情 みるくせーき   插画 み"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/TNxvboq7MZb48Z06","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

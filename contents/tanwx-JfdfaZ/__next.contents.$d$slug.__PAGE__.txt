@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中/步兵】恶灵退散！色神的恶灵退治/悪霊退散!おねが～い!色神様【902M/度盘】"}],["$","p",null,{"children":"  \n概要:\n好胜又轻率的女神大人「初音」驱除恶灵的故事。\n在作为主要舞台的灵异场所「色情小屋」里\n以色色的除灵术驱除里头的恶灵们。\n完全没有战斗，以探索与色情事件为主。\n事件以及色情事件，分别有各自的图示，\n探索很方便，能够轻松地游玩。\n没有恐怖要素，整体上以明朗欢乐的演出为主。\n（也有癖好比较危"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/tanwx-JfdfaZ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/ADV】ネムれる園の少女たち"}],["$","p",null,{"children":"前言一夜物语，第10弹本作也是かえるそふと最后一作至此已搬完tanuki soft & かえるそふと所有作品  Story主人公、「七里孝史」（ななさと たかし）。は自宅の書庫で曾祖父が遺した書物にメッセージを発見した。そこには「人生に絶望したらこれを使いなさい」と書いてあった。よくわからない言語で内容はわからなかったが、そのメッセージは妙に孝史を惹きつけた。どうやらその本の目的は「サキュバスの召喚」にあるらしい。新月の日、孝史は召喚の儀式を実行する。その結果、サキュバス「ネム」が現れたものの、"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/772155","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"二号首"}],["$","p",null,{"children":"传媒王子唐小舟，在报社受到总编辑的无情打压，在家里，老婆谷瑞丹红杏出墙。自认为可以和美女记者徐雅宫发展一场轰轰烈烈的暧昧情事，却被委婉拒绝。\n正当人生处于低谷时，省委办公厅一纸调令，调他担任新任省委书记赵德良的秘书，命运曲线迅速触底反弹，总编辑的谄媚，谷瑞丹的温驯，徐雅宫的柔情，接踵而至。\n一幅全景式官场画卷，在他的生命中展现，而他以特殊的视角，发现官场之上，每一件小事，都闪射着政治智慧的光芒。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/9XkbDiTEzO","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

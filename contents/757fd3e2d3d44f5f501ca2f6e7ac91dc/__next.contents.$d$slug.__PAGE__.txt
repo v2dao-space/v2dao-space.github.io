@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/PC安卓]赫敏:巫师教育(银版)Ver1.46.1 V2精翻汉化魔改MOD整合版"}],["$","p",null,{"children":"你是个大鼻子精灵，穿越到魔法学院假扮教授，赫敏是学院里成绩优秀的女学生。你要用各种手段把她从一个乖乖女变成堕落的碧池，送她各种羞耻的服饰和道具。非常好玩的游戏，2D动态场景，高质量的汉化对白让游戏的乐趣比你想象高得多。我们可以从條教内容的对话看到赫敏的心理的逐渐变化。前期很无聊 要刷学院分和金币 中后期交互起来 根本停不下来~"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/757fd3e2d3d44f5f501ca2f6e7ac91dc","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

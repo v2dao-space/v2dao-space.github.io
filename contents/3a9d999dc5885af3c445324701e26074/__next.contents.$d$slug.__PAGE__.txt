@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ADV/机翻】めばえ"}],["$","p",null,{"children":"2024.8.13本次更新，将原来的GPT更换为Clouad翻译补丁这是部很牛的姐系作品  附赠品メスガキ義妹♡負け負け誘惑性活（机翻/SLG/ver.2023年12月27日）简易版妹生活不知道哪个人给我的，本来打算2dfan准备写文章的，由于前篇文章审核太慢，这篇因声望不足卡主了社团名少女喫茶-KeyTail 贩卖日2023年12月23日剧情せのび插画犬のぬけがら声优みもりあいの  Story主人公『佐倉柚樹』は、最近進学したばかりの新入生。学園生活は新しい＆楽しいことばかり。実姉「佐倉 杏奈"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/3a9d999dc5885af3c445324701e26074","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

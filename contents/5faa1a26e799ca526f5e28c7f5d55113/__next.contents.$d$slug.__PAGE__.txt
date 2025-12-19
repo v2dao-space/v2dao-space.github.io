@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/动态无修/官中】Sex Counselor v1.0.0"}],["$","p",null,{"children":"简介主角在 20 岁之前从未谈过恋爱。梦想着粉红色的恋情，我与辅导员签订了合同。在她的辅导员的帮助下，她成功地赢得了他们的心！既然这段关系已经成功了，让我们接受咨询，帮助他们驾驭他们的性幻想。  划线小游戏 非常简单 有手就行涩涩预览"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/5faa1a26e799ca526f5e28c7f5d55113","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D游戏/个人汉化】[致命火灾工作室] FAP NIGHTS AT FRENNI’S ver0.2.8【度盘/1.25G】"}],["$","p",null,{"children":"看了一下这个游戏还没汉化于是就在零碎的时间里用插件尽可能汉化了，还有卡牌以及卡牌的内容能的都汉化了！如果查看卡牌的时候有些地方没有显示字的话，点别的卡牌或者别的地方刷新一下就显示了。这是因为这个插件所能翻译的文本数量有限所以会这样所以其他地方问题不大。电脑那里的成就有些没显示的我会放一个中文成就的记"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Neh3heKW1oF_Hjnd","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

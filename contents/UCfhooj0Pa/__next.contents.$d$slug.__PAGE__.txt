@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"神秘之河"}],["$","p",null,{"children":"当坚毅、无畏的记者西德尼接受了去亚马逊河考察的任务后，她发现这次筹划已久的探研倒很顺利。不过，那位摄影师似乎总引起猜疑，还有那位英俊、潇潇的场物学家，时常显得异常的心情烦扰。西德尼不久就意识到，这实际上是一次暗藏着去寻找一座失落的印加古城的探险。每个人都表现的那么奇怪，那么性欲旺盛，热带丛林的湿度越来越强，仿佛有一古老绅秘的力量正在对这支探险队挥着魔力。到处回应着远古的声音在这段印第安纳·琼斯的、充满了欲望和奇遇的经历中，热带丛林为西德尼带来了危险和欣喜。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/UCfhooj0Pa","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

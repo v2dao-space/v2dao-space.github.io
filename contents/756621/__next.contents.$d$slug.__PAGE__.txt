@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/官中】黑暗之地编年史：堕落精灵/Dark Land Chronicle [v0.113]"}],["$","p",null,{"children":"新游戏目前内容不多，画风像饥荒支持作者：https://www.patreon.com/DarkLandChronicle主题更新: 2024-04-07发布日期: 2024-03-30开发者: Winterfire Studio 版本: 0.113 Dark Edition操作系统: Windows语言: 英语、中文、日语、韩语、葡萄牙语、西班牙语, 台语声音: 英语游戏概述：《黑暗之地编年史：堕落精灵》是一款 2D 等距黑暗奇幻角色扮演游戏。玩家扮演一个濒临灭绝的精灵，在险恶的乌利哈西亚斯土"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/756621","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

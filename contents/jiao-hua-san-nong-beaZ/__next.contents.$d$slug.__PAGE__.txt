@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"娇花三弄"}],["$","p",null,{"children":"这一天，悦来客栈内人客满座，热闹非凡。只见座上人头踊踊，更有些精壮汉子参杂其间，十分引人注目。这些汉子，一个个骨架强健，有的挎刀背剑，有的暗藏器械，实在非比寻常。\n「妈的，那玉萧仙子追了我们三天三夜，好不容易才把她撇掉，这趟终于可以安稳地吃屯饭了。」说话的正是阴风四鬼老大「黑煞鬼」，长得浓眉大眼，满嘴连腮短须，眼球上布满血丝，充满凶煞之气。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/jiao-hua-san-nong-beaZ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

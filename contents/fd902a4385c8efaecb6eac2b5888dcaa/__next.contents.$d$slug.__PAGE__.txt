@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【GAL/汉化】すうぃ～と☆SwitcH ～まじわるシセンでとろけるカラダ～【443MB】"}],["$","p",null,{"children":"游戏类型制作公司：アンモライト 发售日期：2015年04月24日汉化日期：2019年03月27日汉化小组：灵梦御所游戏类型：学园、委员长游戏原名：すうぃ～と☆SwitcH ～まじわるシセンでとろけるカラダ～游戏别名：Sweet☆Switch ～眉目传情～剧本: 岡下誠原画: 一河のあ音乐: AZ-MIX作詞/作曲: Soundmate Project剧情介绍主人公・高远龙一在这所学园上学过了1个多月后，如今已经没有任何敢向他搭话的学生了。要追究原因的话、他已被烙上了“学园第一不良”的标志。不过事"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/fd902a4385c8efaecb6eac2b5888dcaa","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

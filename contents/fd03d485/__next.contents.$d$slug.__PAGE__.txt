@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ACT/官中无码】Foresia -The Lust Curse-"}],["$","p",null,{"children":"游戏为フォレシア呪われた誓約 [BlusterD] | DLsite 同人 – R18的steam版 锁了国区故事居住于精灵树之森的稀有种族高等精灵「芙蕾希娅」被诅咒了。突如其来的怪物袭击，导致芙蕾希娅所在的村庄被烧毁，而她本人也被囚禁。虽然在精灵的帮助下逃了出来，但每日都在忍受着诅咒的折磨……。为了脱离苦海，芙蕾希娅在完成公会任务的同时，开始收集情报，锻炼自我，朝着真相一步一步靠近……。游戏操作本作为动作类游戏，并附有极易上手的「自动瞄准」机制。・攻击方式包含「弓箭」「追尾魔法」以及「大型魔法"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/fd03d485","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【AI翻译/无码/GAL】春恋＊乙女～乙女の園でごきげんよう。～"}],["$","p",null,{"children":"还是恋姬社之前的那个baseson\n对于baseson，既有one2这部继承one的光辉续作，又有夕绯这部较为出色的悬疑作品\nbaseson的游戏画风整体属于高质量，不过随着10+年的恋姬，这社逐渐也叫恋姬社了\n这部游戏还出过里番，感觉游戏画风比番好…\n  \nStory\n进入第三学期的某一天，现在就"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/09ts6APVebCJ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

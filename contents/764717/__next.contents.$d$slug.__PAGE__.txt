@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/生肉】いじる 冥土印ア〇ュリー"}],["$","p",null,{"children":"社团名FastLane 关注357贩卖日2019年12月28日年龄指定18禁作品类型其他游戏有音乐有动画文件形式软件支持的语言日文分类触摸/抚摸 萝 触手 打屁股 平胸/飞机场文件容量30.65MB数種類のア〇ュリーのプチゲームをクリアしてオマケのHなクリックアクション動画をGETしよう!■　注意事項　■・製品版ご購入の前に、必ず【動作確認版】にて動作確認をお願いいたします。      和瓦里奥制造系列差不多，都是小游戏合集。角色初登场自nds游戏瓦里奥制造，可能是制作组某个二次元的私货，画风和"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/764717","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

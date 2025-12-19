@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG/PC]神的不在場SEX"}],["$","p",null,{"children":"本作的遊戲玩法為傳統的培育養成系統，玩家在固定有限的時間選擇行動，用來增進與學姊的感情，最終達成在床上攻略學姊的目的。但，只是離開房間並沒有結束。按照設定，只要做愛就能離開，故事這樣就沒戲了，沒想到神明的惡作劇是每一天都將主角與學姊傳送到這個密室。於是，藉由時間與囚禁次數的累積，主角與學姊之間的感情就在每天強制一起交流的設定下逐漸加溫，從原本逼不得已發展到兩人內心逐漸傾慕的過程。根據商店資訊，H 場景皆為 Live2D 製作，維持原團隊一貫的演出水準。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/3e2e86534afa6254691f089cdb43736c","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

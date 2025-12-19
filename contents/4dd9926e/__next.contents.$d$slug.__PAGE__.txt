@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RJ340568] 异常状态少女 (状態異常 =Abnormal Condition= ～淫紋/禁書/寄生蟲編～) [RPG/PC]"}],["$","p",null,{"children":"介绍: 背景设定在一个大多数人拥有魔法的世界。由于缺乏法律和规章制度的控制，使用魔法犯罪的现象日益严重，世界逐渐走向崩溃。在这个背景下，一个名为「一之濑」的家族挺身而出，承担起维护国家治安的责任。然而好景不长，魔法犯罪依然猖獗，和平突然宣告结束。在游戏中，你将扮演女主角，经历一段跌宕起伏的故事。随着剧情的发展，你将面临各种选择和挑战。一旦做出错误的选择或在战斗中失败，就会进入不同的异常状态路线。超过40个H场景将插入其中，并且会有中出情节。游戏开始时，你会试图对抗异常状态，但最终会被彻底地侵犯。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4dd9926e","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

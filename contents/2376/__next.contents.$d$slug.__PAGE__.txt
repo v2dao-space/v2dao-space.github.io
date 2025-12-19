@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[日系ADV/中文/CV]我和她（女医师）的诊察日志 Steam官方中文版 + 存档[1.2G]"}],["$","p",null,{"children":"我和她（女医师）的诊察日志 Steam官方中文版 + 存档这是由[iMel]与2022年5月5日在Steam上发售的一款日系拔作ADV\n\n\n\n与以往的少女风不同，这次制作了御姐风格的游戏\n\n\n\n让美丽丰满的医生姐姐，护士姐姐和你一起工作！\n\n\n\n这是多么让人期待的一键事情！\n\n\n\n并且还可以做你想做的羞羞的事情！\n\n\n\n人生颠覆也不过如此吧！\n\n\n\n对于喜欢御姐的小伙伴，那绝对是超级福利级别的游戏"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2376","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

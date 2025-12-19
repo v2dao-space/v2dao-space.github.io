@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[AVG/PC]猫忍之心 NEKO-NIN exHeart SPIN!"}],["$","p",null,{"children":"我们的主人公——卷菱菊丸，身边有着可疑狸猫脸的妹妹与爷爷，但日子还是平凡度过着。然而，他的爷爷不幸去世之后，他的生活发生了翻天覆地的变化。在葬礼上一位身着怪异衣装的猫耳美少女闯入了守夜仪式上，并对他放出了枪林弹雨。此时，他的妹妹突然变身为忍者。菊丸被这些事情震惊到无以复加，而面对那位对他开枪的猫耳美少女正束手无策时，另一位猫耳美少女出现并拯救了他。我的名字叫千加卷菱——不，杂贺菊丸——对你来说，我是你的保护者"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/845c7fc584150faebcb0794bab19e78d","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【MMD/有码】刺身クリームの盛り合わせ作品 2025.10合集（2D/VR）"}],["$","p",null,{"children":"我上赞助的时候是20号 估计解锁的就是往前推一个月 所以这个十月合集算是从9.20的作品开始到十月底    还是喜欢这种偏二次元的模型啊 这个作者有部分作品是偏3D写实的 尤其我刚看的时候 而且码也算比较厚 所以中间停了很久的赞助 最近的作品基本都是这个风格 3D很少 于是整上了 也可能是fanti"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/mmd-you-ma-ci-shen-kuriimuno-sheng-ri-he-wase-zuo-pin-2025-10-he-ji-2d-vr-0dQv","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

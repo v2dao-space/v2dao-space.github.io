@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中】Date Banger"}],["$","p",null,{"children":"滑动、点赞、评论、上床！ Date Banger 是一款刺激的 3D 成人约会游戏，你可以通过滑动视频来邂逅性感美女。 在 Date Banger 中体验前所未有的现代约会方式！像普通交友软件一样滑动视频，选择你喜欢的女孩并与她们建立联系。 随着关系的发展，你获得更深入交流的机会也会增加。不喜欢某个"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/fEPt5nVzkv4GFZVY","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

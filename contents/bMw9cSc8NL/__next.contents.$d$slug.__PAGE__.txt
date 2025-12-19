@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"后宫佳丽三千人"}],["$","p",null,{"children":"一位酷爱看小说的青年李小民，在一次灵魂出窍事件之中，莫名其妙地穿越了时空，附身到了一位深宫小太监的身上，成为了一位拥有二十一世纪科技知识的“四有”新太监。\n自己新的身体状况，让李小民无比痛苦。在他看来，这是上苍对他在起点网站上做了太监作者的报复。于是，他开始怨天尤人，自暴自弃，对未来的生活充满了绝望。\n就在他的前途一片黑暗，并忍受不住皇妃的侮辱和责打，准备以死抗争，血泪控诉这个人吃人、人压迫人的旧社会的时候，转机突现！\n一位亡国公主的灵魂出现在他的面前，带给了他重塑肢体的希望，并传授他一册天书，希望他能修成仙术，并将沉沦多年的自己救拔出苦海。\n李小民昼夜苦修，终于重新塑造出了男性的完美身体，成为了一个完整的男人，并且仙术渐成，已经有了强大的力量，足以与当代那些拥有神鬼莫测法力的法师相抗衡。\n亡国公主幽儿带给他的，除了强大的法力，还有一统天下的愿望。为了满足幽儿的亡父，原大吴朝末代天子亡魂转世前的最后愿望，李小民不得不答应娶已成为鬼仙的幽儿为妻，并统领三百大吴朝战死将士的厉魂，在这列国纷争的乱世中征战天下，重塑一个太平盛世！\n皇宫中，美女如云。英俊少年李小民，处在这满目窈窕美人的内宫之中，情不自禁地渐渐迷失，与几位年轻美貌的皇妃、公主发生了奇特的恋情，未来的李小民，究竟将会何去何去呢？"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/bMw9cSc8NL","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

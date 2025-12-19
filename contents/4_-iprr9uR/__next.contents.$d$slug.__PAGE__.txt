@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"彼岸山庄"}],["$","p",null,{"children":"本来是一个构思的很简单的故事，莫名其妙的弄的庞大冗长。原本这本应该是个只有几个女生和一个神秘的男性在阴森的庄园里发生的故事，却变成了古怪的科学狂人复仇记。在设定的时候想好了各种针对每个女生特性而进行的改造和凌辱，最后真正彻底实现的却只有水岛绯鹭一个。这篇故事在这里，大概只能是这个模样了。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/4_-iprr9uR","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

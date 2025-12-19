@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【官中/RPG】扶他那里魔驯兽师伊丽莎 ver1.06【PC+安卓/百度/1.3G】"}],["$","p",null,{"children":"入正页面：点击转跳社团名/商标名：水底3000m贩卖日：2025年04月08日支持的语言：中文(简体字) 日文分类：皆大欢喜 女主人公 RPG制作大师 人外娘/魔物娘 喜剧 幻想 扶她 用你的扶他那里鸡巴打败怪物女孩！ 【剧情概要】村姑伊丽莎因为“扶他那里”的身份,被审判庭判处为畸形魔女终身监禁。当"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Z_W9Txg0Afyirwvd","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

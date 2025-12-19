@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】COMIC BAVEL 2024年7月号 [中国翻訳] [無修正] [DL版]"}],["$","p",null,{"children":"充滿午後雷陣雨的季節，滿滿都是濕漉漉讓人心動不已的女孩子們的巴別塔111期發售！封面是神美乳畫家しおこんぶ老師所繪製，穿著傳統風味女僕裝、推薦超級過激菜單的豐滿悶騷偶像☆pubu：点我有爱自取"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/52e2cc33ec809d43aa5ee8599e96a618","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【PC/RPG】 叛道武士 V2.0"}],["$","p",null,{"children":"【PC/RPG】 叛道武士 V2.0 ◆本作在战斗画面中加入了各种精心绘制的动态效果，每一次攻击都伴随着角色精彩绝伦的动作，不同的攻击更是能带来不同的视觉享受！ 自由选择想要加入的阵营.  您究竟是想要为幕府效力，还是想与反叛军并肩作战，或"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/da28e452c0f8c8160dc1493b5bb1b4f9","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

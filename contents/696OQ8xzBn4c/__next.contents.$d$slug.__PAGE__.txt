@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/新发布/官中/有动画】恋心连结 イモコネ—届けたい恋心 Ver 1.03"}],["$","p",null,{"children":"不久前，我和两个可爱的妹妹同时交往。在我们一起居住的房间里，每天都可以尽情地做爱。\n这样的生活是每个男人都憧憬的，但有时工作繁忙或者接待客人后会感到疲劳。\n在这种想要安静休息的夜晚，如果被两个妹妹一起入侵并发生夜晚性行为，打扰了宝贵的休息时间，无论谁都会感到生气。\n虽然我的妹妹们总是充满欲望，但我也希望保持自己作为哥哥的尊严。因此，我必须通过自己的身体告诉她们不要打扰别人的休息时间。\n那么今晚，让我以我的身体严厉惩罚她们吧。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/696OQ8xzBn4c","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

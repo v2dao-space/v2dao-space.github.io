@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【欧美SLG/汉化/动态】夏令营 Summer Camp v0.1.5 精翻汉化版【安卓/1G】"}],["$","p",null,{"children":"游戏介绍：\n\n\n\n你是一个年轻的心理学大学生，英俊，聪明，对女性有很大的影响。\n\n\n\n像许多欧洲学生一样，您将在美国度过暑假作为营地监督员，以提高您的英语和简历，但是当您被分配到“海狸瀑布”时，\n\n\n\n惊喜来了，这是一个为有心理健康问题的少女提供的营地，\n\n\n\n您将成为他们的治疗师……\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1808","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

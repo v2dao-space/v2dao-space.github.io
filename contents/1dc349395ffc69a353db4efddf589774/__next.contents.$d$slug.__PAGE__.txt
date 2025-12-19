@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"(同人CG集) [雨音連鎖予報 (倉崎あや)] 魔法少女ローザエンデ Loop：7 せめぎ合う信念と淫欲"}],["$","p",null,{"children":"【あらすじ】ある日、謎の声に導かれて魔法少女になった倉橋あやめは街を崩壊させる存在:白蓮を倒すために何度もループしながら戦いを続けていた。仲間、親友となった魔法少女のレイナと協力しながら無敵の白蓮を唯一倒せる「おわり」の力を高め、ついに追い詰めることに成功する。しかし、白蓮を倒すにはあやめの存在と引き換えである事実を告げられ絶望したあやめは戦意喪失、精神を心の奥底に封じられてしまう。そしてあやめの肉体は奪われ、ローザエンデ:フォールンとして動き出す。フォールンに奪われた肉体を取り戻すためあやめは"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1dc349395ffc69a353db4efddf589774","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

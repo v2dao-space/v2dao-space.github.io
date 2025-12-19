@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【ARPG/日英】月亮狂想曲/Moon Rhapsody+MOD【百度/2.44GB】"}],["$","p",null,{"children":"作品的发布网页：点击跳转 作品介绍 《Vivid Dead》的作者Kosmic的早期作品，玩法类似于古早的《塞尔达传说》，在黄油界类似的游戏有《erozld》、《莉吉内塔的冒险》等。在itch上就可以直接免费下载，虽然游戏还是Demo，但是内容已经非常完整了，整体流程差不多在10小时左右。但游戏的新"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/d6Qzbn2B_wI6HJJI","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

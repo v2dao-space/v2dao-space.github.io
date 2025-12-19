@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[SLG游戏] [SLG/精翻/全动态]初冬暖阳R~巨乳JK与童贞丧失爱爱 精翻汉化版 双端+动画"}],["$","p",null,{"children":"这是一款制作非常精良的日式HAG游戏整体画风优秀，肉感JK真心实用度MAX！而且所有的互动，场景，H都是LIVE2D制作的，全程60帧丝滑带劲，CV优秀，骚话丰富，而且带着丰富的撒娇/甜蜜内容，真的是社保，实用度真的高，让你顶不住的疯狂冲冲冲！"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/11ebc109ee53908d5b3909d9ce10ef4e","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

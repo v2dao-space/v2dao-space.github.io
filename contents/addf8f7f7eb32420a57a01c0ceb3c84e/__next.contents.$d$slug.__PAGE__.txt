@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/ADV】サンタフル☆サマー"}],["$","p",null,{"children":"2024.8.16进行补档，顺便附带赠送品与iris2部作品共享一个链接，看清文件再下载这部作品角色设计挺萌的，现在正好夏季推荐玩一玩追加剧情特典+DCL均打入游戏  Story常夏の島「セント・クリス島」で独り暮らしをしている主人公【鯨井亮】。彼は朝は新聞配達、昼はおもちゃ屋でバイトしている平凡な青年だった。ある日、彼はサンタクロースのソリに轢かれてしまう。ソリを引いていたのは、「フィンランドの方から来た」という女の子のサンタクロース【ニコル】。方向音痴で地図の読めない彼女は、土地勘のある亮に"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/addf8f7f7eb32420a57a01c0ceb3c84e","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】ノーブルオブプライド ～傲慢なお嬢様と淫魔の呪い～ 【度盘/uc/1.27G】"}],["$","p",null,{"children":"名称、标签\n【RPG/机翻】ノーブルオブプライド ～傲慢なお嬢様と淫魔の呪い～ （RJ01193798）\n\n\n\n入正：\nhttps://www.dlsite.com/maniax/work/=/product_id/RJ01193798.html\n\n\n\n简介：\n千金小姐克莱尔，出身名门望族，成长过程"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/pQ873XNSSb1x","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

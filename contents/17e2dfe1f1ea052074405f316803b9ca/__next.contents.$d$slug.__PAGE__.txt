@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/生肉】[PC+安卓joi] アイリスの魔導書"}],["$","p",null,{"children":"制作介绍サークル名温泉雪そふと フォローする1,147 サークルを支援するDLポイントでも支援できます販売日2024年07月27日 0時更新情報2024年07月28日 更新情報声優柊木めぐ / 佐京柚音 / まあ油るる / 梅原亜衣年齢指定18禁作品形式ロールプレイング音声あり音楽ありファイル形式アプリケーションその他AI一部利用ジャンル女主人公 きせかえ 魔法使い/魔女 制服 学校/学園 魔法 中出し 処女ファイル容量1.01GB 游戏介绍魔法使いの少女によるアクションRPG本作ではマップ上で"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/17e2dfe1f1ea052074405f316803b9ca","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

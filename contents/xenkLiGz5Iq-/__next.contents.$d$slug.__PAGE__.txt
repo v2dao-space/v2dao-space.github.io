@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/官中无码】Agent Mirai and the Submission Machines"}],["$","p",null,{"children":"\n获悉某药品公司在进行非法的人体实验的神秘特务少女，未来。\n未来一人为了潜入调查而前往了药品公司。\n不过却在药品公司的地下研究所因大意而被逮住。\n地下研究所在秘密地进行着使用了特殊机械的人体调教研究，而被捕获的未来，将被迫成为实验对象。\n锁了国区\nhttps://store.steampowered"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/xenkLiGz5Iq-","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

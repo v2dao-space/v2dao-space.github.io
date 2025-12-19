@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[精美SLG/汉化/动态] 好运姐的泳池狂欢！精翻汉化版+全CG+本子[安卓] [LOL同人/1G]"}],["$","p",null,{"children":"好运姐的泳池狂欢！精翻汉化完结版【安卓】+本子汉化版（目录可看全CG）\n\n\n\n这是一款画风非常精美的英雄联盟赏金猎人·厄运小姐同人力作！我们的好运姐在本作真的是具有超高的还原度~甚至比游戏设定还要漂亮！而且还有极度社保的动态场景哦~\n\n\n\n游戏介绍：\n\n\n\n你是一个有钱的富二代，因为无聊跑到一处海滩圣地度假。外出找乐子的时候，你竟然遇到了大名鼎鼎的好运姐在泳池边晒日光浴！但是，明白这位海盗女王的实"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/686","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[平間ひろかず] スタンバイおっけー!Stand by OK! [中国翻訳] [無修正] [DL版]"}],["$","p",null,{"children":"  \n  \n  \n  \n歡迎來到欲求不滿的「望月一家」欣賞母女三人的性福生活，還有辣妹、雙胞胎姊妹、晨跑眼鏡美人、說著違心話的凶巴巴小妹妹，準備就緒的完熟少女們大量出沒❤還在等待什麼？\n積極女孩×羞澀男孩，湧現大量初體驗浪潮❤初夜舵手 平間宏和（平間ひろかず）到來！d/art於2024年6月將推出平"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Bxl-6TM34qdJ","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[RPG/汉化/动态CG/CV] 慰巫女之偏远村落恶之祭 V1.0 精翻汉化版 [520M]<br>慰巫女之偏远村落恶之祭 V1.0 精翻汉化版"}],["$","p",null,{"children":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[游戏前言] ：\n\n\n\n这是个非常高质量的非战斗rpg游戏，从剧情到画面都很不错。\n\n\n\n并且已经是完全汉化版。多结局，多周目可选多角色。\n\n\n\n基本CG31张，分差700张。据说还可以雏女通关？\n\n\n\n[游戏剧情] ：\n\n\n\n这是讲一个封建落后愚昧的小村里的杯具！年轻的巫女，冬月御琴。\n\n\n\n是在一个偏远村庄的神社的美丽巫女。这个偏远的村庄每20年就会举办一场奇怪"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1398","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

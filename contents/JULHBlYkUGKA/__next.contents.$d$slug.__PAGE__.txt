@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/英文/安卓/PC】Succum Brewery/堕落酒坊 【度盘/1.2G】"}],["$","p",null,{"children":"原名丨Succum Brewery 版本丨0.3.8b 日期丨2025/1/25 语言丨英文 社团丨LimeJuiceGames 平台丨Windows、Android 剧情：在运输途中钱花光后，凯瑟琳被遗弃在市中心摩天大楼‘桃源塔’的楼顶，她身无分文且孤身一人，也没有办法下到地面。更糟糕的是，这里到"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/JULHBlYkUGKA","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

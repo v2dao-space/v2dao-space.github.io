@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】关于一个阴角女孩变阳光的日常生活/気になる陰キャ女子が陽キャに変えられていく日常生活 PC[1.5G/百度]"}],["$","p",null,{"children":"[RPG/机翻] 关于一个阴角女孩变阳光的日常生活/気になる陰キャ女子が陽キャに変えられていく日常生活 PC[1.5G/百度]社团名性癖タイムズ   贩卖日2024年03月23日更新信息2024年05月06日 更新信息剧情七咲リンドウ插画もえどむら年龄指定18禁作品类型模拟有音乐文件形式软件支持的语言日文分类女性视角 男主人公 水手服 学校/学园 被NTR 教育文件容量1.42GB入正：【30%OFF】気になる陰キャ女子が陽キャに変えられていく日常生活 [性癖タイムズ] | DLsite 同人 "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2d75b5111dde13518649df1d6c325cfb","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

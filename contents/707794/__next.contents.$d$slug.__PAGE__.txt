@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/生肉】異世界に来た触手星人が娼館経営で征服ライフ"}],["$","p",null,{"children":"[あせろら] 異世界に来た触手星人が娼館経営で征服ライフ [RJ01072550] 作品信息 社团名 あせろら  关注23,929   贩卖日 2023年07月28日 0点 作者 ナオヒロ / どすこい太郎 剧情 橋本ゆういち / カバかもん / クリムムルル / 東谷駿吾 / 門戸扉 / 四十宮くるふ 插画 ぶーたろう / 猫又ユキ / 可老 / 鈴樹ねね / TANOport 声优 雲雀ゆい / 一原わこ　 / 花寺香蓮 / 夢月やみ / 七凪るとろ / 天見美んと / 神戸日向 / 木崎彩"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/707794","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

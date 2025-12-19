@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"出差"}],["$","p",null,{"children":"今年入冬以来最冷的一天，我人却在淡水，真是衰到家了，没事被要求来参加这个研讨会，却偏偏遇上今年最冷的一天，在最冷的地方。打从一开始，指导教授要求我去参加这个研讨会，还要去发表论文，我就一直很不爽。又不是我写的论文，而且对我毕业一点帮助也没有，我为何要去？而且还要准备报告论文，只是身为学生的我除了默默接受，还能如何呢？"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/Q6gSC2gpjm","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

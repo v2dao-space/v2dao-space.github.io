@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中】バッファローとエロトラップダンジョン / 巴夫罗与色情陷阱迷宫"}],["$","p",null,{"children":"※游戏内容——————————— 你的奶牛“巴夫罗”要去遥远的雷门格勒德村配送牛奶。 但一路上潜伏着众多的魔物和士兵！ 巴夫罗会产出母乳，运用母乳来强化技能，恢复体力，让攻略变得更加轻松♪ 但如果仍然被魔物或士兵击败的话…巴夫罗就会遭遇可怕的事情！ 为了让她顺利完成配送，快在迷宫中引导她前进吧♪ ◆"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/K2TBKGk2s2","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

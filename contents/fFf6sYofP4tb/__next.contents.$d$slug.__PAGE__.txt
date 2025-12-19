@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【MMD/有码】変身スライムとカラオケ対決【ヴァンパイア】"}],["$","p",null,{"children":"最爱的史莱姆又更新啦\n  \n卡节奏还挺带感 我入坑的第一个视频就是这样的形式\n不过缺点就是变换动作快 所以射的少了 只有最后一波灌注\n  \n史莱姆酱不会唱歌被爷嘲笑了 气鼓鼓的样子可爱捏\n  \n坏了 爷的牛牛被史莱姆酱一分为二 拟态成话筒了\n竟然又是通感！猎杀时刻 开启！\n  \n这样完全无法关注史莱"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/fFf6sYofP4tb","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

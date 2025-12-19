@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【欧美极品SLG/精翻/3D】离家出走 Away from Home Ep.1-18 【安卓/4.3G/】"}],["$","p",null,{"children":"感谢蘑菇小屋分享的一款精翻SLG极品游戏\n\n\n\n离家而去-Ep1-18 汉化版 PC+安卓\n\n\n\nAway from Home [Ep.1-18] [vatosgames]\n\n\n\n游戏的人物建模非常不错，CG质量很高，有很赞的动态H事件\n\n\n\n剧情内容超丰富，超多社保H事件\n\n\n\n再次感谢【蘑菇小屋汉化组】的翻译，请各位多多支持汉化组。\n\n\n\n\n\n\n\n【游戏介绍】：\n\n\n\n你的父亲是个警察已经退休"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2794","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/机翻】触手で洗脳R【度盘/1.15G】"}],["$","p",null,{"children":"站里的老资源好像没了，发一个补一下。补丁是B站上的，不过原专栏好像没了。作品内容サークル名かぐら堂  フォロー済み販売日2023年02月25日 0時シリーズ名かぐら堂ＲＰＧシナリオはやさかうたねイラストかぐらみずき声優涼花みなせ / 向日葵ゅか / 山田じぇみこ子 / 御崎ひより / 沢野ぽぷら / 藍沢夏癒 / 秋山はるる / MOMOKA。 / 涼貴涼 / 柚木朱莉年齢指定18禁作品形式ロールプレイング音声あり音楽あり動画ありファイル形式アプリケーションジャンル中出し 陵辱 拘束 レイプ 触"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/da62fe6c9fd95443a23f12bbe8473360","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

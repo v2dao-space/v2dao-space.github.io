@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】[PC+安卓joi]苍天煌姬拉碧斯菲莉亚-在情色陷阱地下城中陨落!?-/蒼天煌姫ラピスフィリア-エロトラップダンジョンに散る!?-"}],["$","p",null,{"children":"所发布资源不得用于商业盈利，否则产生的一切后果将由您自己承担！制作介绍（#F118）  社团名氷あめ細工 贩卖日2024年06月18日 0点作者氷飴剧情氷飴插画氷飴年龄指定18禁作品类型角色扮演有音乐文件形式软件支持的语言日文分类女主人公 变身女主 学校/学园 淫乱 触手 恶堕文件容量543.58MB游戏介绍ステージ紹介◇廃工場エリア地下15階～地下13階一番シンプルなエリアです。クンニマシーンや手ラジコン、壁穴に乳首マッサージ機等のエロイベントがあります。体験版では廃工場エリアの途中までをプレ"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/1715fe5cd1b1ed326a26522a7189f1dc","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

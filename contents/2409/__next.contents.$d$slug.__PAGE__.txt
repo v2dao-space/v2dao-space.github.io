@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【欧美RPG/汉化/动态】家务House Chores v0.11.2 B精翻汉化版【安卓/1.8G】"}],["$","p",null,{"children":"今天给大家带来一款由【迪克次元】全家桶欧美RPG：\n\n\n\n家务精翻汉化版【PC+安卓】\n\n\n\nHouse Chores v0.11.2 B\n\n\n\n\n\n\n\n游戏介绍：\n\n\n\nHouse Chores 是一部视觉小说，您可以在其中体验一个年轻人暑假的故事。\n\n\n\n当他开始以一种截然不同的方式看待亲近的人时，问题就出现了。\n\n\n\n更糟糕的是，两位意想不到的客人闯入，让这个凌乱的夏天更加复杂！\n\n\n\n你能"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/2409","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

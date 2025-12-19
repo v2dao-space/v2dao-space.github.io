@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"剑指天下"}],["$","p",null,{"children":"做个憨厚好人却被劫匪刺伤，引来电流，意外重生于最爱看的小说《剑指天下》的世界里。\n杀了杨追悔，取而代之，又练苍云剑法，意气风发想收揽美女于胯下。\n猥亵疯女易梦后遇上师姐李笑霜，身中冰绾青丝毒，被隐姓埋名的叶梦岚所救，又惹风流。\n为了能和有魅力双宿双栖，铁浪打算利用春药淫了凌霄神尼，误打误撞下成了凌霄神尼唯一男徒，凌霄神尼传其双修秘籍淫龙九式，一个淫皇淫乱又气概山河的一生被揭开序幕！\n当他自得之时，却听说杨追悔出现在独石城……"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/xzOxi1GZ36","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

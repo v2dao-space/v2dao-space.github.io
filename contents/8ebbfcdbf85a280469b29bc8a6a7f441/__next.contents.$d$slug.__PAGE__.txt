@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"贽之匣庭"}],["$","p",null,{"children":"《贽之匣庭》展开了一幕幕和风奇幻的视觉盛宴，以都市传说中的“匣子”为核心，编织出一段疯狂与纯爱交错的故事。这部作品以其18小时的沉浸式体验，引领玩家步入一个充斥着爱恨情仇的世界。不仅仅是涩涩和猎奇的画面，更有着精心雕琢的角色和令人回味无穷的剧情转折，使得每一位角色都生动鲜活，仿佛拥有自己独特的疯狂色彩。游戏中的恐怖元素虽然让人不寒而栗，但也正是这种极致的体验，让《贽之匣庭》成为了一部难以忘怀的神作。其独特的故事叙述手法，以及最终揭晓的意外结局，让人在震惊中品味生命的脆弱与爱情的伟大。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/8ebbfcdbf85a280469b29bc8a6a7f441","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

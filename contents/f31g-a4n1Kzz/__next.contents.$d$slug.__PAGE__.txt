@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[3D-SLG] 机翻汉化版  午夜撒娇 真夜中の甘えんぼ 【电脑】  （ RJ01215927 ）   "}],["$","p",null,{"children":"有一天妈妈不在了，爸爸离婚了，母子二人回到了这个城市。\n不知为何，姐姐照顾住在附近的我们。\n她比我妈妈年轻得多，最重要的是她总是那么温柔，我最喜欢她了。\n也许是家庭情况的关系有困难的时候关系很好(?)我们互相帮助，\n比如上夜班的日子或者孤身一人的时候，有时会让我住一晚……。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/f31g-a4n1Kzz","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

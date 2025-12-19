@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【3D/无码】Kadwyn2020.10-2024.4作品合集（9G/度盘）"}],["$","p",null,{"children":"久违的来发发帖，那么我们先来叠甲首先这不是自购 是自收集两个网站的自收集，点开文件看到的这些视频和里面的新建文件夹有相同的视频，请确认好清晰度以及时间长度进行删除（因为我没删干净重复的），然后为什么有重复的  1 .因为是两个网站的   2 .因为这个作者很多视频都会一次出好几个每一个都时常都不一样   所以选择时间最长的，顺便里面新建文件夹是原作者网站的全部（当然2020.10月以前的都是老旧模型不好看就没下） 外面的内些 是原作者网站没有，所以我这个算是比较全的了,当然都是一个人做的然后这个"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/738f1804","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

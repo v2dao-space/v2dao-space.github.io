@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/AI汉化】魔法少女执行者VS堕落魔法少女军团/魔法少女エグゼキューター vs悪堕ち魔法少女軍団【2.03G/度盘】"}],["$","p",null,{"children":"  \n概要：曾经，魔法少女们与淫魔战斗，并取得了胜利——本应如此。\n淫魔们在精锐魔法少女们的活跃下被彻底消灭了。但不知为何，它们再次现身……。\n主人公莉莉卡曾经是不受欢迎的魔法少女。但她的战斗能力却十分出色。面对淫魔的各种挑衅攻击，她应该能够以压倒性的暴力迎击……不是吗？\n\n\n\n\n社团名\n桃猫零号 "}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/-nrI8n2seR7q","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

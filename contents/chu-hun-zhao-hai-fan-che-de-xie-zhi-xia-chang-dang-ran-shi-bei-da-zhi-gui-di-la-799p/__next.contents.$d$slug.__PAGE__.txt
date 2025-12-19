@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"出昏招还翻车的屑指，下场当然是被打至跪地啦"}],["$","p",null,{"children":"拖了很久真是抱歉……\n这篇是三天前才算凑够了点子，紧赶慢赶总算是在黑吗喽上线前肝出来了\n这下真的燃尽了，点子彻底没有力（悲\n感觉不是很满意，梗也少了很多，不知道为什么很多前两期用过的梗再用就有些抗拒，平替一时之间也找不到导致梗浓度降低不少\n\n之前大佬提议的角色试了一下，感觉形象塑造方面还是有很多不足，和站内已有的文章简直没法比所以就算了\n\n肉戏好难写啊！看大佬们的肉戏有多爽自己写就有多痛苦\n这篇绝大部分肉戏可能得靠大家脑补了……自己想象出来的才是最好的！（确信\n\n接下来一段时间可能要摸了，原因就跟第二篇的那段一样……xd是真的有几本书快到死线了还没开始看\n而且身边也没有个胡滕一样的大姐姐敦促我（悲\n对比之下多少有点伤心。\n\n总之，祝大家看的开心，工作生活愉快~"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/chu-hun-zhao-hai-fan-che-de-xie-zhi-xia-chang-dang-ran-shi-bei-da-zhi-gui-di-la-799p","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

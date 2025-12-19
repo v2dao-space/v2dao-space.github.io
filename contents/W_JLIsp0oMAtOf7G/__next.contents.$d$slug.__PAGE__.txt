@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【汉化单行本】[Noise] お兄ちゃんそんなにショートパンツ好きなの [中国翻訳]"}],["$","p",null,{"children":"作品内容:(下面内容为机翻) 女生的王道就是“短裤”！它们可爱又容易穿。没有其他任何情色服装能与之媲美！ 女生有大有小（我保证）。有发育完全的丰乳女孩！还有经典的萌芽状态的胸部！我们每天都爱着的女生，拥有纤细光滑的大腿和紧实的臀部。让她们看起来最美的服装就是短裤！这是最新的Noise漫画，充满了短裤"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/W_JLIsp0oMAtOf7G","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

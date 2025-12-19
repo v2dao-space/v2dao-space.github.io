@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/官中无修】Lunaria Fantasia"}],["$","p",null,{"children":"露娜莉亚——萨吉塔里兹的宫廷法师——与同伴们被派往调查古老的遗迹。 然而这个看似简单的任务却困难重重。遗迹中满是怪物，并且出现了夺取她与同伴们魔法源泉的神秘人。 露娜莉亚被告知，她的魔力不会自行恢复了，但仍存有一丝希望——她可以利用五大魔法师的留下的古老宝玉恢复大家的力量。 作为为数不多残存魔力的宫"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/7GVb9J9jw3l1yAIU","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

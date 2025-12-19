@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【GAL/汉化】アイコトバ【2.21G】"}],["$","p",null,{"children":"游戏类型制作公司：あざらしそふと＋1 发售日期：2019年12月20日汉化日期：2021年01月01日汉化小组：胖次汉化组、绿茶汉化组游戏类型：妹、治愈游戏原名：アイコトバ游戏别名：密语剧情介绍兄与妹，不伦之恋主人公与女主人公，兄与妹。冲破不伦禁锢，陷入恋情，兄与妹，苦涩而甜蜜的故事。「可爱的妹妹」「命中注定的恋人……？」被两种身份的女主人公玩弄掌心……？为了维持秘密关系，女主人公分别使用「妹妹」与「恋人」两种身份。对你而言，她是妹妹？抑或恋人？-分歧结局-如何连接命运的红线，交由你来选择！作为"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/b5981b43bfb8f97768f402dc08cf3e11","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

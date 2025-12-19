@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"[ACT/汉化/动态/像素/步兵/神作] 西诱记 西誘記 -三藏的旅途之始 V1.15 汉化版"}],["$","p",null,{"children":"女悟空出生以来积累了很多经验，与三藏相遇，得到马，到天竺出发取经之旅为止的西游记恶搞动作RPG！圆点画的h动画有150个以上！11个主要角色(可以交配的怪物有7种)4个女怪物(可以交配的怪物有3种)怪物7种*各2体位其他事件等■系统打倒敌人提高等级的熟悉动作RPG等级上升的话攻击模式会增加！角色的衣服破了！受到伤害，或者防御敌人的攻击的话衣服会破衣服上也有HP，如果变成0，防御力就会变成0，容易受到损伤引诱雄性进行交配战斗故事进行下去↓不停地发情。敌人在附近的时候发情的话交配战斗就会开始。交配战"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/a36fbd35e80c958391a0073ad5296668","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

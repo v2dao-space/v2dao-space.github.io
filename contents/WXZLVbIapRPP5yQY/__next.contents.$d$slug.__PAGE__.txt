@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/生肉】Stretch Me Right"}],["$","p",null,{"children":"Stretch Me Right! (+18) by SatyrKing 【这不是普通的健身课程！】在这款基于物理引擎的瑜伽模拟器中体验扭曲、拉伸与姿势挑战！ ◆ 核心玩法 这是一款基于物理引擎的沙盒游戏！您将引导角色Riko完成各种高难度动作——通过拉伸、平衡与体位调整，充分考验您的创造力（或许还"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/WXZLVbIapRPP5yQY","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

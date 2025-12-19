@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【SLG/ai汉化】【アトリエマゾ】結月の負かし方～今日からおじさんのこと【度盘/591MB】"}],["$","p",null,{"children":"有朋友留言想让我做汉化的游戏，下班回来顺便跑了一个（用mtool挂载），讲道理这游戏我觉得更像ADV，但是我找到的资源标的是SLG所以就SLG了，剧情是雌小鬼SM类的（不戳我的xp，讲道理我遇见这种臭小鬼（哪怕胸不小）我只会打她屁股教育她，下不了一点枪），嘛，发出来给大家尝尝咸淡 改后缀然后解压（将"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/slg-ai-han-hua-atoriemazo-jie-yue-no-fu-kashi-fang-jin-ri-karaojisannokoto-du-shxY","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

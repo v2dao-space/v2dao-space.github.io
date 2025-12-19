@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【机翻/无码/GAL】僕が天使になった理由"}],["$","p",null,{"children":"4这是一部个人认为在OVERDRIVE游戏中属于上乘之作，其作品质量相当之高在OVERDRIVE惯有的高质量音乐中，融入了幻想元素，造就了这部高质量作品1话完结的各大篇章全二十八名立绘角色构筑而成的单元剧、由人与天使引导的、带着些许温暖些许哀愁的恋爱故事本作登场的天使，乃是为了人们的幸福“推一把那些止步于恋爱之前的胆小鬼”的存在在给这样天使帮忙的过程中主人公，与天使一同见证各种各样的人形形色色的爱，又会思考些什么呢在这里，见证“幸福”的故事拉开了序幕――本作精彩点：1、本作的各大支线篇章中虽然有"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/db096ba9f9e2e807af77d3db8b07a613","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

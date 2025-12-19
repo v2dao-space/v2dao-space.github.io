@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【欧美SLG/机翻】［PC+安卓］隔壁班级 EX v0.12.1 汉化版"}],["$","p",null,{"children":"所发布资源不得用于商业盈利，否则产生的一切后果将由您自己承担！游戏简介原始名称：TP: The Class Next Door游戏类型：欧美SLG游戏语言：机翻游戏大小：3.18G游戏平台：PC+安卓  游戏概述：这是一款由【9thCrux】制作的欧美剧情向SLG游戏内容丰富度，包含全部章所有剧情一款主打校园剧情的欧美大型SLG游戏游戏渲染良心，每张CG都十分精致少见的剧情向佳作，出场角色分丰富，除了女儿以外还有女老师女校长女学生等丰富角色！游戏剧情：你曾经是商场上叱咤风云的商界奇才，因为厌倦了"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/714439","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

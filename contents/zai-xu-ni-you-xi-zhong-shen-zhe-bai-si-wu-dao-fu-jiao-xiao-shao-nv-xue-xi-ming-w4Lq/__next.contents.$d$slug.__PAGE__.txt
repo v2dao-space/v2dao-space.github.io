@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"在虚拟游戏中身着白丝舞蹈服娇小少女学习名为做exs的舞蹈"}],["$","p",null,{"children":"距离朱璃的休假结束，只剩不到一周，而在这周最初的那段时间，曾有人找到朱璃进行交谈。\n那人是这座温泉乡的实际掌权者——也是亲自给朱璃调试游戏设置，并自称负责人的男性。他曾向朱璃建议多居住一些日子来测试游戏，这段时间的花费则全由他来报销，可朱璃顾及学业与事业，最终婉拒了对方的提案……毕竟，不能因为体验内测游戏这种理由，荒废自己的学业与事业吧？\n在了解朱璃拒绝的理由后，负责人没有过多纠缠，但却以进为退，向朱璃提供了游戏的第二阶段内容——据他本人所说，是更加深层次的机制，不同于她之前体验的游戏，是更加沉浸式的意识潜行类玩法。"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/zai-xu-ni-you-xi-zhong-shen-zhe-bai-si-wu-dao-fu-jiao-xiao-shao-nv-xue-xi-ming-w4Lq","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"江山绝色榜"}],["$","p",null,{"children":"大陆历1606年10月06日，冬寒国号称百万大军分三路向大月国发动了全面的进攻，第二次浮云大陆战争爆发，在狂野剽悍、凶猛无匹的冬寒国铁骑下，大月国处于亡国灭种的地步，身为大月国武状元的他，该如何？\n血与火的战争，绝色榜上的绝世娇娆，让他明白了这么一个道理：“身为男儿，理因杀敌报国，去拥有最美的女人，去追求最大的权力，才不妄此男儿身！”\n"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/hF2mX_20Dz","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

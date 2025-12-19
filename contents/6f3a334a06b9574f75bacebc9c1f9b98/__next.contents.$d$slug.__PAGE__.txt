@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【正常向漫画/汉化】狼と香辛料 (狼与香辛料) 漫画16卷+一本原画集（原站补档）"}],["$","p",null,{"children":"转载来自本站作者天乃幸大佬的资源，因为是秒传链接所以已经无法下载了，特此上传我自己保存的那份来补档翻译来自台湾角川出版社原著作者：支仓冻砂漫画作者：小梅けいと《狼与香辛料》（日语：狼と香辛料），是日本作家支仓冻砂撰写的轻小说、由文仓十负责绘制插画，于电击文库出版，于2016年2月8日公布连载续编的消息。漫画版由小梅京人执笔，于《电击魔王》2007年11月号开始连载、2018年2月号结束连载，单行本全16卷。同名改编电视动画于2008年1月8日至3月25日及2009年7月8日至9月23日分别播出第"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/6f3a334a06b9574f75bacebc9c1f9b98","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

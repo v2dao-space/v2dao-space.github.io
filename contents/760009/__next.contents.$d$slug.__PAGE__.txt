@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[63844,["/_next/static/chunks/dbb3e8eacde6471c.js","/_next/static/chunks/9eab134cfb61576c.js"],""]
+3:I[26819,["/_next/static/chunks/8aa0efca034f1bca.js","/_next/static/chunks/15cb800ad5b7ba48.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"U0JH2CfMfSr38-VvkCH31","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"prose prose-slate w-full max-w-none break-words overflow-hidden p-4","children":[[["$","h1",null,{"children":"【RPG/生肉】[PC+安卓joi]褐色少女夏季～在波良间瀬村与五座神社～/褐色むすめ夏季ちゃん～波良間瀬村と五つの祠～"}],["$","p",null,{"children":"所发布资源不得用于商业盈利，否则产生的一切后果将由您自己承担！制作介绍（#F102）  社团名夏中症 贩卖日2024年04月20日 0点系列名褐色むすめ夏季ちゃん作者雨存年龄指定18禁作品类型角色扮演有音乐文件形式软件支持的语言日文分类臀部/屁股 胸部/奶子 诱受 内射/中出 怀孕 巨乳/爆乳 乳头/乳晕 褐皮/晒痕文件容量1.09GBDL链接https://www.dlsite.com/maniax/work/=/product_id/RJ01181813.html游戏介绍褐色むすめ夏季ちゃん"}]],["$","$L2",null,{"className":"btn btn-primary","href":"https://www.v2dao.com/contents/760009","target":"_blank","children":"前往查看详情"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
